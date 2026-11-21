@@ -4,9 +4,9 @@ A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.
 
 ## Requirements
 
-- [mise](https://mise.jdx.dev/) installs Zola, [prek](https://prek.j178.dev/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp) from `mise.toml`. Run `mise install` once.
+- [mise](https://mise.jdx.dev/) installs Zola, [prek](https://prek.j178.dev/), [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [Deno](https://deno.com/) from `mise.toml`. Run `mise install` once.
 - `curl` and Python 3 download the thumbnails and convert the YouTube data.
-- yt-dlp needs a JavaScript runtime, for example [Deno](https://deno.com/), to read YouTube.
+- On Alpine Linux, the Deno release of mise does not run, because it needs glibc. Install Deno with `apk add deno`, and put `disable_tools = ["deno"]` under `[settings]` in `mise.local.toml`.
 
 ## Content
 

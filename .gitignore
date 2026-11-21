@@ -1,3 +1,4 @@
 .cache/
 public/
 __pycache__/
+mise.local.toml

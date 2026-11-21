@@ -1,4 +1,6 @@
 [tools]
+# yt-dlp uses Deno to read YouTube.
+deno = "2"
 prek = "0.5.11"
 # YouTube changes often, so always use the newest yt-dlp.
 yt-dlp = { version = "latest", rename_exe = "yt-dlp" }
