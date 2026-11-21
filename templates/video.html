@@ -1,4 +1,8 @@
 {% extends "base.html" %}
+{% block head %}
+<link rel="stylesheet" href="{{ get_url(path='vendor/lite-youtube-embed/lite-yt-embed.css') }}">
+<script src="{{ get_url(path='vendor/lite-youtube-embed/lite-yt-embed.js') }}" defer></script>
+{% endblock %}
 {% block content %}
 {% set url = "https://www.youtube.com/watch?v=" ~ page.extra.id %}
 <table class="infobox">
@@ -19,7 +23,13 @@
 <tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>
 </table>
 <p><a href="{{ url }}">Watch on YouTube</a></p>
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/{{ page.extra.id }}" title="{{ page.title }}" allowfullscreen loading="lazy"></iframe></div>
+<lite-youtube videoid="{{ page.extra.id }}" title="{{ page.title }}" playlabel="Play: {{ page.title }}"></lite-youtube>
+{% if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-1.jpg", allow_missing=true) %}
+<div class="strip">
+{% for suffix in ["", "-1", "-2", "-3"] %}{% set src = get_url(path="thumbs/" ~ page.extra.id ~ suffix ~ ".jpg") %}<a href="{{ src }}"><img src="{{ src }}" alt="{{ 'Thumbnail' if suffix == '' else 'Snapshot ' ~ suffix[1:] }}" width="160" height="90" loading="lazy"></a>
+{% endfor %}
+</div>
+{% endif %}
 {% if page.extra.chapters %}
 <h2>Chapters</h2>
 <ol class="chapters">

@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %} - {{ config.title }}{% endblock %}</title>
 <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+{% block head %}{% endblock %}
 </head>
 <body>
 <nav>
