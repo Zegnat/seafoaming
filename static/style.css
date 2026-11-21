@@ -27,7 +27,7 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .stack img { grid-area: 1 / 1; display: block; max-width: 100%; height: auto; border: 1px solid #a2a9b1; background: #fff; }
 .stack img:nth-last-child(2) { transform: translate(4px, -4px); }
 .stack img:nth-last-child(3) { transform: translate(8px, -8px); }
-/* On hover, every card moves front, back, middle, front; the delays put each card at its own step. */
+/* On hover, the cards keep their places and take turns on top; the delays put each card at its own step. */
 .stack:hover img, .stack:focus img { animation: stack3 2.4s step-end infinite; }
 .stack:hover img:nth-last-child(2), .stack:focus img:nth-last-child(2) { animation-delay: -1.6s; }
 .stack:hover img:nth-last-child(3), .stack:focus img:nth-last-child(3) { animation-delay: -0.8s; }
@@ -36,13 +36,13 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .stack:hover img:first-child:nth-last-child(2), .stack:focus img:first-child:nth-last-child(2) { animation-delay: -0.8s; }
 .stack:hover img:only-child, .stack:focus img:only-child { animation: none; }
 @keyframes stack3 {
-  0% { transform: none; z-index: 3; }
-  33.33% { transform: translate(8px, -8px); z-index: 1; }
-  66.67% { transform: translate(4px, -4px); z-index: 2; }
+  0% { z-index: 3; }
+  33.33% { z-index: 1; }
+  66.67% { z-index: 2; }
 }
 @keyframes stack2 {
-  0% { transform: none; z-index: 2; }
-  50% { transform: translate(4px, -4px); z-index: 1; }
+  0% { z-index: 2; }
+  50% { z-index: 1; }
 }
 .num { text-align: right; }
 .small { font-size: 0.85em; color: #54595d; }
