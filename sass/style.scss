@@ -52,6 +52,12 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
   50% { z-index: 1; }
 }
 .num { text-align: right; }
+/* Simple Icons have no fill of their own; give them the color of the link, like the Tabler icons. */
+.icon svg[role="img"] { fill: currentColor; }
+.links { list-style: none; padding: 0; columns: 2 16em; }
+.links li { margin: 0.3em 0; break-inside: avoid; }
+.links .icon { margin-right: 0.5em; }
+.links .icon svg { vertical-align: -5px; }
 .tag { display: inline-block; font-size: 0.75em; line-height: 1.4; padding: 0 0.4em; border: 1px solid #a2a9b1; background: #f8f9fa; color: #54595d; white-space: nowrap; vertical-align: 1px; }
 .tag-removed, .tag-private, .tag-unavailable { border-color: #b32424; color: #b32424; }
 .notice { border: 1px solid #a2a9b1; border-left: 4px solid #b32424; background: #f8f9fa; padding: 0 1em; margin-bottom: 1em; }

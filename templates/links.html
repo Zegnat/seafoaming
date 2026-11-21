@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+{{ page.content | safe }}
+{% for group in page.extra.groups %}
+<h2>{{ group.title }}</h2>
+{% if group.intro %}<p>{{ group.intro }}</p>{% endif %}
+<ul class="links">
+{% for link in group.links %}<li><a href="{{ link.url }}">{{<icon name={link.icon} size={20} />}}{{ link.label }}</a>{% if link.note %} <span class="small">{{ link.note }}</span>{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+{% endblock %}
