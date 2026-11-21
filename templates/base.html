@@ -25,10 +25,17 @@
 <li><a href="{{ root }}links/">{{<icon name="link" />}}Links</a></li>
 </ul>
 </nav>
+{# Page tabs in the style of MediaWiki. Pages that do not come from a single Markdown file override this block. #}
+{% block tabs %}{% set source = "content/" ~ current.relative_path %}
+<ul class="tabs">
+<li class="selected"><span>Read</span></li>
+<li><a href="{{ config.extra.repository }}/edit/main/{{ source }}">{{<icon name="pencil" />}}Edit on GitHub</a></li>
+<li><a href="{{ config.extra.repository }}/commits/main/{{ source }}">{{<icon name="history" />}}History</a></li>
+</ul>
+{% endblock %}
 <main>
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
 {% block content %}{{ section.content | safe }}{% endblock %}
-{% block edit %}<p class="edit"><a href="{{ config.extra.repository }}/edit/main/content/{{ current.relative_path }}">{{<icon name="pencil" />}}Edit this page on GitHub</a></p>{% endblock %}
 </main>
 <footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">Copyright</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
 </body>

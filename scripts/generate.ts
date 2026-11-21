@@ -85,7 +85,13 @@ function community(info: Info) {
     "",
   ].join("\n");
   const query = new URLSearchParams({ filename: `community/videos/${info.id}.md`, value: starter });
-  return { data: {}, notes: "", transcript: "", edit: `${REPOSITORY}/new/main?${query}` };
+  return {
+    data: {} as Record<string, unknown>,
+    notes: "",
+    transcript: "",
+    edit: `${REPOSITORY}/new/main?${query}`,
+    history: null,
+  };
 }
 
 const escapeMarkdown = (text: string) => text.replace(/([\\`*_<])/g, "\\$1");
@@ -202,6 +208,7 @@ function videoPage(info: Info, placeholder: string | null) {
     `spotify = ${toml(link("spotify"))}`,
     `apple_music = ${toml(link("apple_music"))}`,
     `edit_url = ${toml(extra.edit)}`,
+    `history_url = ${toml(extra.history)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,

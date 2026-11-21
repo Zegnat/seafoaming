@@ -60,4 +60,10 @@
 {% endif %}
 {{ page.content | safe }}
 {% endblock %}
-{% block edit %}<p class="edit"><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if "/new/" in page.extra.edit_url %}Add community information about this video on GitHub{% else %}Edit the community information about this video on GitHub{% endif %}</a></p>{% endblock %}
+{% block tabs %}
+<ul class="tabs">
+<li class="selected"><span>Read</span></li>
+<li><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if page.extra.history_url %}Edit on GitHub{% else %}Add information on GitHub{% endif %}</a></li>
+{% if page.extra.history_url %}<li><a href="{{ page.extra.history_url }}">{{<icon name="history" />}}History</a></li>{% endif %}
+</ul>
+{% endblock %}

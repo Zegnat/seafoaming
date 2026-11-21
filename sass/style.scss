@@ -10,8 +10,14 @@ nav .other { border-top: 1px solid #c8ccd1; padding-top: 0.5em; }
 nav a { display: inline-flex; align-items: center; gap: 0.4em; }
 .links a { display: flex; align-items: center; gap: 0.7em; }
 main { margin-left: 192px; padding: 1em 1.5em; background: #fff; border: 1px solid #a7d7f9; border-right: 0; min-height: 80vh; }
-.edit { margin-top: 2em; font-size: 0.9em; }
-.edit a, footer a { display: inline-flex; align-items: center; gap: 0.3em; }
+footer .icon { margin-right: 0.3em; }
+/* The tabs hang on the top border of main; the selected tab covers that border, like in MediaWiki. */
+.tabs { list-style: none; display: flex; justify-content: flex-end; gap: 0.2em; margin: 0.6em 0 0 192px; padding: 0 1em 0 0; font-size: 0.85em; }
+.tabs li { border: 1px solid #a7d7f9; border-bottom: 0; background: #f8f9fa; }
+.tabs li.selected { background: #fff; position: relative; top: 1px; }
+.tabs a, .tabs > li > span { display: block; padding: 0.3em 0.8em; white-space: nowrap; }
+.tabs > li > span { color: #202122; }
+.tabs .icon { margin-right: 0.3em; }
 footer { margin-left: 192px; padding: 1em 1.5em; font-size: 0.85em; color: #54595d; }
 h1, h2 { font-family: "Linux Libertine", Georgia, Times, serif; font-weight: normal; border-bottom: 1px solid #a2a9b1; }
 h1 { font-size: 1.8em; margin-top: 0; }
@@ -27,17 +33,18 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable th { background: #eaecf0; }
 .wikitable caption { text-align: left; font-weight: bold; padding: 0.2em 0; }
 .sortable th { vertical-align: middle; white-space: nowrap; }
-.sortable th button { display: inline-flex; align-items: center; font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+.sortable th button { white-space: nowrap; font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
 .sortable th button:hover, .sortable th button:focus-visible { text-decoration: underline; }
-.sortable th button .sort { display: inline-flex; margin-left: 0.3em; }
+.sortable th button .sort { margin-left: 0.3em; }
 .sortable th button .sort .icon { display: none; }
 .sortable th:not([aria-sort]) button .sort .icon:nth-child(1),
 .sortable th[aria-sort="ascending"] button .sort .icon:nth-child(2),
-.sortable th[aria-sort="descending"] button .sort .icon:nth-child(3) { display: inline; }
+.sortable th[aria-sort="descending"] button .sort .icon:nth-child(3) { display: inline-block; }
 .sortable th:not([aria-sort]) button .sort .icon { color: #72777d; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-.icon { display: inline-flex; }
-.icon svg { width: var(--size); height: var(--size); }
+/* Inline icons sit on the middle of the lowercase letters, and an inline-block never gets the link underline. */
+.icon { display: inline-block; vertical-align: middle; line-height: 0; }
+.icon svg { display: block; width: var(--size); height: var(--size); }
 .stack { display: inline-grid; padding: 8px 8px 0 0; vertical-align: top; }
 .stack img { grid-area: 1 / 1; display: block; max-width: 100%; height: auto; border: 1px solid #a2a9b1; background: #fff; }
 .stack img:nth-last-child(2) { transform: translate(4px, -4px); }
@@ -81,7 +88,7 @@ lite-youtube { max-width: 640px; }
   nav ul li { display: inline; margin-right: 1em; }
   nav ul { display: inline; }
   nav .other { border-top: 0; border-left: 1px solid #c8ccd1; padding: 0 0 0 1em; }
-  main, footer { margin-left: 0; }
+  main, footer, .tabs { margin-left: 0; }
   .infobox { float: none; width: 100%; margin: 0 0 1em; }
   .chapters { columns: 1; }
   .wikitable img { width: 80px; height: auto; }

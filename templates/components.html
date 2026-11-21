@@ -7,9 +7,10 @@
 <a class="thumb" href="{{ href }}"{% if snapshot %} style="{% for url in previews %}--t{{ loop.index }}: url('{{ url }}');{% endfor %}" data-previews="{{ previews | join(sep=' ') }}"{% endif %}><img src="{{ root }}thumbs/{{ id }}-320.webp" srcset="{{ root }}thumbs/{{ id }}-320.webp 320w, {{ root }}thumbs/{{ id }}-640.webp 640w" sizes="{{ width }}px" alt="{{ title }}" width="{{ width }}" height="{{ width * 9 // 16 }}"{% if placeholder %} style="background: url('{{ placeholder }}') center / cover"{% endif %}{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}></a>
 {% endcomponent thumb %}
 
-{% component icon(name: string, size: integer = 16) %}
+{# Trims its own whitespace, so a link with an icon does not underline spaces around it. #}
+{% component icon(name: string, size: integer = 16) -%}
 <span class="icon" style="--size: {{ size }}px" aria-hidden="true">{{ load_data(path="icons/" ~ name ~ ".svg", format="plain") | safe }}</span>
-{% endcomponent icon %}
+{%- endcomponent icon %}
 
 {# A sortable table by the ARIA Authoring Practices pattern. Rows follow the order of entries ({id, title}).
    Number cells start with their raw value in a hidden span, because sortable-table.js sorts them with parseFloat. #}
