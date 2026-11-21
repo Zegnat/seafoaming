@@ -56,10 +56,15 @@ for (const id of ids(".cache/playlists", ".json")) {
 }
 if (missing.size) await fetchVideos([...missing].map((id) => `https://www.youtube.com/watch?v=${id}`));
 
+// The default thumbnail, then three snapshots from the video for the hover preview.
 const thumbs = ids("static/thumbs", ".jpg");
+const variants = { "": "mqdefault", "-1": "mq1", "-2": "mq2", "-3": "mq3" };
 for (const id of ids(".cache/videos", ".info.json")) {
-  if (thumbs.has(id)) continue;
-  const response = await fetch(`https://i.ytimg.com/vi/${id}/mqdefault.jpg`);
-  if (response.ok) Deno.writeFileSync(`static/thumbs/${id}.jpg`, new Uint8Array(await response.arrayBuffer()));
-  else await response.body?.cancel();
+  for (const [suffix, name] of Object.entries(variants)) {
+    if (thumbs.has(id + suffix)) continue;
+    const response = await fetch(`https://i.ytimg.com/vi/${id}/${name}.jpg`);
+    if (response.ok) {
+      Deno.writeFileSync(`static/thumbs/${id}${suffix}.jpg`, new Uint8Array(await response.arrayBuffer()));
+    } else await response.body?.cancel();
+  }
 }

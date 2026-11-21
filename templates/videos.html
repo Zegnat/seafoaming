@@ -5,7 +5,7 @@
 <tr><th></th><th>Title</th><th>Date</th><th>Length</th><th>Views</th></tr>
 {% for p in section.pages %}
 <tr>
-<td><a href="{{ p.permalink }}"><img src="{{ get_url(path='thumbs/' ~ p.extra.id ~ '.jpg') }}" alt="" width="160" height="90" loading="lazy"></a></td>
+<td>{{<thumb id={p.extra.id} href={p.permalink} title={p.title} />}}</td>
 <td><a href="{{ p.permalink }}">{{ p.title }}</a>{% if p.extra.short %} (short){% endif %}</td>
 <td>{{ p.date | date(format="%Y-%m-%d") }}</td>
 <td>{% if p.extra.length %}{{ p.extra.length }}{% endif %}</td>

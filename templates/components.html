@@ -1,0 +1,4 @@
+{% component thumb(id: string, href: string, title: string, width: integer = 160) %}
+{% set snapshot = get_image_metadata(path="thumbs/" ~ id ~ "-1.jpg", allow_missing=true) %}
+<a class="thumb" href="{{ href }}"{% if snapshot %} style="{% for n in [1, 2, 3] %}--t{{ n }}: url('{{ get_url(path='thumbs/' ~ id ~ '-' ~ n ~ '.jpg') }}');{% endfor %}"{% endif %}><img src="{{ get_url(path='thumbs/' ~ id ~ '.jpg') }}" alt="{{ title }}" width="{{ width }}" height="{{ width * 9 // 16 }}" loading="lazy"></a>
+{% endcomponent thumb %}

@@ -3,7 +3,7 @@
 {% set url = "https://www.youtube.com/watch?v=" ~ page.extra.id %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
-<tr><td colspan="2"><a href="{{ url }}"><img src="{{ get_url(path='thumbs/' ~ page.extra.id ~ '.jpg') }}" alt="Thumbnail" width="320" height="180"></a></td></tr>
+<tr><td colspan="2">{{<thumb id={page.extra.id} href={url} title={page.title} width={320} />}}</td></tr>
 <tr><th>Published</th><td>{{ page.date | date(format="%Y-%m-%d") }}</td></tr>
 {% if page.extra.length %}<tr><th>Length</th><td>{{ page.extra.length }}</td></tr>{% endif %}
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}

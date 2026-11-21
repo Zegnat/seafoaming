@@ -15,7 +15,8 @@ h3 { font-size: 1.15em; }
 .infobox { float: right; clear: right; width: 22em; margin: 0 0 1em 1em; border: 1px solid #a2a9b1; background: #f8f9fa; border-collapse: collapse; font-size: 0.9em; }
 .infobox th, .infobox td { padding: 0.2em 0.4em; text-align: left; vertical-align: top; }
 .infobox tr:first-child th { text-align: center; font-size: 1.1em; background: #eaecf0; }
-.infobox img { display: block; margin: auto; max-width: 100%; height: auto; }
+.infobox img { max-width: 100%; height: auto; }
+.infobox td[colspan] { text-align: center; }
 .wikitable { border-collapse: collapse; background: #f8f9fa; border: 1px solid #a2a9b1; }
 .wikitable th, .wikitable td { border: 1px solid #a2a9b1; padding: 0.2em 0.4em; }
 .wikitable th { background: #eaecf0; }
@@ -31,4 +32,16 @@ h3 { font-size: 1.15em; }
   .infobox { float: none; width: 100%; margin: 0 0 1em; }
   .chapters { columns: 1; }
   .wikitable img { width: 80px; height: auto; }
+}
+.thumb { display: inline-block; vertical-align: top; background-size: cover; }
+.thumb img { display: block; }
+.thumb[style]:hover img, .thumb[style]:focus img { opacity: 0; }
+.thumb[style]:hover, .thumb[style]:focus { animation: preview 2.4s steps(1) infinite; }
+@keyframes preview {
+  0% { background-image: var(--t1); }
+  33.33% { background-image: var(--t2); }
+  66.67% { background-image: var(--t3); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .thumb[style]:hover, .thumb[style]:focus { animation: none; background-image: var(--t2); }
 }
