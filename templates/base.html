@@ -20,6 +20,6 @@
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
 {% block content %}{{ section.content | safe }}{% endblock %}
 </main>
-<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ get_url(path='@/copyright.md') }}">Copyright</a></footer>
+<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ get_url(path='@/links.md') }}">Links</a> · <a href="{{ get_url(path='@/copyright.md') }}">Copyright</a></footer>
 </body>
 </html>
