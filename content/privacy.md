@@ -25,4 +25,4 @@ Some links lead to other websites, for example to YouTube, to the social media o
 
 ## Questions
 
-If you have a question about privacy on this site, open an issue in the [source repository](https://github.com/Zegnat/seafoaming/issues).
+If you have a question about privacy on this site, ask it in the [Q&A discussions](https://github.com/Zegnat/seafoaming/discussions/categories/q-a) of the source repository.
