@@ -5,7 +5,7 @@ A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.
 ## Requirements
 
 - [mise](https://mise.jdx.dev/) installs Zola, [prek](https://prek.j178.dev/), [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [Deno](https://deno.com/) from `mise.toml`. Run `mise install` once.
-- `curl` and Python 3 download the thumbnails and convert the YouTube data.
+- The scripts in `scripts/` are TypeScript, and Deno runs them.
 - On Alpine Linux, the Deno release of mise does not run, because it needs glibc. Install Deno with `apk add deno`, and put `disable_tools = ["deno"]` under `[settings]` in `mise.local.toml`.
 
 ## Content
@@ -27,13 +27,13 @@ To link a character to a video, add the video ID to the `videos` list in the fro
 1. Download the metadata, captions, playlists and thumbnails. The videos are not downloaded.
 
    ```sh
-   mise exec -- scripts/fetch.sh
+   mise exec -- deno task fetch
    ```
 
 2. Generate the pages from the downloaded data in `.cache/`.
 
    ```sh
-   scripts/generate.py
+   mise exec -- deno task generate
    ```
 
 The fetch script needs some hours for the full channel, because it waits between requests to YouTube.
@@ -44,9 +44,12 @@ The fetch script needs some hours for the full channel, because it waits between
 mise exec -- zola serve
 ```
 
-## Check the Markdown
+## Check the files
+
+The prek hooks format and lint the Markdown and the TypeScript.
 
 ```sh
 mise exec -- prek install
 mise exec -- prek run --all-files
+mise exec -- deno task test
 ```
