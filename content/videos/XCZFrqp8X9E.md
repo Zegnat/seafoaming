@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASogABIAPtFcqE4oJSQiKAqpABoJQBUegUVTqXEfsP/zWIJQAPewzvXsIvzS7cT2isx9/ut4RNm57J1MglFABTQPZRmmhxbOa5Y5k8IkJa6IrSawXhRjhfRrufGmnrU4dlE0eBsSMbmLgAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FXCZFrqp8X9E.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+LITTLE+RABBIT+%7E+Meeting+a+Weird+Rabbit+Person+at+Your+Hotel+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXCZFrqp8X9E%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 244961
 likes = 5682
 comments = 748

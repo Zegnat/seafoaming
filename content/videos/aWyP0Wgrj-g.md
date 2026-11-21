@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFcpk6oJKOiKAqpABoJYwB5KADC5j3h6Y9zeNlYvmpt7AD+z+pVkix9peSedsrT+7CM9//ig/WMG/upy5A5+6yO/DQJfeToSRvGApzb5VIiFunJkqsB/KNAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FaWyP0Wgrj-g.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+DEMON+GIRL+%7E+I+Might+Have+a+Crush+on+You%2C+Grim+Reaper%21+%7C+Admiration%2C+Chanting%2C+Soft+Singing+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaWyP0Wgrj-g%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 296060
 likes = 8660
 comments = 1200

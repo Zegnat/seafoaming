@@ -9,7 +9,6 @@ length = "8:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFWpk2oJCOiMBgIAQAaCWMAvzgQkdybHzYzbTmlg9yN+YAA/temXibHB9Cm9+XzNredvWY3LUU9/PpF6uYtet/SiI4nOrldLw+dUjpmwmRbHyjFujoC8AAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FqHMa1csyaj4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+WEADING+A+STOWY+%7E+Reading+a+Bedtime+Story+about+YOU+%28in+OwO+Voice%29+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqHMa1csyaj4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 125014
 likes = 4217
 comments = 659

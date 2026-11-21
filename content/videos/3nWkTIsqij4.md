@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASogABIAPslUnkunpKKhsAwA8BkJZQC+SCmQBb/C/TlMesAA/u6IT7Kv8olHrNOTWGQStQ+9fVgpoN4qgLMlpeE3IqDY2aiMYjMKCC7X3wAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F3nWkTIsqij4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+DABLOONS+CATGIRL+%7E+Greetings+Traveler%21+Relax+at+this+Cozy+Inn+%7C+Quests+%7C+Magic+Items%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3nWkTIsqij4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 222534
 likes = 5546
 comments = 329

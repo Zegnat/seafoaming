@@ -9,7 +9,6 @@ length = "10:01"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPslUnkunpSKhsAwA8BkJYwCdABZK048w2JWtmbUxoZNCkgAA/dkaEqUCXkKaJz/ZQEm5eEAfZcMq0Th6YX1AdD1gC9exidxDe8Ge5EqZrCYNrxEbTwtgAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FSML4vnZ4khE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+POETRY+%7E+Reading+a+Viewer%27s+Poems+%7C+Soft+Spoken+w%2F+Hand+Movements+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSML4vnZ4khE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 24163
 likes = 1354
 comments = 158

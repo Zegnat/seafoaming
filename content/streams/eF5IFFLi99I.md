@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASogABIAPslUnkunpKKhsAwA8BkJZQC+SBZK/zVci3kFv5XmLMAA/OeZruNBD7pE0OCzYf4mj4VisBF4dYB+TjPPGeGgyB6qgYAzCFHRJqdjJ+AKgAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FeF5IFFLi99I.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%F0%9F%A5%82%F0%9F%8E%89%F0%9F%8E%82SEAFOAM%27S+BIRTHDAY+BASH+%F0%9F%8E%82%F0%9F%8E%89%F0%9F%A5%82%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeF5IFFLi99I%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 14424
 likes = 510
 comments = 193

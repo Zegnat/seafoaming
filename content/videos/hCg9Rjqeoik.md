@@ -9,7 +9,6 @@ length = "10:47"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBQCdASogABIAPs1WpEunpKOhsBgMAPAZiWMAwP0gBEGTaIct66cnJPIus8aWWvXZcAD+6dWElxTlHI1A6f33nwXQYIuhlThprxZQ0fa/J7luI1lo5RnFGQbCpcy09b2aBWAKtv2z21tWgzAhbxAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FhCg9Rjqeoik.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+Idiot+Vampire+Trying+to+Put+Gloves+on+for+10+Minutes+Straight%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhCg9Rjqeoik%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 145517
 likes = 2723
 comments = 805

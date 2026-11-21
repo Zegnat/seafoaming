@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBfnBDVfksLWAoTCY0z0ngzAOUFdAAD+9Jxgc++TuZ2OscH+NhSb+CwGEnpgdGqhMOIGbqMbxOCLv4LNO3ix98u9Vba2lVkP+XN1bLNM7H3RRirNhLJXk4qQAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fh8VJoQ8ECLM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%90%BECan+I+Touch+Them%3F%21+This+Catgirl+is+OBSESSED+with+Ears...%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh8VJoQ8ECLM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 349512
 likes = 6038
 comments = 229

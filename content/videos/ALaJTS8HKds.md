@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPr1Qn0unJSMht/qoAOAXiWUAt7hRRfZnkbP1URGCAAD8WlWNkoVL/CD86BQ+L7weTy85EiqQfWCp6LnmKA/gFR/xM239T75soFPdOTKpRL8dAAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FALaJTS8HKds.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+INDIA+TREATS+%7E+Tasting+Snacks+from+India+w%2F+TryTreats+Box%21+%7C+Crunchy+Eating+%26+Crinkles+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DALaJTS8HKds%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 18052
 likes = 549
 comments = 205

@@ -9,7 +9,6 @@ length = "50:12"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPtFUpk2oJCOpMBgIASAaCWMAwoA0IDO8zGhEw+IwVwwfZsAA4XUQQeqtguuokvRkkm2piKcSwNX01DmWqLEZ8qgJuB5w2P0BO8rPH2b2s51H6Deb/7K3hQoAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FVnLGvg9eVtk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+CRUNCH+%26+SQUISH+%7E+Playing+w%2F+5+Different+Crunchy+Slimes%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVnLGvg9eVtk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 44875
 likes = 954
 comments = 355

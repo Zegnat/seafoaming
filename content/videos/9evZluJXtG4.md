@@ -9,7 +9,6 @@ length = "21:04"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFep04oJSOiKAqpABoJYwCsL9SA45dTDGhSxs60yhXTh/j4AP70e1eS3bs4J0BebHewCCKNh1j5QdTs4ptK1en9n8778fpYSin5lBguebPO7zQiruDOhFqW6QAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F9evZluJXtG4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22HUNGRY+Hungry+Hypnotist+%F0%9F%8C%80+Eating+your+Mind%2C+Body+%26+Soul%21+%7C+Guided+Relaxation+%2B+Mouth+Sounds+ASMR%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9evZluJXtG4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 113576
 likes = 3110
 comments = 161

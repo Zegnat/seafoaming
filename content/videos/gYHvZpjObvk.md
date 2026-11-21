@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBQCdASogABIAPsFGn0uno6Kht/qoAPAYCWYAnTNPZyQ1yJm8TGkxqOEQ79AEl08oIAD82rrQBAKLVO7daDPdPlfVsNCZXOFa37ZGTD0VmWSdGdAd1ZCl91/Ju7XZLugbSsBZskY9YSKuUDIQVF8EUZAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FgYHvZpjObvk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+COLOR+YOUR+FACE+%7E+Personal+Attention+%7C+Crayons+Visual+Triggers+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgYHvZpjObvk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 206891
 likes = 3558
 comments = 992

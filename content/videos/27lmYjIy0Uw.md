@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASogABIAPtFepk6oJSMiKAqpABoJYwCsM2QBN5cetbVmROy+tmGGAAD+ZAjD9xZ/bYJaCCUIsxHzwwoe2mY+4kuqdwa6GcZYbHnol+rwYTuYwVebEuQzEiQEZ0SMCEKb0iPkrGi401Cq7lpo9/eAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F27lmYjIy0Uw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FRIENDLY+ALIEN+%7E+Happy+Friend-a-versary%21+Silly+Triggers+to+Help+You+Relax+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D27lmYjIy0Uw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 109752
 likes = 2506
 comments = 468

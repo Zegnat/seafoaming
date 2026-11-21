@@ -9,7 +9,6 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASogABIAPsVQoEunpKMhsAwA8BiJZADHI8CBZ7pPdaLs/QJbNVhed6O7sQYgAP7wMvXOlsC55L4Dve/nYiMVNl9GJZ9BEpNYFsDUPAqZ1hsWXCB9piehWM0LqGxGAAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FsqPS1C-TyEc.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%F0%9F%8C%88%F0%9F%8C%B850K+SUB+PARTY%F0%9F%8C%B8+%F0%9F%8C%88DRUNK+Q%26A%21+Ask+Me+Anything%21+%28%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsqPS1C-TyEc%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

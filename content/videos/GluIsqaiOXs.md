@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFUpk2oJCOiMBgIAQAaCUAVJagAKHOnZXDZvZ6JqwF/WR+PdAD+BlXXxmUDTzLPDpcJnfh7VsYXnwIz3ICfarrnLMDijQi0uNv5LIG2UBsk+MFECR0fM93OImZvAAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FGluIsqaiOXs.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+GHOST+GIRL+%7E+You+are+DEAD%21+Miss+Spooky+Teaches+You+How+to+Spook+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGluIsqaiOXs%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 115194
 likes = 3463
 comments = 870

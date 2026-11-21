@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASogABIAPslSn0unpKKhsAwA8BkJQBOmW+BNT0qfYFki3tiFYfEyA2rXu/BAAP7zMznLk38s4eo+BjoNAlnIheelq0NkR/BwZ1TXedWryoqnI9Gqo6YGHHllAihVhWa6GV+9UKJR48ROKwwA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FpFKTXGW9nhE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+New+Year+Smooches+%7E+December+Patron+Appreciation%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpFKTXGW9nhE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 108305
 likes = 2666
 comments = 333

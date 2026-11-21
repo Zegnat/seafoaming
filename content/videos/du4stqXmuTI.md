@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPsFMoEunpCMht/qoAPAYCUAWHYKNEmXTcl/jmH/hJM8AAPnNyruKNLdm+U4jM1Jl/2r6GTbe7O0WmOOAUrZcuxzjw8l3314Ak+6UTvSYgHkoanzhnXImdJfW37soWxvecAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fdu4stqXmuTI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%E2%99%A1ASMR%E2%99%A1+-+BE+MINE+%7E+Kisses+w%2F+Ember+the+Dragon+%E2%9D%A4+Noms+%26+Tsun+Tsun+Affection+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddu4stqXmuTI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 1456716
 likes = 15470
 comments = 2700

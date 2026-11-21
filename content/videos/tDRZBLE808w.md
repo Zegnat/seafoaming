@@ -9,7 +9,6 @@ length = "47:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPr1SnUunJSKht/qoAOAXiWYAnTLddtA17isqu++B+y0gs8EAAP7lz8D3xJfuhK8reIPv72k8kbWBWTS4B/+mY7y5x49cyX9yzIDrWCNhjSyqejV2K8C9WIdx2FFGfa4gvXqKjETAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FtDRZBLE808w.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+STRANGE+DREAMS+%7C+Reading+My+Old+Dream+Journal+%26+Other+Goodies%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtDRZBLE808w%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 44677
 likes = 2379
 comments = 279

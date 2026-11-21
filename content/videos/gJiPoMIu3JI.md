@@ -9,7 +9,6 @@ length = "1:26:15"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQBACdASogABIAPtFcqU4oJSQpKAqpIBoJQBfJAWPb2jAupAVkWa0pywdvgTp5kADwrcTtjiSFBjcX+hHXEmDcHWmF7WDW+RDtaCh2YZiNZSjZRqPNCHygAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FgJiPoMIu3JI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+Sort+Through+YEARS+of+Props+with+Me%21+Studio+Decluttering%2C+Organizing%2C+Whispers%2C+Random+Triggers%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgJiPoMIu3JI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 27707
 likes = 1175
 comments = 158

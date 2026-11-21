@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPsFMnkunpCKht/qoAPAYCWMAuwAi6y387QyctQdaPkoQfYPgtJgAAP7CPTCPzB7Wc1orXiLmCBtVlrXhsjVP/+1agWr5f0BdzvdW8sbFhYzonThwX8WTfJFNkraXAAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F1s26Xr7SiJY.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+%5BNO+MUSIC%5D+GUIDED+MEDITATION+%7E+Relaxation+and+Mindfulness%21+%7C+Face+Brushing+%26+Soft+Music+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1s26Xr7SiJY%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 27745
 likes = 794
 comments = 88

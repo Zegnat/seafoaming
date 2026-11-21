@@ -10,7 +10,6 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPsVSn0unpKKhsAwA8BiJYwCdAB11+cEG8iEZDoWSLdrpmgAA/rvVLfzuFD67ySxCUn2mQckzn0egs+zGZwv/MgQntngH/aBOgGKVT7abZ4uLYAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FLNeNF1lQB5Y.md&value=%2B%2B%2B%0A%23+Community+data+for+%22PO+Box+Opening+%26+Playing+Emily+Is+Away%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLNeNF1lQB5Y%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

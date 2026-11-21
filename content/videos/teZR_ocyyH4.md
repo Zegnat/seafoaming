@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASogABIAPtFao00oJSMiKA1RABoJYwCkgAtPuQJxhwEKzOzOzAD5zcqqzUGPn2+R+FRZptlXq8DXA6rjxBzXz5AAHlSAxsFRtcQnK+voXjFR7iv1bSAjOaTBF59npM/zBVSX+6iLaAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FteZR_ocyyH4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-DRAGON+GIRL+%7E+Warming+You+Up+After+a+Storm+%7C+Personal+Attention%2C+Fabric+Sounds%2C+Mouth+Sounds+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DteZR_ocyyH4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 420468
 likes = 6009
 comments = 1000

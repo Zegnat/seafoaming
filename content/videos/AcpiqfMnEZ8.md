@@ -9,7 +9,6 @@ length = "11:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFapkuoJaOhsAgBABoJZQC7ABjG0PHMKOm37R1xozigYc3NAAD+yhRsxpuZa8OldBF9qAwLW9phkXfaCmE5t4CBXGr3+5G9T3iBA9Dp+2MoHuHWAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FAcpiqfMnEZ8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+TINGLE+TOWN+%7E+May+Patron+Appreciation%21+Collar+Jingles+%26+Ear+Blowing+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAcpiqfMnEZ8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 25039
 likes = 587
 comments = 334

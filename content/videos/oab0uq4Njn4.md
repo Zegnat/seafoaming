@@ -9,7 +9,6 @@ length = "1:07:33"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAwCdASogABIAPtFcpE0oJSOiKA1RABoJZQCw7A3SjjYUX0yTbswAAP44mUdWqLSQowNjnQyDAhn1qnvNXvUwg/O6dtAShk1IyCQNd9bdYBaomNtMaBgQDnlmHTrb22ExPmPbCIAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Foab0uq4Njn4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+Oiled+Ear+%F0%9F%85%BC%F0%9F%85%B0%F0%9F%86%82%F0%9F%86%82%F0%9F%85%B0%F0%9F%85%B6%F0%9F%85%B4+%7E+Never+fear%21+You+got+ear%21+Yes%2C+dear.+My+take+on+your+ears.+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Doab0uq4Njn4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 85643
 likes = 1825
 comments = 305

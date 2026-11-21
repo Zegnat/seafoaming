@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFMoEunpCMht/qoAPAYCUAXYALb3uZzNZfs+q43rCOImEPPrYAA/TE+SnQF4Xm2SpmB3lN1yGXt19rmKr9NkogTscCRFlDCbJPLupfaK2/1/Zk1BI1/AYiF4AAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FM0FC2UPXrkA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+HEWWO%3F+%7E+The+Worst+Dentist+Ever+%7C+Relaxing+Dental+Cleaning+%26+Extraction+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM0FC2UPXrkA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 291848
 likes = 6290
 comments = 1600

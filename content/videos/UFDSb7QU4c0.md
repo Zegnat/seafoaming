@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASogABIAPtFao0uoJSMhsAgBABoJYgCdMoMrZCdf8s/98EM4eH1JqclQAPrOINUdz1TfOpTYrrKDNvhn6zalYP2pv1t3pl0U6BpMdAul3tB1hNSqErgRIuJM879dvlc1BYre0+Lzk95hqJwfs+enDd7vSAAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FUFDSb7QU4c0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+YouTube-Chan+Demonetizes+You%21+%7C+Shame%2C+Naughty+Creators+MUST+Be+Punished%21%21%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUFDSb7QU4c0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 175144
 likes = 8042
 comments = 756

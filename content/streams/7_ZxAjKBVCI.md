@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFYpEuoJSOhsAgBABoJYgCdIC4CsnOFowWHNpDxsoUyklcAAP7vS92XqiCsfx1W76J4xPMZHE/t0XjRgZ/3ng+hkXRUUAnuKx1zPwfMUOaZMUkbMo66B+63EhbOGvMAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F7_ZxAjKBVCI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Let%27s+Play+MAD+FATHER+%7E+Daddy+is+a+Mad+Scientist%3F%F0%9F%98%B3w%2F+Guest+SUSHI+%7C+%5B%E2%9A%A0%EF%B8%8FCW+in+Description%5D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7_ZxAjKBVCI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 8094
 likes = 502
 comments = 8

@@ -9,7 +9,6 @@ length = "17:23"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPsFOn0unrCKht/qoAYAYCUAW2QQvI0xLWa5O+GOOTREPbJ55oAD+1KzUc583Ao7kjhbr5LaYBdBU/m91TuSDFHS5nBfkroD6rfpscyPuhLQdrkSqNIAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FGe-BLrkKpb0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+GUM+CHEWING+%7E+Soft+Spoken%2C+Mouth+Sounds%2C+Rambles+%7C+April+Patron+Appreciation+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGe-BLrkKpb0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 54612
 likes = 1982
 comments = 209

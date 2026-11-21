@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBQCdASogABIAPsFQpEunpKQhsAwA8BgJYgCsM4UCmB6GJBisqeyq3swsL6Mvf+aq+BwA/l5xTeKskeiMZI+Rv28iqByatyagNHseTxKRkDqYpx1UjKuW95JYRCHfZ6ggGJP74AA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FCM0IO-NlQKU.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+HAIR+BRUSHING+%7E+March+Patron+Appreciation%21+%7C+Reading+Your+Names+%26+Hair+Brushies+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCM0IO-NlQKU%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 26083
 likes = 703
 comments = 169

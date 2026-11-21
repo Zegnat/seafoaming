@@ -9,7 +9,6 @@ length = "10:26"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPrVInEunJCKht+gA4BaJYgC2yDJ/sfo2F3zXwZLNQ0AA/kB/JrcUALsVdUupjsasjwvMIeBJWrSquSDoYbWQR2mHFp9h7BXDNJDo218rgLeeKHl26MO0DyuIAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FyzpsaGVU6f4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+TELLING+YOU+SECRETS+%7E+Breathy%2C+Unintelligible+Whispering+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyzpsaGVU6f4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 131440
 likes = 2558
 comments = 680

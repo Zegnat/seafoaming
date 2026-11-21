@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBQCdASogABIAPtFYn0uoJSohsBgMAUAaCWIAnTLaRFybIsEVjh1LnyW9XQ7cBgXfjzAA/bIYDsCWEUoo/MsLdFVjk1rQghsSV7diJIIyOhsjrh4LQojz7bPW5Nk/g84CarPGjJkIXRgA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FD2PB1qihKNI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+NATURE+WALK+%7E+Me+%26+My+Dog+Reuben%21+%7C+Soft+Spoken+w%2F+Birds%2C+Nature%2C+Crunchy+Walking+Sounds%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD2PB1qihKNI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 27113
 likes = 1215
 comments = 479

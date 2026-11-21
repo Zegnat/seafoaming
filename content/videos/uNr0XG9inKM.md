@@ -9,7 +9,6 @@ length = "9:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFepk6oJSMiKAqpABoJZQDE2BDRBEE1ojz4UOc8pG4bpoAA/tk1y+/xEBhIS6ZPYUl5jsMPn1rVtlopfOKGWeqhHe41fcePO3rYguFxrgkIsNM9f1fIKu7wufiFizsnAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FuNr0XG9inKM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%A4%94+Something+in+Your+Eye%21+What+the+heck+IS+THAT%3F+%7C+Swab%2C+Spoolie%2C+Pluck%2C+Snip%2C+Face+Touching+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuNr0XG9inKM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 37892
 likes = 1567
 comments = 82

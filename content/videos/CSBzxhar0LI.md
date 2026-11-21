@@ -9,7 +9,6 @@ length = "27:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWMArAAQqV875w1A7ZXF0NUGeg/6BAD+4RGzuGJJZZHHJotBkReG6tJYtimXPvU6Xgfrw2nUd/myJ8+OktEww2N3H9DQtLrKE0beE3AAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FCSBzxhar0LI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+%2420+Vs.+%24200+MICROPHONE+%7E+Ear+to+Ear+Trigger+Comparison%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCSBzxhar0LI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 305986
 likes = 7444
 comments = 1100

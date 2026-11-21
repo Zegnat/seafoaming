@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPtFcn0uoJaKhsBgMAQAaCUAToAE+b1KeEQJk9C232CYneADfQUPqUh3eHCH5lO7KHhF+pum+nWBm7N9UR4bV2x0bGb3Zw0oBZdAhNbNOiP91BXvEyj1SJQgA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FtOGUvlTs2aw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SOFT+SINGING+%7E+Sweet+Songs+to+Lull+You+to+Sleep%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtOGUvlTs2aw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 46141
 likes = 1666
 comments = 500

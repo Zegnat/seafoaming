@@ -9,7 +9,6 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASogABIAPtFUokuoJKMhsAgBABoJZwDGfB6I3+hrjvdYRbgAAP72r27PIU/kqHQzwN+mjeevJ9qNMmkI/ddpF592uGavSAy1Gp9qWw/cOW1Wgbb9Y+HHi7gAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FYt52aJcthrg.md&value=%2B%2B%2B%0A%23+Community+data+for+%22PO+Box+Opening+%26+Chill%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYt52aJcthrg%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

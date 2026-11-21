@@ -11,7 +11,6 @@ age_restricted = false
 language = "en-US"
 language_name = "American English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBOgA9DGvzI9KmVvKOI6qfTgAP7235jHH5GcfY3mDGjnADDNJkdygNX7dJ+p/l4/+NXM//UIANgzUMyi16YHldZXkaIQMWz0qYH5NzO3iFlE6U9xutEqPaGAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FQIDws-KFhHw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%92%80+B*TCHY+MOM+Gaslights+%26+Insults+You+%28because+mother+knows+best%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQIDws-KFhHw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 51684
 likes = 1787
 comments = 309

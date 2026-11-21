@@ -9,7 +9,6 @@ length = "11:18"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASogABIAPtFUokuoJKMhsAgBABoJYgCdKLGBavDJCyKA/x624Gw4DTPE1uwA/atA5pHCH9/UQsNdqo7ggQBuN0Ea+dkSWGt5DgEjQEiLwbRW7GnsSWu9OLrH5IsCVoTyIoet01rU757h15LdOJx+Z6v5XBFuGwAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fo06gIyE6Bag.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%92%85%F0%9F%8F%BB+STACY+%26+BECKY+%F0%9F%91%93Twin+Ear+Attention+%26+Tingles+%7C+Opposite+Personalities%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do06gIyE6Bag%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 68571
 likes = 2300
 comments = 132

@@ -12,7 +12,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPsVOokunpCMhsAwA8BiJYgC3uBhcBiMuC6kyQ6vDeugAAP4b7v/1g0FKL6Frf8W8WNwlYPAby/4vQEDZUuyO20yHMXXbH2N5272+61vDrW/U5ESsQvTgAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F1iv8oTOj9LE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22BIDEOGAMES+%26+CHILL+-+South+Park%3A+Stick+of+Truth+%5BPart+3%5D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1iv8oTOj9LE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 3380
 likes = 154
 comments = 11

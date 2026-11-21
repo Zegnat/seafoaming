@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPsFIn0unpCKht/qoAPAYCWYAnTLaQqSkZbZjQyDdzO5rGJocmuAA+M4fKt+aLKGZJIwKcI7UbU/usWA5uJ9j5PkaP3LsPMo2EYTaqns+0uEk8I8/28xObIsGANyNRBhYxAc1z5yQAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FeZn2lsoAE_g.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%8D%8CEating+Banana+in+a+Normal+Way+%7C+Wet+Squishy+Eating+%7C+Munching+and+Crunching...%3F%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeZn2lsoAE_g%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 91167
 likes = 2118
 comments = 296

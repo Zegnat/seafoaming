@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBACdASogABIAPtFgqU+oJSOiKAgBABoJYwCsAAyOw35EwyiB1RU0C26zAAD+3u+0FiDeZJ+X5vvvkhOZhSdwWyNfkCsFHTtUTIqihBo+GDvN3++ehYQ2jko/mF26PxzKZcurqHZ95AubsgA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F4awuMTrxvLE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+WHISPER+READING+%7E+Short+Story+%22My+Roommate+is+a+Carrot%21%22+%7C+Written+by+Me+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4awuMTrxvLE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 61976
 likes = 2572
 comments = 304

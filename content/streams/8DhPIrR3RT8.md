@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPsVSpEunpKOhsAwA8BiJQBUk0ABp1TXQUqHW/q0Iorupnm1kAAD+2OLgY4Wwsa1OuKqwITzRn6QOzPDpJxiCHjvy1hy+PsrbfQSHFvocSvEsdwHuBAAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F8DhPIrR3RT8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Playing+FLIX+%26+CHILL+%7C+Come+Chat+w%2F+Me%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8DhPIrR3RT8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 5809
 likes = 294
 comments = 8

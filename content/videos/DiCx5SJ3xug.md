@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFWpE0oJKOiMBgIAQAaCWUAvkgLFF7nVn7mvdndZZj0gLAA/udtzdb/RgGQiadW0JXUotoasi0cwGh96r8nkVpIZjJCs82u89CsIxTcdVyKoIC4AAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FDiCx5SJ3xug.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+CRANIAL+NERVE+EXAM+%7E+w%2F+Smol+Idiot+Vampire%21+Flashlight%2C+Ear+Cupping%2C+Nibbles+%26+Blood+Sucking%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDiCx5SJ3xug%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 137196
 likes = 2049
 comments = 494

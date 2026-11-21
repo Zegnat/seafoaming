@@ -69,5 +69,24 @@
 {{ page.content | safe }}
 {% endblock %}
 {% block page_links %}
-<ul class="other"><li><a href="{{ page.extra.edit_url }}" target="_blank" rel="noopener">{{<icon name="pencil" />}}Edit page<span class="external">{{<icon name="external-link" size={12} />}}</span><span class="sr-only"> (opens in a new tab)</span></a></li></ul>
+{# The community file of the video on GitHub: the file itself, or a new file with this starting text. #}
+{% set file = "community/videos/" ~ page.extra.id ~ ".md" %}
+{% if load_data(path=file, format="plain", required=false) %}
+{% set edit = config.extra.repository ~ "/edit/main/" ~ file %}
+{% else %}
+{% set starter = [
+  "+++",
+  "# Community data for \"" ~ page.title ~ "\"",
+  "# https://www.youtube.com/watch?v=" ~ page.extra.id,
+  "# Links to the same recording on audio platforms. Remove the lines that you do not use.",
+  "spotify = \"\"",
+  "apple_music = \"\"",
+  "+++",
+  "",
+  "<!-- Write notes about the video below, in Markdown. To replace the captions from YouTube, add a section that starts with the heading: ## Transcript -->",
+  "",
+] | join(sep="\n") %}
+{% set edit = config.extra.repository ~ "/new/main?filename=" ~ (file | urlencode_strict) ~ "&value=" ~ (starter | urlencode_strict) %}
+{% endif %}
+<ul class="other"><li><a href="{{ edit }}" target="_blank" rel="noopener">{{<icon name="pencil" />}}Edit page<span class="external">{{<icon name="external-link" size={12} />}}</span><span class="sr-only"> (opens in a new tab)</span></a></li></ul>
 {% endblock %}

@@ -9,7 +9,6 @@ length = "1:04:11"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPtFiqU+oJaOiKAgBABoJZwAAIdso9zNrqOzyFNTfwcX8oAD+N4V4lgXUmDSX3erutFDJ8xwey24DWlTazxuNdI3B0hVPLQLWSqHE80AA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FzADKqaqWrC8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+EAR+BRUSHING+%7E+Soft+%26+Fluffy+Brushing+on+Your+Ears+%7C+1+Hour+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzADKqaqWrC8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 91116
 likes = 1502
 comments = 217

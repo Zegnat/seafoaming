@@ -9,7 +9,6 @@ length = "17:06"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASogABIAPtFcpE0oJSOiMBgIAQAaCUAWnQGMU3lkp/4PQE3y3TcRwADONle810tv70sIpc4CKVF8XoY2Fa/eLIn6TQ9cZenOJWfMZ5PgHpzaQ/mJPRT8rw8TBXc2QoydjyPmT04A"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FMyaFL6pJA2Y.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FAST+%26+SLOW+TAPPING+%7E+Tapping+on+Cardboard%2C+Plastic%2C+Jar+Lid+%26+Book+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMyaFL6pJA2Y%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 7459
 likes = 153
 comments = 41

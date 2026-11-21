@@ -12,7 +12,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPr1SnkunJSKht/qoAOAXiWUAvdAXszhNgwyNlPmC1J6LMAAA/vBI/7SDFDdpL6thVmSwknT6BeG/6fGu2+rRU9HCw5RS5oJSOkGAHyrkYbpOPqkuoAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FindMvwTPMT4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22NEKO+MAID+STREAM+%F0%9F%98%B3+Playing+Jenga+TRUTH+or+DARE+w%2F+guests+MasterR3C0RD%2C+Ember+%26+CaramelKiwi%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DindMvwTPMT4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 5685
 likes = 257
 comments = 6

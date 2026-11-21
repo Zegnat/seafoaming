@@ -9,7 +9,6 @@ length = "13:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFYpEuoJSOhsAgBABoJQBUeg8A07w/e3hMubHQv57DB6UAA/u0H3HJAIH0FNBcwaEedotx+xITwY3TLmKXGLQEYG+h8r5hVy92wp6KUstq+zJPNrDuAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fr9eDjFDbsgM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%92%96+SWEET+%26+SOFT+Whip+Cream+Kisses+for+You+%F0%9F%92%8B+Breathy%2C+Close+Up%2C+Mmmuah+%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr9eDjFDbsgM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 108907
 likes = 3338
 comments = 190

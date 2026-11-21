@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASogABIAPtFgpU4oJaMiKAqpABoJYwAAHoApFiDrcIOw7iIAAP6JC4QNJj6NfruyZ5cxjA2VOVDBb/VpKzDv6jqrNvGdL8Myo5MFgkE35yskBvFUpJieOLt/wS2zj3MNJLoPtEWnoAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FPij-0SNUxf0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22I+Know+What%27s+Blocking+Your+Sleep...+%F0%9F%92%A4+Intensive+Sleep+Clinic+ASMR%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPij-0SNUxf0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 87278
 likes = 1974
 comments = 108

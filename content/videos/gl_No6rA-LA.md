@@ -9,7 +9,6 @@ length = "14:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPtFYpUyoJSOiKA1RABoJQAAErJZ8HLsyYeh04mtav3rkgAD+8X+AZGTQIdDEMNd+3zzj/rWJDxZhKQG1tgRwnOT66ujICUmvBcDxWgXNpEgAAAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fgl_No6rA-LA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+COLLAB+-+Red+Riding+Hood+Vs.+Big+Bad+Wolf%21+%7C+ft.+SoftlyGaloshes%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dgl_No6rA-LA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 71522
 likes = 2213
 comments = 282

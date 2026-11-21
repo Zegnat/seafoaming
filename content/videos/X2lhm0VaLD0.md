@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFapU0oJSOiMBgIAQAaCUAVw4X9xIFYll3i9H/YDIfVcStgAP7r/q/vThT8NfOlDcow73cJ/c1sCxstzmJLbsWDWOTf2uqlWUGCRr3k5ii7MsKv0WDhGSPNFQAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FX2lhm0VaLD0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+BACKSTREET+TINGLE+DEALER+%7E+Hey+Kid%2C+You+Wanna+Buy+Some+Tingles%3F++%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX2lhm0VaLD0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 1013752
 likes = 18243
 comments = 4400

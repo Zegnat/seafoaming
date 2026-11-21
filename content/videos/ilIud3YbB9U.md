@@ -9,7 +9,6 @@ length = "3:39"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASogABIAPtFcpk4oJSOiKAqpABoJYgCdOUFVtV9g9Dw+T+SsMycev3bT6YP8qAD+2T24AauFo/Ed3qZK49nDZHELA6o1oqhP2X4J054DlT61unwIhg/rCng4ARnaHpykMfwq3RAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FilIud3YbB9U.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+COMMUNITY%3A+Let%E2%80%99s+Help+a+Family+in+Urgent+Need+%F0%9F%8D%89%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DilIud3YbB9U%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 12848
 likes = 1191
 comments = 130

@@ -12,7 +12,6 @@ status_message = "This video has been removed for violating YouTube's policy on 
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASogABIAPtFcqE2oJSQiKAqpABoJYwDA3AyChRt5bOO7TV6aeT1QAP7w1Nvfl0Mrf8jwW1CuN/fEWX6LNEEbYiJGmcDBAaADU6YMEVdHE6J0DI+FwhXdXHU2OjiWnJZUd6i4AA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FVASerDP4M1Y.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%91%85+BRAINSPLOSION+%7E+Aggressive+Ear+Attack%21+%7C+Mouth+Sounds%2C+Tongue+Wiggles%2C+Ear+Licking+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVASerDP4M1Y%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

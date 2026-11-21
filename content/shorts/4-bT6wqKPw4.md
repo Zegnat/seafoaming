@@ -9,7 +9,6 @@ length = "0:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPs1WpEunpKOhsBgMAPAZiWMAgboEWslbVqXrtL1/AQ/Wz4FwAP7xDZTuxaoaFPrnXLWS1Cc2zgq7lmyL6Bc2Fr2nzD1AiSY50Gp9qO4JD7/C/LKCJfgRHQBUbAwAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F4-bT6wqKPw4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Booping+Your+Face++%23asmr%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4-bT6wqKPw4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 10524
 likes = 771
 comments = 14

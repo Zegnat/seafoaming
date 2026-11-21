@@ -9,7 +9,6 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPsFIn0unpCKht/qoAPAYCWMAvzgWslzLqCis5p08ZxYny7iXwAD+U+wnyatEpAkUgmgJ1tbVJoPrLXgCjT1Q0dks6zez9Oiadgr8i4kZBU46mv5FdSAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FBNHpyLi_br0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%5BNOT+ASMR%5D+6K+SUB+STREAM%21+ASK+ME+ANYTHING+%3AD%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBNHpyLi_br0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

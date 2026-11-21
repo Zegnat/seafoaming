@@ -9,7 +9,6 @@ length = "13:36"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFYpUwoJSOiKA1RABoJZQCxH6HGW9lky8Dqd5QN2iZ7x+eTNvUAAP7xO9EJTGXXynlINOdtrYX/lsAdIAzTj4dF1yw3uQi+cyNrmmqZjuT+0CSZWQqjCdE/vQRsAgAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FbV_KLxcVdlk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+STICKY+EARS+%7E+Sticky+Ears%2C+Fingers%2C+Tape+%26+Crinkles+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbV_KLxcVdlk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 27256
 likes = 659
 comments = 173

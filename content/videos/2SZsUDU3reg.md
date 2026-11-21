@@ -9,7 +9,6 @@ length = "17:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPslSn0unpKKhsAwA8BkJYwDE2BujDKG8hE9NU6bMJtjZ71nGAAD+9I/jKqGHSgPGgIxyJyvuWjunvHbaiFeXlbs0s7nsvBZg9axqXzxpAYJAgXF893AGhugA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F2SZsUDU3reg.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%A6%87+This+Ditzy+Bat+Lives+Here+Rent+Free%3F%21+%7C+Curious+Touching%2C+Throat+Clicking%2C+Stealing%28%3F%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2SZsUDU3reg%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 113519
 likes = 3459
 comments = 200

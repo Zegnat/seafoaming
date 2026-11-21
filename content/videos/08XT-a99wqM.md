@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPslQoUunpKMht/VYAPAZCWMAtOgMWly1pjx7CqTCQawmdXmikgAA/sE+1I05XVaHH6rwqkn/dmq6sS1kk2aFqHDpKrazi2IdgUlkebFC2LfZm2QeOUbeAdAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F08XT-a99wqM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%91%BD+Friendly+Alien+Spends+Christmas+With+You%21+%F0%9F%92%9A+Cozy+%26+Affectionate+Relaxation%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D08XT-a99wqM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 61303
 likes = 2161
 comments = 161

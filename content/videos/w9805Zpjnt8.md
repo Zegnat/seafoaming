@@ -9,7 +9,6 @@ length = "11:25"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUAVgAYoHlxr8NBWjj/2Oal/3AAA/vfVroKG96du/nIjI62mFShlGxhO4Z6UYrES6kl4ChWDYra2gdkTrVS9ugl9CW4j9PXtHTGQgPtiVpHI3hEeqgAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fw9805Zpjnt8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+CRANIAL+NERVE+EXAM+%7E+What+are+we+Testing+for+Again%3F+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw9805Zpjnt8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 195898
 likes = 3466
 comments = 439

@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBQCdASogABIAPtFYpk2oJKOiMBgIAQAaCWUApxQQpB2gyg1iVh1VQOXOer1c64GAAP5jRXA9GzJyij8zHlGrnHhGAmE3YTlOs2UlE2/xUACk7x3ycsoIeQJ8rVZQ+SO4PTJ0sAAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F6OohQXtspwc.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+CRAZY+CAT+LADY+%7E+%22Helping%22+You+Recover+from+Your+Travels+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6OohQXtspwc%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 139548
 likes = 2432
 comments = 603

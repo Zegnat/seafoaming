@@ -9,7 +9,6 @@ length = "16:45"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASogABIAPtFcpk4oJSOjKAqpABoJQBfJAYr3z9ffBlFNs/0AAP7ICGZnixwewCNYnVIk2sx5G27vtuKPimprstD2pTSCzxSqM/23I+LjRUwUjM4P+sSEohIRfjDTfEAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F-WWknWMTLe4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SLEEPY+VISUALS+%7E+Slow+Hand+Movments+%26+Rain+Sounds+w%2F+Gentle+Whispers+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-WWknWMTLe4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 121707
 likes = 2734
 comments = 279

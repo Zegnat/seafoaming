@@ -9,7 +9,6 @@ length = "15:34"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBACdASogABIAPtFepk6oJSMiKAqpABoJZQCzgBE/sNLmQ9v1QuEB3yyAAP7pU8YeUXfnRDGgad6X81rKt5lVf38+2x3++gCCfeh8nyvt5yZzCcKuFrvjb5jaggD3iEWjTbWwwdb1tII25XRXQAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FzdT73lbPBMQ.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+NEGATIVITY+B-GONE%21%F0%9F%99%85Can+I+Eat+Your+Negative+Thoughts%3F+%7C+Mouth+Sounds%2C+Spoon+Scoops%2C+Plucking+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzdT73lbPBMQ%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 58809
 likes = 1790
 comments = 102

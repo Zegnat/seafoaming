@@ -9,7 +9,6 @@ length = "28:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASogABIAPtFOpkuoI6OhsBgMAQAaCUAWI+OQiP7QMryraeEjvmAm1PazxDzAAP2rnMPX6Sel0O2WoEzqEhRxN365IIJ1Ngh+1DTobkVysMlpS/GMuQ9Hv7T6Q4m5Gb/wu93t8zQytHcTiO03NJkAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FhyTTX8_cY3M.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%A5%BA+Insecure+Girlfriend+%F0%9F%A5%BA+%22Do+you+still+love+me...%3F%22+%7C+Angst%2C+Hurt%2FComfort%2C+Kisses+%2B+Massage%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhyTTX8_cY3M%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 147197
 likes = 3219
 comments = 304

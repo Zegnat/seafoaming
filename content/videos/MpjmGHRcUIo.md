@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPs1YokunpSMhsBgMAPAZiWMArDOAgaNsP7rl0LoXtUAA/tsdBzXrG8Mc3HXr4PqgyvfVhtz4bgqF6V1tVa0gZsgwya1sIWrVbMqioHEGtmpro2AA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FMpjmGHRcUIo.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+LOST+CAT+INN+%7E+You+Are+A+Cat%21+%7C+Come+Inside+for+a+Drink+%26+Chat+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMpjmGHRcUIo%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 114747
 likes = 3369
 comments = 660

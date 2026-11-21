@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASogABIAPslQoUunpKMht/VYAPAZCWIAvzgus3rKe4dffxrbQg1lwAD4HhIhrdXhOOe0WQp70hurrc/ZoJQ2yAuZ1vNpznDMHKp3J6eqpZZWTn2IZAAAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fi5WJ1GOfXm4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+VAMPIRE+DISPENSARY+%7E+Trying+Tingly+Magic+Herbs+%28%28Getting+Lit+w%2F+Smolpire%29%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di5WJ1GOfXm4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 311271
 likes = 6038
 comments = 1100

@@ -9,7 +9,6 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQBACdASogABIAPsFKn0unpCKht/qoAPAYCUAX5wLpTWS354jCA1fEJoMpsn+1wAD8xef4ggfJFualNjuViqTOlfb5N1IK0s2XXiTFXBGFj/+2A+7oqIM1w5ssYme2PUjVHI4TnO6y3PAIBAx35AAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fc0NEx7T_YNA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+TINGLE+IMMUNITY%3F+%7E+DEEP+and+INTENSE+Mouth+Sounds%2C+Tongue+Wiggles%2C+and+Ear+Cupping%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0NEx7T_YNA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

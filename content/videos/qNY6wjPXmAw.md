@@ -9,7 +9,6 @@ length = "16:15"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPtFWpEwoJKOiMAgBABoJYwC7AB5qmE9AVCoPOhGUcmo3oAD+3NSYjZqI45kEox60Cm9gk349Idee4PX5OdjojDhHt2x3QgliSXnj4I6TtMowxY8YAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FqNY6wjPXmAw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+BREATHY+WHISPERS+%7E+Unintelligible%2C+Close+Up+Binaural+Whispers+for+Your+Tingles%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqNY6wjPXmAw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 68171
 likes = 1880
 comments = 335

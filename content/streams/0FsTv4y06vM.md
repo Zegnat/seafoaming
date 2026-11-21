@@ -12,7 +12,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASogABIAPtFepU6oJSMiKAqpABoJZQC7AGk8VSYOydsAvB4juyaAAP79gH8m72n3n7VHLxtBYRO+L5GwJ4KYdFDTzy6f9zdEp5k9Mb2SV+vNCXfTRidp7zhpY9jNujELwAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F0FsTv4y06vM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Doodle+%26+Hangout+Stream%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0FsTv4y06vM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 2512
 likes = 137
 comments = 14

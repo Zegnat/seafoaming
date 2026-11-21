@@ -9,7 +9,6 @@ length = "16:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAgxkESGo5XMdgRMVGecWa4dP/gADgy61M9dCSnyFTCi0Gdam+d2RLqoUiZcn0jhFLzTbkEG2Mb2+uWw9vcNxHvSwR4PutQAAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fv_5eSG9fd2s.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FLUFFY+TIME+%7E+Soft%2C+Relaxing+Scalp+Massage+w%2F+Fluffy+Mic+Covers+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv_5eSG9fd2s%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 328012
 likes = 4273
 comments = 337

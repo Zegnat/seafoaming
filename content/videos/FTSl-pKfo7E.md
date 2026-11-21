@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASogABIAPsVOokunpCMhsAwA8BiJYwC1IUAApQOyw0oeuDfWc7gA/oE0ZSTih318/OMw3Q0SzdhcERQogfuFWCWeVwRWPRJtn/+haAukpK/qdciXnQ6hRpGpYmgAAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FFTSl-pKfo7E.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+POKEMON+TRAINER+%7E+You+are+a+Pokemon%21+Patching+You+Up+After+Battle+%7C+Creepypasta%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFTSl-pKfo7E%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 80402
 likes = 2329
 comments = 600

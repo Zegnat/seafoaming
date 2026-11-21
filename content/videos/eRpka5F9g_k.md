@@ -9,7 +9,6 @@ length = "14:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPtFcqE4oJSQiKAqpABoJZQC1F68AqfcVJK8FPWON2iD0AAD+w/9LU7dMUXqS4RHy3RCxLTI2RA7MXgYz06P6jEk7e4+BRt+yEgkNNCWguyN8pAnDEK2Sdn7m5E0AAA=="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FeRpka5F9g_k.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+EAR+SCRITCHIN%27+%7E+Long+Nail+Scratching+Over+Silicone+Ears+%7C+Whispers+%26+Ear+Tapping+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeRpka5F9g_k%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 625609
 likes = 8317
 comments = 656

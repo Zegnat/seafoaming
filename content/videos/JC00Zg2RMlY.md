@@ -11,7 +11,6 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASogABIAPsVSokunpSMhsAwA8BiJQBbgKAAZy4wwVDOkf+OhR+fSmA3oi73gAPrfqlHmobvBiCgnWlXbu3y8g+6fG4Qv9EgXgtxolk0wlYqEBL2KtCv+I1k2c41mJoAA"
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FJC00Zg2RMlY.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+CAT+EAR+COLLECTION+%7E+June+Patron+Appreciation%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJC00Zg2RMlY%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 26863
 likes = 1028
 comments = 329

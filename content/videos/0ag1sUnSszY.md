@@ -11,7 +11,6 @@ age_restricted = true
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASogABIAPtFao00oJSMiKA1RABoJQBdgAUeLRZvunTEkvSp4IYAAzRVRqSDg5Q4jzIZ7eZ+5F6zcxT4/5apzc/Nf7xAAPTrN4ywXcVyuRPPsES4wAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F0ag1sUnSszY.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FOXGIRL+%7E+You+are+Robbed+by+a+Bratty+Foxgirl%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0ag1sUnSszY%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 152252
 likes = 5480
 comments = 665

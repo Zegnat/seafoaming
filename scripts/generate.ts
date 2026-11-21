@@ -6,7 +6,6 @@ const ROOT = new URL("..", import.meta.url).pathname;
 const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
 const COMMUNITY = `${ROOT}community/videos`;
-const REPOSITORY = "https://github.com/Zegnat/seafoaming";
 const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
 const PARAGRAPH_SECONDS = 60;
 const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
@@ -66,32 +65,9 @@ export function parseCommunity(text: string) {
 
 function community(info: Info) {
   const path = `${COMMUNITY}/${info.id}.md`;
-  if (exists(path)) {
-    return {
-      ...parseCommunity(Deno.readTextFileSync(path)),
-      edit: `${REPOSITORY}/edit/main/community/videos/${info.id}.md`,
-    };
-  }
-  // GitHub opens a new file with this name and starting text.
-  const starter = [
-    "+++",
-    `# Community data for "${info.title}"`,
-    `# https://www.youtube.com/watch?v=${info.id}`,
-    "# Links to the same recording on audio platforms. Remove the lines that you do not use.",
-    'spotify = ""',
-    'apple_music = ""',
-    "+++",
-    "",
-    "<!-- Write notes about the video below, in Markdown. To replace the captions from YouTube, add a section that starts with the heading: ## Transcript -->",
-    "",
-  ].join("\n");
-  const query = new URLSearchParams({ filename: `community/videos/${info.id}.md`, value: starter });
-  return {
-    data: {} as Record<string, unknown>,
-    notes: "",
-    transcript: "",
-    edit: `${REPOSITORY}/new/main?${query}`,
-  };
+  return exists(path)
+    ? parseCommunity(Deno.readTextFileSync(path))
+    : { data: {} as Record<string, unknown>, notes: "", transcript: "" };
 }
 
 const escapeMarkdown = (text: string) => text.replace(/([\\`*_<])/g, "\\$1");
@@ -218,7 +194,6 @@ function videoPage(info: Info, placeholder: string | null) {
     `placeholder = ${toml(placeholder)}`,
     `spotify = ${toml(link("spotify"))}`,
     `apple_music = ${toml(link("apple_music"))}`,
-    `edit_url = ${toml(extra.edit)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,

@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFapU2oJSOiMBgIAQAaCWMAvzgMZgX7JM7DXv940fiE6dYgAP7qRc2V9A6+Prn6mlVM2cqZ6Z2ZT/nlRC0xlMwYUdLxz489N1ziSa4AykPRtUsAAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fxbj4yxNFZIg.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+MASON+JAR+%7E+Wonky+Tapping+Sounds+on+Glass+%26+Tin+%7C+Scratching%2C+Whispering+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxbj4yxNFZIg%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 35422
 likes = 1265
 comments = 145

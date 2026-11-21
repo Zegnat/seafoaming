@@ -11,7 +11,6 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABwBACdASogABIAPr1OnkunJKKht/qoAOAXiWUArAAhI8HDzvn42vXtxTGpUAD+8Mt/uYfB3GdEN32E92U9bemIxX89OpuIp2w3j24k2zEunswctT7IO26QAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F8yihjrNsi54.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Let%27s+Play+BOYFRIEND+DUNGEON+%7E+Date+Your+Own+Weapons%3F%F0%9F%98%B3%5BFINALE%5D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8yihjrNsi54%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 4103
 likes = 246
 comments = 17

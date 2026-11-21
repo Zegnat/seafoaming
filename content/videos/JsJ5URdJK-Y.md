@@ -9,7 +9,6 @@ length = "18:22"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPsFMn0unpCKht/qoAPAYCWMApxfP9E3WMnTL2WNTKp/gNTWVMIAA/vMkDMHAeT88Re+kLfCk1Q+yNCqwGurCQck50384j2svQKz8PYY+6LHslakNtdSfcpHMxYPiIpQwAAA="
-edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FJsJ5URdJK-Y.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%92%95+Loving+KISSES+for+You+%F0%9F%92%95+Affectionate+Affirmations+%26+Gentle+Reassurance%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJsJ5URdJK-Y%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 253037
 likes = 4590
 comments = 169
