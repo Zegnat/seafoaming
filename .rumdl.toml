@@ -1,0 +1,3 @@
+[global]
+# Transcripts and chapter titles come from YouTube: keep long lines and heading punctuation.
+disable = ["MD013", "MD026"]

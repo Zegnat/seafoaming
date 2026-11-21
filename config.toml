@@ -1,0 +1,11 @@
+base_url = "https://zegnat.github.io/seafoaming"
+title = "Seafoam Wiki"
+description = "A fan wiki about the videos and characters of Seafoam Kitten ASMR."
+compile_sass = false
+build_search_index = false
+# Generated pages hold captions and descriptions that can contain template syntax.
+skip_content_templating = ["videos/**", "streams/**", "playlists/**"]
+
+[slugify]
+# Keep YouTube IDs as they are: they are case sensitive.
+paths = "safe"
