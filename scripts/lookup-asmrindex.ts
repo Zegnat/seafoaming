@@ -4,6 +4,7 @@
 // Then: deno task lookup-asmrindex [ws://127.0.0.1:9223/session]
 // Pages saved from a browser work too: deno task lookup-asmrindex <folder with .html files>
 // A Firefox that you use yourself works too, if it was started with --remote-debugging-port; the script opens its own tab.
+import { connect } from "./bidi.ts";
 import { parseVideoPage } from "./import-asmrindex.ts";
 
 const ROOT = new URL("..", import.meta.url).pathname;
@@ -19,30 +20,6 @@ const exists = (path: string) => {
     return false;
   }
 };
-
-// A small WebDriver BiDi client: send a command and wait for the answer with the same id.
-async function connect(url: string) {
-  const socket = new WebSocket(url);
-  const pending = new Map<number, (message: Record<string, unknown>) => void>();
-  socket.onmessage = (event) => {
-    const message = JSON.parse(event.data);
-    pending.get(message.id)?.(message);
-    pending.delete(message.id);
-  };
-  await new Promise((resolve, reject) => {
-    socket.onopen = resolve;
-    socket.onerror = reject;
-  });
-  let next = 0;
-  // deno-lint-ignore no-explicit-any
-  const send = (method: string, params: unknown): Promise<any> =>
-    new Promise((resolve) => {
-      const id = ++next;
-      pending.set(id, resolve);
-      socket.send(JSON.stringify({ id, method, params }));
-    });
-  return { socket, send };
-}
 
 // Save the data of one page of the index, and download its thumbnail if there is none yet.
 // The thumbnails are not behind the bot check.
