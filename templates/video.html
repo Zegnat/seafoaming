@@ -10,10 +10,15 @@
 {% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {% set url = "https://www.youtube.com/watch?v=" ~ page.extra.id %}
 {% set gone = page.extra.status in ["private", "removed", "unavailable"] %}
+{% if page.extra.source == "asmrindex" %}
+<div class="notice notice-source" role="note">
+<p><strong>The wiki never downloaded this video from YouTube.</strong> The information on this page comes from <a href="{{ page.extra.source_url }}">The ASMR Index</a>, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
+</div>
+{% endif %}
 {% if gone %}
 <div class="notice" role="note">
 <p><strong>This video is no longer available on YouTube.</strong> {% if page.extra.status == "private" %}The uploader made it private.{% elif page.extra.removed_by == "uploader" %}The uploader removed it.{% elif page.extra.removed_by == "YouTube" %}YouTube removed it.{% endif %} The wiki keeps this page as a record of the video.</p>
-<p class="small">YouTube says: “{{ page.extra.status_message }}” Checked on {{ page.extra.status_checked }}.</p>
+{% if page.extra.status_message %}<p class="small">YouTube says: “{{ page.extra.status_message }}” Checked on {{ page.extra.status_checked }}.</p>{% endif %}
 </div>
 {% endif %}
 <table class="infobox">
@@ -25,7 +30,8 @@
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments_off %}<tr><th>Comments</th><td>Turned off</td></tr>{% elif page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
 {% if page.extra.spotify or page.extra.apple_music %}<tr><th>Listen</th><td>{% if page.extra.spotify %}<a href="{{ page.extra.spotify }}">{{<icon name="brands/spotify" />}} Spotify</a>{% endif %}{% if page.extra.spotify and page.extra.apple_music %}, {% endif %}{% if page.extra.apple_music %}<a href="{{ page.extra.apple_music }}">{{<icon name="brands/applemusic" />}} Apple Music</a>{% endif %}</td></tr>{% endif %}
-<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>
+{% if page.extra.source != "asmrindex" %}<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>{% endif %}
+{% if page.extra.source == "asmrindex" %}<tr><th>Source</th><td><a href="{{ page.extra.source_url }}">The ASMR Index</a></td></tr>{% endif %}
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
 {% set characters = get_section(path="characters/_index.md") %}
 {% set found = [c for c in characters.pages if page.extra.id in (c.extra.videos or [])] %}
@@ -33,7 +39,7 @@
 {% set playlists = get_section(path="playlists/_index.md") %}
 {% set found = [p for p in playlists.pages if page.extra.id in [v.id for v in p.extra.videos]] %}
 {% if found %}<tr><th>Playlists</th><td>{% for p in found %}<a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>{% endif %}
-<tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>
+{% if page.extra.source != "asmrindex" %}<tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>{% endif %}
 </table>
 {% if not gone %}
 <p><a href="{{ url }}">Watch on YouTube</a></p>
