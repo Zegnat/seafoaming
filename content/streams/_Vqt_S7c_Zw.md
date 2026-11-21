@@ -7,6 +7,8 @@ id = "_Vqt_S7c_Zw"
 duration = 13414
 length = "3:43:34"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQAAkAA4BaJbACdAYwTzWWryV60MgA/cexGBPoB1wdZpc4WKjuffOLUqtCZGVcnlZhIK2otYZyO42x08yj1a0Nr4vbQRY44fk9pXNx0XMZzdT6GLXy7oOpmUtO+Ijd9y4AAA=="
 views = 8074
 likes = 346
 comments = 5

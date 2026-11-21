@@ -7,6 +7,8 @@ id = "SfSr5MokmrQ"
 duration = 949
 length = "15:49"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJZgCdAYtpC4jCwAA/CmdLNDsF5CF0mvT4gAJNVsTRm1jaHzJFdavCp64Z2deWqbi30OhNnVzgqu3rBLJ+RuL3xKZ8yT4m0K1g86N1BAAAA=="
 views = 83468
 likes = 2886
 comments = 565

@@ -7,6 +7,8 @@ id = "81zkUtb-GtU"
 duration = 570
 length = "9:30"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAA4BaJYwC7AYtpde9yAAA+6TqFymMNOa07akKA9rUCKVjJr1K02+L0/3b5uyWK3n1cYbsRGlNa2j/UyMKe/11WGTc+zgQAnImRj0IAA=="
 views = 12697
 likes = 256
 comments = 112

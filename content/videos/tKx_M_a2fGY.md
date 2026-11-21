@@ -7,6 +7,8 @@ id = "tKx_M_a2fGY"
 duration = 1644
 length = "27:24"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJbACdADOg4KKUQAA/hdvlP/cod+ZB5n21ZMUiP0KkQkuSBpL+PJFcSIZaeINW3tKAxqg8Msn894FwENGnAbs9iM2PeoAAAA="
 views = 32679
 likes = 1444
 comments = 92

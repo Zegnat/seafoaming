@@ -7,6 +7,8 @@ id = "QIDws-KFhHw"
 duration = 1356
 length = "22:36"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAkAA4BaJagCdAYstuKcREWJ2AD+7Sfba6xVe3a44MbClMN6OhCT8tVHxQm4ysEYhZWcS7d9+5mNv4ON+4CAIlkYT/XcX9P3X6HxFS3WytnAPRhGDWpwAAA="
 views = 51684
 likes = 1787
 comments = 309

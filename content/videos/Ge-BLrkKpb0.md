@@ -7,6 +7,8 @@ id = "Ge-BLrkKpb0"
 duration = 1043
 length = "17:23"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAkAA4BaJYgCdADSSOaF+uAA/uhp9fpmKkMapdk1CaFqV9j5of30wPb++JW5H+NEavIE1AaIbUXInV3PXpD6np2+EY9Y9OCqmhKSQTD6RWTHofQTWVtQAAA="
 views = 54612
 likes = 1982
 comments = 209

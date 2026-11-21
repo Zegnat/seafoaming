@@ -7,6 +7,8 @@ id = "bm3_cZviaoU"
 duration = 701
 length = "11:41"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJZgCdAEDSKa94QAA/mZ+abinw+khRQFF7JUJ8Rd8GmyZOfykzJ1SLHFkBl8XBnzhYdzpdqGSTIrYoLFfq+xorc0FZmU2jtSH7IIsAAA="
 views = 66175
 likes = 2068
 comments = 624

@@ -7,6 +7,8 @@ id = "EDtsMSpUMXs"
 duration = 1011
 length = "16:51"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJQBOgCHurFmJewAA/rD1vadhiyG9mNeWTCpj5usGgIfLBhY6GaluFTYBonMF/4ed+Q4mcuoIFPR2PBqJd8c7I+3YxwA/gAA="
 views = 873139
 likes = 10279
 comments = 689

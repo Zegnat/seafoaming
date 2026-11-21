@@ -7,6 +7,8 @@ id = "BIAT01Kl8tw"
 duration = 27
 length = "0:27"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAA4BaJaACdADDve3+AAD+9elS/12o5jbKv8sK+RsYfsLnRobJWsBPN5TP+2ty6AteOlNFan4z/Wn5Fq0wNbZBIDsDAAA="
 views = 27806
 comments = 78
 fetched = 2026-11-21

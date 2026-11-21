@@ -7,6 +7,9 @@ id = "dv4tMD8NAG0"
 duration = 543
 length = "9:03"
 availability = "unlisted"
+status = "unlisted"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAkAA4BaJbACdLoAAeA6kbgpgAD+wqgKa/QJFpEi5Ha4OPB060JJ9t96lOBWwzCbaMsW4WtE15tVOz+nquXBjpeoDMdg0f72DTSmS/5VPh97f84FAP8IzM/g2xP5FOSAn3pDwnM/k2cgYAA="
 views = 5139
 likes = 89
 comments = 17

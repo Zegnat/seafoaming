@@ -7,6 +7,8 @@ id = "DoVD63OmpLQ"
 duration = 734
 length = "12:14"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJQBOgBZV19toAAD+qOCMjhwpCiBzqjQkMIX7FY9f1tK8jvE2EDtKUxX/JmftkMzfi06G4fqXWRKkvTI+Dw7KhB8dJENektAAAA=="
 views = 48693
 likes = 1542
 comments = 239

@@ -7,6 +7,8 @@ id = "navnMgUaHf4"
 duration = 47
 length = "0:47"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAkAA4BaJYwAApMkjFqsAAD++FZxcFOHgl5vBduAcwasrkHlS3lPD5m1n9+hcEfX5BMTi0AAAA=="
 views = 17157
 likes = 1491
 comments = 29

@@ -7,6 +7,8 @@ id = "sbFfpVZolko"
 duration = 1510
 length = "25:10"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAA4BaJYwCdAYrTlHWguhgAP7xuaZ3vgpmE005Z1mHfwSkPJSXz0+7zH2xSlfp8ls1/z8s3eXqgwnqetsaOt5vMKyLdYAAAA=="
 views = 107228
 likes = 3274
 comments = 194

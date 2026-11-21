@@ -7,6 +7,8 @@ id = "z-SK2WelSGc"
 duration = 1265
 length = "21:05"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAkAA4BaJQBOgMWbtPMI81MIAP7m8TCQXpy03tkLo3cfVOB3ETTJtUtNQjtGZcn+DNPZeFxx3UjB/xcF9h2NlZdzs2XBZ8AWV4L4b/sYGFTzjL3CnkRum/lb4XfkYAA="
 views = 137722
 likes = 3761
 comments = 369

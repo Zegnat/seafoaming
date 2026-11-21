@@ -7,6 +7,8 @@ id = "FQoqcctChvg"
 duration = 1381
 length = "23:01"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJYgCdADp2FD3mYAA/vfAAVKn6X8GJFI5giJCf8sog8HZX6NCh7jJPLv4JYH25iWlHA6PMNMy3ijL9AP+RzU/C+cLdQR8iiqpPFs6a8AAAA=="
 views = 25596
 likes = 809
 comments = 242

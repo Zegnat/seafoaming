@@ -7,6 +7,8 @@ id = "GluIsqaiOXs"
 duration = 1215
 length = "20:15"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAkAA4BaJQBOgMXrmHisLLQAAPa+Rc39uCOIPQelJBvuNwrxuU8wryDtRSxZciPq0Ei1/VHzedzyg3k0lyChrqzcP/OT/s9oX5yZTqsLnpzuEdbhWLkrKNAAAA=="
 views = 115194
 likes = 3463
 comments = 870

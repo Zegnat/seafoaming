@@ -7,6 +7,8 @@ id = "tDRZBLE808w"
 duration = 2833
 length = "47:13"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJagCdAEfk3rnRi4AAP6J1pzkkCYoGKgJaeoxvSUxxS7DmMaCnotIzDJhXAcwRoEIudDZrnLnC4rYX46ZzxjA24onx439r1X4X2hdD46H7BHqAAA="
 views = 44677
 likes = 2379
 comments = 279

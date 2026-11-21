@@ -7,6 +7,8 @@ id = "O5YenK7nY6Y"
 duration = 16
 length = "0:16"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkAA4BaJaQAAp1amvWi1oAA/vbkytlbEMa4Y2GOoVopMW45WSin3BO0Ddj52zBuuJzbFsbnEwwfA4AAAA=="
 views = 31212
 comments = 87
 fetched = 2026-11-21

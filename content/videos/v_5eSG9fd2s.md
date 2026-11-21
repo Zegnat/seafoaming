@@ -7,6 +7,8 @@ id = "v_5eSG9fd2s"
 duration = 990
 length = "16:30"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAkAA4BaJYgCdADMBRt6xEAAAP3R5Vs5eodEJ+IJbIy9Yo9Iz1xdWF6fb04XoUY5H1dcYxK0aGXvwdYHhmYhrNYfOAwZa0rFQFLAAAA="
 views = 328012
 likes = 4273
 comments = 337

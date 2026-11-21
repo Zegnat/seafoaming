@@ -7,6 +7,8 @@ id = "FdL2oGrWP5c"
 duration = 1026
 length = "17:06"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAA4BaJQBOgMV94LdWAjA0AP5Km2i24+tWvJ9rGWm+mRGlEnhv6tYMQrgdWiXltd9WGuXcHxTh6mTy15oIE0nToa+Q9rgAAA=="
 views = 175936
 likes = 3533
 comments = 348

@@ -7,6 +7,8 @@ id = "FTSl-pKfo7E"
 duration = 657
 length = "10:57"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAkAA4BaJZACdAEXZ0nVK0qPgADOPn9GFniJyYEl7/R/CVxJYjeh4i1Is+95g/ZdihEQ6Yb1z/Eam5MacDSfK/RCu29c548se5XcWwAAAA=="
 views = 80402
 likes = 2329
 comments = 600

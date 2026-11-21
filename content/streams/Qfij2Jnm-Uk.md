@@ -7,6 +7,9 @@ id = "Qfij2Jnm-Uk"
 duration = 11831
 length = "3:17:11"
 availability = "unlisted"
+status = "unlisted"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJYgCsAC8SD22AAD+726y4lInLrPpJ6FDVbYb3K/XJ8FIjxwrcvRK2QFrqczGDgiXzj4IDJ3HfFOzhyZZhMzAyFKh7Wh61y7BWuaSHgAAAA=="
 views = 9223
 likes = 511
 comments = 23

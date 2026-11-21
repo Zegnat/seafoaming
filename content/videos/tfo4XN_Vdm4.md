@@ -7,6 +7,8 @@ id = "tfo4XN_Vdm4"
 duration = 669
 length = "11:09"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAkAA4BaJQBdgCPzpwiZhgAA/u+fqg6znvq+mOTSkJWhW/mKz7kWGYCpsSL8Bdhrj8o2nMP4KZY9ZfK0nTdYAL/1fE3wAAA="
 views = 8211
 likes = 218
 comments = 146

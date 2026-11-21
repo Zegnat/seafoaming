@@ -7,6 +7,8 @@ id = "YCK4GxxvsQI"
 duration = 1482
 length = "24:42"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJagCdAEWdcsCmbwA/uuto9p05vkS8yWNl/A/kVjvJmqwCODSba7Mp2+eoKZ6a9p4nzqrNntSQAwCUGjocax9tqQtmK6gAAA="
 views = 56074
 likes = 3559
 fetched = 2026-11-21

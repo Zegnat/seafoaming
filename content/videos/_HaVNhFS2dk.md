@@ -7,6 +7,8 @@ id = "_HaVNhFS2dk"
 duration = 1227
 length = "20:27"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAQCdASoQAAkAA4BaJbACdAB1f/vAAP7qS3rqIJEH83LVUi3vXWMiAcUG5EV3lt378EcQvQjK6gSGHniTr9yCDWW/z270Xk9lOHRicchBRWPZR+cP0HyZa/ihOgrzwAAAAA=="
 views = 114609
 likes = 2752
 comments = 104

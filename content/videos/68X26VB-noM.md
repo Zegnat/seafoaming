@@ -7,6 +7,8 @@ id = "68X26VB-noM"
 duration = 1278
 length = "21:18"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAkAA4BaJbACdAEWIlk6j4AA/PlLqvS07QYUy70e8tjLE/4du5KIElHkkTQA6IQrQxXw7tfUtbIg4xPsYH2eATAi36ssNomRHAVeOR2EkW7xLcdUKloAAAA="
 views = 74238
 likes = 2227
 comments = 126

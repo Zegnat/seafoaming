@@ -7,6 +7,8 @@ id = "vSWkdO6IRM4"
 duration = 60
 length = "1:00"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkAA4BaJZQAAp07kIqAAP74aruaHeR2qE/zaGOU2BahXoZ2Bc7W60tKADx3jPAAAA=="
 views = 3142
 comments = 4
 fetched = 2026-11-21

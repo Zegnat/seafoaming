@@ -7,6 +7,8 @@ id = "nxjpBopLz_s"
 duration = 1352
 length = "22:32"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAkAA4BaJaACdAEfpg0FktCEAP7tD2wVndFQdkRWbdwzrVFwGNOL3prepjaZ7lg/sNvkKVAl/18hFpIlJUftGvvKnqkM2MEyR3uRUw4GYq1cMK+Wl5iaCbAAAA=="
 views = 36850
 likes = 1047
 comments = 285

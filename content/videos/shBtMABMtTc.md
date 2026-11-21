@@ -7,6 +7,8 @@ id = "shBtMABMtTc"
 duration = 1108
 length = "18:28"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAkAA4BaJQBWD+AC4Xtwl4oQAP70mgnNwc4wP9cbcWuDtsGbfQaJnLGzfQnhEVQ69UUCrWlHjfmSomKpdL4xA5T6jM4Zy7LBgSRc90cvFp0AAAA="
 views = 28725
 likes = 1058
 comments = 145

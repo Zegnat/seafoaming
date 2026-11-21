@@ -7,6 +7,8 @@ id = "SNjw-zgSsOs"
 duration = 1105
 length = "18:25"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQAAkAA4BaJaACdAD65j6xiAD+yrNlEclCOvc/3Imb4R8hWcK7EGcBcfnc2EXlL/KPd0UKX7bh5Xf1HGcZC6LHIBAVvuuwgUc1zaKPvAA="
 views = 29039
 likes = 975
 comments = 189

@@ -7,6 +7,8 @@ id = "47NCT-szZbQ"
 duration = 15870
 length = "4:24:30"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJYgC7ADc+NqoS6AA/qWVVbdFmtBRpM4dQ9onXuHB9UgS4YVZbyc8gF9HWRznYX2RmItYTVePm8CM+iWPcUzsxHYuWJvsh4bMAmwAAAA="
 views = 7199
 likes = 373
 comments = 9

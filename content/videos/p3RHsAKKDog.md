@@ -7,6 +7,8 @@ id = "p3RHsAKKDog"
 duration = 2247
 length = "37:27"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAkAA4BaJagCdADJfWQB7QAA/uy7b6y5kj1tvmFfMbOwtwRSMZA06uNPIA0tk5PQ3O5Rnih/t9exa3Hyi9ePNcX5P9NkmfNAAA=="
 views = 32938
 likes = 1492
 comments = 148

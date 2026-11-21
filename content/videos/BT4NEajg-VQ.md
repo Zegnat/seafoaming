@@ -7,6 +7,8 @@ id = "BT4NEajg-VQ"
 duration = 731
 length = "12:11"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAA4BaJZACdACUaGLAAAD9MuK5a5yoqvsqw4zZNlbFshPwehN1AdVFNkSY5XJ4rim1J0M8PmQGEbCR9uDWNVvR769tzgAAAA=="
 views = 87895
 likes = 2335
 comments = 774

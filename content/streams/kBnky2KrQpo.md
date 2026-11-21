@@ -7,6 +7,9 @@ id = "kBnky2KrQpo"
 duration = 8564
 length = "2:22:44"
 availability = "unlisted"
+status = "unlisted"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAkAA4BaJbACdAYstVorby3oAADid6k8uBCKhaasknbIfpM8ntn5fEbXqb1vMZlrZJqgtfQfuTO7OWaZkaRDtkcRnGSOstl6UjjFzp0SFiTHad99hq/DgAA="
 views = 2465
 likes = 122
 comments = 20

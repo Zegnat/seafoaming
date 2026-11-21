@@ -7,6 +7,8 @@ id = "Dk_ibU-4Nik"
 duration = 911
 length = "15:11"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJbACdAEDEh9/dioAAP7CQSa495ZNs5jB7hSuYXS+DBHnEcK/UKOgCDEWieicnGpY7/HNHaI5TBtjhH6eQTIl1ei138tfvsdAsnAvt+bFnnWEAAA="
 views = 248072
 likes = 5859
 comments = 1900

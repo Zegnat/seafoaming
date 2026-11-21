@@ -7,6 +7,8 @@ id = "Jr-l1tz4zSs"
 duration = 745
 length = "12:25"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAkAA4BaJYwCdAEUTdG6UpYzAAD+9dsY58YVuQIzd4V8h3qiXBiegn82PHOi4tjESRJWyMj/DQ2Cbjl+dzLcK7sbqkj/b8hJbHH8Vs9CBv31ME0QWpHNoGG+4crAYoAAAA=="
 views = 121770
 likes = 2423
 comments = 288

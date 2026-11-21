@@ -7,6 +7,8 @@ id = "SduCuE-PLWc"
 duration = 58
 length = "0:58"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAkAA4BaJQBdgCFsCvFSrAD++UgbP9d6tlS2KBaSkG4nDkBfJxcjAktoqH1mKUdp1XcpAAA="
 views = 7698
 likes = 629
 comments = 23

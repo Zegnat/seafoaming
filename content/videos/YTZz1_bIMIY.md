@@ -7,6 +7,8 @@ id = "YTZz1_bIMIY"
 duration = 818
 length = "13:38"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAkAA4BaJagCdAYtV2rVSe0CKAAA/uo2X8Bq4T+ACYgx/J/39JJbBmUs1JVzotvshtyYNzqBa6D0UuE4LdDmHpu0xMIbKbz/jtD8Kl8AZC5sk9UKq9nNnMGunMOAAAA="
 views = 83223
 likes = 3046
 comments = 257

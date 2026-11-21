@@ -7,6 +7,8 @@ id = "NLPL3ByIFBQ"
 duration = 7316
 length = "2:01:56"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJQBOgB060EKeAAD+7ldi/zoYEP9KEYtz3uJf3xd9lh1+ez1oxAZwspCZ/HKc+TFBQMEltB8K73nICadgFMtQ/B1tSIvm66XAAA=="
 views = 9823
 likes = 289
 fetched = 2026-11-21

@@ -7,6 +7,8 @@ id = "TGLYCsyQ31g"
 duration = 1310
 length = "21:50"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAQCdASoQAAkAA4BaJagCdADHaMd3C8AA/uiB2VnH9E31l1f8MbRYJSHYQVrfoMc2Y+E7qZ4QrdnSGSVEoKmHcfWlpvn8UlWJecoyGAeXZxr4jsA0/6alxPjQ+VWk6kZFSEeAAAA="
 views = 214480
 likes = 3737
 comments = 1300

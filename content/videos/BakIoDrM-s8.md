@@ -7,6 +7,8 @@ id = "BakIoDrM-s8"
 duration = 347
 length = "5:47"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJYgCdAD7g+JIPSL4AP7FC3pZtS/xCpFBozpjLLgJX9CGUfyCp4R3e98M0bkDQE0wu3luo9fm1NFG0Vi9FWwoit62FeXM2JZJpdZgQWwokBDiAAA="
 views = 149960
 likes = 2938
 comments = 859

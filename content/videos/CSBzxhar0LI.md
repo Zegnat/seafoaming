@@ -7,6 +7,8 @@ id = "CSBzxhar0LI"
 duration = 1670
 length = "27:50"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAgCdASoQAAkAA4BaJaACdG1/tv/dAASF98yHk5AAAP7nT4oBZkW7nUh3gsnrXrnK00DoTR5uMNcFNgfd6Il7pfwox14e2M3SFNiYrDEUCuRpRQYAbkhgHR2ZIGzKSeAAAA=="
 views = 305986
 likes = 7444
 comments = 1100

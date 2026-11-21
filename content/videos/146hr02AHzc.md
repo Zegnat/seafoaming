@@ -7,6 +7,8 @@ id = "146hr02AHzc"
 duration = 1757
 length = "29:17"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAkAA4BaJQBdgMW04ChPFdoAAP7zMPVT8rA/TPy5ccOSiZ/D8PujjMXa+Lj0M+R6u0GOOt5hxThz9FYmW9HvMrVnxiDz1th5+FFKnhXrnI9Dzq6ODigECzK95rdPCQAAAA=="
 views = 164803
 likes = 4427
 comments = 643

@@ -7,6 +7,8 @@ id = "6j51h_dfsf8"
 duration = 15
 length = "0:15"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAkAA4BaJYgCdACjC8TgAP7vjR1B3rRd+c4KSURqdm/wUPsDDLCSYVblDjJ6kivOaQUkWcjs8fA/30nL8DVyYx3AAA=="
 views = 15134
 likes = 922
 fetched = 2026-11-21

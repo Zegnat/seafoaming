@@ -7,6 +7,8 @@ id = "Ptg59LkfBBA"
 duration = 885
 length = "14:45"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJQBOgCP1J9c8SIAA9dXmHw3++BG1Yuq7DrPl2JJ4gTkwVjFX9uLu/jSLpk0E6FqhyuNcHFTnp/RKezPr/FiKBG7BOO1dgYhL3cpAAAA="
 views = 189966
 likes = 3292
 comments = 633

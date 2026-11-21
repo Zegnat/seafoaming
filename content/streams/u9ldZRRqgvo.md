@@ -7,6 +7,9 @@ id = "u9ldZRRqgvo"
 duration = 9510
 length = "2:38:30"
 availability = "unlisted"
+status = "unlisted"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAA4BaJQAAXZX41fvXQAD+68EFjCVu//qKpNvzk6ceTHhwhipSsbn5ASsWPHbpzqf3VsXJhLnF2JVgCoZ5fO2089YTDCAAAA=="
 views = 14654
 likes = 460
 comments = 24

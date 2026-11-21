@@ -7,6 +7,8 @@ id = "BrAb_t9gdqw"
 duration = 1076
 length = "17:56"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJQBOgBmCuog7bAAA/ulWekaHue79JwHJkH1Ku1ANV0gt7e1TzXixY2yqn3bP8MxlI7phwlz6Be3uRhEGf3RRL98gc3KQAAA="
 views = 7479
 likes = 195
 comments = 48

@@ -7,6 +7,8 @@ id = "x5XS1TIOZEI"
 duration = 1219
 length = "20:19"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAkAA4BaJbACdAEWvMXk0IgA/DDOmdwvv4c+ZbVb3YXSF2YkDTZYbksYxm7T3QywEHOJ9fu4a4KZWqNkRVsQgMV+sUAj44GcdkqfaKPuxfMwxzxiXZIAAAA="
 views = 15969
 likes = 726
 comments = 70

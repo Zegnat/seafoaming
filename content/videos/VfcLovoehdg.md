@@ -7,6 +7,8 @@ id = "VfcLovoehdg"
 duration = 359
 length = "5:59"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAQCdASoQAAkAA4BaJagCdADzeSp4APau/5T4zVvMpZ5+3Y0CCXvepKfxZSd3OUzi2KeyV5FqR1Dg+qUi9UCDdLn7MO7dwtQuz00zrrfPW0tV8kTmXn5OWkV5aoQAAAA="
 views = 9098
 likes = 279
 comments = 139

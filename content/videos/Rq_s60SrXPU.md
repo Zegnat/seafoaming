@@ -7,6 +7,8 @@ id = "Rq_s60SrXPU"
 duration = 1619
 length = "26:59"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAA4BaJZACdADROzO1IAD+0mnn3Vs4uTTJFTBTahEdkgiNAcxvDlg+7sZxnI5SfMF7zIDAF2//gbIC9Dz1JbtFN8LosqAAAA=="
 views = 310973
 likes = 5019
 comments = 887

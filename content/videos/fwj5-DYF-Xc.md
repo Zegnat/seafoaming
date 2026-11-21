@@ -7,6 +7,8 @@ id = "fwj5-DYF-Xc"
 duration = 1213
 length = "20:13"
 availability = "public"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJbACdACv/JccAAD+8guK/DMCV1hU2HB/Cibpm9iEezmQZDwLT7G8YSB1edwTgs9jMdTnCqv57LdZ3ux71gyJhuIHA3amb9hZNA2IAAA="
 views = 116700
 likes = 3251
 comments = 366

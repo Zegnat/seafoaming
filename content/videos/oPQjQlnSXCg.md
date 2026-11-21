@@ -7,6 +7,9 @@ id = "oPQjQlnSXCg"
 duration = 24
 length = "0:24"
 availability = "unlisted"
+status = "unlisted"
+age_restricted = false
+placeholder = "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkAA4BaJZwAAlxEqNTgAP75yOttunnPvk5nN4qfZJvbC4DSM5fgmwqZvtj2NYAAAA=="
 views = 11245
 likes = 186
 fetched = 2026-11-21
