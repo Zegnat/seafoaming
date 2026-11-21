@@ -140,6 +140,8 @@ function videoPage(info: Info, placeholder: string | null) {
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
+    // yt-dlp gives no comment count when the comments are turned off.
+    `comments_off = ${toml(info.comment_count == null)}`,
     `fetched = ${fetched}`,
     `description = ${toml(info.description || "")}`,
     "chapters = [",

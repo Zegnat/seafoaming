@@ -1,7 +1,8 @@
 {
   "imports": {
     "@std/encoding": "jsr:@std/encoding@1",
-    "sharp": "npm:sharp@0.34.5"
+    "sharp": "npm:sharp@0.34.5",
+    "thumbhash": "npm:thumbhash@0.1.1"
   },
   "nodeModulesDir": "auto",
   "tasks": {

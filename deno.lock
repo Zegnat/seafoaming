@@ -2,7 +2,8 @@
   "version": "5",
   "specifiers": {
     "jsr:@std/encoding@1": "1.0.11",
-    "npm:sharp@0.34.5": "0.34.5"
+    "npm:sharp@0.34.5": "0.34.5",
+    "npm:thumbhash@0.1.1": "0.1.1"
   },
   "jsr": {
     "@std/encoding@1.0.11": {
@@ -213,6 +214,9 @@
       ],
       "scripts": true
     },
+    "thumbhash@0.1.1": {
+      "integrity": "sha512-kH5pKeIIBPQXAOni2AiY/Cu/NKdkFREdpH+TLdM0g6WA7RriCv0kPLgP731ady67MhTAqrVG/4mnEeibVuCJcg=="
+    },
     "tslib@2.9.1": {
       "integrity": "sha512-a4Ux9VKuIMHsOS7ENbEq6hK2ZGYIT27Rtl0E4eD9KqwxhKiQeMZE/9xb3IdYwWaSOyIBQLExhQgXDTYoiCxnWA=="
     }
@@ -220,7 +224,8 @@
   "workspace": {
     "dependencies": [
       "jsr:@std/encoding@1",
-      "npm:sharp@0.34.5"
+      "npm:sharp@0.34.5",
+      "npm:thumbhash@0.1.1"
     ]
   }
 }
