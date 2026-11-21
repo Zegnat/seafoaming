@@ -1,5 +1,5 @@
 # Vendored files stay as their authors wrote them.
-exclude = "^static/vendor/"
+exclude = "^(static/vendor|icons)/"
 
 [[repos]]
 repo = "builtin"
