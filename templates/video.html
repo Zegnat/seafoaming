@@ -29,7 +29,8 @@
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments_off %}<tr><th>Comments</th><td>Turned off</td></tr>{% elif page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
-{% if page.extra.spotify or page.extra.apple_music %}<tr><th>Listen</th><td>{% if page.extra.spotify %}<a href="{{ page.extra.spotify }}">{{<icon name="brands/spotify" />}} Spotify</a>{% endif %}{% if page.extra.spotify and page.extra.apple_music %}, {% endif %}{% if page.extra.apple_music %}<a href="{{ page.extra.apple_music }}">{{<icon name="brands/applemusic" />}} Apple Music</a>{% endif %}</td></tr>{% endif %}
+{% if not gone %}<tr><th>Watch</th><td><a href="{{ url }}">{{<icon name="brands/youtube" />}}YouTube</a></td></tr>{% endif %}
+{% if page.extra.spotify or page.extra.apple_music %}<tr><th>Listen</th><td>{% if page.extra.spotify %}<a href="{{ page.extra.spotify }}">{{<icon name="brands/spotify" />}}Spotify</a>{% endif %}{% if page.extra.spotify and page.extra.apple_music %}, {% endif %}{% if page.extra.apple_music %}<a href="{{ page.extra.apple_music }}">{{<icon name="brands/applemusic" />}}Apple Music</a>{% endif %}</td></tr>{% endif %}
 {% if page.extra.source != "asmrindex" %}<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>{% endif %}
 {% if page.extra.source == "asmrindex" %}<tr><th>Source</th><td><a href="{{ page.extra.source_url }}">The ASMR Index</a></td></tr>{% endif %}
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
@@ -42,7 +43,6 @@
 {% if page.extra.source != "asmrindex" %}<tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>{% endif %}
 </table>
 {% if not gone %}
-<p><a href="{{ url }}">Watch on YouTube</a></p>
 {# Our own thumbnail as the poster, over the blurred placeholder. With a background set, lite-youtube-embed loads no poster from YouTube. #}
 {% set poster = "url('" ~ root ~ "thumbs/" ~ page.extra.id ~ "-640.webp')" if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-640.webp", allow_missing=true) else "" %}
 {# rel=0 limits the suggestions to this channel; YouTube no longer allows turning them off.
