@@ -95,12 +95,14 @@ lite-youtube { max-width: 640px; }
 .thumb img { display: block; }
 /* Hide the alt text that some browsers draw over the placeholder while the image loads; screen readers still read it. */
 .thumb img, .stack img, .strip img { color: transparent; }
-.thumb[style]:hover img, .thumb[style]:focus img { opacity: 0; }
+/* The thumbnail stays for a moment, so the browser can decode the first snapshot behind it without a blank frame. */
+.thumb[style]:hover img, .thumb[style]:focus img { opacity: 0; transition: opacity 0s 150ms; }
 .thumb[style]:hover, .thumb[style]:focus { animation: preview 2.4s steps(1) infinite; }
+/* All three snapshots stay as layers, so they are decoded at the start and the previous one lies under the next one. */
 @keyframes preview {
-  0% { background-image: var(--t1); }
-  33.33% { background-image: var(--t2); }
-  66.67% { background-image: var(--t3); }
+  0% { background-image: var(--t1), var(--t2), var(--t3); }
+  33.33% { background-image: var(--t2), var(--t3), var(--t1); }
+  66.67% { background-image: var(--t3), var(--t1), var(--t2); }
 }
 @media (prefers-reduced-motion: reduce) {
   .thumb[style]:hover, .thumb[style]:focus { animation: none; background-image: var(--t2); }
