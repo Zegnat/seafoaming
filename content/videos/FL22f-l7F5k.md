@@ -1,0 +1,17 @@
++++
+title = "ASMR - BITCHY Girlfriend ~ Nagging & Insulting You to Death ~"
+date = 2017-12-22T13:21:23Z
+
+[extra]
+id = "FL22f-l7F5k"
+duration = 370
+length = "6:10"
+availability = "public"
+views = 168947
+likes = 3646
+comments = 1500
+fetched = 2026-11-21
+description = "WARNING: Swearing, Insults, Nagging, Bitchyness. Don't watch if you take stuff to heart!! This is just a silly roleplay. I had fun doing a bitchy character with vocal fry and eye rolling. but it's short because I ran out of things to be bitchy about LOL. Thanks to my twitter friends for leaving me suggestions!! \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
+chapters = [
+]
++++

@@ -1,0 +1,17 @@
++++
+title = "ASMR - EAR SCRITCHIN' ~ Long Nail Scratching Over Silicone Ears | Whispers & Ear Tapping ~"
+date = 2019-06-07T22:38:06Z
+
+[extra]
+id = "eRpka5F9g_k"
+duration = 840
+length = "14:00"
+availability = "public"
+views = 625609
+likes = 8317
+comments = 656
+fetched = 2026-11-21
+description = "Thanks to Apiology for the commission! Yes another scratching video XD Today I'm scratchin' your ears with my long nails. Smash dat like button if ur leggie shakes like a dog when I scratch behind your ears (･`ω´･)\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #EarScratching #Binaural #Whisper"
+chapters = [
+]
++++

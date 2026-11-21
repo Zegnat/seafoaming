@@ -1,0 +1,17 @@
++++
+title = "ASMR - YOU ARE A MERMAID ~ Untangling You From a Fishing Net! ~"
+date = 2022-09-09T21:06:46Z
+
+[extra]
+id = "ydluRlneCIw"
+duration = 799
+length = "13:19"
+availability = "public"
+views = 46336
+likes = 1937
+comments = 121
+fetched = 2026-11-21
+description = "💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #mermaid"
+chapters = [
+]
++++

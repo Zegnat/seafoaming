@@ -1,0 +1,17 @@
++++
+title = "ASMR🍀QUIRKY GIRL from Class ~ Saves You from Bullies & Cheers You Up 💖 Cute Personal Attention ~"
+date = 2024-06-07T16:16:41Z
+
+[extra]
+id = "6LMWd_KO6IA"
+duration = 1040
+length = "17:20"
+availability = "public"
+views = 48343
+likes = 1946
+comments = 126
+fetched = 2026-11-21
+description = "Clover is a classmate who is popular for her sociability and her bubbly, energetic personality. She wants to be friends with EVERYONE, including you! She spends some time helping you feel better after her friend bullied you! She's a lil oblivious but she's got the spirit lmao :3\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #whispering #personalattention"
+chapters = [
+]
++++

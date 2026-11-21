@@ -1,0 +1,27 @@
++++
+title = "I'M TOUGH I SWEAR..."
+date = 2017-03-02T12:06:52Z
+
+[extra]
+id = "EcBsY9d_HkI"
+duration = 165
+length = "2:45"
+availability = "unlisted"
+views = 11719
+likes = 207
+comments = 36
+fetched = 2026-11-21
+description = "Smolpire tryin to fit in with tough vampires, these were taken for ASMRNoire's video :3"
+chapters = [
+]
++++
+
+## Transcript
+
+This transcript comes from the automatic captions of YouTube.
+
+[0:00](https://www.youtube.com/watch?v=EcBsY9d_HkI&t=0s) hi of course I work here and you know it's a littler task people who got their fangs if you insist on knowing I was born with a birth defect so if you make fun of me that's discrimination yep unfortunately for me that's what happens when your dad knocks up a human but you know I'm actually very dangerous so don't let this change your opinion on me because I'm very threatening and very dangerous uh-oh you know the item just sucks critter blood I sucked the blood of a human last week ever seen a vampire puncture a hole in five humans that's nothing one time I trained a critter to sneak up on a human and when they weren't looking he tied their shoes together they fell
+
+[1:02](https://www.youtube.com/watch?v=EcBsY9d_HkI&t=62s) down and then I poked a hole in her neck hey-ho but then he got up and then he he swatted a neck and thought it was a mosquito in him locked away but I got him I got him still when I was a kid all the other kids would totally avoid me because I was so scary it wasn't because I was a freak or a loser or anything just because I was really scary I'm very rough and tough I grew up in the forest so you know that I'm resilient oh how do you know that one time I poked a hole in five humans yeah yep yep yep yep this thing is good for something and it's poking holes in humans and critters most recruiters my main critter Bentley
+
+[2:04](https://www.youtube.com/watch?v=EcBsY9d_HkI&t=124s) his girlfriend's family won't even let her come near me because they're so afraid that elbows suck their blood I'm pretty terrifying I don't even need to be violent to humans I have this one person who lets me feed on them whenever I want I'm so tough that when the other kids made fun of my Fang I only cried for 20 minutes you
