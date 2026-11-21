@@ -1,5 +1,6 @@
 +++
 title = "Cosplay"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqFGTan1GADfo_Ntd3KOFMr2"

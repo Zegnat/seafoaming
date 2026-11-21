@@ -1,5 +1,6 @@
 +++
 title = "The Puppeteer"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqGijCBooVb7RFs6Zqnop_sD"

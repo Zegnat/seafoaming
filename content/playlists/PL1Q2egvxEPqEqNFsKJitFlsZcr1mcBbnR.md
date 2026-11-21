@@ -1,5 +1,6 @@
 +++
 title = "Miss Spooky the Ghost Girl"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqEqNFsKJitFlsZcr1mcBbnR"

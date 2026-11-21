@@ -1,5 +1,6 @@
 +++
 title = "Ear/Scalp Massage"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqErLDfmHhw0PaZBrBEk6d2Y"

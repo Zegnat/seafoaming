@@ -13,6 +13,7 @@ title = "YouTube"
 links = [
   { label = "Seafoam Kitten ASMR", note = "The main channel", url = "https://www.youtube.com/@SeafoamKitten", icon = "brands/youtube" },
   { label = "Second channel", url = "https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g", icon = "brands/youtube" },
+  { page = "playlists/PL1Q2egvxEPqFCPiZwAp6miuCj9UmpoTZV.md", note = "Videos by other creators that Seafoam Kitten likes", icon = "playlist" },
 ]
 
 [[extra.groups]]

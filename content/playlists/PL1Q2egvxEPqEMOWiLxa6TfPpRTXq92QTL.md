@@ -1,5 +1,6 @@
 +++
 title = "Unlisted Videos/Goofs"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqEMOWiLxa6TfPpRTXq92QTL"

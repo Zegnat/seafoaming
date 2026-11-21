@@ -1,5 +1,6 @@
 +++
 title = "Smol Idiot Vampire"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqHSBUtxbeZBXMyJ8ExR66QN"

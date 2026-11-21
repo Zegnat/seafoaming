@@ -1,5 +1,6 @@
 +++
 title = "RP Shorts"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqH_bkCwHI1t6ASXnVJP2Biw"

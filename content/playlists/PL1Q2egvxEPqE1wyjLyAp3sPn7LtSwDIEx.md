@@ -1,5 +1,6 @@
 +++
 title = "Ear Cleaning"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqE1wyjLyAp3sPn7LtSwDIEx"

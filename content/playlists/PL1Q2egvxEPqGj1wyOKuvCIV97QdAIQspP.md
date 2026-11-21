@@ -1,5 +1,6 @@
 +++
 title = "Ember the Tsundere Dragon Girl"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqGj1wyOKuvCIV97QdAIQspP"

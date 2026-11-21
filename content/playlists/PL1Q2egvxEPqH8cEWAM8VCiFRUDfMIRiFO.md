@@ -1,5 +1,6 @@
 +++
 title = "Bubblemint the Friendly Dragon"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqH8cEWAM8VCiFRUDfMIRiFO"

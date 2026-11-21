@@ -1,5 +1,6 @@
 +++
 title = "Yuki the Tsundere Yokai"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqGmHVMTm3FcRd9Uh6BvcpfZ"

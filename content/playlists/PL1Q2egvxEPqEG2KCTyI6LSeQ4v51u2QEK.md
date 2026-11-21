@@ -1,5 +1,6 @@
 +++
 title = "Past Livestreams"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqEG2KCTyI6LSeQ4v51u2QEK"

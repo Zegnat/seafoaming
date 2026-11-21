@@ -1,5 +1,6 @@
 +++
 title = "Club ZZZ/Backstreet Series"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqGmS_tpKFVWPe_GOTPtxJKr"

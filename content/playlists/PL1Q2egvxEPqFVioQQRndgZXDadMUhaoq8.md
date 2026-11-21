@@ -1,5 +1,6 @@
 +++
 title = "Pure Sounds"
+hidden = false
 
 [extra]
 id = "PL1Q2egvxEPqFVioQQRndgZXDadMUhaoq8"

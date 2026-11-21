@@ -1,11 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {{ page.content | safe }}
 {% for group in page.extra.groups %}
 <h2>{{ group.title }}</h2>
 {% if group.intro %}<p>{{ group.intro }}</p>{% endif %}
 <ul class="links">
-{% for link in group.links %}<li><a href="{{ link.url }}">{{<icon name={link.icon} size={22} />}}<span><b>{{ link.label }}</b>{% if link.note %}<small>{{ link.note }}</small>{% endif %}</span></a></li>
+{% for link in group.links %}
+{# A link to a page of this wiki has "page" instead of "url", and takes its label from that page. #}
+{% set target = get_page(path=link.page) if link.page else none %}
+<li><a href="{% if target %}{{ root }}{{ target.path | trim_start(pat="/") }}{% else %}{{ link.url }}{% endif %}">{{<icon name={link.icon} size={22} />}}<span><b>{{ link.label or target.title }}</b>{% if link.note %}<small>{{ link.note }}</small>{% endif %}</span></a></li>
 {% endfor %}
 </ul>
 {% endfor %}

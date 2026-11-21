@@ -7,6 +7,7 @@ const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
 const COMMUNITY = `${ROOT}community/videos`;
 const REPOSITORY = "https://github.com/Zegnat/seafoaming";
+const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
 const PARAGRAPH_SECONDS = 60;
 const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
 const LANGUAGES = new Intl.DisplayNames(["en"], { type: "language" });
@@ -247,12 +248,17 @@ function videoPage(info: Info, placeholder: string | null) {
 function playlistPage(data: Info, placeholders: Map<string, string | null>) {
   const entries: Info[] = data.entries ?? [];
   // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
+  // A playlist of mostly other channels, such as Favorite ASMR, keeps its page but is hidden from the playlist list.
+  const known = entries.filter((e) => e.channel_id);
+  const own = known.filter((e) => e.channel_id === CHANNEL_ID).length;
+  const hidden = known.length > 0 && own / known.length < 0.5;
   const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1];
   const stack = [...new Set([thumbnail, ...entries.map((e) => e.id)])]
     .filter((id) => id && exists(`${ROOT}static/thumbs/${id}-320.webp`)).slice(0, 3);
   return [
     "+++",
     `title = ${toml(data.title)}`,
+    `hidden = ${toml(hidden)}`,
     "",
     "[extra]",
     `id = ${toml(data.id)}`,
