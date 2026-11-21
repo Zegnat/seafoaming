@@ -5,7 +5,7 @@
 <h2>{{ group.title }}</h2>
 {% if group.intro %}<p>{{ group.intro }}</p>{% endif %}
 <ul class="links">
-{% for link in group.links %}<li><a href="{{ link.url }}">{{<icon name={link.icon} size={20} />}}{{ link.label }}</a>{% if link.note %} <span class="small">{{ link.note }}</span>{% endif %}</li>
+{% for link in group.links %}<li><a href="{{ link.url }}">{{<icon name={link.icon} size={22} />}}<span><b>{{ link.label }}</b>{% if link.note %}<small>{{ link.note }}</small>{% endif %}</span></a></li>
 {% endfor %}
 </ul>
 {% endfor %}

@@ -7,18 +7,16 @@ title = "YouTube"
 links = [
   { label = "Seafoam Kitten ASMR", note = "The main channel", url = "https://www.youtube.com/@SeafoamKitten", icon = "brands/youtube" },
   { label = "Second channel", url = "https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g", icon = "brands/youtube" },
-  { label = "Channel membership", url = "https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join", icon = "brands/youtube" },
 ]
 
 [[extra.groups]]
-title = "Social media"
+title = "Support"
 links = [
-  { label = "X (Twitter)", url = "https://x.com/SeafoamKitten", icon = "brands/x" },
-  { label = "Instagram", url = "https://www.instagram.com/seafoamkittenasmr/", icon = "brands/instagram" },
-  { label = "Instagram", note = "Art", url = "https://www.instagram.com/skooshyart/", icon = "brands/instagram" },
-  { label = "TikTok", url = "https://www.tiktok.com/@seafoamkittenasmr", icon = "brands/tiktok" },
-  { label = "TikTok", note = "Art and animation", url = "https://www.tiktok.com/@seafoamkitten", icon = "brands/tiktok" },
-  { label = "Discord server", url = "https://discord.com/invite/Khy3rHj", icon = "brands/discord" },
+  { label = "Channel membership", url = "https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join", icon = "brands/youtube" },
+  { label = "Patreon", url = "https://www.patreon.com/SeafoamKittenASMR", icon = "brands/patreon" },
+  { label = "Merch on Bonfire", url = "https://www.bonfire.com/seafoamsweetdreams/", icon = "shirt" },
+  { label = "PayPal", url = "https://www.paypal.com/paypalme/SeafoamKitten", icon = "brands/paypal" },
+  { label = "Amazon wishlist", url = "https://www.amazon.ca/hz/wishlist/ls/2FFSIYDQ7SCB7", icon = "gift" },
 ]
 
 [[extra.groups]]
@@ -30,12 +28,14 @@ links = [
 ]
 
 [[extra.groups]]
-title = "Support"
+title = "Social media"
 links = [
-  { label = "Patreon", url = "https://www.patreon.com/SeafoamKittenASMR", icon = "brands/patreon" },
-  { label = "Merch on Bonfire", url = "https://www.bonfire.com/seafoamsweetdreams/", icon = "shirt" },
-  { label = "PayPal", url = "https://www.paypal.com/paypalme/SeafoamKitten", icon = "brands/paypal" },
-  { label = "Amazon wishlist", url = "https://www.amazon.ca/hz/wishlist/ls/2FFSIYDQ7SCB7", icon = "gift" },
+  { label = "X (Twitter)", url = "https://x.com/SeafoamKitten", icon = "brands/x" },
+  { label = "Instagram", url = "https://www.instagram.com/seafoamkittenasmr/", icon = "brands/instagram" },
+  { label = "Instagram", note = "Art", url = "https://www.instagram.com/skooshyart/", icon = "brands/instagram" },
+  { label = "TikTok", url = "https://www.tiktok.com/@seafoamkittenasmr", icon = "brands/tiktok" },
+  { label = "TikTok", note = "Art and animation", url = "https://www.tiktok.com/@seafoamkitten", icon = "brands/tiktok" },
+  { label = "Discord server", url = "https://discord.com/invite/Khy3rHj", icon = "brands/discord" },
 ]
 
 [[extra.groups]]

@@ -7,7 +7,8 @@ nav ul { list-style: none; padding: 0; margin: 0.5em 0; }
 nav li { margin: 0.2em 0; }
 nav .other { border-top: 1px solid #c8ccd1; padding-top: 0.5em; }
 /* Flex drops the whitespace around the icon, so the hover underline only covers the label. */
-nav a, .links a { display: inline-flex; align-items: center; gap: 0.4em; }
+nav a { display: inline-flex; align-items: center; gap: 0.4em; }
+.links a { display: flex; align-items: center; gap: 0.7em; }
 main { margin-left: 192px; padding: 1em 1.5em; background: #fff; border: 1px solid #a7d7f9; border-right: 0; min-height: 80vh; }
 footer { margin-left: 192px; padding: 1em 1.5em; font-size: 0.85em; color: #54595d; }
 h1, h2 { font-family: "Linux Libertine", Georgia, Times, serif; font-weight: normal; border-bottom: 1px solid #a2a9b1; }
@@ -60,8 +61,11 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .num { text-align: right; }
 /* Simple Icons have no fill of their own; give them the color of the link, like the Tabler icons. */
 .icon svg[role="img"] { fill: currentColor; }
-.links { list-style: none; padding: 0; columns: 2 16em; }
-.links li { margin: 0.3em 0; break-inside: avoid; }
+.links { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15em, 1fr)); gap: 0.5em; max-width: 52em; }
+.links a { height: 100%; box-sizing: border-box; padding: 0.5em 0.8em; border: 1px solid #a2a9b1; border-radius: 3px; background: #f8f9fa; }
+.links a:hover, .links a:focus-visible { background: #eaecf0; border-color: #72777d; text-decoration: none; }
+.links a > span:not(.icon) { display: flex; flex-direction: column; }
+.links a small { color: #54595d; font-size: 0.85em; font-weight: normal; }
 
 .tag { display: inline-block; font-size: 0.75em; line-height: 1.4; padding: 0 0.4em; border: 1px solid #a2a9b1; background: #f8f9fa; color: #54595d; white-space: nowrap; vertical-align: 1px; }
 .tag-removed, .tag-private, .tag-unavailable { border-color: #b32424; color: #b32424; }
