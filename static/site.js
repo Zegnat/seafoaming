@@ -32,6 +32,10 @@ addEventListener(
   (e) => e.viewTransition && nameDuring(thumbFor(navigation.activation?.from?.url), e.viewTransition, "ready"),
 );
 
+// lite-youtube-embed opens connections to YouTube and to Google ad servers when the pointer moves over the player.
+// Marking them as done stops that, so the page contacts no other website before the visitor starts a video.
+customElements.whenDefined("lite-youtube").then(() => customElements.get("lite-youtube").preconnected = true);
+
 // Open chapter and transcript links of the current video in the embedded player instead of on YouTube.
 // Without JavaScript, or with a modifier key, the links still go to YouTube.
 const YOUTUBE = "https://www.youtube-nocookie.com";
