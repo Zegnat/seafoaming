@@ -88,7 +88,7 @@ videos = [
   { id = "hdUX91ZBKNM", title = "BIDEOGAMES & CHILL - South Park: Stick of Truth [Part 2]" },
   { id = "kBnky2KrQpo", title = "Unboxing a MunchPak & Playing Dream Daddy" },
   { id = "N9pzsTMn6Z8", title = "Dream Daddy & Chill" },
-  { id = "KUoTtYO-U60", title = "Drunk Hangout w/ Seafoam Kitten & SubstanceASMR!" },
+  { id = "KUoTtYO-U60", title = "Drunk Hangout w/ Seafoam Kitten & SubstanceASMR!", channel = "IndigoStars ASMR", channel_url = "https://www.youtube.com/channel/UCWCbQvXStFfA2eFxofU4Gbw", length = "2:09:33", duration = 7773, views = 18000, folder = "others", placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASogABIAPtFYpEuoJSOhsAgBABoJZQC7ACPtj+72fmTAAP72r0mm4L86H/ldSaONpm3hGu4rmMi9I8fkDFHn4fJxckPbA8THmXtCEX/hgAA=" },
   { id = "G2wUzujUbiA", title = "Bideo Games & Chill 3" },
   { id = "oBq5WiP5Ggg", title = "DREAM DADDY & CHILL" },
   { id = "ot-rlL_sMPw", title = "Bideo Games & Chill 2" },
