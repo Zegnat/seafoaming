@@ -3,7 +3,11 @@ title = "Roleplays"
 
 [extra]
 id = "PL1Q2egvxEPqFVfSBYZVT1EDf2tie7Qz5E"
-stack = ["x5XS1TIOZEI","nnO0IB3nU50","6KDUwJjAbc4"]
+stack = [
+  { id = "x5XS1TIOZEI", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASogABIAPs1WpEunpKOhsBgMAPAZiWIAvdAO9PAEArAh4Y0aogAA/tzSsnicIMLxa3jZG8M2g/b7i0jd2NBLNbqi6nRcs1VClauEMGiDT54wVDNgw5FIfQTxPz+ANkg15+ZxTch8gAA=" },
+  { id = "nnO0IB3nU50", placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASogABIAPsFIn0unpCKht/qoAPAYCWYArDlBOvAIzTljcjTOyc+1aDvTIZzfY7vYAP70rr3sNTx1BsOPG8avqWbxgjrf5gMw+HtAaJuH4a9Tbm9tPGRltTwiDNGXhrnjuiWwYW6soEcG6ivdAcoVSiFbMv7EAAAA" },
+  { id = "6KDUwJjAbc4", placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwC1G5NEIA3G8BRghHTpCUfag3+xtDQAAP7BPkuaUlf26ZGTLQR1G+D3axX8rJMXDvuvm/Kn03XUc3cYoL4ubXD0A5iWlMAAAA==" },
+]
 views = 948034
 updated = 2026-11-21
 fetched = 2026-11-21

@@ -3,7 +3,11 @@ title = "Bubblemint the Friendly Dragon"
 
 [extra]
 id = "PL1Q2egvxEPqH8cEWAM8VCiFRUDfMIRiFO"
-stack = ["Il-nVTxXaEo","ngUO6Btvj-o","8DqY949Xh2Y"]
+stack = [
+  { id = "Il-nVTxXaEo", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFQpUwoJC+iMBgMAfAaCUAXYAZoJ7HHVj8mI+KPRf31x5aYgAD+SHEO56kEiffrKBn1Ws01qZWSAzlqhdDPHyh9PUx8gEgvn8EekVEq6TbKDC28x4lI59SD6lpAAA==" },
+  { id = "ngUO6Btvj-o", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPr1Sn0unJSMht/qoAOAXiWIAuwAbmaodP1cxOBw3bUG7Qb4ctYAA/ozr1RjDIjQlC8t6VpLMerAq5Ua8pfbf7lBDwvYMtgQKJneUIUlAczx8zHXzZQoOgY302mnm3EA+JAA=" },
+  { id = "8DqY949Xh2Y", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWUAuwAhqc9wBIGqJx+uQNA7fQAA/vS2Fa/G8zzYQshbIX4JfZE0qK9nSY0hbigdu+XTVsHzeQMJfYQ7KAoOzaeRto5twAA=" },
+]
 views = 20142
 updated = 2023-05-26
 fetched = 2026-11-21

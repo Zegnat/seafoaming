@@ -3,7 +3,11 @@ title = "Smol Idiot Vampire"
 
 [extra]
 id = "PL1Q2egvxEPqHSBUtxbeZBXMyJ8ExR66QN"
-stack = ["MTlBDXbzD-c","9tcHUwEiPjY","DiCx5SJ3xug"]
+stack = [
+  { id = "MTlBDXbzD-c", placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPsFQn0unpKKht/qoAPAYCWMArAAQShOSMlDEIdsqfgtNlcgAANr662sAhrfET1+WZyOTvvJfmI713FKIRITp02noYeQFK6zF+9mxFx2cVWFR8bCAyYgAAA==" },
+  { id = "9tcHUwEiPjY", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPsFIn0unpCKht/qoAPAYCWcAzYQeBSChZO95tK1ddcTajFEDMAD+3GahLq9GdgMsjLu1Xoug84gk83NmQutOrGPgRjJ66smdpcU87oVCqoY2MsAA" },
+  { id = "DiCx5SJ3xug", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFWpE0oJKOiMBgIAQAaCWUAvkgLFF7nVn7mvdndZZj0gLAA/udtzdb/RgGQiadW0JXUotoasi0cwGh96r8nkVpIZjJCs82u89CsIxTcdVyKoIC4AAA=" },
+]
 views = 236585
 updated = 2024-08-24
 fetched = 2026-11-21

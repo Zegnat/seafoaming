@@ -3,7 +3,11 @@ title = "Unlisted Videos/Goofs"
 
 [extra]
 id = "PL1Q2egvxEPqEMOWiLxa6TfPpRTXq92QTL"
-stack = ["Ldf2vdih5WQ","0QdD_NxdhWg","aBtISiP1g0I"]
+stack = [
+  { id = "Ldf2vdih5WQ", placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPtFUpk2oJCOiMBgIAQAaCUAWI3XgD4HuyDtT8NY13aD40wSAAPG2pwgn+Tg502HChJu3329DXfXWrsePmoKrNan/qOY/IdXdcbscYS/Qnqakx0zAgrAAAA==" },
+  { id = "0QdD_NxdhWg", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPtFapUyoJSOiMBgIAQAaCUAVgAHgLbqiOIN1oYp6n1pzQAD9INZfW8cfDHzFxjqSvZgY90n4IEdeTZG7eTwfe1KXJOlM/6WY3LeL6EymDEarotwA" },
+  { id = "aBtISiP1g0I", placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASogABIAPtFYokuoJSMhsBgMAQAaCWUAvzgPSPUriB7fUFZF4O6AAP1l13pz0+On/b4aoU3r48K8dxroyMVp61igU1WRHNz1XZZaFpkQoAA=" },
+]
 views = 525531
 updated = 2024-07-27
 fetched = 2026-11-21

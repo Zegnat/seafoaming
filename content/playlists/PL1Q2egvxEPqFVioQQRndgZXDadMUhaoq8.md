@@ -3,7 +3,11 @@ title = "Pure Sounds"
 
 [extra]
 id = "PL1Q2egvxEPqFVioQQRndgZXDadMUhaoq8"
-stack = ["PFrcluasMqg","xJJkd_ezp4c","QNdQnhPGKhI"]
+stack = [
+  { id = "PFrcluasMqg", placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQBACdASogABIAPtFapEwoJSOiMAgBABoJZwDMWBu1QfPr6c9PQIKIMlXJhy+WwADiPL7o8UqUza1NMMho3uFVNYwSlK/u7vOymhFzM8ehiEC31Vlo9k0AAAA=" },
+  { id = "xJJkd_ezp4c", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASogABIAPtFYpUuoJaOhsAgBABoJYwC06BuCK5DEBIrabke3g0cAAP0zTYqmJKluq2QLTxjkqXhwOfUN8bljBfSojoISAZVgyAl9ZlrDC18xliyDDiOj6AAA" },
+  { id = "QNdQnhPGKhI", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBQCdASogABIAPtFWoUuoJKMhsBgMAQAaCUATpzG3m24ADGgu2pi1Nqw2gOoPEGrAAP5vvhgmwggFg0qUGW48leolYWDwSBLKrGj7toFsemgKeaFojhN0b89uPw5LgAA=" },
+]
 views = 7304
 updated = 2017-07-23
 fetched = 2026-11-21

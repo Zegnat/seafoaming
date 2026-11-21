@@ -3,7 +3,11 @@ title = "RP Shorts"
 
 [extra]
 id = "PL1Q2egvxEPqH_bkCwHI1t6ASXnVJP2Biw"
-stack = ["6j51h_dfsf8","BIAT01Kl8tw","HjN60IVp8_0"]
+stack = [
+  { id = "6j51h_dfsf8", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFSo0unpSOhsAwA8BgJYwC2yCFr8iesYcP/53dYQVH0kgAA/vRTp+RAPSHDSvxri0G4fMP1YFYfiy+Pt6bylaeAlY97Vq3XRIMvwFhIEnuxFtTAAAA=" },
+  { id = "BIAT01Kl8tw", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPsFIoEunpCMht/qoAPAYCWhg60YADNvtcBd3zYDg4AJaJgsAAP7216O3m8o3lqupjU43l7lLVbmXkEUdS5+O0OFTsNu58ruN1PrhQIhvbyxsGP4E8cp5RrtooZAAAA==" },
+  { id = "HjN60IVp8_0", placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQBACdASogABIAPtFeqU2oJSQmKAqpABoJYwDHJ1XBo2IeM6P56bqHiYxR0AAA/ul/70QS35Vfqsx6NJ+TqCvd4GYb+YThB9rB4nJKfAuAAA==" },
+]
 views = 1064
 updated = 2024-08-26
 fetched = 2026-11-21

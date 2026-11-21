@@ -3,7 +3,11 @@ title = "Rude/Bitchy ASMR"
 
 [extra]
 id = "PL1Q2egvxEPqGelfCP2YE9YEC5kzLnkeBd"
-stack = ["9Lgf7KOvjEk","L5znKj52LnY","R5pKWYT3NiQ"]
+stack = [
+  { id = "9Lgf7KOvjEk", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPslSoUunqKMht/VYARAZCWMAnTMhhZr8dXnwk4KC+GQg917AIADptsVu4dhfIWYciKv/2Xkikgzvs0+wFlkQBENYEw/7ERaJdWDFqPFuX1APraaOV398bwmwAAA=" },
+  { id = "L5znKj52LnY", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPr1Sn0unMSKht/qoAiAXiWUApxuoAJbkUZaHFhfRYraAAP6Qlwnk54LeZpJUCijSlyfMXG9rsv6P/cEqCSV6yUkFMjwyHNkay82Az8wj6muXEr84+4+oC9wA" },
+  { id = "R5pKWYT3NiQ", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASogABIAPtFYoEwoJSMiMBgMAQAaCWMArhwQ1QrOKuZvqeR4LAAAzbdPnOrh03ZU5+zDbh9Xn55TRlDdFd+uNBo05QVmYmIKFJQF7kjO9Ziyo1OuIYNbs8HUhuz5bAAA" },
+]
 views = 10616
 updated = 2025-01-10
 fetched = 2026-11-21

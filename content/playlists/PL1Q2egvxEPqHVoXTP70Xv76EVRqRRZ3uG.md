@@ -3,7 +3,11 @@ title = "Animal Roleplays"
 
 [extra]
 id = "PL1Q2egvxEPqHVoXTP70Xv76EVRqRRZ3uG"
-stack = ["JvCvgsSQ-No","7W95iO4zgdY","PKIvWNRNMO4"]
+stack = [
+  { id = "JvCvgsSQ-No", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPs1YoUunpSMhsBgMAPAZiWMAuwAQuOQuFFu/7N1jkMtuZZJrMTVAAP5R8WOiW7xcRaaIEhoRuRamvO6+5+x9/PFWtdYlMUp1wHZ2dnWsXB7OaGSpFK7CHXjYvAA=" },
+  { id = "7W95iO4zgdY", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFQpUuoJCOhsBgMAQAaCWIAs6DmREGoKq530AiByKgh840AAOIMrvYfmKy/T87YnjiKt05EUO7FOrARmyS4Ur57iMp9d/lvoeVjJU2OgGgf1AB7AAA=" },
+  { id = "PKIvWNRNMO4", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgCsL68Bz6osJi+0ujMMrYWYPUH3AAD+0dY7ACx2XBSBKpE+C32JuuaWvfpyw10NhvIlzuFhRQxmI3IeUhxSvKvDfMKUPv+kqw4AAAA=" },
+]
 views = 20571
 updated = 2022-12-02
 fetched = 2026-11-21

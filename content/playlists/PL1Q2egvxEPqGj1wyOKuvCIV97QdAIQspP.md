@@ -3,7 +3,11 @@ title = "Ember the Tsundere Dragon Girl"
 
 [extra]
 id = "PL1Q2egvxEPqGj1wyOKuvCIV97QdAIQspP"
-stack = ["4fCQzSvKBiI","_73R5JH-w5o","Gp4If1mVEhQ"]
+stack = [
+  { id = "4fCQzSvKBiI", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFepEwoJaOiMBgIAQAaCWcAzjgLI454GwN5mckMUu9j0AD+MieI7a5HPx6b4S1Ie5s6BduexJg0yr2jOzaL1vs2lggmU6VJdmFJoW9A+Et5HttDddUgj8XEAAA=" },
+  { id = "_73R5JH-w5o", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPtFWpU2oJCMmMBgIAQAaCWMAvkgH99JQXGGf41XJOQjIUAD3BZXV4KY90ruc+feJTl7amK9cOBWGpaJj2WsZQ6mVFG5fUnJhbZlbEDmG7Yh0MAAAAAA=" },
+  { id = "Gp4If1mVEhQ", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPsFMoEunpCMht/qoAPAYCUATpCbAXBpUMs4DgyvEOWgLYeOmwedAAAD+xK453vAR7tgdZv36At2Wgmr4huDeyIeclD+IG4nF7emfpE5glqUfYFHVwYSeg3mOPXQgAA==" },
+]
 views = 1103571
 updated = 2020-10-31
 fetched = 2026-11-21

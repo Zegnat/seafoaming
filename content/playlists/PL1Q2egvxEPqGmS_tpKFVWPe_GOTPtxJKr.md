@@ -3,7 +3,11 @@ title = "Club ZZZ/Backstreet Series"
 
 [extra]
 id = "PL1Q2egvxEPqGmS_tpKFVWPe_GOTPtxJKr"
-stack = ["Fp9iQSEvA3k","XNMxt06Ec4I","I4jIEvBXLhk"]
+stack = [
+  { id = "Fp9iQSEvA3k", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBQCdASogABIAPtFcpU0oJSOiMBgIAQAaCWIArC+wxkASjQq2wbRlScrhKSxKgZDmyWAA/MZWVcx1DLY+3VQwbRlJg056qR1CsweL125gd7vFyeVyf3yaT8poQUMJGwmtNS6BgAA=" },
+  { id = "XNMxt06Ec4I", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPs1Uo0unpKMhsBgMAPAZiWMAnQAv3od+QvpSF/WOMz9kuC6wAP7CHjYu8aheOYP2XT/kPhA5AV8iB6BUyyd9Rl2wlaoAqbhCPXTPZORKCFXh1ZYeeHZXIAAA" },
+  { id = "I4jIEvBXLhk", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASogABIAPtFcpUyoJSOlsBgIAQAaCUAWnQISyr37lY9TFuAA/ru4MhVbLLl7ri/3mv4oZ+8X4gXn2RnsOofEsUyH8ufLK4M+ufcdBQdUeGQ2XFl5nyzUAAAA" },
+]
 views = 6996
 updated = 2022-12-02
 fetched = 2026-11-21

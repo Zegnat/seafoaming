@@ -3,7 +3,11 @@ title = "Affection/Affirmation ASMR"
 
 [extra]
 id = "PL1Q2egvxEPqGNf9IPScORQ6y1OGZSaq1A"
-stack = ["0j__1LK67t4","hYjs6I3P20M","L5znKj52LnY"]
+stack = [
+  { id = "0j__1LK67t4", placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFWo0woJKMiMAgBABoJZQC4MBnuCQFBQfRp6lOyzZMaCN65wAD+t6WN5Gj0qEv4epY/NwUp0Krt3q0Qe93jsvBt0hazYG0DTGVv8rGx3JeE76LwU7SgxKtUPvvKgAAA" },
+  { id = "hYjs6I3P20M", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPtFYpkyoJSOiKA1RABoJZQDO7AoqK6Iuq9+ZuhI7weAA8yOYD2bqUvrC6GA8/DXXZAWoLG778HrinyANYHVX5O82pw6j+gdDSHrD1LL2r4TrAAAA" },
+  { id = "L5znKj52LnY", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPr1Sn0unMSKht/qoAiAXiWUApxuoAJbkUZaHFhfRYraAAP6Qlwnk54LeZpJUCijSlyfMXG9rsv6P/cEqCSV6yUkFMjwyHNkay82Az8wj6muXEr84+4+oC9wA" },
+]
 views = 17562
 updated = 2023-05-26
 fetched = 2026-11-21

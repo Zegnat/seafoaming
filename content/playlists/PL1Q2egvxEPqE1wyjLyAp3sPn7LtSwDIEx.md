@@ -3,7 +3,11 @@ title = "Ear Cleaning"
 
 [extra]
 id = "PL1Q2egvxEPqE1wyjLyAp3sPn7LtSwDIEx"
-stack = ["5-HnHucUlns","DGH09ecq7rc","JBB9KUqi2sg"]
+stack = [
+  { id = "5-HnHucUlns", placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwCdISAExy/y8hvSV9k4scXTQ8Y1qMIHWkwA/NMBkN1pnZ2b0VROhLBc5Hm2rI6nT2zBldbDtL/5/+rVXHKIIKWHQ6ju9bxXz1sOoE0OQr8EnOpAi6zW0AA=" },
+  { id = "DGH09ecq7rc", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPslSokunrKMht/VYAZAZCWUAvdAJD5yeIw/yajsfVAD8nMxCSozTfbFzpg4mC1ZfVmmrfNRSnNtXWnx6jlWFtook3hS/cmphsbHjlgXRVmSZ8AAA" },
+  { id = "JBB9KUqi2sg", placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPtFWokuoJKMhsAgBABoJQBWGZDBdrgGDpJksAYCyO70QLuwAAPewmOsrV5JPcrge8xAPPdQhvgQtuQXgJCa9QZF0pghUGq2guVaNxquy6i7rIX6s/xbAaKNmXsoRF7YNvoAAAA==" },
+]
 views = 6955
 updated = 2022-12-02
 fetched = 2026-11-21

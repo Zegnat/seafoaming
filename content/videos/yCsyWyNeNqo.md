@@ -8,6 +8,8 @@ duration = 1670
 length = "27:50"
 availability = "public"
 age_restricted = false
+language = "en"
+language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASogABIAPtFaoUuoJaMhsBgMAQAaCUAXZl5AL/NXIJk06gwzKxnr2HAA/vXu55cQCeloQPtFeyB/icbZ9AONsPWGcV8O6FbACtbjJnfV9DRgcIFr+3XJCwFB+oSOLenPk/LiXcO7eQMz5NKRXmyAAA=="
 views = 131741
 likes = 4462

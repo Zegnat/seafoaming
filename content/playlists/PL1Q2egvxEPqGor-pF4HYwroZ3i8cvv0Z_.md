@@ -3,7 +3,11 @@ title = "Creepy/Dark ASMR"
 
 [extra]
 id = "PL1Q2egvxEPqGor-pF4HYwroZ3i8cvv0Z_"
-stack = ["BQO5Di9bzCk","VmWDtC1AYLQ","zh9imt1WX6o"]
+stack = [
+  { id = "BQO5Di9bzCk", placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPslWnkunpSKhsAwA8BkJQBWGYZ6NgpVZWwTVD0qy85IGZawwAP458R12Kv1AZZ3hioIjeuHeTmr5N8TnavZsbg5Nj7DAiufPlOHGvPqYo3Ribtk6/4v31PRGxH/LuPUnNONQ10oAAAA=" },
+  { id = "VmWDtC1AYLQ", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgC/Z68ByctQkrJn6g38BO+9sG5LQAD+z80FPxwpTp17pCiITYxxb4yOo35A3QTKSMIed/ETKdEZ2vR3Bz2L1BjqAGRSxLXU9iy6sAA=" },
+  { id = "zh9imt1WX6o", placeholder = "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwBACdASogABIAPtFWo0uoJKMssBgMAZAaCUAYyAX50Rd6FiQ2uw+b08AZLAD+EdZzLBIpJ8iWWG1i0i+tYwvf1DL2hD4CZLD+H0AA" },
+]
 views = 41094
 updated = 2025-02-07
 fetched = 2026-11-21

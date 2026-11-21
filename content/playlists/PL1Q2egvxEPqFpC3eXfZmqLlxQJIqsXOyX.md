@@ -3,7 +3,11 @@ title = "Mouthsounds/Ear Eating"
 
 [extra]
 id = "PL1Q2egvxEPqFpC3eXfZmqLlxQJIqsXOyX"
-stack = ["NcBDFa0JL2M","iKAKv8XkgDw","9zVWtdMoNJw"]
+stack = [
+  { id = "NcBDFa0JL2M", placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwBACdASogABIAPsVMpEunpCOht/qoAPAYiWUAwcwekGY2Y9gc36WSWQCXG7hB0gAA4Qz1tSrzuIkdlTfmsrcecRVN/zVEZNfDwXGvVUz5CXE7LSHW1CXMAAA=" },
+  { id = "iKAKv8XkgDw", placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASogABIAPslSoUunpKMht/VYAPAZCWUArAA1TcCIsB8ehxAA2csgfpfZGaThojwjjJ6sPUb6bEqOQCCsVLVcZzyXV0k0PrCY1tMB2N0OPIBBPQKAAAA=" },
+  { id = "9zVWtdMoNJw", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPsFKn0unpCKht/qoAPAYCWUAs4AWsVMCclJFYaDygfVxZANgAP6ETVtNWtycY5ZK02bfAXDeWCbSJn6SmvZmV9KKGa4gUdL/b8uwIzNBmd0LISINd2BQaAAA" },
+]
 views = 61407
 updated = 2024-07-31
 fetched = 2026-11-21

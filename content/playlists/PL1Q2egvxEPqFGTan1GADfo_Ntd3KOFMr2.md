@@ -3,7 +3,11 @@ title = "Cosplay"
 
 [extra]
 id = "PL1Q2egvxEPqFGTan1GADfo_Ntd3KOFMr2"
-stack = ["O7SD_o4iD0w","TGLYCsyQ31g","tF8oH1knHz0"]
+stack = [
+  { id = "O7SD_o4iD0w", placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASogABIAPtFWokuoJKMhsAgBABoJZQDE2B5Qx7HeYNUusy1ogAD+nnGyYMg0592F640tqfhmo78SmmkQTLRzxz8O02tzmnjuGAAAAA==" },
+  { id = "TGLYCsyQ31g", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFapU0oJSOiMBgIAQAaCUAVHoX8U3k+jGAnNZ9K8dKRcgAA/re+PUbwcQ1alE4lEmxxZms1URPdrD+yEqhB/WxFmmqp6mGVNpNE1a41zugMCe8k0tjaoAAA" },
+  { id = "tF8oH1knHz0", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsVUn0unpSKht/VYAPAYiWQArABFO1F0tdVZPzB/MNmi4AD+vwOZVLyq4M4wtCOJ3F13b7ZfTYRWzM4yleQCV9poicajZ10iTJqUj/w1IH87GbkZsrql0AAA" },
+]
 views = 19436
 updated = 2019-05-17
 fetched = 2026-11-21

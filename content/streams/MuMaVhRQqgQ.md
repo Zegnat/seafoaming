@@ -9,6 +9,8 @@ length = "2:26:57"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
+language = "en"
+language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPsFMnkunpCKht/qoAPAYCUATpygqtAFbTkgnKycBoaLiWQDC7SMAAP6nsZ4HE2mCIvsd4eNNovo9Xy7fTckTxyCAP5nUBqRJdyULCXOkNqHCvh9kX86AAA=="
 views = 2695
 likes = 126

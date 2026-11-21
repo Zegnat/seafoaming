@@ -3,7 +3,11 @@ title = "Ear/Scalp Massage"
 
 [extra]
 id = "PL1Q2egvxEPqErLDfmHhw0PaZBrBEk6d2Y"
-stack = ["-5SPO_Q2RZc","3krd4VfeS3w","ABDhmuqvw0o"]
+stack = [
+  { id = "-5SPO_Q2RZc", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFao02oJSsiKA1RYBoJQBOmYAgrltVrkKLsIOzJYAPL+7NAAPrfExLExxuH8z7z7JraHlaujPC0hmKbRR9ScUKlCtH6+o6CtoCM1AZ+/1oBOd8vLy6CoGAAAAA=" },
+  { id = "3krd4VfeS3w", placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFgpk6oJaMiKAqpABoJZQC7LwA0/0NFglILIKbIZU153rlMVnGIAP7X5FP0FeEq0AI1oAJXDG3OjopMFchRCqorHKupyHdw5zjisVE0hIRu8+LdZhbpx2jAVQ5QAAAA" },
+  { id = "ABDhmuqvw0o", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFQo0woJCMiMBgMAQAaCWUAuKgyyuckXUyiNPLpaGVRErOjMLAA/vfGVaA3E+KDjxZBbJnja8yGSGzNI9BvSMpJZC5FRUVQeI2IImqvzvrJ/fRTzy/OAAAA" },
+]
 views = 26151
 updated = 2024-07-31
 fetched = 2026-11-21

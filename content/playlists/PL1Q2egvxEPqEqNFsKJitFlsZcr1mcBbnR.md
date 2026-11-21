@@ -3,7 +3,11 @@ title = "Miss Spooky the Ghost Girl"
 
 [extra]
 id = "PL1Q2egvxEPqEqNFsKJitFlsZcr1mcBbnR"
-stack = ["ErULDHwFLLI","GavTR9dRgAw","zIxG3X5Cf-k"]
+stack = [
+  { id = "ErULDHwFLLI", placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBQCdASogABIAPslWo0unpSOhsBgMAPAZCWMAuwAMZFk2N6t5x7Pw7SFaGxDd3rggAP7D3fRJdmmBuK9njMUHrsCZS0L9myAIHHZXrplLN++6V7pcp+1A9OwQAA==" },
+  { id = "GavTR9dRgAw", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPtFUo0uoJKMhsAgBABoJYwCdABZEjnENXblkQBp/i1AA/t6686gaj8vwkNXtfF+W0giFWkgLKkFfHuUenKPSaid0M94F2r+1/MwAnCud1dsSqoblwDJQTVnxAAA=" },
+  { id = "zIxG3X5Cf-k", placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASogABIAPsVQoUunpKMhsAwA8BiJYwCxHoAAGHtqcWZyJdbqAADW19dhw1RwptIBO3rcJtg2G64hV2/tLbdljMe45NXpzkosdAd4CLuPqNDQAAAA" },
+]
 views = 22902
 updated = 2019-03-27
 fetched = 2026-11-21

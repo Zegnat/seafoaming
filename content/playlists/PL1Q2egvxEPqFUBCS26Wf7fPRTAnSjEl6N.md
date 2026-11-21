@@ -3,7 +3,11 @@ title = "Alien Series"
 
 [extra]
 id = "PL1Q2egvxEPqFUBCS26Wf7fPRTAnSjEl6N"
-stack = ["R5pKWYT3NiQ","BakIoDrM-s8","LzyR2Xy84fs"]
+stack = [
+  { id = "R5pKWYT3NiQ", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASogABIAPtFYoEwoJSMiMBgMAQAaCWMArhwQ1QrOKuZvqeR4LAAAzbdPnOrh03ZU5+zDbh9Xn55TRlDdFd+uNBo05QVmYmIKFJQF7kjO9Ziyo1OuIYNbs8HUhuz5bAAA" },
+  { id = "BakIoDrM-s8", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPsFIoEunpCMht/qoAPAYCWMApxQeGCxTf1QBe4rMrehzKvdwAP6NOIrAxmeGgGmDqDLU7/fIXvjhTs/7T6YoU5Zpa/eHgXUvs6FBSHOUfLSAWcUmy1h6fmar8xAAAA==" },
+  { id = "LzyR2Xy84fs", placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASogABIAPslQn0unpKKhsAwA8BkJQBfJAwvMSQluEpyUm9dowAD+0521beMBcCjE20lpx4OCaXaUNSAbnsDgaHKhmcn3pD4yZWfSO0xO/7PuC/IQqQzVT7l0BRcXDdI8gENxccAA" },
+]
 views = 786834
 updated = 2024-08-23
 fetched = 2026-11-21

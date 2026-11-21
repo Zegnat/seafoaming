@@ -3,7 +3,11 @@ title = "Traditional ASMR"
 
 [extra]
 id = "PL1Q2egvxEPqH6we-ess7nMB1_caWiWkIQ"
-stack = ["gxW97jNs4Dk","fITYOALZ8w4","lcBxh2DYvfg"]
+stack = [
+  { id = "gxW97jNs4Dk", placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQBACdASogABIAPslSoEunpKMhsAwA8BkJQBdgAr2l3CFNQHUcKgwQIvBjNlTeAAD+4bLo7PtOLmBScB6itTBrtvzty8OLTi4riuOcdzisZfj1kDUmFY8mwAA=" },
+  { id = "fITYOALZ8w4", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFcpEwoJaOiMAgBABoJZQC7ABuji4WU8lJ2lRchiWyI5UOMAP7vp9OhsXow8ta2beUEEeAhfSWr6rknPd/G0n6fp1R3hknrONiatDOVVAh1G+xKsyi6lJqOGxvviQSPAAA=" },
+  { id = "lcBxh2DYvfg", placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFcpkwoJaOiMAgBABoJQBadAxihKbmvfXW69GL6gfUAAPwaWqYsewWIM/cVCF/7EhxWqnnIIzB7m1JQj96hGNSz2iJjW+r34p4K7b/H8qwJDb6OldyAAA==" },
+]
 views = 166244
 updated = 2026-10-09
 fetched = 2026-11-21

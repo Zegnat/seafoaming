@@ -3,7 +3,11 @@ title = "KISSES"
 
 [extra]
 id = "PL1Q2egvxEPqFbnMRSceh18lj5MOtgRZHC"
-stack = ["EDtsMSpUMXs","FdL2oGrWP5c","NNVKe2EKm2A"]
+stack = [
+  { id = "EDtsMSpUMXs", placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASogABIAPtFcpEyoJSOiMBgIAQAaCWUAtOgyTjPbT/mFabB+99uxEUwA/q+X8CxiOPH9nhIY72Ht9c6nMtz5sZx1mt7H8Sdp59ybG4JoXsr6yiQFRzAAAA==" },
+  { id = "FdL2oGrWP5c", placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPr1SnUunJSKht/qoAOAXiWMAqPQhVnsaWJYHz8E9Hfw5eYAA9q5oaKAMJjAr0JLZmJS3v0S9zXUzPtj7ag82Dzdnlk87sQNmrDFxruJOGu+fTaKnJlzwY8rjYAA=" },
+  { id = "NNVKe2EKm2A", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFcp04oJSOiKAqpABoJQBdgAUAglv+kJEWUw3jdeuLN/wAA+BdUTea4wyZZwhfk8vxDioPjK79St+tMtq/TaQ0/WfB11FyRTq5f909QAtdKfFJplRBQJh86igAAAA==" },
+]
 views = 39740
 updated = 2025-09-19
 fetched = 2026-11-21
