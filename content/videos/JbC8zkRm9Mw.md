@@ -8,10 +8,11 @@ duration = 1369
 length = "22:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAA4BaJaAC7ADcWI7fGgAA+6LsW1FqAneLU/2XX55yhvcyOq+Bl+urdHeFgcNgj1WF8Q8T575xtreTla6F8QiytfrV6+1WAAAA"
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASogABIAPtFapk4oJSOpKAqpIBoJYwDBzAyVo4cwjJifQ4HwIh4gAPW+s8zoozkD3RPXO6T9UTJAx43FcZh9djI/8IaK5f9zj97hkxrnhAMTIUIFb62AAA=="
 views = 67564
 likes = 1560
 comments = 245
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to dysly90, HanG Music, Anime Edits, Dpark Joe, SanguineUltima, and Lachlan for the trigger requests :D To the others who left requests, I wrote them down and will do them in the future!\n*TIMESTAMPS*\n0:00 - Intro and trigger preview\n1:06 - Ear tapping\n6:05 - Ear cupping with some close whispers\n11:07 - Finger fluttering / hand sounds\n16:44 - Teeth sounds - chattering, chomping, tapping\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

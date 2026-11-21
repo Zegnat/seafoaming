@@ -8,10 +8,11 @@ duration = 469
 length = "7:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAkAA4BaJbACdACp8xmqYAD+wEQ0HgqT7ELcX9omA/vIaFdkn1Bwlcga4JE+u7vus66qofDnG0YlfT/vK2WTzhXLMXoeakBEHGL9JgQDt2IUbsJmebaGktySwbgAAAA="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgC/Z68ByctQkrJn6g38BO+9sG5LQAD+z80FPxwpTp17pCiITYxxb4yOo35A3QTKSMIed/ETKdEZ2vR3Bz2L1BjqAGRSxLXU9iy6sAA="
 views = 344575
 likes = 4109
 comments = 1200
+comments_off = false
 fetched = 2026-11-21
 description = "Random bonus bideo, I thought it would be interesting to do a \"Baby It's Cold Outside\" song inspired roleplay where you are held against your will.\n:3\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1233
 length = "20:33"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAkAA4BaJaACdADwUzIbrCAA/peXD6OYYC5MdW5or3a8IPe77HnTED4VOBjvMogvyXAVUV26JTxmy0FmXQB4y4baF+wUS4dMri8bvUmn/L7HjHbiKKcCgAA="
+placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASogABIAPtFepk6oJSMiKAqpABoJYwCsM2QBN5cetbVmROy+tmGGAAD+ZAjD9xZ/bYJaCCUIsxHzwwoe2mY+4kuqdwa6GcZYbHnol+rwYTuYwVebEuQzEiQEZ0SMCEKb0iPkrGi401Cq7lpo9/eAAA=="
 views = 109752
 likes = 2506
 comments = 468
+comments_off = false
 fetched = 2026-11-21
 description = "It's been around a year since you first met Fay :D Let's pamper you and do some fun relaxing triggers to help you sleep~\nTIMESTAMPS:\n0:00 - Friend-a-versary song! (guess the reference)\n1:06 - Water sounds, dropper, glass clinking\n4:55 - CRINKLY hat :D\n8:09 - Ear and face brushing w/ visual triggers\n15:30 - Ear cupping w/ close up whispers"
 chapters = [

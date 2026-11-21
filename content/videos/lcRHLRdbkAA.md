@@ -8,10 +8,11 @@ duration = 1163
 length = "19:23"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJYwCdACjgBM8AAD5TfEhrZ81Myp1eja3X0/Iln409P75YnWU4nmeRtJQNYjW5z3QE5SX97Iaj5c90VdP8iku3VdmiilgTgAAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPtFUoEwoJKMiMBgMAQAaCWUAtOvP9CaeT0jAxO7RY+7SV7HCAAD85ULL4Vs0oOXj16JP2S0Wt08BQlAOaY3/doEPpAvv0omC96Ck6w/7lolOUQAA"
 views = 35355
 likes = 698
 comments = 245
+comments_off = false
 fetched = 2026-11-21
 description = "Just realized I said \"improve punctuation\" instead of \"improve pronunciation\" LOLOL\nThanks Ryan for the commission :D\nIn dis bideo I'm just reading a bunch of tongue twisters, I hope you find it funny and relaxing :3 \nI found the list of tongue twisters from this website: https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

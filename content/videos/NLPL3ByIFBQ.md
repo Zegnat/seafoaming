@@ -8,9 +8,10 @@ duration = 7316
 length = "2:01:56"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJQBOgB060EKeAAD+7ldi/zoYEP9KEYtz3uJf3xd9lh1+ez1oxAZwspCZ/HKc+TFBQMEltB8K73nICadgFMtQ/B1tSIvm66XAAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASogABIAPsFMn0unpCKht/qoAPAYCWMAuwAekJGwxoEq0N0lL2fFIAD+6pbBz7sWO2/wOzZvryYAFMqO/yYPjJG8dFoBonMBDaxBR44Z9c7O0Th/0mtK2ZJayiAAAA=="
 views = 9823
 likes = 289
+comments_off = true
 fetched = 2026-11-21
 description = "Thank you so much for sticking with me for 10k subs! I made a special 2 hour long layered sounds video for you guys :3 I hope it can put you to sleep or give you tingles! It features the phrase \"thank you\" repeated along with more thank you's layered over top and some layered tapping as well.\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [

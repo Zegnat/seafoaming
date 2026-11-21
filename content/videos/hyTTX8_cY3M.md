@@ -8,10 +8,11 @@ duration = 1680
 length = "28:00"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAAkAA4BaJbACdAELyHKs2XYAAPw5sn35hr88eqXE4sfaXYRVOfIvedzi95mDFPVe5UwkZ52XoyG+Rt/z1sYtZA1hbF6NZSa60aTACpxYh81xvOoHoVvsdQFDhsdMQ2+UQB8QAAA="
+placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASogABIAPtFOpkuoI6OhsBgMAQAaCUAWI+OQiP7QMryraeEjvmAm1PazxDzAAP2rnMPX6Sel0O2WoEzqEhRxN365IIJ1Ngh+1DTobkVysMlpS/GMuQ9Hv7T6Q4m5Gb/wu93t8zQytHcTiO03NJkAAA=="
 views = 147197
 likes = 3219
 comments = 304
+comments_off = false
 fetched = 2026-11-21
 description = "Your clingy gf got scared when you didn't reply for 3 hours, so she sent a lot of messages and thinks you're going to break up with her. But instead, you showed up to comfort her!\n\nTIMESTAMPS:\n0:00 - 🥺\n2:40 - You say you won't leave her but she doesn't believe you\n4:15 - Hug to comfort her 💖\n4:54 - Apologizing to you\n6:39 - Talking about her insecurities\n7:31 - Drying her tears\n8:12 - Apologies, hugs, crying on your shoulder\n10:21 - Making it up to you, lots of praise\n14:20 - Scalp massage begins\n19:55 - \"I love you\" repeated whispers\n21:28 - Would you stay the night? Kisses!\n24:50 - Scritchy head scratches \n26:40 - Kissies\n27:07 - Let's go snuggle!\n\nBackground is Darks Cozy Place in VRchat ehehe\nhttps://vrclist.com/world/119674\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1110
 length = "18:30"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQAgCdASoQAAkAA4BaJZgCdAYtBzWWwWyVTAAA/uboAQ0oZfx9fCtfX20djKGXnuvRxQZaCJwkD6Lf7EONo1hOm+PzsM6ON0SA39WP7tumlE+ZwCz39Mzxj6npO7AlIJJzeQAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPr1OnkunJKKht/qoAOAXiUATpnAQXeSDz6A9eEZn5sYAAP7vYbfCmVpS8rCqENuAW8rP6WnUsT90Kte3ytbqOCYvEaXTVvYGgzmD8vJ4D/Vc8HH2QbI4VVrWMyA5BW0AAAA="
 views = 243866
 likes = 4403
 comments = 910
+comments_off = false
 fetched = 2026-11-21
 description = "Welcome to Miss Marshy's Shop of Mind-Blowing Mixtures & Magic! Today she will give you some samples of her home made potions and magic spells. This video includes an abundance of cheesy visual effects, soft speaking, glass tapping, water shaking, inaudible/unintelligible whispering, breathing, fizzing, water and bubble sounds, fire crackling, and heartbeat sounds! I hope you enjoy this halloween special :D\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

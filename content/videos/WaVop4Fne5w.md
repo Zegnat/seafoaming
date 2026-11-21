@@ -8,10 +8,11 @@ duration = 1053
 length = "17:33"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQAgCdASoQAAkAA4BaJbACw7Dp8YBciFqQAP718IAKGvNsuDL8MitxwnoNVkg5xLvCpU7nUxTfhEyMOB0Nszop+aBtbO5fqbj0ek3cgwpnK5Ey6MpL/xc0Oh8qi75fg7Tpb+QAAAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFYpEuoJSOhsAgBABoJQBgbgxipoIFXauIjBin32vPR0AAA/vbXGk7mOcEIK8KreRi7jAnu2y0WHLJzwJofnk8D4fkzTw7GYwbjosBQN7sLsP11AvLz+wzrF9X3HM0WwAA="
 views = 145199
 likes = 3198
 comments = 169
+comments_off = false
 fetched = 2026-11-21
 description = "omg hi bestie sorry about the leash i just needed to make sure you don't get away by accident haha anyway let's spend a lot of time together ok? 🥰\nTIMESTAMPS:\n0:00 - Omg good morning! Explaining your situation\n1:21 - 😳\n2:26 - Face touching bc you're so cute\n4:00 - Counting your eyelashes\n5:40 - Hair play & sniffing like a dog\n8:28 - Eating your hair YUMMY\n10:21 - Cutting a piece of your hair to keep forever, scissor snipping\n12:05 - Brushing hair off your ears\n13:50 - Confession?!   \n15:50 - Close up whispers and face petting\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #obsessed #personalattention #roleplay"
 chapters = [

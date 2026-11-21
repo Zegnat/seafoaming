@@ -8,10 +8,11 @@ duration = 898
 length = "14:58"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAkAA4BaJZACdACzgondkQAA/mTQK3L1Q2ZUB5sqlciAKFYIXT+hBkg76cIO2HIhb2FqZSH9WgpL7qZM4qNPIaXIqA13fNAAAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFcp04oJSOiKAqpABoJYwC7AAxYTubOgxcqJV+pV5TtOsLAAPzGiWqcD9mFA5V+eWRWBeLUScjhXIs/QyaB6VolxfGUaEU0RbNm+gi2M8H4Y0Cb37dTlWuQAAA="
 views = 42333
 likes = 2514
 comments = 315
+comments_off = false
 fetched = 2026-11-21
 description = "Once upon a time there was a D&D group of chaotic dumbasses\n\nWriter of the story is Kelpie ASMR, check out her channel here! https://www.youtube.com/channel/UCS1ualmA-GKJfezNx-lTtKw\n\nThanks to Bekah for giving me tips and inspiration for my new setup ^_^ \nhttps://www.youtube.com/user/softlygaloshes\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Whisper #Softspoken #Reading"
 chapters = [

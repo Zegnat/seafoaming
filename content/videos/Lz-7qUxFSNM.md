@@ -8,10 +8,11 @@ duration = 1817
 length = "30:17"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAkAA4BaJbACdAD8DlnjuxgA/un4H5/vRxkq3Gubns93Z6Nz2TRAR+3D83C/IVG9m9CIWllINVNQvRAjeURZBEXFQ9rAd77+PVvMdAOGW+3rt+e2CnAA"
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFYpUyoJSOiKA1RABoJYwCnFA8qEtZVbYUtleavd37gGsloAP7ljQGHF0GMWgLxGBimBpaGutX/rTbtcFnX/sXMhbzTtsKvuLUULAadBKLaRXxHMpCEU+rjgAA="
 views = 72502
 likes = 2316
 comments = 507
+comments_off = false
 fetched = 2026-11-21
 description = "CLICK HERE TO SEE MY ROOM TOUR: https://goo.gl/y7QVit\nHEWWO please excuse my nasty face and hair I literally crawled out of bed and then filmed this LOL. This is more of an ASMR-ish vid, it has a bit of normal talking at the beginning..  and I whisper ramble really fast which is NOT the most relaxing, but I hope you enjoy the stuff I show and talk about :D In this video I talk about my equipment, lights, filming room/studio and more. \n\nTIMESTAMPS:\n0:00 Intro (NOT ASMR)\n1:00 - Rode NT1A Test (no wind screen)\n1:45 - Fluffy wind screen on left mic\n2:01 - Whisper rambling \n2:52 - Comparing with and without wind screen and being conflicted\n5:56 - More ramble about asmr life\n16:45 - Playing with color changing lights\n25:39 - Zoom H6 mic test\n26:43 - Zoom w/ foam cover, mic scratching sounds! \n27:03 - Ramble about livestream stuff\n28:18 - Outro? kinda?\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

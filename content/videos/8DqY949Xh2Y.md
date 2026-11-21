@@ -8,10 +8,11 @@ duration = 1970
 length = "32:50"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAkAA4BaJbAC7AYtVaOMBbOAAP7dua4L0Xq+twqbVa30o6nNz4aSPtkHIkXmHNpkoT7cVlbLKSlqvoq84VHTip9NSZ9jfJ4+f4gNawGWGASTFkuqGge/gAAAAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWUAuwAhqc9wBIGqJx+uQNA7fQAA/vS2Fa/G8zzYQshbIX4JfZE0qK9nSY0hbigdu+XTVsHzeQMJfYQ7KAoOzaeRto5twAA="
 views = 247690
 likes = 5125
 comments = 462
+comments_off = false
 fetched = 2026-11-21
 description = "YOUR BESTIE BUBBLEMINT THE DRAGON GIRL IS BACK :D She will be giving you a makeover to look beautiful like a dragon and show your look to the other humans to prove that dragons and humans can live peacefully! Includes soft speaking, funny rambles, personal attention and face touching, doing your \"makeup\", tongue clicking, scribbling sounds, and more! \n\nTIMESTAMPS:\n0:00 - Reuniting with BESTIE\n4:02 - Bubblemint's PeaceBringer Plan\n5:42 - Steel wool \"exfoliation\"\n8:38 - Coloring your face pink to match your bestie\n11:26 - Blending sponge with \"stipple\" triggerr\n14:33 - Totally safe eyeliner\n17:45 - Gluestick to your eyebrows \n19:16 - Sniffing glue ASMR :)) \n20:35 - More colors to your face!\n23:51 - Supergluing some lashes\n27:45 - Look at this neat thing!!\n29:01 - UHHHH \n29:39 - Sending you off on your peace bringing mission \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #softspoken #cosplay #dragon"
 chapters = [

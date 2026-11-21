@@ -9,10 +9,11 @@ length = "3:53"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkAA4BaJZwAAucncCn6QAD+9jQkHSydmUxtjxoRHYrg3VAzSzGP2vKOGqWumkAyxGKCNvrYAAAA"
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPr1SnkunJSKht/qoAOAXiWUAw6whuVvYIXqnJNclAJKAelrzAAD+1iaMjFsmYXwTtiauO6TO2YxW4l6N43+vAUnJFCqd7g6VCBX8yVOgXJ5POGxymhAcCJVAAAA="
 views = 8675
 likes = 215
 comments = 64
+comments_off = false
 fetched = 2026-11-21
 description = "fuuuuuuuuuuuuuuuuuuuuuuuuuuck"
 chapters = [

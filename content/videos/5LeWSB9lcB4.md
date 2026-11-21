@@ -8,10 +8,11 @@ duration = 51
 length = "0:51"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAkAA4BaJYwC7AEWphVgZtcAAP7YIzCpurn+MciA1MXpmF9WjA0s+du/PvxXM4OJR7yBKRea1hOJt9yB9OTnfMMq6HkyW11np40AAAA="
+placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBQCdASogABIAPtFWpk4oJCOiMBgIAQAaCUAX7V6n+wylLxZDh7985B4CaruAKDnyAAD+9kSgi3h1109g7leqQDPIHBlv/r96JIBcyndyGMu28UAjRHq0JqCybYdTepXsMKgHxlgUaKKGiuVD3Eoy0AA="
 views = 4277
 likes = 119
 comments = 45
+comments_off = false
 fetched = 2026-11-21
 description = "CONGRATS :D Please message me on Youtube or any of my social media accounts (all of them listed below)."
 chapters = [

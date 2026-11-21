@@ -8,10 +8,11 @@ duration = 844
 length = "14:04"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJQBOgMXDwADEQAD+7R/oAjSt+9xVUJHmoGeUpnu3qNAktelbCl3a0LcIT+Z799INRqD7YWNKAlLnoV6QVJXcsZiGptsJJfMbaxJqIeAAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPsVSoEunpSMht/VYAPAYiWUAvdAPSuybZPoBlT1vLVBICAAA/vFs2YxKC+GyTZa20cHtsfUIs2xl2PpmGHwD0ncGawxj7PD3a5qio4AjWfFwFAAA"
 views = 23059
 likes = 871
 comments = 208
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to my $5+ patrons of October :D Today the trigger is visual hand movements and face touching!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

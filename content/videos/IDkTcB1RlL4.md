@@ -8,10 +8,11 @@ duration = 1013
 length = "16:53"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoQAAkAA4BaJZACdAEWo/EN8cB2AAD2vyptEO7AyCpmFm4EV4gDzOvg+KPPcvlFMFX+xV/WWxJ4peIh/EgQ3mwIG7PYJYsDIAA="
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPtFQokwoJCMiMBgMAQAaCUAXYApGDHsVCPDEncCv+ORBHPCgAP7CM0tuLuPtwERifwca79m8IQPGOpaKFj1muxiC1KhnvmtO/IVR52/RrYpB68PT40FCDUao8xs8g4PY2AAAAA=="
 views = 48461
 likes = 1529
 comments = 186
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to Acoustic Sheep for sending me these headphones to be in a video review :D When the ASMR edition ones com out, I might be doing a giveaway with them as well!! I'll keep u updated. \nGet SleepPhones Effortless: https://www.sleepphones.com/?aff=91\nSupport the Kickstarter for ASMR Sleep Phones!: https://sleepphones-asmr-headphones.kckb.st/f6cc2a5a\nRead my spotlight and learn more about SleepPhones ASMR Edition: https://www.sleepphones.com/asmrtist-spotlight-seafoam-kitten%E2%80%99s-asmr\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Review #Unboxing #SleepPhones"
 chapters = [

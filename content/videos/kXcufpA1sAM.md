@@ -8,10 +8,11 @@ duration = 3936
 length = "1:05:36"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoQAAkAA4BaJZgCsACRGPb+IAD+7YOrUhr+hu1uxqMKcI+EUs+2/6N3samU3TEwmuiQZGE7eoaTWYYsWUSYiOpYsf4nGSHwkRjbP9dVaS1VAAAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWoUuoJKMhsBgMAQAaCUAXz10QNQPYoIS8dmHs/PK/ACYSuAD+6GInJqwdOdtMqcvkV+7M/NUHVUlvHYsHN1Vi/R8UyTVoUMdvCx9vmhEnBVVwrDha6+6RQMQ9ti0gAAA="
 views = 129305
 likes = 3931
 comments = 453
+comments_off = false
 fetched = 2026-11-21
 description = "This was a custom request that I thought was quite interesting so I wanted to share with you guys :D Its looped for an hour so that you can hear the words while you sleep and hopefully it will help you stay mentally conscious in your dreams. Let me know if it helps you to lucid dream!\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Lucid #Dream #Softspoken"
 chapters = [

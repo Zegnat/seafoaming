@@ -8,10 +8,11 @@ duration = 309
 length = "5:09"
 availability = "needs_auth"
 age_restricted = true
-placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAAkAA4BaJZgCdAYuvt66WnroAP5+kO+nvzbtM2X7zmzjoEOPSe/U3WKqSqYmMcfuZd0cGc+Lx29fFtqsifKLOeeBpj8/0T0z0xwnvdRjcRAc4rSlx5jDY5dH7My1X4OtcRYA"
+placeholder = "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASogABIAPtFao0uoJaMhsAgBABoJYwDE2Baj3o7/yGwn8AOTlkylwoAAzDYLYujSFO3oxrUKHsH0+qwOSkJ1i2YvWOIXsB5Mp5/dS1KMtWfoamWsHrYzgIF2pA/1cQN9vtlZp3H9DaLNO8HmH6KyCAAA"
 views = 28154
 likes = 2617
 comments = 974
+comments_off = false
 fetched = 2026-11-21
 description = "THANK YOU to Ztla for making the beautiful music in this video :D It is a cover of the Piranha Plant Lullaby. See their other music here:  https://www.youtube.com/channel/UCluw8J87MCMgVjPBRV6-nng and their second channel here: https://www.youtube.com/channel/UC54FmUqerizaCPhBWJd-eeg\nThanks for 100k subs everyone!! I love u with all my heart, ur my seafam, bro ~\nSpecial thanks to the people in this video who unwillingly donated their weird/silly/creepy/mean comments to this song UwU\n100K LIVESTREAM EVENT: \nhttps://www.youtube.com/watch?v=HlhZ2W0drMo\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

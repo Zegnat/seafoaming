@@ -8,10 +8,11 @@ duration = 7765
 length = "2:09:25"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQAAkAA4BaJYgCdAYtpge7lqc5cw4A/onOU7cUNx0fUBiBBe6w7tg1ELsCoaPULbmS9iZe67TtOxFP5jzac1/TcI+sDVxubW32qukuHQ9AEjAA"
+placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASogABIAPtFYpU0oJSOiMBgIAQAaCUAWnQGMxiMuRFOyLmth1tCja2pSbQAA/ubfCg9nr3kFir+Dgrxl9U3VCv62aXXRCRc29pna11tbSa/pkOsDBbTn86CTXplBeVAska78sq+ylIGUi5X1SUWSYsZaAAA="
 views = 40569
 likes = 1146
 comments = 89
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to Manscaped for today's sponsor! Get 20% OFF + Free International Shipping + 2 FREE GIFTS @Manscaped with promo code SEAFOAM at: https://mnscpd.com/seafoamkitten #ad\nToday I will be literally cupping your ears with different sized paper cups that create a very nice enclosed and deep sound :] Enjoy the intense scratchies and taps with a bit of whispers / ear blowing for a whole 2 hours!\nTIMESTAMPS:\n0:00 - ASMR preview \n0:30 - Manscaped sponsor! (sweaty gamers must watch)\n3:03 - Start here for 2 hours of tingles!\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #tingles #relaxing"
 chapters = [

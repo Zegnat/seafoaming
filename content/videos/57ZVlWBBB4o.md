@@ -8,10 +8,11 @@ duration = 1228
 length = "20:28"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAkAA4BaJagCdACpobRKngAA34zzpBlM7DPHiNhvbWUS7ND+ix5Vs5JV2eYaz18aCvsgSTznRzG6btLMeeAeKmKCxaZ4M3q/O6yU2rOCKQwSmL/nAAAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPsFMn0unpCKht/qoAPAYCUATplAARK+Y7g8+HcUeiWUvuZcxoMAA+5Edkf8xzX2ZAJ6ZDOpFx1DUvSxLGkToPAAh/qCOGOmtbw143BGlFgihDJG3AMtZuF9SMolQ88tsgAA="
 views = 105810
 likes = 2722
 comments = 524
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks Shep for this commission :D In this bideo you are home sick, and your best friend skips class to come and take care of you!!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

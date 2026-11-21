@@ -8,10 +8,11 @@ duration = 9368
 length = "2:36:08"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAkAA4BaJZACdAYsPNNR5cLMAAD9JNI40nSAzQDGIP+8p+TP1NTAvL8QEvh67zaiElY5mh8zqnm97yicjIpOftlTAfyFGbeVa8FtCIQBAYdKnqWa6mxP6ZwAAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASogABIAPslQokunpKMht/VYAPAZCUAY3oenKvx3/HSbT/8+AAC70E4ElPMFlRKnFB0L0EJ/hrG4PCo2IPrCzBh8a2JvG7mm4va4ThrMnL8Vei250bSpUFk94AA="
 views = 106921
 likes = 1561
 comments = 120
+comments_off = false
 fetched = 2026-11-21
 description = "Streamed on Feb 15th, doing triggers for the chat :3\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

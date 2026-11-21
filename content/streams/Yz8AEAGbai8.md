@@ -8,10 +8,11 @@ duration = 7211
 length = "2:00:11"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAkAA4BaJZgCdADp/isWVToAAP6+WVDPefmJGtk5G3YyMpr0Rx+BrEObabKPqrD3IwwfiT2njujWQn3fNtX+dLUur0Wu+u1rITz/5f1mBbL1q7xRQAAA"
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBACdASogABIAPsFMn0unpCKht/qoAPAYCWIAnSDYgu+zyeQtlo3Cmu30r6AA/rvvUrM/1qycFskjYoLiZ1rz85Jqc9ZtHHQ7DSOQWf+IJWh+a759HjNvt5LIHPetDqvY/eueD5cU8AzxpkAAAA=="
 views = 7063
 likes = 459
 comments = 17
+comments_off = false
 fetched = 2026-11-21
 description = "🔥DONATE $1+ to request a truth/dare idea → https://goo.gl/T8mxRy\nOpening PO box items and writing a list of truths and dares. They're gonna be used for a truth or dare jenga game I'll be playing TOMORROW during the maid dress stream, along with my friends MasterR3C0RD and Ember :3 \n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#live #art #doodles"
 chapters = [

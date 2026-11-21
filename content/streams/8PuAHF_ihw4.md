@@ -8,10 +8,11 @@ duration = 370
 length = "6:10"
 availability = "needs_auth"
 age_restricted = true
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAkAA4BaJYwC7AEXWHJ08OAAAPsFv3/39YCPmHdsN2anrM4uF20N/Ay8hsxEVI7NNi85x34RRL7g/GuIZtZ92TK8UHtbMEq+1zTw7IbcYCQAAAA="
+placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPsVUoEunpSMht/VYAPAYiWMAwzQ8RGBiTvlZCjFGDHqOXAD7W3Vb7kEROjQZ2RObyz/9NMvDUXs0y3k3PUtUXrFCOlI7TQIiPy9JfoAA"
 views = 41949
 likes = 624
 comments = 240
+comments_off = false
 fetched = 2026-11-21
 description = "Reading a story about myself and IndigoStars, written by Brinny :3\n\nBrinny's Channel:\nhttps://www.youtube.com/channel/UC5TAS09MpTD3rng6N_WSQLw\nIndigoStars (Lisa's) Channel:\nhttps://www.youtube.com/user/IndigoASMR\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1980
 length = "33:00"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAkAA4BaJbACdAEX82tlgHcAAP5pWxx/Tc8DSrDTL1auHG+Pq9+xuMSB/5W2P6v6hAhMruFU8BB4s8wlSd/C/nv99cxoeKTfXiE/caIbb12O3iQEmWjYFqrH+QAA"
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFYpE0oJSOiMBgIAQAaCUATpmoYUwKfZbaKf5V0IQQtV9AA/cvnc3OyPA3rGDXviW3ntZ/UrwP0ZcSWq9Bu/ZaxD62vqdn/tlZObNsw4iMcuHQqgAAAAA=="
 views = 58295
 likes = 2024
 comments = 202
+comments_off = false
 fetched = 2026-11-21
 description = "Welcome back to Miss Pickles' kindergarten class! At recess, your friend Kiwi has a magical pile of sweets to share. Eat lots of candy, talk about important matters, share secrets, and play pretend in the secret clubhouse! This video has freeze dried crunching, soft chewing, babytalk rambling, pop rocks, crinkling, 'feeding you', and a bit of soft singing/ humming\nTIMESTAMPS:\n0:00 - Tidy up with Miss Pickles (soft singing)\n2:27 - You find Kiwi in the clubhouse!\n3:20 - Super cool flower trick \n6:40 - Explaining the nuances of Couples\n7:58 - Pez candies (and beaver butts?)\n9:08 - Freeze dried marshmallow crunching\n12:55 - Getting magic powers (top secret)\n16:31 - Pop rocks with layered popping sounds!!\n18:28 - Sour bubblegum tape CHOMP and oopsie\n21:21 - Fidget spinner lollipop (gone wrong!!!!)\n23:52 - Unbirthday Peeps \n28:18 - Playing pretend w pony and tbh\n31:23 - Miss Pickles found the mess you made!\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #eatingsounds #bestfriend #softspoken"
 chapters = [

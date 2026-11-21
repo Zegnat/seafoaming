@@ -8,10 +8,11 @@ duration = 1713
 length = "28:33"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJbACdAERDRSXbbQAAPyPSYC2Y5coBvry0WrNg8YNin1NmwdJO/qie7HKddnddKmo7+HOIiU39hYje6R4ERsMbp/88SCFrlXi6WEQnjlGDoWAAAA="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFcpE2oJSMiKA1RABoJYwC1GzRCmA3ALqVT0dm9aUy9b/sAAPgOIN7BA0oTcMB44fdcCJHbu8jLnij02NzLXBxG91w6Kxk91xgDjJ0LYy952i+qNJF+EnEaAAA="
 views = 67617
 likes = 2402
 comments = 312
+comments_off = false
 fetched = 2026-11-21
 description = "I had fun at Hal-Con :3 I also got a LOOOTT of stuff. LOOK AT EM and enjoy the tingly items I have \n\nTIMESTAMPS:\n0:45 - Pusheen pillow\n2:24 - Puppy plush\n3:57 - Tail\n5:45 - Cat paw purse\n7:06 - Collar w/ bell\n8:44 - Pikachu bowl cozy\n11:02 - Sticker and pin from ALBinWhisperland :D\n12:05 - Pusheen mug\n13:16 - Sylveon figure\n14:10 - Kirby keychain\n15:03 - Sylveon acrylic keychain\n15:21 - Catra acrylic keychain\n16:18 - Strawberry milk keychain\n18:09 - Sparkle Collective pin\n18:32 - Totoro pin\n18:56 - Canuck the Crow pin\n19:58 - Stickers!\n21:00 - Lies Within comic\n22:07 - Paint the Town Red comic\n23:22 - Krampus is my Boyfriend comic\n24:56 - Art prints!\n\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [

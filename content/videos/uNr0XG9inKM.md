@@ -8,10 +8,11 @@ duration = 572
 length = "9:32"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAkAA4BaJagCdAC8Rk0GPAAA/umoJ5Mb2LKGrl9LPv9GfIz18ZSqb09bhM0qrjrKYK6SgHLefWB/EkX8fZ1q79da23lqy6hoJZ2TmUJSdHIOIPXSwhaWsDQAAA=="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFepk6oJSMiKAqpABoJZQDE2BDRBEE1ojz4UOc8pG4bpoAA/tk1y+/xEBhIS6ZPYUl5jsMPn1rVtlopfOKGWeqhHe41fcePO3rYguFxrgkIsNM9f1fIKu7wufiFizsnAAA="
 views = 37892
 likes = 1567
 comments = 82
+comments_off = false
 fetched = 2026-11-21
 description = "Getting something out of your eye with little to no horrible side effects :] It may be terribly bad news to have such things in your eyes, and you DO need surgery, but I can fix you!\nTIMESTAMPS: \n0:00 - Face tapping, cotton swabbing you\n1:15 - Dusting your face with a fluffy brush\n2:01 - Floofing \n2:18 - Spoolie brush angers the mysterious entity\n3:16 - Tweezer plucking the horrid creature, wiping your eyes dry\n4:56 - Flashlight to examine this stubborn problem, follow instructions\n5:28 - Eye drops for surgery\n6:14 - Pluck and snipping them out \n7:30 - Giving your eye a band-aid so you can heal :}\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #whispering #personalattention #facetouching"
 chapters = [

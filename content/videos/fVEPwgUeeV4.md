@@ -8,10 +8,11 @@ duration = 398
 length = "6:38"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAkAA4BaJZgCw7D+b15ZvqoAAP3DEJnLBow75xwCF25eQasAgOwjxaxJ6xkieL0pVAl6+yZ1CZ5GDx7NriO7Rqd13cNUuec/wAAA"
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASogABIAPtFWo0woJKMiMAgBABoJYwCdIUPCcDXTOJYslN1GNNDOgcA/Wg8AAP436TlfVHRnE22FMY8Lcr4BeemhiMyt0ygqGRFvEt4tn0gFNuHCc/8PpNHNOLLqvFIsjwQeKnSgAgAAAA=="
 views = 5358
 likes = 238
 comments = 125
+comments_off = false
 fetched = 2026-11-21
 description = "READ MEHH!\nI'm so excited to show you guys the tshirt designs I've been working on :3 I feature them all in the video here but you can also see them on my Design By Humans shop. You can get my designs on tshirts, tanks, sweaters, baseball tees, mugs and phone cases!\n\nShop here: https://goo.gl/mmef4O\nGet 15% off and FREE shipping this weekend only by using this coupon code: BLOOM\nI hope you guys like these! :3"
 chapters = [

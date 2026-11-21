@@ -9,9 +9,10 @@ length = "0:24"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkAA4BaJZwAAlxEqNTgAP75yOttunnPvk5nN4qfZJvbC4DSM5fgmwqZvtj2NYAAAA=="
+placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwBACdASogABIAPtFWpkuoJKOhsAgBABoJZwAAW4RYhKSogp0wYBsoicAA/vaQZxHQdXm8Ow/JZQsE89vaQeDeipIB++JZ32ry3GQ1auR+nsAA"
 views = 11245
 likes = 186
+comments_off = true
 fetched = 2026-11-21
 description = "that song came on unexpectedly from my playlist but it was rather fitting LOLOL"
 chapters = [

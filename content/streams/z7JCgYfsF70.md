@@ -8,10 +8,11 @@ duration = 10955
 length = "3:02:35"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQAAkAA4BaJbACdAB06nIAAP7A9ldvmIZ64WbCI2ejJSz+4q7b1CuwCPb7TJEOAvkuUUlNyC6B+yw3hDUVMcpyV2bn5bmydfX2xPF+eStusGSCabAAAA=="
+placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPtFWokuoJKMhsAgBABoJZAC3uCGRgVFTbeNqvgTVbCzBrcfQEKAA/n3ZsIXwj2DS+uW0vZsfWVuM0tnPhjnxZCfWEe5kjBX4cTG5963dr3q1+L/zajvfDVCvnGaa4QWEvoQQg7kAAAA="
 views = 73953
 likes = 1272
 comments = 51
+comments_off = false
 fetched = 2026-11-21
 description = "MERCH HERE: https://www.bonfire.com/seafoamsweetdreams/ Order before the batch ends next week (Nov. 27th)!🔥DONATE $1+ for a guaranteed trigger! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Request triggers in the chat. I won't be able to do see every message, but directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [

@@ -8,10 +8,11 @@ duration = 2172
 length = "36:12"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAkAA4BaJZACsAEJJUxl4AD80Of/UwgqmNpUHmGt/VY9w2DHXi+yZSvS8j679jcl4gXO6NusqOTPj/APN0ASa2ljKHIRzMQunWn5w1RrMKsv1nr9BcAA"
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFWpUuoJKOhsAgBABoJYwCw7B6FfsYd+hzj8xsTTtNwGBgA/mQLG4Rk5fnmGUL9cHBpDBkjttmGUGb88OgmvZprNAjJy+3GBvTz9pM0g1MuZ8Z+uUr7YKbi3PYAAA=="
 views = 28542
 likes = 652
 comments = 297
+comments_off = false
 fetched = 2026-11-21
 description = "H0i! ENJOY MY SUFFERING. In this video I try the game Bean Boozled and get bean boozled in the process. These were sent to me by my friend Caleb ^_^ I hope it is relaxing for you. \n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [

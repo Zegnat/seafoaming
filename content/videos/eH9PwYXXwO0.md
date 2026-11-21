@@ -8,10 +8,11 @@ duration = 887
 length = "14:47"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJQBOgB06awR+AAD+NCzRIwP85rMEBEkUG4NO0wvakePwmkaiBNEj6HSatnZeyCx/Zyy1am/gjO3u8HU1jGNxCsT9V07ey6Dr0etlKgAAAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFco0yoJSMiMBgIAQAaCWUAuwAKC9APtZ4YaowQGhT6gQ8AAPr9HBh572cTipNDvGG6qiMMh1WQsKoxZGEanjNxGJkWXCbfuhSkzwmmUJpFj+N+bItMuf4AAAA="
 views = 173069
 likes = 2418
 comments = 317
+comments_off = false
 fetched = 2026-11-21
 description = "Sit back and get pampered! Enjoy the sounds of lotion, kisses, and breathing with this ear massage ^_^ \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

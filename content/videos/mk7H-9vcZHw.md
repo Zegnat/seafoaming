@@ -8,10 +8,11 @@ duration = 2785
 length = "46:25"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAkAA4BaJbACdADLscVhRAAA99g4orTWQP24onYyiLIY1ET4L4d2NkiBC0eDAX+fxgtDAs/nucI0Wpl/WGtoX44y4pnt1ikFPGFh5PN3Lnod4VmFm8PBsAAAAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPr1SnkunJSKht/qoAOAXiWIAnTM9xvgpAiBCxNUC35F48BwMqADKe0PSbqhsPaheir28YQawI0PwrVaPmacksZQ72JeNU0jSLoYG93Dlao6qC81fRAAAAA=="
 views = 347733
 likes = 8275
 comments = 2400
+comments_off = false
 fetched = 2026-11-21
 description = "You are a new student in Miss Pickles' kindergarten class! Today you will be learning about unicorns, the number 5, feelings, and more! You will also enjoy some a nice bedtime story before nap time.\n\n0:00 - Introduction\n1:04 - Day of the Week Song\n2:27 - Learning about unicorns\n6:38 - Special number 5, finger counting\n7:32 - Counting 5 blocks, wooden sounds\n10:40 - Identify 5 different feelings, drawing sounds\n17:31 - A visitor? Singing a song about 5 family members!\n20:12 - Snack time! Meeting your classmate, Kiwi\n22:20 - Eating chocolate \"Couples\"\n24:12 - Explaining the Fortune Cookie\n25:54 - Practice round, paper sounds\n26:58 - Your fortune\n28:16 - Kiwi's fortune\n29:02 - Playing ponies\n30:03 - Fun fact & called back to class\n30:38 - Temporary tattoos, naming the monster designs\n32:50 - Cutting cardstock w/ crinkle scissors, handing them out\n35:02 - Miss Pickles putting a tattoo on herself, counting\n36:49 - Putting tattoo on your forehead, whisper counting\n39:57 - Reading a bedtime story for you\n44:38 - Tucking you in with a soft blanket, fabric sounds\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Softspoken #Kindergarten"
 chapters = [

@@ -9,10 +9,11 @@ length = "2:21:10"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQAAkAA4BaJQBOgjgAwSw7aWysAP7zVTqvr4pcTKjzHIVrcHeRlx4EiV7ftWBr9j1nlGg9RpE4tw7GR435Mw3hw+SkhruvGM1imgVAM2aOMKZfGSKFvAAA"
+placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBQCdASogABIAPtFQo0woJCMiMBgMAQAaCWIArDMhhRvCnHN7DLIQ77UikvVSyWwoXsAA/ulcz2vErIOybo2kI+3Djl9HkYAKQe+PKWiZLc3n5bKhgOmwziSzYJxPhfJTzjWDEUg+Kr+QxvBAR1sbtyQOrymEPv04AA=="
 views = 3877
 likes = 226
 comments = 4
+comments_off = false
 fetched = 2026-11-21
 description = "[CLICK SHOW MORE] CW: Death, blood, abuse, suicide\nToday we're playing Your Turn to Die and we're accompanied by my friend Sushi who recommended this game to me! YTTD is a horror RPG/visual novel about people who are kidnapped and forced to play a death game by a mysterious organization. The game is free so you can play it here if you want: https://vgperson.com/games/yourturnto...\nCLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen. \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [

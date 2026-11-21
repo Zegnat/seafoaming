@@ -8,10 +8,11 @@ duration = 1325
 length = "22:05"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoQAAkAA4BaJQBOgMXXq1suRpvwAP7tbl2429kVD1CKlA1XC31niIggt13c3fLIVwmQ6+N+y/aLgpOkJK8npmq4jKeIk3NrIqh3lHzu4wUsAAAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFeqE6oJSOmKAqpABoJZQC7AA05erRhSgnWOs4XDhXBEpOZAAD+7WD8Gj+6QBapQHgMD/j8pet40B1agFPmMyQsKG8KHakSXBOfmmnh2E2Zzk4AAAA="
 views = 190595
 likes = 5974
 comments = 799
+comments_off = false
 fetched = 2026-11-21
 description = "Ember the tsundere dragon girl comes to your house for Halloween! With some halloween candy as a bribe you were able to convince your dragon gf to wear a spooky scary skeleton costume :O This video includes soft spoken personal attention, rude tsundere attitude! ear blowing, soft singing, long nail tapping, candy crinkles, and some kind affirmations and smooches near the end uwu\nTIMESTAMPS:\n0:00 - Greeting your ~lovely~ girlfriend (´,,•ω•,,)♡\n2:08 - Skull mask tapping\n4:12 - \"You want me to do WHAT?\"\n5:38 - Soft singing 'Spooky Scary Skeletons', reluctantly\n8:59 - Candy wrapper crinkle sounds\n10:49 - cursed SINNING\n12:54 - Love flame close up ear blowing\n16:37 - Ember has a gift for you! Things get SAPPY\n20:33 - Dragon smooches~\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Halloween #Dragon #Tsundere #Girlfriend"
 chapters = [

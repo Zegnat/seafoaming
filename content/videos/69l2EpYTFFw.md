@@ -8,10 +8,11 @@ duration = 886
 length = "14:46"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAA4BaJZgCdADhSzTSJfAA/uo2Xefq2/NVBRTlaIvMVqOziBUsak4QpuI67OK3GF9PoRZhHtdkDFFK2eT0IyntbTOWbwrQ+B+BhwAAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPtFepUyoJaOiMBgIAQAaCUAToAIeHcuzYiaK02vb5KeieYAA/u9gYfydVFsT2A/3ePz3pN9OlgPW4q8+mG2BA9ziHRy7HRtZBiaYiwfr/lD2qaAA"
 views = 131686
 likes = 3946
 comments = 1600
+comments_off = false
 fetched = 2026-11-21
 description = "YES SHES A GIRL. YES SHE PLAYS VIDEO GAMES. GURL GAMERZ RISE UP ✊✊✊  dont even try to beat xXGamerGurl99Xx at video game, she NOT like other gril, and ur in for a WORLD OF HURT because THIS GAMER GIRL is a PROFESSIONAL girl gamer we are talking about here right now so GET OVER IT boys 😏😏💋💅💎\n\nTIMESTAMPS:\n0:00 - Game controller sounds\n4:31 - TV remote button mashing\n7:30 - Blue yeti tapping/scratching \n9:43 - Headphone silicone tapping\n11:03 - Eating controller\n12:51 - Eating headphones\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Softspoken #Girlgamer"
 chapters = [

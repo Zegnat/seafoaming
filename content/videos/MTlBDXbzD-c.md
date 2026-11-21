@@ -8,10 +8,11 @@ duration = 546
 length = "9:06"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAkAA4BaJYwCdACgWXlIAMq4a4eRV5KVMSeXadIed8xCl7LRjeS++7o43Igt5MoHQsMyWwsvxG8fii0SZmNIWjAAAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPsFQn0unpKKht/qoAPAYCWMArAAQShOSMlDEIdsqfgtNlcgAANr662sAhrfET1+WZyOTvvJfmI713FKIRITp02noYeQFK6zF+9mxFx2cVWFR8bCAyYgAAA=="
 views = 378048
 likes = 5633
 comments = 1500
+comments_off = false
 fetched = 2026-11-21
 description = "S U C C \nElven requested on my patreon for a vampire roleplay. Its not typically my style so I decided to make it awkward and stupid like always :D This video includes, soft spoken, personal attention, slurping & gulping sounds AND FAKE BLOOOD. I hope its not too horrible 😂\n\nBiting sound inspired by PPOMO's vampire roleplay, it made me die laughing when I first heard it :P \nhttps://www.youtube.com/watch?v=0KPSgJRG7y0\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon: https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

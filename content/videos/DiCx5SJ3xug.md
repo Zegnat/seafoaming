@@ -8,10 +8,11 @@ duration = 777
 length = "12:57"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAkAA4BaJYwAAuu5dX92gZgAAP7h0JN2a9k2FDxmvyN+LVzB6CauAmCfCtOUvwBgJULWvJE+N111KmyqvsXu83mdJ6a1gq8wqAAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFWpE0oJKOiMBgIAQAaCWUAvkgLFF7nVn7mvdndZZj0gLAA/udtzdb/RgGQiadW0JXUotoasi0cwGh96r8nkVpIZjJCs82u89CsIxTcdVyKoIC4AAA="
 views = 137196
 likes = 2049
 comments = 494
+comments_off = false
 fetched = 2026-11-21
 description = "Custom bideo for Josh Silver! \nSmol Idiot Vampire has taken a part time job in the cranial nerve examination clinic :3 She doesn't know how to do it very well but one thing she is good at is taking blood samples! \n\nThis video includes whispering, soft speaking, personal attention light triggers (flashlight), ear cupping, and of course vampire feeding (mouth sounds) :D\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

@@ -9,10 +9,11 @@ length = "1:43"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJagCdACzn/3SeAD+9xFKJlc9Rj9ODjwh+fw/O6MZv18DZHfVPgqyKsP14qVcLtVgX96LxAoKkP/f03DaYqU4MXe772KOWulccysp7hAAAA=="
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwBACdASogABIAPsVUoEunpSMhsAwA8BiJQBXhhC1+R2k+LmRzwI9EIWpeAAD+9NxqxZy0jEAzFyCcj1cZxYuN7gDop1p542mRL9OiOyEjf51nWcqoF8f5tkGs1C8JKmwE8W4WiUmIAZ/r8pAAAA=="
 views = 6903
 likes = 75
 comments = 25
+comments_off = false
 fetched = 2026-11-21
 description = "its gud :3"
 chapters = [

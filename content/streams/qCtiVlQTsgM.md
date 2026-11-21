@@ -9,10 +9,11 @@ length = "2:38:38"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAA4BaJQBWAMWWurYn7QAA/tFCuMwFklbdUKc0FMKHZ+ahq64PWR5mnJhpownw0U3xCf8+G2opn/tNVtPzqGIjthNYYtb2AAAA"
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASogABIAPs1QokunpKMht/VYAPAZiUAXYAisOdP6DUS9ZGIE5JIAAP7Os5yb3ya3GFN0tJimKXlBgWZqcM7FmJoeTHE8Rwom2dJjlVfPUb7t+sMrfKclPsx1ipJE7miyyaAAAA=="
 views = 7962
 likes = 498
 comments = 5
+comments_off = false
 fetched = 2026-11-21
 description = "[CLICK SHOW MORE] CW: Death, blood, abuse, suicide\nToday we're playing Your Turn to Die and we're accompanied by my friend Sushi who recommended this game to me! YTTD is a horror RPG/visual novel about people who are kidnapped and forced to play a death game by a mysterious organization. The game is free so you can play it here if you want: https://vgperson.com/games/yourturntodie.htm\nCLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy"
 chapters = [

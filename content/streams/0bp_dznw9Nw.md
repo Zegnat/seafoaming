@@ -8,10 +8,11 @@ duration = 10033
 length = "2:47:13"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoQAAkAA4BaJZgAAvypUrMAAP7SAedZfvw2ITjAqtKafLOTze4aN3lYPJAyiL6U/R7vT5CHzQ3lyck8553Qrrh3lrHR2zbCGKS5m6+D3T/n7pdSMRoZBgAA"
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFcqE4oJSOiKAqpABoJYwAALiLILe4vRAcqFhml7HR6f8AA/uQKJrPpZJvTplx4zrdfgUf3/qtjfVbw2qGoH11pw8ukwCbKjQRxCpee675q+e0QloFSQzJySFAAAA=="
 views = 5075
 likes = 256
 comments = 8
+comments_off = false
 fetched = 2026-11-21
 description = "Pspsps I'll also be doing a drunk stream over on Record's channel tomorrow night (Sunday, Aug 7 at 7pm AST) Follow MasterR3C0RD to be notified→ https://www.twitch.tv/masterr3c0rd\nToday we're playing Stray, a third-person cat adventure game set amidst the detailed neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. See the world through the eyes of a stray and interact with the environment in playful ways. \n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #stray #gaming"
 chapters = [

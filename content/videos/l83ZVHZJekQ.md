@@ -8,10 +8,11 @@ duration = 879
 length = "14:39"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAkAA4BaJZACsAEfTY6Dux4RAAD+9J5eZRfzj+v3Uqk6LCdqCcGPuXXOQo+N7ygDJtRSQb97inoe4R3h31aG9H8nRsd+TY/XRTBqxMBGWZU+rdzDBhuHuU+MAAAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQBACdASogABIAPtFYo0uoJSMhsAgBABoJZQC7AClH2PKfb2Q6SxEC7x7QAP7wJRN4d641KZXkKM8umb+4Mz6i/6mi4SHjEVylQSqOX96ZDOSZaEJGHzFphZWiNzAAAAA="
 views = 60880
 likes = 1503
 comments = 181
+comments_off = false
 fetched = 2026-11-21
 description = "Ear Poking Starts at: 6:35\nThanks to my November $5+ patrons :D I hope you enjoy the earhole finger poking sounds!!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

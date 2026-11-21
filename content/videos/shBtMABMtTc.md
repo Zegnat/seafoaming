@@ -8,10 +8,11 @@ duration = 1108
 length = "18:28"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAkAA4BaJQBWD+AC4Xtwl4oQAP70mgnNwc4wP9cbcWuDtsGbfQaJnLGzfQnhEVQ69UUCrWlHjfmSomKpdL4xA5T6jM4Zy7LBgSRc90cvFp0AAAA="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPsFIoEunpCMht/qoAPAYCWMAnTLHQuTWgIe3dsoazDfoIzrAAP70kJpCQ53heGeyRt/y2qjSicChSrb0LOmSqnwYaPS074gWo0QRHcedI8HAbYdrQAA="
 views = 28725
 likes = 1058
 comments = 145
+comments_off = false
 fetched = 2026-11-21
 description = "Trigger starts at 6:17\nThanks to my $5+ patrons of January!! I appreciate yoo :3 This month's trigger is soft ear to ear humming. Sorry if this is bad I was just kinda winging it idk  \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Humming"
 chapters = [

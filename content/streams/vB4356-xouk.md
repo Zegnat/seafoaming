@@ -9,10 +9,11 @@ length = "3:02:58"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAkAA4BaJZACdAD0BixcgAD++cjzuoSh53M4vi070PlnEX1Z51DXxj7AvtbuXJ4bOEBphkA6HAXvDe52wQAA"
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBQCdASogABIAPtFYpEuoJSOhsAgBABoJYwDHI3+B0a3AclW4mKsnpzaSo/xoouYAAP71dsETyv0gI31QAWQQ9R8G3SJ4pfpbUqY2MPkpun61NKRewjsbfZRlgAAA"
 views = 4036
 likes = 205
 comments = 10
+comments_off = false
 fetched = 2026-11-21
 description = "🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\nMy music playlist: https://www.youtube.com/watch?v=OLpeX4RRo28&index=39&list=PL1Q2egvxEPqH67JW0xYaElDyTOTuAyZTd\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

@@ -9,10 +9,11 @@ length = "3:55:28"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJQBYdhu1z6afgAD+9knb5cqqYTs3145JGZzB62t86wIDirl6wXuduMQELZjVN5c+MJZp4BEUiP+wtcU76VQve5GW9IXvKCpf+VAAAAA="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPtFYpEwoJSOiMAgBABoJZQC7ACHAAw1h/pvl3a4EgeIl1RAA/u2bOlUQBVi6J1yLuu3Plov+MGAXlssGz+wIUhdGJSrP6Nt3m9pQNoYi3/BTgAAA"
 views = 14265
 likes = 832
 comments = 29
+comments_off = false
 fetched = 2026-11-21
 description = "[SHOW MORE for description before asking a question] \nI haven't streamed in like 5 MONTHS cuz of external stuff but IM BACK and I'll be streaming every Wednesday again :D It might be asmr, games or normal chill and chat, depending on how I'm feeling. If you want your chat to be more likely seen leave a donation through the link below, superchat, or directly tag me in the chat @Seafoam Kitten's ASMR\n\n🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\n\nMusic in this stream:\nYoshi's Island Soundtrack\nhttps://www.youtube.com/watch?v=sAtQOIawBlQ\nBiosphere - Snapshot [Full Album]\nhttps://www.youtube.com/watch?v=7maV9tY_2ks\nsoundcloud: https://soundcloud.com/officialbiosphere\nbandcamp: https://biospheremusic.bandcamp.com/\nspotify: https://soundcloud.com/officialbiosphere\ntwitter: https://twitter.com/_biosphere_\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

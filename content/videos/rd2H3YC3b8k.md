@@ -8,10 +8,11 @@ duration = 1132
 length = "18:52"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJZAC7ADo2MvkAAD8+5HHDeK6LurePCjvoXnKjSPOqmzkqENl2cNVRmTvaVbDb/GAh8tsK1nkmoOjEuvu1mmkwSI6np0DHxD1dGRMYgAAAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFWoEwoJKMiMBgMAQAaCUAAAc8LIdwCzWkx6xyOMdmMAPcmxptjmFPHaJKseGuDtaP/Dty3LXVr8JQOu1vZbhIQwKzzoMr/FVmX1svlaFqg440GYkGAAA=="
 views = 531368
 likes = 7461
 comments = 1400
+comments_off = false
 fetched = 2026-11-21
 description = "WARNING: This is a creepy asmr, and if bugs in your ear creeps you out you better run now! Thank you Jed for this commission and really cool video idea ^.^\nIn this video you are meeting a good friend for some coffee. You learn that there is a strange sort of 'alien invasion' happening but you are skeptical. The next day you meet with your friend again but she is acting very different and strange... \n\n0:00 - Soft spoken chatting and mug tapping, sipping\n1:15 - Crunchy eating\n4:10 - Face & hair stroking, whisper positive affirmations\n7:28 - Next day, your friend is different...\n10:46 - The drug is taking effect\n11:16 - Tied up in a dark place, \"positive affirmations\"\n13:21 - Inserting ear bug, right side (mouth sounds + tongue wiggles)\n15:36 - Inserting ear bug left side, layered mouth sounds\n17:00 - You've been infected!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #spooky #softspoken #affirmations #mouthsounds"
 chapters = [

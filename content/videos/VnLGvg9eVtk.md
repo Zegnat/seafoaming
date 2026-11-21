@@ -8,10 +8,11 @@ duration = 3012
 length = "50:12"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJbAC7AECkUotgAD8+9PSK4UUO67VRbWM3Tu6f2GBGtTb10gpwadxptE6R/q4yxZD0texCPdp7vzUcJBjeB0WB2VbVthrZfhTSiSzp8AAAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPtFUpk2oJCOpMBgIASAaCWMAwoA0IDO8zGhEw+IwVwwfZsAA4XUQQeqtguuokvRkkm2piKcSwNX01DmWqLEZ8qgJuB5w2P0BO8rPH2b2s51H6Deb/7K3hQoAAAA="
 views = 44875
 likes = 954
 comments = 355
+comments_off = false
 fetched = 2026-11-21
 description = "Sorry for the noisy audio ;w; I hope you can still enjoy the squishy, crunchy sounds along with some whispering and hand movments. I got great satisfaction from making and squishing this slime :3\n\nTIMESTAMPS:\n0:00 - Intro & tapping\n5:43 - Blue diamond & sequin slime\n16:30 - Orange floam slime\n25:34 - Pink pearl slime\n34:16 - Green pebble slime\n43:20 - Big boy monster slime :3"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1146
 length = "19:06"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAkAA4BaJYgAD5JxbWghy8AAyzmuhJ8Kh4PXw1XaxnXt0ffALrOija5GlkmCsfGxPSmMmCUS2kuHncfgXPPWnalTL4GroZSzdoFBzdqtv8qijCF2qvmRNgAAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPtFYpkyoJSOiKA1RABoJZQDO7AoqK6Iuq9+ZuhI7weAA8yOYD2bqUvrC6GA8/DXXZAWoLG778HrinyANYHVX5O82pw6j+gdDSHrD1LL2r4TrAAAA"
 views = 88964
 likes = 1156
 comments = 447
+comments_off = false
 fetched = 2026-11-21
 description = "AW BUDDY you fell down. I have to fix this. :D This video has lots of small triggers: Latex gloves, crinkles, spray bottle, scissor sounds, whispering / soft spoken, fabric scratching, personal attention, kisses, and some visual ASMR! I hope you enjoy!\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

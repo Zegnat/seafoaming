@@ -8,10 +8,11 @@ duration = 925
 length = "15:25"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAkAA4BaJYgCdAYulzVPWU8AAP7ruIRc3Q18HfSfNJ4w88m8JqbU+eSLw/pDJrfz6oNIw5fGaweAw9xk4Nbg4/KLelPAOC1VhzVFESAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPs1UpEunpKOhsBgMAPAZiWUArAAE1PM5wJcq1aCjRrqUr0vgAP5lTc8lG7PoE1RcbZbrIOln8UyfjLSyNwmMkL1OYLSpmpzNX63DQ32/Wf+zwv2LQLcNbDEUEQRAAA=="
 views = 9117
 likes = 195
 comments = 125
+comments_off = false
 fetched = 2026-11-21
 description = "WARNING EATING SOUNDS!\nHERE HAVE AN UNPLANNED BIDEO.\nHave lunch with me while I eat leftover Tofurky dinner from Canadian thanksgiving and ramble about stuff. :3\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

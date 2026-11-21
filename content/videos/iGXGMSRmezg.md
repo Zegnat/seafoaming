@@ -8,10 +8,11 @@ duration = 2203
 length = "36:43"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJbACdAEfnhz9P3BgAP6tinY61BkHIupfiLoMGs3t8egpuxeKIbpkXX16vsiiZG+dQK0nIT8vek2HlK9VghlDfJ3zbuKIHXgUEnXctjqHxGEAAAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPslWpEunpSOhsBgMAPAZCWVMAFNABf3JQ3F7QepaPr2WggAA/r8VCFaRrp3JeNAkOrSaSXe4SNSVPxupYwtGzK/5HC80VeSFuZRZhaLP7I0WGby7NpVlb+AA"
 views = 93318
 likes = 3089
 comments = 686
+comments_off = false
 fetched = 2026-11-21
 description = "[CW; Syringe - Timestamps included below] Oops, you're dead! The funeral director was just about to prepare your body when you began to wake up. But luckily this isn't any ordinary funeral home. It holds a secret deep below it's foundation. Cancel the funeral, because you're being welcomed as a permanent resident of Master Mania's Home for Wayward Souls!\n\nTIMESTAMPS:\n0:00 - Sick ass intro (footage credits in description)\n0:28 - Waking up and meeting Master Mania. He checks your vitals w/ flashlight and stethoscope. Yep, definitely dead!\n3:16 - Explaining your circumstances. It's not looking great for you buddy.\n10:24 - Plucking glass shards from your body with tweezers \n11:46 - Drinking a rejuvenation potion (liquid pouring and gulping)\n15:34 - Brushing your matted hair!\n21:55 - Explaining the embalming process [! Syringe shown briefly 24:26]\n25:01 - Putting on a crinkly plastic apron and explaining the history of the home\n28:30 - [! Syringe] Embalming you (deep water sounds)\n31:35 - Testing your mobility and senses (mini cranial nerve exam)\n\nStock footage for the intro from:\nhttps://www.youtube.com/channel/UCUf_1VQY9uVf2PjweGezL2A\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #PersonalAttention #Zombie"
 chapters = [

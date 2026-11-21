@@ -8,10 +8,11 @@ duration = 1617
 length = "26:57"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAkAA4BaJZACdAEZ7yN1ovQAAPlv1zZyzFXDZqOhC7jiqqfdCHO4dEuZ2X4Sx4ZxDYo6mYilH9Ee2oD7FrdLb2ADowpD9zv68MbxB9cfIJzMXGH2Jhn82drPgAAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASogABIAPtFgpU4oJaMiKAqpABoJYwAAHoApFiDrcIOw7iIAAP6JC4QNJj6NfruyZ5cxjA2VOVDBb/VpKzDv6jqrNvGdL8Myo5MFgkE35yskBvFUpJieOLt/wS2zj3MNJLoPtEWnoAA="
 views = 87278
 likes = 1974
 comments = 108
+comments_off = false
 fetched = 2026-11-21
 description = "When nothing else works, this magical sleep expert is here to fix your problem once and for all! With her trusty assistant Glorple, you are assessed for the cause of your sleep issues. Then you will be given a tingly, intense sleep treatment with magical tools and guided relaxation! \n\nTIMESTAMPS:\n0:00 Intro\n0:42 Glorple and his assessment\n1:40 Inspecting your ears\n2:45 Marking Areas\n4:55 Adjustments, Pulling and Snipping Energy\n7:03 Exploring with Wooden Ear Pick\n10:00 Cleaning Ear Pick, Blowing Away Anxiety Debris\n11:26 Kissing Fluffy End, Blowing\n11:35 Clicky Bumpy Roller \n16:18 Touching Your Face\n17:06 Face Brushing\n21:57 Dimmed Lights, Fluffy Feather on Your Face\n25:20 Blowing into Your Ears\n25:34 \"Good, good\"\n25:49 More Face Touching\n26:13 \"Sweet Dreams\" & \"Good Night\"\n\n\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships+seafoamkittens@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #sleepclinic #insomnia"
 chapters = [

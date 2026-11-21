@@ -8,10 +8,11 @@ duration = 1240
 length = "20:40"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAkAA4BaJagCdH8AElxoiVHcAAD8yYNvs4UK0edyhoQxQjZhU2/wzD+Pu9rIziOvLmR6BmEKwdVDBRoW1nh1gxwnQ94F+Vki6kwPjVzEDIZ/NugmHAAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPr1Sn0unJSMht/qoAOAXiWIAuwAbmaodP1cxOBw3bUG7Qb4ctYAA/ozr1RjDIjQlC8t6VpLMerAq5Ua8pfbf7lBDwvYMtgQKJneUIUlAczx8zHXzZQoOgY302mnm3EA+JAA="
 views = 1145733
 likes = 17680
 comments = 3100
+comments_off = false
 fetched = 2026-11-21
 description = "Bubblemint has come to the rescue!! Your badness level has reached critical levels and needs to be adjusted immediately :3 If you didn't know, removing badness and cleansing a human involves lettuce and fruit. Also do you like Bubblemint's new bell collar? I think it suits her and I like how it gently jingles when she moves :3 \n\nTIMESTAMPS:\n0:00 - The concerning news\n2:46 - Scissor snipping, energy pulling \n7:12 - Badness Dissolver - fruit tapping, poking/puncturing\n9:06 - Stimulating the Dissolver - tappy sounds, flicking\n10:46 - Spreading the solution over you - tongue clicking, visuals\n11:32 - Greenleaf blessing - lettuce sounds, visuals\n13:29 - Rubbing Greenleaf over your ears\n14:29 - Consuming the Greenleaf - lettuce crunching, eating sounds\n16:05 - Dragon Breath - ear blowing sounds, hand movements, slow whispers\n18:49 - Appreciating her fine work :3 \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Dragon"
 chapters = [

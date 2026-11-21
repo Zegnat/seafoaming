@@ -8,10 +8,11 @@ duration = 1566
 length = "26:06"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJbACsAD2CGAEQi9AAP3HBoTBOiyaAFP00LJn9R8rNqDZbg/Zw2xIpJN+syH+pfFgl5xQIUxliG99uH/Hg0ZIjklSYDvol8UgdhjXI/4khx4DAAA="
+placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASogABIAPsVSoUunpKMhsAwA8BiJQBadA3QSWEZ99Ojex7iYCVce54AA/ubJEZDNWWSZYmvFKlCPUkIHrPYx+rLUQ8prkuInxxUMaD6Nq3Wyx0WY0ERU0tSu/CjfSOj413pvVh5sa2oLJ7wA"
 views = 95654
 likes = 2803
 comments = 166
+comments_off = false
 fetched = 2026-11-21
 description = "Stardust is the hottest pop star and fashion model of our time, and you have won the VIP hangout! Relax by the pool and get a personal ASMR sesh while she rants about how hard it is to be super famous :)) \nSpecial thanks to Bookthief for custom ordering and making this video possible!\nIf you wish to see more Stardust I did a live RP of her as well: https://www.youtube.com/watch?v=RJZtktK3J7s\nTIMESTAMPS:\n0:00 - Meet Stardust!\n1:21 - Water drinking and ranting about LARRY\n4:06 - Fishnet shirt scratching w/ long nails\n11:41 - Face scratching\n14:15 - Playing with hair and rambling\n17:29 - Kissing 😳\n20:04 - Inaudible whispers\n22:30 - Positive affirmations\n25:32 - Time for the pool!\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #softspoken #valleygirl"
 chapters = [

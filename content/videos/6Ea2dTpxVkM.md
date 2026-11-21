@@ -8,10 +8,11 @@ duration = 638
 length = "10:38"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAkAA4BaJagCdAEWQh6eNi4LwAD+s23XwnrTYO0PGrv8p1kfq8WYo2rYyYDU6WwZpqmBcatUI/jAc9kQPTjRz3oatC+oRHRpiK/jyqThX7NdOmFoAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFao0yoJSMiMBgIAQAaCUAVJG/wF7hYiRPZz8W9o7pgAxAA/tXWKM24zM50w8RLUnKLAHI8GgGebRF77LwEUrgwlwP7E5VBvYytGb+g4oA609wxzAAAAA=="
 views = 195654
 likes = 2069
 comments = 866
+comments_off = false
 fetched = 2026-11-21
 description = "A bit of a silly bideo :3 \nEating a banana in Canadian\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games): https://www.twitch.tv/seafoamkitten"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1395
 length = "23:15"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJbAC7AD2Ay888IAA/pq1OxEatGil/vO3RDPMCSveH1oWa/5k4dPa+3tZqFyjubKh+fTTiStBp84AEF13s1j8QCGDxt2ANVz+veGgAAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWpUyoJKOiKA1RABoJQBOgAiMMCMvMbCUgyFzr6Occcxc5gAD+tfOtbbcqZvGOX6JnJgdYgjdyfWEnJ9LEkijp5I77dBhXE9DhiEAik2PVJmhSpCzgndsDmkd30qYAAAA="
 views = 335502
 likes = 7074
 comments = 1200
+comments_off = false
 fetched = 2026-11-21
 description = "Princess Mia is out picking high charms in the forest when she notices you among the bushes, a person with the magical power to grow charms in your hair! She is smitten, and invites you back to the castle for tea and sweets :3 This vid has lots of personal attention, soft speaking, affirmations, and some eating and sipping sounds.\n\nTIMESTAMPS:\n0:00 - Soft singing, picking high charms in the forest\n 2:20 - Asking about your ability\n5:37 - To the castle!\n5:58 - Showing the assortment of sweets\n7:23 - Tapping on a macaron\n7:26 - Eating sounds\n11:30 - Preparing tea for you. Water sounds, stirring\n13:30 - Adding high charms to tea. Bottle shaking sounds\n14:22 - Tea sipping, giving you a nickname, chatting\n18:44 - Teacup tapping\n19:42 - Eating your charms, crunchy sounds\n21:21 - Asking about your plant-like features\n22:31 - Saying goodbyes \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Softspoken #PersonalAttention #Princess"
 chapters = [

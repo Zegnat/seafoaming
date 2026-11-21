@@ -8,10 +8,11 @@ duration = 727
 length = "12:07"
 availability = "needs_auth"
 age_restricted = true
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJbACdACzlUT3gAD31/9iFWR5SE3FTSCzTuWGnVu9B9VcwKYf8XHpcl4NDBMSfDr2+MFfZ5ZFxgtONejtaHIH6Hi7sRxkkAAAAA=="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASogABIAPtFao00oJSMiKA1RABoJQBdgAUeLRZvunTEkvSp4IYAAzRVRqSDg5Q4jzIZ7eZ+5F6zcxT4/5apzc/Nf7xAAPTrN4ywXcVyuRPPsES4wAAA="
 views = 152252
 likes = 5480
 comments = 665
+comments_off = false
 fetched = 2026-11-21
 description = "Uh oh, you ran into a foxgirl with a love for stealing! She seems to take pleasure in taunting and teasing you while she swipes all your cool stuff!! \n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #PersonalAttention #Softspoken"
 chapters = [

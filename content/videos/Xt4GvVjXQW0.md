@@ -8,10 +8,11 @@ duration = 317
 length = "5:17"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJZACdAEQ9V+2VWAA/u+N4UojNB8VnXGm5aRyqJxUt8wG/1MYvDkyWq28/ApLaVadt+ux1B1bdDjPT/bnmEhxnSQJTHg4xPTZ7Gh2MFgAAA=="
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQBACdASogABIAPsFMn0unpCKht/qoAPAYCUAW2QNDmxEf1zcK3Y6BDo4qUW+BYAD+9vGmwE/Fg2znfAppck4fmKyL/vfYAVFqudzcCsZn1k6K2scV5AqdUN+6u1JxKaCEFU/sC+giIEgACkAAAA=="
 views = 7341
 likes = 273
 comments = 81
+comments_off = false
 fetched = 2026-11-21
 description = "Congrats to the winners :D \nmatthew gomez\nDanox Mendioza XD\nIzaya Orihara\nShianne lindh\nknock knock\nWinners, please send me a message so we can get your stuffs ordered :3\nHere's a link to my tshirt shop if you didn't win but still want to check out what I have. I made all the designs myself! https://www.designbyhumans.com/shop/SeafoamKitten/"
 chapters = [

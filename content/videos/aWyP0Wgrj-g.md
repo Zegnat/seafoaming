@@ -8,10 +8,11 @@ duration = 847
 length = "14:07"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAkAA4BaJbACdAYuv22ytSzFj7AA/sADKzq86/fUKoKTqSBZ8JM2K8kX/VlZhDJLhfBVEBjN6Y2XHUSYXOJ4qu3B6R1IkujyJiReLhXpkw+X1DnjHp08fkm9xNXAAAA="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFcpk6oJKOiKAqpABoJYwB5KADC5j3h6Y9zeNlYvmpt7AD+z+pVkix9peSedsrT+7CM9//ig/WMG/upy5A5+6yO/DQJfeToSRvGApzb5VIiFunJkqsB/KNAAAA="
 views = 296060
 likes = 8660
 comments = 1200
+comments_off = false
 fetched = 2026-11-21
 description = "In the spirit of Halloweeny times, today you are the Grim Reaper and you are approached by a flustered demon girl who appears to be a fan of your work :3 \n\n0:00 - Meeting the demon girl\n3:04 - Page flipping, tapping\n3:50 - Helping with her destruction spell, whisper chanting\n6:29 - Soft singing\n10:24 - Awkward confession :3 \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Demon"
 chapters = [

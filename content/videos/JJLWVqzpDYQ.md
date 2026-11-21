@@ -8,10 +8,11 @@ duration = 1688
 length = "28:08"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAQCdASoQAAkAA4BaJQBOgBjMC+RAAP7vqPVWuYx+G3NrlNbTZ8K07E7QruJQYaLssDhQAtQHK1dlYzcw2YYcZGIHp+blPm93RjMpfYhyFGl72PDBw883Dr1JCKTcAAA="
+placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASogABIAPtFQo0uoJCMhsBgMAQAaCWIApxQwmcnF32duX+V8x7aEgecAAP75Wo0EQsSoAuVxEgfKM43j1+lg5J4Uaa1glpJuvo2a5i80x+CK/ybb2Fn2e4R8Cs+PMl7/fXhmxVTrGleWzDjpHIJ744/UVJfN8AAA"
 views = 27342
 likes = 673
 comments = 333
+comments_off = false
 fetched = 2026-11-21
 description = "~READ ME~\n\nTHANK YOU to ASMRWeekly who created this video, for collaborating with me! He puts so much love and effort into his videos, has mad editing skills and has a perfect understanding of what makes great ASMR :3 I love his channel. \nPlease go subscribe and show some love: https://www.youtube.com/watch?v=vklqEmDfJng&t=57s\nAlso check out ASMR Alysaa who contributed the hologram messages and various sound fx!: https://www.youtube.com/channel/UCyZ8-Fnx4T_S4TKWZH5o93A\n\nIf you liked this, I highly recommend checking out this Harry Potter collab that Weekly and Alysaa did together, its also freaking amazing: https://www.youtube.com/watch?v=sX-reB3aguA&t=3s\n\nIn this bideo, Fay comes to deliver an important message to Obi-Wan, including a buttload of triggers like mouth sounds, unintelligible whispers, tapping, mic brushing, booping, lid sounds, hand movements, and more!\n\nCheck Out My Seafoam Kitten Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

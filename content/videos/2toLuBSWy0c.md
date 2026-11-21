@@ -8,10 +8,11 @@ duration = 935
 length = "15:35"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAQCdASoQAAkAA4BaJbACdAC90ojCpoAA94wvJsiXVSaLlyXZBVeK70r1MVu18d5+03Ww3KEHBFA+1/pWfpPB3dfswpxR1MXygx/Z/LLPhBXAimZ+Xwkhuu/cNorD4b2EXh/g2AllAAAA"
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPsVSoEunsSMht/VYAiAYiUATpygAOaTUfxQwTHEPm5+fGAD8a/60gSQcU340x5EHtRjpP+XayCiwjG41v2PUahZ+92a/7sK/MdEWMppfsfsSjlwf00RcsEGao4AAAA=="
 views = 187069
 likes = 4030
 comments = 1300
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to Justin Yandere for sending me the fake flower vines and headband for this character :3\nThe plant that you have been taking care of has come alive in a new way :D She has been watching you and wants to make you feel all better. She wraps you up in her feely-good vine hug and gives you lots of kind, reassuring words and personal attention. Some hand movements and ear to ear whispers ^.^\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

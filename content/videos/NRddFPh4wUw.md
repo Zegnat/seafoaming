@@ -8,10 +8,11 @@ duration = 1317
 length = "21:57"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoQAAkAA4BaJZACdAYt9bXPEM4+EAD+bCdh7zMyDrvyL9pV+9trMN3+FY5bRSvfUg6Y3Nmzx/uHkZDu9Jk8Y/Xw8O1+d/aoQ7ijjfWXWzgUhB8iYZhpqVwSVdqjQAAA"
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQBACdASogABIAPr1Qn0unJSKht/qoAOAXiWUAtOgQFaJYX9s1ESWuke031AAA/saCtxHCVq3lPmpbCVerzCcUj6feCfIcGEbXeGOlBjPU0IzFjVwAAA=="
 views = 222081
 likes = 7467
 comments = 1000
+comments_off = false
 fetched = 2026-11-21
 description = "Smolpire has come to teach you how to get fit! You are her first client so you better leave her a 5-star review! This vid includes soft speaking, stretches, counting, weight lifting, water drinking and pickle crunching\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #Vampire"
 chapters = [

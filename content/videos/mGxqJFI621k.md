@@ -8,10 +8,11 @@ duration = 1043
 length = "17:23"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAA4BaJZgCdACxfW9bgAD8IDu3Ve4xGtH4Q1KhvC2cKdVrzn5LriznsEg/Crlw9dASTXgtvYuWqs5lyfdqiznSPAQAAAA="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPtFWpk2oJCOiMBgIAQAaCUAU4oGiZzlhbOsGdeK45l7rgAD+q/T1UlmTaPtAiNr4oSHqy1EOMUNoy7/9W8QIiOP0QIdziZwVW9iJ1XP97BQ36mAA"
 views = 7891
 likes = 167
 comments = 53
+comments_off = false
 fetched = 2026-11-21
 description = "I had a few people request another match lighting video! This time immediately extinguishing the flames for non stop match lighting sounds! I hope you enjoy! :D \nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

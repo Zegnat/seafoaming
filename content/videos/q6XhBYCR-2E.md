@@ -8,10 +8,11 @@ duration = 1668
 length = "27:48"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoQAAkAA4BaJYwC7AYtLS24MQAA/tzspsRtvh5Gb10DT3VTHnrWyDfLwZUz5fOxlX+14vrJK9imiVmu5tWxKJzuTY+xZNbK2nHAAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPsFMn0unpCKht/qoAPAYCWUAuwAYxTdwytEQPQIROZTfoAD+3C3Gk+Zung1hpBqIWbxF0Dvss/rxCi7Z7zwQhCwkDniwmTFGRD90tv5VeKUcgmJbAAA="
 views = 21298
 likes = 491
 comments = 188
+comments_off = false
 fetched = 2026-11-21
 description = "❤READ DESCRIPTION❤ \nTHANK YOOOOOOOOU ^_^ I'm so happy that I got so many questions. Thanks everyone who left questions and thank you to everyone who is subbed ❤❤ I will continue to do my best and make super awesome bideos for you guys :3 \n⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇\nASMRtists mentioned in this video:\nPleasantASMR : http://goo.gl/QTFAlu\nPeekASMR : http://goo.gl/u90dZI\nMrPuppeteer : http://goo.gl/EQlf31\nHeather Feather ASMR : http://goo.gl/QP17BT\nPuddingWhispers : http://goo.gl/iAaI7j\nGentleWhispering : http://goo.gl/sIDHvy\nPlease check them all out! I lub you guys ❤ \nFollow me if you haven't! Twitter: Follow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

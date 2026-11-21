@@ -9,10 +9,11 @@ length = "3:17:11"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJYgCsAC8SD22AAD+726y4lInLrPpJ6FDVbYb3K/XJ8FIjxwrcvRK2QFrqczGDgiXzj4IDJ3HfFOzhyZZhMzAyFKh7Wh61y7BWuaSHgAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPs1QokunpKMht/VYAPAZiUAWHYisOiY4dF/M06yCAwI7mIKqnZQIAAD+5hLxHkFv6wo4ZQzHfo/krqX4Hwjdy0MO45a/n50bhY9CN/EouN9Clk71fRcSTRhDEZAAAA=="
 views = 9223
 likes = 511
 comments = 23
+comments_off = false
 fetched = 2026-11-21
 description = "This game is called Coffee Talk, its available on Steam! \n🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://goo.gl/WKbNuf\n💬Seafoam Discord → https://goo.gl/9mdB2s"
 chapters = [

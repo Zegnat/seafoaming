@@ -8,10 +8,11 @@ duration = 829
 length = "13:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAA4BaJYgCdAD8KDIPlAAA/b8TR4cumt8F6+xVKrKp4SOMXeNIuQxAIukDYp+5dH1k7KjHQ9JT1VkwSABzZPzLhtxi0OC/1dG/bIgAAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPsVSpEunpSQhsAwA8BiJQBdl+LAqjytbwf6wxhFL4zgQ+l+lvAD9kwFBvdqa3iwv69nENtUm4g3pIOWmdMTPqljXN9aVWilnltdbgQUwp2yR1KjQgAA="
 views = 194855
 likes = 3407
 comments = 1000
+comments_off = false
 fetched = 2026-11-21
 description = "Sorry for looking like a shoebill but anyway here's a mommy roleplay! I know I'm not very good at it but I always take comfort in parental roleplays, so I thought someone might like this ;w;\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

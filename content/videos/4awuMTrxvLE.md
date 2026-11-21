@@ -8,10 +8,11 @@ duration = 1019
 length = "16:59"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoQAAkAA4BaJaACdG1/Alnx5RjjqAAA/vCV67OGvuSs8Ua+cLNdzzdm/ih2Pjwn0LPqZ2Uy4QCWfhNqirLHFGyfZPHksJJ4W6+aK26/cQODPObwAAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBACdASogABIAPtFgqU+oJSOiKAgBABoJYwCsAAyOw35EwyiB1RU0C26zAAD+3u+0FiDeZJ+X5vvvkhOZhSdwWyNfkCsFHTtUTIqihBo+GDvN3++ehYQ2jko/mF26PxzKZcurqHZ95AubsgA="
 views = 61976
 likes = 2572
 comments = 304
+comments_off = false
 fetched = 2026-11-21
 description = "Here's a cringey lil story I wrote for class :3 You can also read it on Tapas and there's a picture I drew for it as well on there. https://tapas.io/series/My-Roommate-is-a-Carrot\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Whisper #Reading #ShortStory"
 chapters = [

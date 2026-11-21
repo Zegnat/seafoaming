@@ -8,10 +8,11 @@ duration = 9470
 length = "2:37:50"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJbACdAEDYW+IKJAA/vMv5tIfmOI4TV9jtVAXA63w7G8NGpC0iK9+GHBoR7vssTC2e22JBpRSfFDameO1kE/QJTIje9wgAAA="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBQCdASogABIAPsFKn0unpCKht/qoAPAYCWMAsR9fQ0KcmR0JM8aZTAT0+QjkeusrKAD+8vsrRJMfHXyROnCv/vFGS9ga37fV2tTje96dQ+cgpoQYu6zSRXpzNO/uEtmaEeRkAAA="
 views = 32739
 likes = 886
 comments = 32
+comments_off = false
 fetched = 2026-11-21
 description = "Enjoy some cozy relaxation while I do an assortment of triggers that were requested by donators! \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [

@@ -9,10 +9,11 @@ length = "2:01"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAQCdASoQAAkAA4BaJZwAAh9zA+AA/vnDX+K/RWqS6YUDldz2+lLZbBYu0avmRnWtNLNNNn73EKAA"
+placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASogABIAPtFapk0oJSOoqA1REBoJZwAAvFabRxoBBcg9moLkgAD++vUnlM2hjxmSC4Do8nPV+F/NTo/8IbNhh0Iys1dG1JJgAAA="
 views = 3269
 likes = 63
 comments = 7
+comments_off = false
 fetched = 2026-11-21
 description = "Serenity (betta fish): It's aight\nReuben (dog): DELICIOUS GIVE ME MORE\nBentley (ferret): ew get it away from me"
 chapters = [

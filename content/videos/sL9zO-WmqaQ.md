@@ -8,10 +8,11 @@ duration = 287
 length = "4:47"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAkAA4BaJZwAA3AA/vVef7XPOeo4AAA="
+placeholder = "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAQAwCdASogABIAPtFgqU+oJaOiKAgBABoJZwDN/Bh8L1AA/vJguBUE+BOXhVkAAAA="
 views = 64013
 likes = 2015
 comments = 1300
+comments_off = false
 fetched = 2026-11-21
 description = "hello spouse\n\nhttps://voices.clickhole.com/give-me-kiss-1825124165"
 chapters = [

@@ -8,10 +8,11 @@ duration = 839
 length = "13:59"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQAAkAA4BaJQBOgCF2LwoZltAAAM44eivaHPNtAyff/D+S+eYJPTOzJv2FRaKw171Wi/SKI1mhD857O6PADhhFr4uZuUFqnRqkQ5d+cA7IkGyZ+RNiPV1AYAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFepk2oJSOiMBgIAQAaCWMAsR8hgTdYPXFWrY8CqikF98COQAD+rAGsnFLyNU8wF9dKcAEfAKwOzkrF4d4+Xd7/DCVqkJrTggD2Wci2glBLE9Qyjw8A6NLVpF2PauwgAAA="
 views = 35758
 likes = 658
 comments = 168
+comments_off = false
 fetched = 2026-11-21
 description = "I'm getting ready for my first day of college :D Here is my routine from when I get out of the shower until I'm ready to go. My bathroom has an extremely loud fan so I decided to do a voiceover for this one :) Relax on your butt as I get ready for the day! I am really bad at makeup so please don't yell at me LOL. This video includes soft speaking and tongue clicking sounds. Hope you enjoy! \nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

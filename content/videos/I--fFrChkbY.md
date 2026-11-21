@@ -8,10 +8,11 @@ duration = 1150
 length = "19:10"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAkAA4BaJbACdAEDnvRi4AD+1QHIAeY7ng+KmA6X6t0eT+TKESjjc/yIhS+PfpuD/XGTTkleQP+syg4CTlKt3+cVzdLHUIWFviPldjXK5bf3vBkgz6wYoRB4jkAAAAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPrVKnUunJKMht+gA4BaJZACdM0xE0/nAhGiNRiGIcx4eLwKYuAD+sYO98aPyMDNa3xyLtCP84kPl0bO6O8rwy8PQMa8w/G6XO6pJdfH8qsJz6MNdBACZsAAA"
 views = 273158
 likes = 5764
 comments = 881
+comments_off = false
 fetched = 2026-11-21
 description = "You are captured by an Al-Bhed girl who interrogates you! It's not much, but you tell her what you can remember. She decides to let you join the group and helps you recover.  This bideo is based on FFX and inspired by the recent HD remaster release to the Nintendo Switch! Thanks to Sean for the commission and video outline for this one :3\nTIMESTAMPS:\n0:00 - Waking up, introduction\n0:55 - Flashlight personal attention, checking your head injury\n2:20 - Explaining the situation\n4:09 - Calming you down, deep breathing\n6:17 - Monster prison, stealing some goodies\n7:42 - Mixing ingredients for a potion\n8:52 - Learn breath holding for underwater missions\n10:54 - Drinking final elixir! (bubble tea) \n14:49 - Lullaby singing (bad japanese)\n17:00 - Unintelligible whisper\n18:43 - This is your story, it all begins here. Sweet dreams\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #FFX #FinalFantasyX"
 chapters = [

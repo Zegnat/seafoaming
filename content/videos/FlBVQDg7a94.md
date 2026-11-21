@@ -8,10 +8,11 @@ duration = 821
 length = "13:41"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQAAkAA4BaJbACdACvfJDAAP7oZUmHVIuXandnsTydn+q3/SpfOgogDASMbYxkt1KTmUhS2iG9oR54em7iMeD3J9llV6qp3HcV/cVAatHyo9iSxoAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFYpEyoJSOiKA1RABoJQBUegZBTC3mis7qs3RTaX5eG9baXAAD+6pWKno0B+jhtqJJh+MJpJcLxwhE17eNz+qcy1SoBcrO5u3bzk+fgwpqYAY0NbZ2vN0D1zeAAAA=="
 views = 28945
 likes = 1095
 comments = 373
+comments_off = false
 fetched = 2026-11-21
 description = "Welcome to my morning skin care routine!! Thanks to Maritime Naturals for sending me these lovely products ^_^ If you want, you can check out their stuff here: http://www.maritimenaturals.com/ \nIn this video there is a whispered voice over along with the sounds of water and face tapping, plastic tapping & more!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n💌 PO Box 46054 NOVALEA\nHALIFAX NS\nB3K 5V8 💌\n\n#ASMR #Whisper #Skincare"
 chapters = [

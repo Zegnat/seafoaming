@@ -8,10 +8,11 @@ duration = 1308
 length = "21:48"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJQBOj+ACUsaDrbwAAPwtl09tGyDb5DruAwI+pD1Rn3tUqsVQCGXT9K3i33kvbZDgE8qXrYvb8fz2XFXAce87kydHTvEoyzAEt2UFywAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFQpUwoJC+iMBgMAfAaCUAXYAZoJ7HHVj8mI+KPRf31x5aYgAD+SHEO56kEiffrKBn1Ws01qZWSAzlqhdDPHyh9PUx8gEgvn8EekVEq6TbKDC28x4lI59SD6lpAAA=="
 views = 1860912
 likes = 26633
 comments = 6300
+comments_off = false
 fetched = 2026-11-21
 description = "Did you know that other dragon girls exist ? :D Meet Bubblemint, she is very fascinated with humans and wants to examine you. She has some fancy gadgets to test if you are safe, and offers some things to help you feel better!\nTIMESTAMPS:\n1:28 - Goodness Calculator (metal clicking)\n4:14 - Badness Remover (metal cranking)\n9:24 - Morality Stabilizer (squishy sounds)\n12:58 - Sadness Remover (scissor snipping & hand movements)\n16:46 - Facts about humans and soft spoken chatting \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Dragon #Whisper #Softspoken #Fantasy"
 chapters = [

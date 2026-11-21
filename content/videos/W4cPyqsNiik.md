@@ -8,10 +8,11 @@ duration = 724
 length = "12:04"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoQAAkAA4BaJagCdH8AEmjKUyYUgAD+WjU2rGsSJt3lgoft11PQYybSp+ATSwL4q/fdnK7YA6ldEjqfhy1YvoZW05hopmqU93zydUpYAAA="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFcpE0oJSOiMBgIAQAaCUAWI+yAL0UQdBAUAYR2k4znZKAbRjgA/elPC3/kOIWRh3QAl3t4UoxSwHIkCFL70x65Cec7TjR1oEIwr9Ueq2Lb0X89LqV8/L7HDrqAAA=="
 views = 485482
 likes = 6950
 comments = 862
+comments_off = false
 fetched = 2026-11-21
 description = "Fay is here to fix your tingle immunity by re-wiring some things in your brain with her alien mouf probe :D \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Alien #Earnoms"
 chapters = [

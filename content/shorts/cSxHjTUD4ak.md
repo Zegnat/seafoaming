@@ -8,9 +8,10 @@ duration = 31
 length = "0:31"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAkAA4BaJYwCdADGWircAAD+9DCf+WXrKy8CTPX+D14PUrOX5Z7OF+tZp8ManAB+59WQ7B9YAAAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPslSn0unpLChsAwCEBkJYwC2yCG+3iITozFuj2KSN6sHxZAr+AD+7pjXJuwI1KMDwA8C/PA/i9NQH1sPjDq/OBpis62dSo+sZ4XLsZgBz+TJMoAAAAA="
 views = 36623
 comments = 181
+comments_off = false
 fetched = 2026-11-21
 description = "pwease DONT SEND ME TO THE SHADOW REALM IMM SOWWYTTY"
 chapters = [

@@ -9,10 +9,11 @@ length = "2:45"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAAkAA4BaJYwCdH8AElqjK7EAAM48lWO9Hg+YgGCAvfkXPtzBVn7/vxYec2O3HNr2ODC9Zto0IjjjnbNj5aIl4MQfcw8gyDqAAA=="
+placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASogABIAPs1Yo0unpaMhsBgMAPAZiUAVw4ZPLrg0mBbfc0kgTG5qpt53/YAA/jqmLdnUcP/Cc5SeEXDjFvklduxIT+7V0jPe1e8h+1s9Jejx1jTHRrsvYtVOGfLcfwM8sxAi2U4DaAwAAA=="
 views = 11719
 likes = 207
 comments = 36
+comments_off = false
 fetched = 2026-11-21
 description = "Smolpire tryin to fit in with tough vampires, these were taken for ASMRNoire's video :3"
 chapters = [

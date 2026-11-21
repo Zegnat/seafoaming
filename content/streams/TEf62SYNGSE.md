@@ -8,10 +8,11 @@ duration = 5330
 length = "1:28:50"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAkAA4BaJQBOgCEMxKoQAM44w5JXa4cAT6wrMN8/6SxOw91Fi3MSKFyIZgJJuJXjt4F8SxZxhPwyzofuyQDIC4Qu1ExnwE42obav1NR2GMxkAAA="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwBACdASogABIAPsFIoEunpCMht/qoAPAYCWMAuwAeAOXASPfzFNm3g2SWNRJgAM3AcatHhVqAFdM9Ce33dpeoy1xg0QTCzz5iEjblo04rHg5d1vdAEYSEesDPgAAA"
 views = 3063
 likes = 77
 comments = 22
+comments_off = false
 fetched = 2026-11-21
 description = "Multistreaming with Twitch and Youtube at https://restream.io/\nFollow my Twitch! https://www.twitch.tv/seafoamkitten"
 chapters = [

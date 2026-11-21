@@ -8,10 +8,11 @@ duration = 949
 length = "15:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJZgCdAYtpC4jCwAA/CmdLNDsF5CF0mvT4gAJNVsTRm1jaHzJFdavCp64Z2deWqbi30OhNnVzgqu3rBLJ+RuL3xKZ8yT4m0K1g86N1BAAAA=="
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASogABIAPtFapk0oJSOosBgIARAaCWMAuwAKV0HeaGP/2FMe24ZpTAD97NNxswkhwFKfvbTeBvo7FG0Gu79Oxo/2uUdXaE8jGUZXwflANs6/BFVq2/7kAA=="
 views = 83468
 likes = 2886
 comments = 565
+comments_off = false
 fetched = 2026-11-21
 description = "Your best buddy comes to read you this adorable self care list from tumblr. Along with some whisper positive affirmations, headpats and face touching. Tumblr post: http://eponis.tumblr.com/post/113798088670/everything-is-awful-and-im-not-okay-questions-to \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Bestfriend"
 chapters = [

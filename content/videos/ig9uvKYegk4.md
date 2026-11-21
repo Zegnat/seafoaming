@@ -8,10 +8,11 @@ duration = 3620
 length = "1:00:20"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAkAA4BaJbACdAEfpq0bQNvQAP7iG4kswJWKVdpNq8tNceqRUmdUtWmkygv7OjZXMSEO705KZ/1XCXPvZsGOuK8ukw2aV9g+GDAYAAA="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQBACdASogABIAPslSoEunpKMhsAwA8BkJYwCdMxgCZrIdsR2tTPI/UZaAAP61Hm2JN1k3kP5ZxqxsBISSweuaLWNZPl7qtK+WbNlISQY8izGG5ugL6DLySYA2uYAAAAA="
 views = 22035
 likes = 453
 comments = 237
+comments_off = false
 fetched = 2026-11-21
 description = "Thank you Japan Crate for sending me a box to review! In this bideo I unbox and taste all the delicious Japanese snacks in this monthly subscription snack box. First part is whispering and crinkles/tapping, second part is the eating of the snacks :3 \n\nIf you would like to subscribe to a box for yourself, get $3 off your first box by using the coupon code: PICKLES\nHere is the link: http://japancrate.com/jc\n\nCheck out my previous snack box review with TokyoTreat!:https://www.youtube.com/watch?v=Gzlkti2FL7M\n\nTimestamps:\n0:00 - Intro, tapping on box/explaining Japan Crate\n5:40 - Opening the box\n7:27 - Explaining each item, crinkle sounds\n19:20 - Liquid shaking\n20:08 - Moar crinkles!!\n25:52 - Tapping\n27:00 - Floam/play foam sounds \n*TASTING (Warning mouth sounds ahead!)*\n29:47 - Pudding drink\n32:15 - Savour rice crackers (big)\n36:45 - Honey & butter biscuit sticks\n38:50 - Strawberry fruit roll up \n40:25 - Popsicle flavored lollipop\n42:05 - Flakey pastry cookies \n44:26 - Strawberry yogurt bacterial candies\n46:12 - Savoury rice crackers (small) \n48:13 - Soft Ramune candy\n50:00 - Traditional salted rice cracker bits \n52:05 - Chocolate filled mini buns \n54:22 - Mini vegetable crackers\n56:47 - Corn soup flavored puffs \n58:47 - Outro \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1763
 length = "29:23"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAkAA4BaJagCdAD6wLpYgAD82ACJnHkjfLpyGios69IpnaymOcPuiNMMqyR0MaurzvmHWlvNQ/84Mvnrx83Ps2sb3ZrBgrPddYiKQ8AAAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPtFYoUuoJSMhsBgMAQAaCUATpmJgygEUd/R+4OowFWSPCxXsAAD9lotagPi4G8XWgXnyLiJ7/j7EmSI+JPUwW/0oR6W/9f+5tfQusg9KUodk2qh1qUhFU6gAAAA="
 views = 530542
 likes = 9079
 comments = 1400
+comments_off = false
 fetched = 2026-11-21
 description = "Zelenia the alien girl is back and to do some examination and probing!! This is a rude asmr so she says mean things to you , she is an evil alien who thinks humans are stupid after all :3 So don't watch if u dont wanna get ur feelins hurt lmao\n\nTIMESTAMPS:\n0:00 - Alien gibberish, waking up in her ship, explanation\n5:40 - Checking your ears for damage and condition of monitoring device\n7:14 - Lubricating your earholes (lotion ear massage)\n9:42 - Looking inside ear canals (flashlight trigger)\n12:46 - Preparing ears for extraction (ear tapping wooden sticks)\n18:21 - Removing foreign objects from your ears (fluffy ear cleaning)\n19:49 - Re-implanting the new device (intense tongue wiggle sounds)\n23:10 - Removing your memory of this visit (softer mouth sounds)\n25:18 - Inserting a slime blocker to protect the tracker \n28:19 - Time to go home! \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Alien #Bitchy"
 chapters = [

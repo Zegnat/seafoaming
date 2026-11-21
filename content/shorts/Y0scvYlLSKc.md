@@ -8,9 +8,10 @@ duration = 48
 length = "0:48"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkAA4BaJZAAAn/WQsQwAP7ytMr5Jt2e4f/U4vWC4AErvpjw0PblJLu9xfgo+GJqf4Uttq0UAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASogABIAPtFYo0uoJSMhsAgBABoJQBlABDdz/fYiH1fnZ6Jr7OvoAP7r4tro82yzEJRe52wiA67dOsqFGd3PFFX76fhk1k75sd3f6EVn4CSrKqSDWxjfkzJrzKAxomMAAAA="
 views = 6647
 comments = 8
+comments_off = false
 fetched = 2026-11-21
 description = "Throwback to the first time you met Dr. Raspberry Fritter HAHHA Full video here: https://www.youtube.com/watch?v=7bSdXgXZQa4"
 chapters = [

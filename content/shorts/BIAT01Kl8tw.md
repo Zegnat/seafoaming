@@ -8,9 +8,10 @@ duration = 27
 length = "0:27"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAA4BaJaACdADDve3+AAD+9elS/12o5jbKv8sK+RsYfsLnRobJWsBPN5TP+2ty6AteOlNFan4z/Wn5Fq0wNbZBIDsDAAA="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPsFIoEunpCMht/qoAPAYCWhg60YADNvtcBd3zYDg4AJaJgsAAP7216O3m8o3lqupjU43l7lLVbmXkEUdS5+O0OFTsNu58ruN1PrhQIhvbyxsGP4E8cp5RrtooZAAAA=="
 views = 27806
 comments = 78
+comments_off = false
 fetched = 2026-11-21
 description = "teaching a lesson to you naughty creators!"
 chapters = [

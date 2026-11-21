@@ -8,10 +8,11 @@ duration = 9695
 length = "2:41:35"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAQCdASoQAAkAA4BaJQBOgA6tW0AA/mxv6EUByH7/KO4M32uO71RmtYgNZMWvXU+j+4eskAs+V/U3JjHHHZGkzjOy/5gTy39QnCnx0OyfJjGmcLELUZnAMUAAAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwBACdASogABIAPtFUo0uoJKMhsAgBABoJYwC/OB6WHE56Zqa8fzyHKzQxyX3U8AAA4Q0HNHVLwDujcza+ncFfG7enlV6+IvhRd/cEYW6PbmDz7hSQ4GD1XMwFrTtAAAA="
 views = 43299
 likes = 1246
 comments = 66
+comments_off = false
 fetched = 2026-11-21
 description = "[This is an in-character stream, so only Stardust will be responding to your chats teehee ] MERCH HERE: https://www.bonfire.com/seafoamsweetdreams/ Order before the batch ends tomorrrow!🔥DONATE $1+ for a trigger! Stardust will read your message on stream! → https://goo.gl/T8mxRy\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #roleplay"
 chapters = [

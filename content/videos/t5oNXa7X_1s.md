@@ -8,10 +8,11 @@ duration = 1270
 length = "21:10"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoQAAkAA4BaJaACdADz4fMCIAD2iU21e/yZTnKIva4XnKs+qb83qzG39A2a1k+vWlWAmpbLFrMROnMfvapgJcaXwJXjk34YU/ZRcKvMiuMqWrj+nOvzm2AAAAA="
+placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPs1YokunpSMhsBgMAPAZiUAToAXyTa8DroxWNqA35ksj4AD9igFKB/wu1igXsDdHQYNRiMWaMc85mDKBRq3r62ZUjOTeKTZm5yaG1aAA"
 views = 214489
 likes = 4560
 comments = 980
+comments_off = false
 fetched = 2026-11-21
 description = "NO ITS NOT SPONSORED 😆 Take ur damn medicine\nYou have a cold so you go to take some Nyquil when a strange girl pops out! She is a magical Genie who is here to grant your every wish :D You wish to be healed of your sickness and helped to sleep. This was originally a patron's request for a custom audio, but I thought it was cute so decided to make it into a video. So thank you Tony for the idea! ^.^\n\nTIMESTAMPS:\n0:00 - Genie appears!\n2:06 - Genie gives you medicine (some tapping sounds)\n7:48 - Ear massage with GENIE FLUID (oil) and ear cupping, \"shh\" sounds and tongue clicking\n\nsorry about stompy neighbors ;w; I had to do lots of cuts to take out as much of the sounds as I could lol\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Genie"
 chapters = [

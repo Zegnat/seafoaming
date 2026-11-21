@@ -8,10 +8,11 @@ duration = 700
 length = "11:40"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAkAA4BaJbACdAYuRqyly4RbAAD2v7800ZLpuCl9Fk4R+918Zjt8f5aBEFBek95cJL6dtNc5swzmVKTs27Ug7EmFf2XyGcb/nxQk5OhVYh4TNGQzYkNvH24AAA=="
+placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASogABIAPsVSo0unpKOhsAwA8BiJQBUkeBAqqIua2slMG6miw8vjyAgA/oblTZVEA6wEkQXzJrAj0nD0xFuEEF72HKpP7OhL2zGPv8zer1ZydN5eu2d5KYna7GHWobEEbk4cAAAA"
 views = 58172
 likes = 1944
 comments = 370
+comments_off = false
 fetched = 2026-11-21
 description = "SMIIILE :D \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

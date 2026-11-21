@@ -8,10 +8,11 @@ duration = 869
 length = "14:29"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJbACdADwWHrP/AAA/Zxg1vfLbgHCGymjLfP+JxRsnuf/rpE9O765vaj8Gm7Rv+pXkdCqphK+dA1nJvlsWiQzWGCOtEazgAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFepk4oJSOpKAqpIBoJYwCdM1XBoDo69F4VS8nZLGloPJWj9wAA/qTYAif1aQiDnbhqDCu9/DPVH8YMREs5SYqFO9l4llvfgFfL6uZqnhN5p8PB6LDoIAAA"
 views = 48063
 likes = 2204
 comments = 212
+comments_off = false
 fetched = 2026-11-21
 description = "Club membership: DENIED. Boat license: REVOKED. Health Status: UNCERTAIN. Sleepover: MAYBE.\nbut you had a really fun time with this chaotic spongefailure :3\n\nTIMESTAMPS:\n0:00 - BUBBLE BLOWIN' (toughly and edgily)\n1:10 - Are YOU tough? What do tough guys do? Writing notes with crayon...\n2:24 - Yeah I'm totally one of you! Proving it by drinking... THAT....\n3:56 - Sniffing glue...? \n5:25 - Eating a coaster :( \n7:30 - You want me to... rip off my bandaid? :'( That's EASY...\n8:24 - Breaking down and admitting the truth\n9:22 - Oh my god we're both babies, let's play fun games! Knocking on the tiny door\n10:18 - WOAHH WHO IS THAT\n11:32 - Sleepover? LETS GO!!! Driving you in my boat (don't mind the bumps)\n12:38 - Playing Spot It while driving ^-^\n13:56 - Uh oh...\n\nBackground dashcam clips that I used (LMAO): https://www.youtube.com/watch?v=uvpIVf8gsYQ\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #spongebob"
 chapters = [

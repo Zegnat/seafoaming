@@ -8,10 +8,11 @@ duration = 6779
 length = "1:52:59"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJQBOgCLMvwr30IUAAP6tNHA3eoJruLa/g7OnY/w44vKECfqjdfcDMq5y20bkHeXryheT+kcUbA5TbjJqoSkRUFxMQT4PN/YHCz8+lQAAAA=="
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASogABIAPr1OnkunJKKht/qoAOAXiWUAuzOAgqG933cyDz40baIAAP4R+o7AbUwvYf6FAa6STBtCwqmOZFLPTt7zGyFuvM1YhkZGL9E/4Pf/zczQCHGcAA=="
 views = 8520
 likes = 469
 comments = 15
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to those who mailed me some goodies! If you'd like to send something to be opened on stream, my po box address is down at the bottom of this description! \n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #Unboxing"
 chapters = [

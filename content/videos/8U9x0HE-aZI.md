@@ -8,10 +8,11 @@ duration = 1298
 length = "21:38"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoQAAkAA4BaJbACdACmNjbj4AD+VM8Wz2sX5F+21N9n2FrTWKWUIZY9ASfosAw2xpUghY3HIMy8BLE+nanFKkAQSyyNfqB5Knqi4nSDVYE6WC7vLnRzfwAA"
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPtFYpU0oJSOiMBgIAQAaCWMAtOgEU3Ow0GnK8mmVMX+TQAD90hGhjzqUd35dT9TaOt76HaCYlnSxsts19hxjL3Erqm6Cjh3nZT307TQLe+AnQB2szaSdyQq2r5AAAA=="
 views = 45008
 likes = 1317
 comments = 359
+comments_off = false
 fetched = 2026-11-21
 description = "I'm back with some assorted triggers :D I hope it gives you tingles or helps you feel relaxed and sleepy~ Like I said in the video, feel free to leave a comment with your favorite trigger and I might do it for an upcoming bideo!\nTIMESTAMPS\n0:00 - Update thingy\n2:00 - Tongue clicking with face touching (hand movements)\n9:18 - Gum chewing with breathy whispers and some bubble blowing"
 chapters = [

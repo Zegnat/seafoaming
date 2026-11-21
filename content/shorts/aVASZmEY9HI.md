@@ -8,10 +8,11 @@ duration = 59
 length = "0:59"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAkAA4BaJZQAAv9NPyQHiQAA/vMjX5VO3J2ffScaigmQQF/q+ovEnOkV1PtKCKRgwCtPnEPCApoxwAA="
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASogABIAPr1SnkunJSKht/qoAOAXiWUAzfwhuju+aU53y9lyZvqPW/AA/u6H689RIIH15UrxQzLQTuaviiXBqVFfkacmVNuE8tesT/KA51+0MQO7WDwQAA=="
 views = 3997
 likes = 227
 comments = 11
+comments_off = false
 fetched = 2026-11-21
 description = ""
 chapters = [

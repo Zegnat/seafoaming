@@ -8,10 +8,11 @@ duration = 830
 length = "13:50"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQAAkAA4BaJbACdDiAByWkmk6eAAD2pAz3pRCH8/2XtmVecwTMwmeewdtwWbmVmQx1zuOiPj72G1LgltvNhDUlIN+OvS0qeABeL3F/fdGfL+6R3UfVON5YGSkUWb/+45SyNl97Qw5b8J3tybxmYOQAAAA="
+placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASogABIAPtFao0uoJSMhsAgBABoJYgCdMoMrZCdf8s/98EM4eH1JqclQAPrOINUdz1TfOpTYrrKDNvhn6zalYP2pv1t3pl0U6BpMdAul3tB1hNSqErgRIuJM879dvlc1BYre0+Lzk95hqJwfs+enDd7vSAAAAA=="
 views = 175144
 likes = 8042
 comments = 756
+comments_off = false
 fetched = 2026-11-21
 description = "You're in trouble! YouTube-Chan is here to punish you for not being ad-friendly enough on her wholesome platform!\nTIMESTAMPS:\n0:00 - Bell sounds. Youtube-Chan want to speak with you!\n0:51 - She lets herself into your house :DD You must be punished\n3:00 - Demonetizing you with The Shame Stick!\n5:25 - Using the Age-Restrictominator on you \n7:22 - Plucking & snipping cuts of your donations\n10:38 - Making sure you learned your lesson\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\r\n\r\n#ASMR #Roleplay #Cosplay #YouTube"
 chapters = [

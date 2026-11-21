@@ -9,10 +9,11 @@ length = "1:04"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAkAA4BaJZQAAh/AU18AAP72/L4IgRmM3OIpHaHBdMvpGDYN5fhn1g8HwwnXz4PxHifue7NvCNV+JxL1YmkIF/tkAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwBACdASogABIAPtFapEwoJSOiMAgBABoJYwDH58/0VvyyJan1UtWXiXYONxz5apAA/vV4/wZNkngNv6IEjcoqMG0JM0fgxlDuZ1p3TxXdxYDF4AQwg8zwza+iiOcAAAA="
 views = 52861
 likes = 1003
 comments = 349
+comments_off = false
 fetched = 2026-11-21
 description = "APRIL FOOLS ( ͡° ͜ʖ ͡°)\n\nAdapted from a poem on the internet\n\nDaddy is Seafoam, daddy is Kitten, \nDaddy makes your little heart smitten\nOne cummy, two cummy, three cummy, four.\nDaddy makes so much, she can’t make anymore.\nGhost cummy, Ghost cummy, don’t be scared!\nThere’s always more cummies that can be shared.\nDaddy makes you squishy, daddy makes you wet. \nDaddy know you are a good little pet.\nDaddy makes you happy, daddy is sweet,\nDaddy wants cummies, it will be a real treat\nDaddy makes you happy and you make her happy too,\nYou suck on her pickle and watch it grow huge.\nDaddy isn’t scary, daddy is brave.\nDaddy really likes it when you behave.\nBetter not cry, better not pout,\nBetter let daddy make you squishy throughout.\nJust you and daddy hanging out\nYou got pretty hungry, and you started to pout.\nI asked if you were down for something yummy.\nYou asked “What?” and I said I’d give you all my cummies.\nYou drink them, You slurp them, You swallow them whole.\nIf it makes daddy happy,  it’s your only goal.\nHarder daddy, harder daddy, you tell me! \nOne cummy, two cummy, three cummy, four.\nYour daddy’s little princess, but you're also a whore."
 chapters = [

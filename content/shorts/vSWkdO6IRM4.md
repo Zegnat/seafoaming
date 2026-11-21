@@ -8,9 +8,10 @@ duration = 60
 length = "1:00"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAkAA4BaJZQAAp07kIqAAP74aruaHeR2qE/zaGOU2BahXoZ2Bc7W60tKADx3jPAAAA=="
+placeholder = "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAwCdASogABIAPtFiqk+oJaQiKAgBABoJaQDL4BbG3gAA/vHU3WaOdoRAAAAA"
 views = 3142
 comments = 4
+comments_off = false
 fetched = 2026-11-21
 description = "An old favorite rp of mine, based on a pokemon creepypasta I still find quite chilling and sad. I didnt have any fancy editor effects back then, so I did all the glitchy video and audio effects frame by frame. Couldn't fit the whole end segment into a short, but check out the full video here: https://www.youtube.com/watch?v=FTSl-pKfo7E"
 chapters = [

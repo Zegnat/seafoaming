@@ -8,10 +8,11 @@ duration = 1352
 length = "22:32"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAkAA4BaJaACdAEfpg0FktCEAP7tD2wVndFQdkRWbdwzrVFwGNOL3prepjaZ7lg/sNvkKVAl/18hFpIlJUftGvvKnqkM2MEyR3uRUw4GYq1cMK+Wl5iaCbAAAA=="
+placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwBACdASogABIAPtFWpU0oJCOiMBgIAQAaCUAXZmznlQQWoxzZ92BEYqw0tqQAAP724GCHAHeX/xv8OsROTstQJ0nqBB/A/9K5L/TmC9Bb7lRF0XIahGJmURM7R3j/AoXPEcjivzrM0fCXDEusEuAnpfAWmMAAAAA="
 views = 36850
 likes = 1047
 comments = 285
+comments_off = false
 fetched = 2026-11-21
 description = "Tapping starts at 7:30\ncheck out muh looong naaaaaaaaaails :D I'm tapping on 4 different objects for this video! A nail polish bottle, a cardboard can of treats, crayon box, and a book.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Tapping #Patreon"
 chapters = [

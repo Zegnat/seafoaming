@@ -8,10 +8,11 @@ duration = 1773
 length = "29:33"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJYwAAwTpJTx4YAD+5+5UexvMw4lLZPdIIXejk0jITuAYu/FTuZi6vph6v822hTPoEwKO1awaS04rha1u/nbuABJoYAM8AMzUU0AAAAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFcpkwoJaOiMBgIAQAaCWcArhwLJICiOPgQIweH1hUBZ4AA/uhxO3TFCyhlKsAvUjDyqeSDGdjESv5syMGjsqAKNceL5YSKu/OFtRWq01Zx7lSh15m4AAAA"
 views = 18941
 likes = 422
 comments = 221
+comments_off = false
 fetched = 2026-11-21
 description = "~Read Me for Timestamps~\n Everyday Wigs sent me a free wig in exchange for an honest review!! This is my first lace-front wig, I love it! In this bideo there is some tapping, scissor snipping, whispering and hair brushing sounds! \n\nTIMESTAMPS:\nIntro 0:00\nHair stroking 2:12\nHow to trim the lace 3:24\nScissor snipping and HEAVY BREATHING?? 4:00\nCrinkles and tapping 10:57\nHair brushing 12:09\nFinal thoughts 22:50\nCoupon code 27:05\n\nIf you are interested in ordering, use the coupon code: Kitten\nhttps://www.everydaywigs.com/\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

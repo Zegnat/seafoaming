@@ -8,10 +8,11 @@ duration = 492
 length = "8:12"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABwAgCdASoQAAkAA4BaJbACdDiAByXW2r10Pd+AAP7mPai7OTDuOA2o/TNXn0e2vfqDFybBI1Lr/0PBcHpSXvKpCvhL1M4nyLVn2mjIPwFmyXlqUtGyIB3hG3Bn39xnSu46429PI9o8MPfUXia8dfgA"
+placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASogABIAPr1OnUunJKKht/qoAOAXiWpmQEYWIfy0HPmjyTtP9MAA/uVn5s9wRTwvkui42euSeUHT8Me0py2ynYYisy2WCk87e3MnlmS+gzpwk7shuqPipFYgE14Uopt5hp5dY2iA/1IaJEIox5edQxl5xAAAAA=="
 views = 73526
 likes = 3661
 comments = 590
+comments_off = false
 fetched = 2026-11-21
 description = "hi gusy im back with a new water tutorial please watch this water drirnking tutorial about how to drink water several step by step instructions to make water drinking easy and fun for the whole family and you will never drink water wrong and be punished again so please enjoy this video about  water  drinking \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #tutorial #softspoken"
 chapters = [

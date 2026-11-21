@@ -9,10 +9,11 @@ length = "3:05:36"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAAkAA4BaJagCdEf/gaplJ+yAAP72pdCsUOK9/hc6MEzD/i1Ss/WpVlC+Wn1MON1hBgYgAsNdNPm3GSYUdrU+/zej0e9ddRAdPoxFgtzG3t6linOMWCpspYDKrS+G+nkG/gGAAAA="
+placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQBQCdASogABIAPsVOoUunpCMhsAwA8BiJaACdMzLxgEiX8c83NEQDS87/L+u3ZnKtaPuXYAD+8tevwqTA9nuXwxd5NxS98rHRzhJyoshOumC/0GydNG+fIxC6ldQsS3dx37TMxGPk+Qe3kKk1ovjyL8GMQJYAws134AAA"
 views = 5306
 likes = 290
 comments = 7
+comments_off = false
 fetched = 2026-11-21
 description = "🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\nCW: This game contains mature content!\nMy guest today is CrispyToast, the friend who recommended this game to me! Check out his art insta here: https://www.instagram.com/chris.p_toast/"
 chapters = [

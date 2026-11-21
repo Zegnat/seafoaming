@@ -8,10 +8,11 @@ duration = 1510
 length = "25:10"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJQBOgBus6imT5gAA/DapYY+FMPjWKGYnshyanGJpkWfW+hSYyhwe2sLnvc5uB1QrUUcx1RdWGxNT3KtynjobSgPb5d4zetRg4VUep0GAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBQCdASogABIAPsFKnkunpCKht/qoAPAYCWMAuwAi/Mt1da0Yrj1CrOxf9ac/GpYAAP7CPQt/cMp5ws9EUXTMQ7XqWteGyNU//7Vtrn9FsP29ocAT7mE3G/rNfvw34k1HYGd+8bwAAA=="
 views = 63919
 likes = 1538
 comments = 162
+comments_off = false
 fetched = 2026-11-21
 description = "⭐️If you prefer a version with NO music, click here: https://goo.gl/1RzYVM\n\nI've been listening to guided meditations a lot and really enjoy them, so I decided to try one of my own :D This video is not meant for sleep but more focused on mindfulness and being relaxed and clear-headed. It is soft spoken and I included some visual triggers of the brush stroking your face and slow moving vfx. I hope it can help reduce your anxiety and worries, while giving you some focus and clarity! Enjoy :3\n\nMusic by ShadyDave/Lustersound\nFreesound: https://freesound.org/people/ShadyDave/\nSoundcloud: https://soundcloud.com/lustersound\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

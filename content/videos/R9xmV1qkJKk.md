@@ -8,10 +8,11 @@ duration = 737
 length = "12:17"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoQAAkAA4BaJQBWAMWg4LNDnMdZwAD+122Wpa6+KVJnAGOVAyoUeXK7aI3mVO68DTLbIqMfGLiq0MM/n7lbjYyb/TuSNBSjl/+OJIAA"
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPsFMn0unpCKht/qoAPAYCWUAyNQbgJ+m1SQEUi6vr4/ZDY2sggD+63uR557R9B54OJHGiyKhojWpfzZuKbiW3Gu4DNsK/YTQX8eM+LwfFqaEgQgvsQ4AAA=="
 views = 25102
 likes = 433
 comments = 165
+comments_off = false
 fetched = 2026-11-21
 description = "2:50 TO SKIP TO SCALP MASSAGE. Special thank you shoutout to all my $5+ patrons :3 They voted on scalp massage this month! I hope you enjoy!\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [

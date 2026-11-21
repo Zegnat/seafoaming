@@ -8,10 +8,11 @@ duration = 1231
 length = "20:31"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAA4BaJZgC7AELghxaQgAA/uYJoX59VMjFUz1G5Re07m1xy2amFsm7esoiukMyV9CQfXiDrG3QU08+mqP/d9Iq2qItCExbqw1+DTAAAA=="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsFIn0unpCKht/qoAPAYCWMAnQAh2YJ2ZFZ67jIwfN4aAAD+8RD6U3/oD1V897adUAmZe+tIPAvBELqcZmj3Clz24Hz/CFYrX7drueCP1o9chzkM3JjJUAAA"
 views = 483760
 likes = 8464
 comments = 1100
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to DerpyMuffin92 for the commission :D I hope you guys enjoy this slightly christmas-themed Ember bideo! She finds you all beat up and decides to patch you up. Turns out you had a kerfuffle with some other dragons while searching for the perfect xmas gift for ur dragon waifu. \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! \n → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

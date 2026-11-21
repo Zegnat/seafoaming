@@ -8,10 +8,11 @@ duration = 240
 length = "4:00"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAA4BaJQBWABtmKRUUgAD+91OHQNkvDG41fG66OokITjVd3CfEyKp3wH0DGos576N5HKhtIuj6iFU1dVarkyCcFtWdsQgAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBQCdASogABIAPtFYpkuoJSOhsAgBABoJYwC3uCElsvMcK62lG5x7q4WM2sxC+iL4AP7zful3VJgugjaqs8gHT4Ti7R43NrdgDWwpn/MfDoSruOiT893j3hi2AAAA"
 views = 3945
 likes = 265
 comments = 397
+comments_off = false
 fetched = 2026-11-21
 description = "Thank you so much I lub you all :3\r\n\r\nContest Rules:\r\n1. Subscribe to da channel\r\n2. Leave a comment saying \"ENTER ME\" along with one thing about how ASMR has helped you.\r\n3. ???\r\n4. PROFIT\r\n\r\nContest ends on Jan 31st when I will randomly draw a commenter with this criteria. I will post a video when a winner is chosen. If you are chosen, you have ONE WEEK to get back to me (you can message me on youtube, twitter, instagram, facebook, email) and we will discuss what you want for your custom video!\r\n ^_^"
 chapters = [

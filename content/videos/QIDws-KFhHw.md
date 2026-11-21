@@ -8,10 +8,11 @@ duration = 1356
 length = "22:36"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAAkAA4BaJagCdAYstuKcREWJ2AD+7Sfba6xVe3a44MbClMN6OhCT8tVHxQm4ysEYhZWcS7d9+5mNv4ON+4CAIlkYT/XcX9P3X6HxFS3WytnAPRhGDWpwAAA="
+placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBOgA9DGvzI9KmVvKOI6qfTgAP7235jHH5GcfY3mDGjnADDNJkdygNX7dJ+p/l4/+NXM//UIANgzUMyi16YHldZXkaIQMWz0qYH5NzO3iFlE6U9xutEqPaGAAA=="
 views = 51684
 likes = 1787
 comments = 309
+comments_off = false
 fetched = 2026-11-21
 description = "Good news for rude asmr enjoyers, bad news for everyone else, this vid is probably my MEANEST ONE EVER. She's not mad, she's just disappointed!\nTIMESTAMPS:\n0:00 - Your mom is already insulting you as soon as she walks in :( \n3:40 - You make her look bad and its YOUR fault \n6:23 - Now you're giving her that TONE?! \n11:25 - Measuring your waist, body shaming, banning food and internet\n14:49 - \"Cleaning\" your room by throwing out your cherished card collection\n15:51 - :'(\n18:06 - She's generous by offering to buy you BETTER hobbies\n19:07 - Degrading you to sleep \n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay"
 chapters = [

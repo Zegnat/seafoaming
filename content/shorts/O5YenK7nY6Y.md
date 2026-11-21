@@ -8,9 +8,10 @@ duration = 16
 length = "0:16"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkAA4BaJaQAAp1amvWi1oAA/vbkytlbEMa4Y2GOoVopMW45WSin3BO0Ddj52zBuuJzbFsbnEwwfA4AAAA=="
+placeholder = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQBACdASogABIAPslSoEunpKMhsAwA8BkJZwDJTCG7oEanA4OdYXzonbgAAP7ysj4u6TKUrRYr74FrjYr35hnEOLo94d3N9PEwAA=="
 views = 31212
 comments = 87
+comments_off = false
 fetched = 2026-11-21
 description = "At Golden Whisker Inn, we offer free food and drink to weary travelers! You can also earn dabloons for completing self care quests, and buy magic items from the shop! Watch the full vid on my channel tomorrow! The music will not be in the full version of course :P \n\n#dabloon #dabloontok"
 chapters = [

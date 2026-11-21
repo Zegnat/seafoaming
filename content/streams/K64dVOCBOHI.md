@@ -8,10 +8,11 @@ duration = 10485
 length = "2:54:45"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAkAA4BaJbACdADiZoQeQAD+71ssJ1DNkIa3GpBN3xdqgYve38Ud/DNjF1c0Dwq9yPaBf1vcwwvtP2KVoi/un286A0hSGjAAAA=="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASogABIAPtFWokuoJKMhsAgBABoJQA8fwIj3xW6ckc9bgpKTcUAA/uSq5G1UQTKAg8gQf52I0kmf5WUuv7ZCX3IyIQR14NgQgb8jAwGG6d3LcYR0AAA="
 views = 120192
 likes = 1935
 comments = 70
+comments_off = false
 fetched = 2026-11-21
 description = "Donate $1+ to make me do your trigger request! → https://goo.gl/T8mxRy\nSuper huge thanks to those who contributed to the 3dio fund!!! Tonight I''ll be opening PO box items and then doing ASMR triggers with the new mic. \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [

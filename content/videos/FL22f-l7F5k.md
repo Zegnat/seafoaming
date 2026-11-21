@@ -8,10 +8,11 @@ duration = 370
 length = "6:10"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAkAA4BaJZACdADdRJMDAk8AAP6J6v/eloI0Pm5GXjU/SXJSV91p26z4sBoC5OZb2cSw/Vhr29EVa9RJ+iy+oBNt9hWN2vFkUgAA"
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPslYpEunpaOhsBgMAPAZCWQAAIL8DUc59208oJqLmlQOg6EQ8ADOOfPLT9Z0RR5x9ZugUsabqXE/TevwbhBKY4jcmw1yoCYS17FQmSNzoRuAgypY/rdSdiE9sbkAn74YAAA="
 views = 168947
 likes = 3646
 comments = 1500
+comments_off = false
 fetched = 2026-11-21
 description = "WARNING: Swearing, Insults, Nagging, Bitchyness. Don't watch if you take stuff to heart!! This is just a silly roleplay. I had fun doing a bitchy character with vocal fry and eye rolling. but it's short because I ran out of things to be bitchy about LOL. Thanks to my twitter friends for leaving me suggestions!! \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

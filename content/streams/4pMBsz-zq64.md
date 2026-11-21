@@ -9,10 +9,11 @@ length = "3:39:41"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoQAAkAA4BaJYgCdApgE8qSOaNov8gA/vbpc7tQP/IkoTkl2Tnz2wL/cP8kW7Nejvyhjvrc3xizrBtydk+SngOjbHaSGguX14jQazeOgmxswAAA"
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPsVOokunpCMhsAwA8BiJZQC7ACFrtTMqiFpo0L/tW7vAejLNigAA/vW8Q8JZPVgELCQotVDNceqKuwZHtUNhidj6qWoOE02Wyq4RPyzHwZy5eB1/IAhAAA=="
 views = 23140
 likes = 1895
 comments = 51
+comments_off = false
 fetched = 2026-11-21
 description = "🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [

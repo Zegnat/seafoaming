@@ -9,10 +9,11 @@ length = "2:00"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAkAA4BaJaACdAEerJOf2wAA/vMDq2VMG+ErP0FPcSn09ce0Y3TlmWA7QTkQW9rzbQxwkLrE02Ky/cUNpQvgxmws3I7KQAA="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASogABIAPtFWpk2oJCOiMBgIAQAaCUAWI9mANFgVGUHsWnhIZ+6AujQAAP7vC4Yov+oIjEBTIsnfBwUD5noY1oegNLZSw3nyf14h57MzazZ2SgyGAAA="
 views = 4139
 likes = 68
 comments = 14
+comments_off = false
 fetched = 2026-11-21
 description = "this kind of feels asmr-ish to me with the restaurant ambiance in the background and the little beeps here and there :3"
 chapters = [

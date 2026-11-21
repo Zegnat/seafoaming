@@ -9,10 +9,11 @@ length = "0:31"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAkAA4BaJbACdACUfJAAAP0hqoyqSvZjw2VVi1BLjozQg6Ulmh5WgxpbvfsO/VMoTK7/Dn2x+9inAAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPtFUo0uoJKMhsAgBABoJZAC7M1julB+aTT4GDW5lTd17AAD+D7fyZmn013AWeeTn8UN+HUlNj/N9Ygya/NYWN1MYnJs630pDKnDHNWWXj1PAnTgVjthsWgAA"
 views = 12813
 likes = 460
 comments = 55
+comments_off = false
 fetched = 2026-11-21
 description = "I got rly bored and decided to sing to a hip hop beat LOLOL\n\nUsed the beat from this nice lad: https://soundcloud.com/freehiphopbeatsforyou/free-the-passion-hifi-what-we-came-to-do"
 chapters = [

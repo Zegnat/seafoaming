@@ -8,10 +8,11 @@ duration = 1189
 length = "19:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJbACdAYvDCoJpqHgAP7vjVuBjF5xIZe58abCQNK8tTFQI3zdOkqDYJU883h0nNeVprOUYIVunQn41U1DT1DQzs1o2TnHfezO7t70GlAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFapU0oJSOiMBgIAQAaCUAVw4X9xIFYll3i9H/YDIfVcStgAP7r/q/vThT8NfOlDcow73cJ/c1sCxstzmJLbsWDWOTf2uqlWUGCRr3k5ii7MsKv0WDhGSPNFQAAAA=="
 views = 1013752
 likes = 18243
 comments = 4400
+comments_off = false
 fetched = 2026-11-21
 description = "Psst, hey kid! Wanna buy some tingles? Today we have some top quality, RARE and magical triggers for you (･`ω´･)\n\nTIMESTAMPS:\n0:00 - Intro thingy\n0:23 - Meet your dealer!\n2:42 - Whispering squishy boi \n6:02 - Bottle of crinkles\n8:46 - Bubble Pop lip balm\n12:23 - Cup of layered tapping\n16:04 - Cookie that noms your ears\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

@@ -8,10 +8,11 @@ duration = 1223
 length = "20:23"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQAAkAA4BaJaACdAYuln8OkaP1sAD+3h1vmJ/x9FmCswuH3rO0cWOWRbDnZ2hqEL/geniCqabTUAmz6ipFtYG6BhcBhoYOQwSdYWc4ZuYgPMPOfhzfCvmGpExzBgoAAAA="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPslQoUunpKMhsAwA8BkJYwC7My/C+gfhV2k8jSJnTzBf8/+9HwAA/uzXQHDlKxSv9QiL8s0eCdo4XSJqhcxRdSpUOYWF1gVU6hdQpk7f8W4Eqda95OAAAA=="
 views = 218753
 likes = 6582
 comments = 737
+comments_off = false
 fetched = 2026-11-21
 description = "Happi birthday :DD (If it's not ur birthday u are obligated to pretend, in order to spare her feelings) I haven't made a Fay vid in forever so I hope u enjoy seeing her again :3 This bideo includes soft speaking and whispers, personal attention, soft singing, ear cleaning/cupping, squishing, and hugs! Also if you are new here and want to see more Fay, here's a playlist of all the alien videos I've done in the past: https://www.youtube.com/playlist?list=PL1Q2egvxEPqFUBCS26Wf7fPRTAnSjEl6N\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #PersonalAttention #Alien #Roleplay #Birthday"
 chapters = [

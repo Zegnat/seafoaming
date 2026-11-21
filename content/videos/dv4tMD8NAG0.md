@@ -9,10 +9,11 @@ length = "9:03"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAAkAA4BaJbACdLoAAeA6kbgpgAD+wqgKa/QJFpEi5Ha4OPB060JJ9t96lOBWwzCbaMsW4WtE15tVOz+nquXBjpeoDMdg0f72DTSmS/5VPh97f84FAP8IzM/g2xP5FOSAn3pDwnM/k2cgYAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPr1QnUunJSKht/qoAOAXiWYAnTLVPD+6UxoBu0kMcKtVYq/lAAD+6dD5T6CifzO3seYlpl6G/peghE2a6QtghzcMYGjNPkiIe1Zni1SPDiNe7gCO5JevEivZMApPTGRoAAA="
 views = 5139
 likes = 89
 comments = 17
+comments_off = false
 fetched = 2026-11-21
 description = "Made this audio for Mike! Soft speaking with rain and thunder sounds. Reading a story called Kevin the Very Old Rabbit by Gordon Dioxide. See his other stories here: http://www.gordondioxide.com/"
 chapters = [

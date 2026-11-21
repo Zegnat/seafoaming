@@ -8,10 +8,11 @@ duration = 1835
 length = "30:35"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAkAA4BaJZgCdADiPjFYnwAA37UVveOwdBQAQzUutbYncbBVj5e//fsvuwQXO+KN9gljd6IOMy3ZplK26OGR5vkk6HzH/5quQAAA"
+placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASogABIAPslQoUunpKMht/VYAPAZCWIAvzgus3rKe4dffxrbQg1lwAD4HhIhrdXhOOe0WQp70hurrc/ZoJQ2yAuZ1vNpznDMHKp3J6eqpZZWTn2IZAAAAA=="
 views = 311271
 likes = 6038
 comments = 1100
+comments_off = false
 fetched = 2026-11-21
 description = "Your vampire buddy Smolpire is working at the magic plant dispensary. Your shopping experience ends up going a little off the rails 🤣\nTIMESTAMPS:\n0:00 - Intake, asking you questions & writing down notes \n6:36 - Bramble Lily for pain relief\n7:49 - Slow breathing & fire sounds\n9:33 - Grape Succulent to unwind\n11:20 - Rain & water sounds\n13:27 - Blooming Danielford for focus \n15:09 - Sparkle visuals & squishy sounds\n17:48 - Giant mystery joint :O \n20:00 - ???bruh???what?s /?inthis?shit????\n22:20 - Taking the antidote, effects are removed\n24:50 - Succ your blud :3 \n28:44 - Buying that good stuff, saying goodbye\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Vampire"
 chapters = [

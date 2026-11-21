@@ -8,10 +8,11 @@ duration = 198
 length = "3:18"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAkAA4BaJZwAAjRKanRgAAD+9nZpHMk4jj3TPXHEQM6gYGYI9uuT5/sOuJZLReFnXVMmLgN/G7qv/5l5J+vDaBqdiLwAAAA="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFapEuoJaOhsAgBABoJYwDGfBi8UvZ15sIE7FAgJ8XkMjGAAP71FKzpcQm/TnO0J2zGidSKlXq7fzuKxZuO9bmPjC6fyQBdZf/TOA/nPLZIKhSVo2dyBK8AAAA="
 views = 3144
 likes = 84
 comments = 48
+comments_off = false
 fetched = 2026-11-21
 description = "FANKYOOO BRINNEH. Check out her (soon to be) ASMR channel here: https://www.youtube.com/channel/UC5TAS09MpTD3rng6N_WSQLw"
 chapters = [

@@ -8,10 +8,11 @@ duration = 799
 length = "13:19"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQAAkAA4BaJbACdAYtBozQ9iDYAP7SpEF+++PYkzmoXGLrlVvNeV4MIWQa15sY3jkbWUWmqW6I67i+gUmtYZ4+047SizlNbLsZe/R1X1ybFNUhz2N0rfFhy++xi9/JuLAb/yAAAAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBACdASogABIAPsFIn0unpCKht/qoAPAYCWQAnQAYvBr6UHepjsapcMidAAD+6dRd2bP5j0+R4Tb4Ms0ej461kdiSe0pI2KgGTrnVMkDhufFRFWDoTZW2d10ZvW2+fig4B1XPBnfirvNwAAA="
 views = 46336
 likes = 1937
 comments = 121
+comments_off = false
 fetched = 2026-11-21
 description = "💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #mermaid"
 chapters = [

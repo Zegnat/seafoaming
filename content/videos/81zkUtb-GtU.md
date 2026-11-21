@@ -8,10 +8,11 @@ duration = 570
 length = "9:30"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoQAAkAA4BaJYwC7AYtpde9yAAA+6TqFymMNOa07akKA9rUCKVjJr1K02+L0/3b5uyWK3n1cYbsRGlNa2j/UyMKe/11WGTc+zgQAnImRj0IAA=="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASogABIAPsFMn0unpCKht/qoAPAYCUAY3oQ68X5nbsPlwhyIMwRBA5QAAM2Kw7fzW7fYG0IMuqS6TtbCSjaw0dvFr6nr/iuhr5cieW5RMabnaFngAAA="
 views = 12697
 likes = 256
 comments = 112
+comments_off = false
 fetched = 2026-11-21
 description = "First collab with the wonderful PeekASMR (Kyle) :D I am doing various hand movements and Kyle does the amazing tingly predator sound layered on top. Throat rolling, throat clicking or whatever you wanna call it :3 Its awesome. \nSubscribe to PeekASMR:\nhttps://www.youtube.com/channel/UCYTiEg_ZxlfDoa28aIkaxjw\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

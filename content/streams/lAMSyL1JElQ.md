@@ -9,10 +9,11 @@ length = "2:20:54"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkAA4BaJbACdAEN4OsVlAAA/t8AV8GUcO+inqvRYv794w1NOVcDl9Wx57lSPuEG2tP9vNJ/33DgmHAAAA=="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASogABIAPrVMnUunJKKht+gA4BaJQBYdh+oWJqhOdS3qZM0AAP7ulfMSa276Xxs2kQg/xd7CO+79Lf8IYojbP+om3xOLEiyXZ0WXgaKINSYgJuo4AAA="
 views = 2218
 likes = 113
 comments = 8
+comments_off = false
 fetched = 2026-11-21
 description = "Multistreaming with https://restream.io/"
 chapters = [

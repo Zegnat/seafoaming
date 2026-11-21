@@ -8,10 +8,11 @@ duration = 820
 length = "13:40"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoQAAkAA4BaJbACdAYuQjLYAAD+U/9/mx++xnkvTT6CX1dO5Z1g6eWqZcYKBihR8SjXcieCtB9yWhbr/fgeVkJsQCXQYPRCAZ/WPJeJnheEdBnKWgAAAA=="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASogABIAPslSoEunpKMhsAwA8BkJQBZwAwU43wuk1Qf0RAsAAP6M6iuthTSAE2RjnbokvH+sVWaH9JbExkn8jyBiAOdkBNxelYDf4lak0/mH6+uaIbP9wAAA"
 views = 33185
 likes = 873
 comments = 200
+comments_off = false
 fetched = 2026-11-21
 description = "TRIGGERS START AT 5:55 \nThanks to my January patrons!! This bideo's trigger is \"Tk\" sounds!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

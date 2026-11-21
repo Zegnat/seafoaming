@@ -8,10 +8,11 @@ duration = 11730
 length = "3:15:30"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQAAkAA4BaJYwC7AED/48on6ywAP7voNja2PULNNIkI644EXENFhRkH/eRtO2CWjOZp3znu8EJzAEyBMx+odRmvNSrB48ro7dM8xGpmZwpMPZuxxBwAA=="
+placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQBACdASogABIAPtFapE0oJSOiKA1RABoJZQDLLA3vdSYhpxl9Qf5zjnzZ/g+oAAD+74HWO+bnBx8Kf/R5U/nygQy6PuKvtwzo2sL933LkgRiHAAA="
 views = 6266
 likes = 352
 comments = 10
+comments_off = false
 fetched = 2026-11-21
 description = "Playing Boyfriend Dungeon, a dungeon crawler game where you can DATE your WEAPONS-\n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #BoyfriendDungeon #Gaming"
 chapters = [

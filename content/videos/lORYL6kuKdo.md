@@ -8,10 +8,11 @@ duration = 1466
 length = "24:26"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQAAkAA4BaJbACsAD0g5W7AAD5dZVHCBDP54thR7iFWHfp0lHZ6MShXQAOHHlEuTp6IQefTktp0XApi6/fBFAt/JN5v6yH3tSexj4XAAA="
+placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPtFWokuoJKMhsAgBABoJYgDA3BjMChAW24hJyjltP6PPy7NGBQAA+2JXxdbbOph2a9ymrWGi/yS369D6f2XJ3FQ3cKk6HUdokWiNg/3Mr29Re5GfYLxzXumXiEo+7hlAAAA="
 views = 207231
 likes = 4890
 comments = 223
+comments_off = false
 fetched = 2026-11-21
 description = "★ Thanks to Manta Sleep for the sponsor! Use code \"seafoam\" to get 10% off your order here: https://t.co/gO6osNpfg9\nHewwo friends sorry I've been away, but I'm back with a new video that will attack you with love!! You will get ALL of the reassurance, emotional support and validation because you deserve to be loved and cared for. \n\nTIMESTAMPS:\n0:00 - Video preview\n0:29 - Sponsor time! Manta Sleep Masks are very pog \n2:53 - Video starts here!\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #whispering #personalattention #positiveaffirmations"
 chapters = [

@@ -8,10 +8,11 @@ duration = 800
 length = "13:20"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAQCdASoQAAkAA4BaJaACdABV8gAA+Kygm7C9A26s/aTjwaE8fG2XZBFl3YSu2SDtv3x4FU1zRYAyUMVf8Rr4bpeMKXLQV6WvFq/AAAA="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASogABIAPsFKn0unq6Kht/qoAXAYCWMAuwAUv8W0L0rB4xGkQAD3B+mL2WCdLXSXThvhVpNJNe3yP7tW5r9d6MJXD+9wbxVEB/8jHNgBa3h9x1v4AAA="
 views = 254961
 likes = 6195
 comments = 925
+comments_off = false
 fetched = 2026-11-21
 description = "HAHA this is barely asmr i just enjoy being cringe. Have fun with your stupid dog girl!\nTIMESTAMPS:\n0:00 - Defeating a helium balloon (rough crinkles + pitched voice)\n1:04 - Happy panting + licking sounds \n2:35 - Doggy interior design\n3:16 - Toy chewing/nomming\n3:55 - Your Gibi ASMR Toaster Coaster got eaten :((\n5:09 - Wet floor explanation (tummy ache survival arc)\n6:12 - Pleading emoji pwease dont uwuthenize me\n7:10 - Aggressive sniffing sounds\n10:49 - Kibble eating (crunching and nomming)\n\nI'm sure you already know her, but here's a link to Gibi's channel since I featured her merch coasters in this video :P https://www.youtube.com/gibiasmr\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #softspoken #dog"
 chapters = [

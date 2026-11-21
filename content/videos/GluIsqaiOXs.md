@@ -8,10 +8,11 @@ duration = 1215
 length = "20:15"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAkAA4BaJQBOgMXrmHisLLQAAPa+Rc39uCOIPQelJBvuNwrxuU8wryDtRSxZciPq0Ei1/VHzedzyg3k0lyChrqzcP/OT/s9oX5yZTqsLnpzuEdbhWLkrKNAAAA=="
+placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFUpk2oJCOiMBgIAQAaCUAVJagAKHOnZXDZvZ6JqwF/WR+PdAD+BlXXxmUDTzLPDpcJnfh7VsYXnwIz3ICfarrnLMDijQi0uNv5LIG2UBsk+MFECR0fM93OImZvAAAA"
 views = 115194
 likes = 3463
 comments = 870
+comments_off = false
 fetched = 2026-11-21
 description = "Welcome to the place she calls home! You have died and entered the mildly inconvenient spirit world. As a ghost, you must learn how to be spooky so you can reach your haunting quota. Miss Spooky is here to teach you!\n\nTIMESTAMPS\n0:00 - Your death :O\n0:34 - Miss Spooky appears and explains the spirit world\n4:47 - The real tragedy of this video (soft tapping)\n5:40 - Share a soda! (tapping & fizzing, sipping & swallowing) \n9:14 - Teaching you how to spook! Number 1: Soul Sucking (inhaling & mouth sounds)\n12:05 - Number 2: Reverse whispers! \n15:02 - Number 3: Triple Spooky! (hand movements & layered reverse whispers)\n18:23 - Saying goodbye\n19:41 - Coming back to life OwO\n\n#ASMR #Roleplay #Halloween #Softspoken #Whisper"
 chapters = [

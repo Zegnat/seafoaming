@@ -8,10 +8,11 @@ duration = 9862
 length = "2:44:22"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAkAA4BaJbACw7DP2pZ44gAA/u0j7Ye2Trsa+sO+3r741aI7BGO6ssBbH+yhIlcQIGVW54d7MKeOSW2qYjGEgk4bGGlQxbErj3McGWyQMyaKBW/PpQAA"
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPsFInkunpCKht/qoAPAYCWMArlWMgOJ2hNZjNhApOUpd1Gl/tAAA/uS6UhH4e9CtDWOalfKJxBQPlIuQtzbU7d6r6ZAnI1pL/NKPwye+WghQfnbi1AAAAA=="
 views = 31087
 likes = 748
 comments = 26
+comments_off = false
 fetched = 2026-11-21
 description = "Enjoy some cozy relaxation while I do an assortment of tingly sounds. Donate in chat to request a trigger. Higher donators get higher on the priority list for requests! \n\nCheck out my new Ko-Fi page! :DD https://ko-fi.com/seafoamkitten\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [

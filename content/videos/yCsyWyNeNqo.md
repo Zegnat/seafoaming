@@ -8,10 +8,11 @@ duration = 1670
 length = "27:50"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAkAA4BaJbACdB2gAdQh898QAP7Cnq64mGvwee/9uEf9N4+aBmd7u4OT29OlnPjstofVFurrbV0ftO15XL2wq1xXzonfbvl7vV/IavXGtSCjbaWkUP3Fhfx9FuAA"
+placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASogABIAPtFaoUuoJaMhsBgMAQAaCUAXZl5AL/NXIJk06gwzKxnr2HAA/vXu55cQCeloQPtFeyB/icbZ9AONsPWGcV8O6FbACtbjJnfV9DRgcIFr+3XJCwFB+oSOLenPk/LiXcO7eQMz5NKRXmyAAA=="
 views = 131741
 likes = 4462
 comments = 451
+comments_off = false
 fetched = 2026-11-21
 description = "So you decided to tell a story and vent to Haley the popular girl. She said she was your bestie so that must mean she wants to hear what you have to say, right?! Though it really seems like she's not listening at all and keeps glancing over to her friends... wait, is she making fun of you?\n[ This vid is inspired by a SoftlyGaloshes video, so if you want someone to ACTUALLY listen to your rant, check it out here! https://www.youtube.com/watch?v=WPMi9pGNIdo ]\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #softspoken"
 chapters = [

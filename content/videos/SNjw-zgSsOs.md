@@ -8,10 +8,11 @@ duration = 1105
 length = "18:25"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQAAkAA4BaJaACdAD65j6xiAD+yrNlEclCOvc/3Imb4R8hWcK7EGcBcfnc2EXlL/KPd0UKX7bh5Xf1HGcZC6LHIBAVvuuwgUc1zaKPvAA="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPtFSo0woJKMiMBgMAQAaCWMAuzMYuGYiVWu/89zdCz1p8BXAAP75AjlN1FiO58VqGF7DoEERlxXt9uOUvQ3onZxi0h0taCUmkEZrYAJRLG9SlqbPOyAAAA=="
 views = 29039
 likes = 975
 comments = 189
+comments_off = false
 fetched = 2026-11-21
 description = "these cookies are SOOO crunchy :D Here is some blue yeti eating sounds and whisper reading a my little pony book. \nTimestamps: \n1:48 - BIG OL CRUNCH cookies\n9:25 - Whispers and reading\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

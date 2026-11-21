@@ -8,10 +8,11 @@ duration = 3246
 length = "54:06"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoQAAkAA4BaJYgCw7D7Ym53dAAA/uIm0IlQ8bv/57ZcpZDfwa7TQWgIM7ZClFLEZylSRwn/JI3FcNcTxxgi+XkQ4845Ge7a8Q0t1VaDdxGY92+UL5lxhLwAAAA="
+placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASogABIAPtFcpk2oJSOiKAqpABoJYwCw7Ax3ST3CpwO+D2k6kjrr3QAA/q+boy2oD104EmwY0lzVoxhpp2IDh8/XVYd1aGfnV5ejLgmxogfAnQNAK6bekNSTAWfC7caIoIXucAAA"
 views = 22324
 likes = 514
 comments = 177
+comments_off = false
 fetched = 2026-11-21
 description = "Reading a lovely fanfiction written by OrcASMR :3 Thank you for the story!! \nCheck out his channel here: \nhttps://www.youtube.com/channel/UCqied5AdzGUMh9EUKi-fqWg\n\nMusic:\nhttps://www.youtube.com/watch?v=3jWRrafhO7M&t=5231s\n\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

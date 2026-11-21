@@ -8,10 +8,11 @@ duration = 13907
 length = "3:51:47"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAkAA4BaJYgCdH8AFC69ZLWAAP7qJu3/JbCRBjXdtOPZy0oHByDvRX8f0LxpX0tgnys/hvKzKyUZTM8waRbsow9aToySUc6iWKJ2FlAAAA=="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASogABIAPsFSpEunpSQhsAwA8BgJYwCsABozDe/wLPTNmDIAAP7uoU88RfbnCQNMhHMvKGlZGlrZl+HQnxN/oFwKR538EiIVz6oFsOQTY2Itu6nYK5l2pzOdJgAAAA=="
 views = 8040
 likes = 452
 comments = 8
+comments_off = false
 fetched = 2026-11-21
 description = "Playing Boyfriend Dungeon, a dungeon crawler game where you can DATE your WEAPONS-\n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #BoyfriendDungeon #Gaming"
 chapters = [

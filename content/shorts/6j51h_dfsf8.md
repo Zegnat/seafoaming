@@ -8,9 +8,10 @@ duration = 15
 length = "0:15"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAkAA4BaJYgCdACjC8TgAP7vjR1B3rRd+c4KSURqdm/wUPsDDLCSYVblDjJ6kivOaQUkWcjs8fA/30nL8DVyYx3AAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFSo0unpSOhsAwA8BgJYwC2yCFr8iesYcP/53dYQVH0kgAA/vRTp+RAPSHDSvxri0G4fMP1YFYfiy+Pt6bylaeAlY97Vq3XRIMvwFhIEnuxFtTAAAA="
 views = 15134
 likes = 922
+comments_off = true
 fetched = 2026-11-21
 description = "would u date a pigeon girl be honest"
 chapters = [

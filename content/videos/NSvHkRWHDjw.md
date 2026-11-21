@@ -8,10 +8,11 @@ duration = 861
 length = "14:21"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAkAA4BaJagCdAYuHvt3sTCYAAD45MPdx72FZud60wWzZvrKV29t3Arx2yeMp+KmJiv0rMHRHHBGdT1PzamNjXn3ycfzu7/kxq/w6x++lz+u2o2kccT7xN6AAA=="
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFYo0woJSMiMAgBABoJYwC/OBZNpJINg78TShohWqjntbgAzh1x9DP/Kiij4gwS5/uTi0J2Q7a3Ej9+TA4xCmML5bquyq6LJkMSiv9lbSGlhW+AAAA="
 views = 5599
 likes = 110
 comments = 13
+comments_off = false
 fetched = 2026-11-21
 description = "YAY A NEW CRINKLE BIDEO :3\nCrinkling is one of my favorite triggers so I thought I would share some of the really nice crinkles that I have. This video features whispering along with thick and thin plastic packages. \n\nItems crinkled in order:\n0:14 - Makeup wipes package\n4:04 - Udon noodle package\n7:22 - Shower curtain package\n10:00 - Thin plastic cat ear package\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

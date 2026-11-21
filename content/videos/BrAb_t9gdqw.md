@@ -8,10 +8,11 @@ duration = 1076
 length = "17:56"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoQAAkAA4BaJQBOgBmCuog7bAAA/ulWekaHue79JwHJkH1Ku1ANV0gt7e1TzXixY2yqn3bP8MxlI7phwlz6Be3uRhEGf3RRL98gc3KQAAA="
+placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASogABIAPtFYo0uoJSMhsAgBABoJZQCw7CGVJBvwfRlQlikAAP4PnBf/Z9mEfsVIL0ECyMizkmPBavSSp8fukWeTLOja4hsQLme3ef0upd+gAA=="
 views = 7479
 likes = 195
 comments = 48
+comments_off = false
 fetched = 2026-11-21
 description = "Relax, unwind and watch me speak softly and whisper as I am attempting to make a little derpy kitty out of air dry clay . I love crafty things like this even though he came out pretty hideous LOL.  \nSorry for the god awful video quality, I had to film this on my phone in order to get the weird angle. I have since gotten a tripod so my next video in this format will be not as horrible :P\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [

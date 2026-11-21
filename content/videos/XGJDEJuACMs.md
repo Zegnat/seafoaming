@@ -8,10 +8,11 @@ duration = 1105
 length = "18:25"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoQAAkAA4BaJZgCdACzCcYncAD+tCo/1gJgRPXRHQ1pE6s1kkFS005vmx71s/oO+hj+rqkpYeMGamxEc2IlB/OMkQZE58EZiprCI6tm0kuJQAAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFepU6oJSMiKAqpABoJZQCsABIskYIreQnCt2kp2O6VjrAAAP5gY5+IswEu/+okiJkD3jdF6FTPpfHyAxPtbykmQqz2DDOZIjUt3qThhBaqpqqgAAA="
 views = 136282
 likes = 3290
 comments = 124
+comments_off = false
 fetched = 2026-11-21
 description = "Today's sponsor is from Manta Sleep! Use code \"seafoam\" to get 10% off → https://bit.ly/3UzBIOj\nTimestamps:\n0:00 - Manta Sleep Mask (Sponsor)\n1:27 - Meeting your eye doctor\n2:24 - Looking at the strange anomaly in your eyes, shining flashlight\n3:37 - Giving you special eye drops\n4:51 - Covering one eye focus on my finger\n5:53 - Read the letters on the chart. Pointing, tapping, \"good\", \"okay\"\n7:26 - Testing a strange theory by examining your ears, look where I say \n9:37 - Healing your ears to impact your eyesight with tuning forks (very scientific magic)\n13:47 - Diagnosing you :( \n14:15 - Sealing the bond between your ears and eyes, swinging hypnotic pendulum, echoed voice and visuals\n15:54 - Testing your sight with glasses \n17:00 - Close up whispers and giving you a discount :) \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n💤 ASMR Tiktok → https://rb.gy/kq1bym\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #softspoken #eyedoctor"
 chapters = [

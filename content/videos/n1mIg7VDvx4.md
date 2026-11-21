@@ -8,10 +8,11 @@ duration = 889
 length = "14:49"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAkAA4BaJYgCdAC8hk75goAA/mgtZc8yiYs2IPzkiKvUyMvixzlFQxulrKm4iXBfKNlaLrPg84U6o4aq2QhnPY53VF/ttNn/z8pSnSji0ZZgiKAAAA=="
+placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFapUwoJSOiMAgBABoJQBjPgx0qrKW9NtFzaKQjdMxtMD4AAP5TJAbI1jhYSjFS3Gdl5p46ZcsRjhSer7fv1OL+19DFx33p9TmdH0cETQ5J21N7zWxBGmJGxFAAAA=="
 views = 366076
 likes = 5215
 comments = 1500
+comments_off = false
 fetched = 2026-11-21
 description = "IM BACK AND I'M DROPPIN THAT TOP QUALITY CRINGE CONTENT.\nYour special doggo is here for more sniffs and licks and lubs :3\nDis bideo has ear to ear binaural sniffing and licking mouth sounds!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [

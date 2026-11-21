@@ -8,10 +8,11 @@ duration = 1567
 length = "26:07"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAkAA4BaJZgCdAEfK272AAD9x55TdGFzVIHfmrmibZnbJMJEx5YPPSae6bb53nuukDGn6lOuuGPd9srpwrRq49mVSeFQuXvTeJm2pmXuEKnMfv5v4VeHxQD6QO1aQAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPslQoUunpKMht/VYAPAZCWMAtOgMWly1pjx7CqTCQawmdXmikgAA/sE+1I05XVaHH6rwqkn/dmq6sS1kk2aFqHDpKrazi2IdgUlkebFC2LfZm2QeOUbeAdAA"
 views = 61303
 likes = 2161
 comments = 161
+comments_off = false
 fetched = 2026-11-21
 description = "Fay wants to learn everything about this holiday and so you teach her how to decorate, exchange gifts and try hot cocoa! Some unexpected things happen along the way but everything will be fine as long as you're together :3\nTIMESTAMPS:\n0:00 - Fay tries to battle the xmas tree\n2:44 - Putting on a santa hat, fluffy sounds\n4:42 - Helping you decorate the tree and chatting about her alien culture\n10:38 - Uh oh! You comfort her through bad news\n14:48 - Giving her a gift to cheer her up! Tapping, squishy sounds and scratching\n18:10 - She gives you some random junk as a gift ITS THE THOUGHT THAT COUNTS\n20:44 - Trying hot cocoa, but her body has a strange reaction!\n23:26 - Oops, power outage! But it ok because you're together! She uses her alien tech to simulate a hypnotic, relaxing environment to make you fall asleep \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n💤 ASMR Tiktok → https://rb.gy/kq1bym\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #christmas"
 chapters = [

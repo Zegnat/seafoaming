@@ -8,10 +8,11 @@ duration = 1119
 length = "18:39"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJQBOgCFcoVk/AAAA/nWGQyMfD+3yMC2V5p4EWphtOJMZoRorH5YPAfIOXVtCX3ifizxW3NcOcbM6A8eDQbN8Izr4GjoXBtcNqWENQAA="
+placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBQCdASogABIAPsFIn0unpCKht/qoAPAYCWIAnTlBUiAW7r4IEtJq/TNTlKugFeOpqv3kpAAA/iyXYR1ZCjKBLe5Py9KOlfI++xNjF/N8JXnOrx0X5tXzEmrL80J0zXwA8gAA"
 views = 6493
 likes = 131
 comments = 70
+comments_off = false
 fetched = 2026-11-21
 description = "Check out PART 2 on the Dirty Nerdy Show here: https://goo.gl/RGrNB0 and don't forget to subscribe!\n\nThis is pretty silly :D It may not be super relaxing tho LOL let me know in the comments if you thought it was relaxing or funny or whatever :3 In this bideo we have a drunk chat and I interview Chris. He is the host of the Dirty Nerdy Show where they interview lots of different ASMRtists! Go check out their channel!\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nGIVE ME FREE MONEY (Paypal): https://www.paypal.me/SeafoamKitten\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [

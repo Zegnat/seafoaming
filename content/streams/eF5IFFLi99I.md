@@ -8,10 +8,11 @@ duration = 17087
 length = "4:44:47"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAkAA4BaJZQCsAC9iLOrIAAA/sqLmLY939uFRc3/RyVmGbgKpI4xOluc9Zc6+ks8NilO/gbTp49h+6DU/HMoUAA="
+placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASogABIAPslUnkunpKKhsAwA8BkJZQC+SBZK/zVci3kFv5XmLMAA/OeZruNBD7pE0OCzYf4mj4VisBF4dYB+TjPPGeGgyB6qgYAzCFHRJqdjJ+AKgAA="
 views = 14424
 likes = 510
 comments = 193
+comments_off = false
 fetched = 2026-11-21
 description = "Join me for booze and snacks and hanging out for my birfday :3\n\nLike wasting money? DONATE and have your message read on stream!: https://youtube.streamlabs.com/seafoamkittensasmr\n\n\nAdventures by A Himitsu https://soundcloud.com/a-himitsu\nCreative Commons — Attribution 3.0 Unported— CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic release by Argofox https://youtu.be/8BXNwnxaVQE\nMusic provided by Audio Library https://youtu.be/MkNeIUgNPQ8"
 chapters = [

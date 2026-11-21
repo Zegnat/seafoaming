@@ -8,10 +8,11 @@ duration = 852
 length = "14:12"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoQAAkAA4BaJZgCdH8AFwJwXDJ1AAD+gZDRkbcRmz+WzeYZhspjButXFS6k026sl70OBMZPqHWFOaPaHTavVVq1Yncyb204JWAn3TPcBJ6goZZtxaVbQ/+RodIAAA=="
+placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgCsL68Bz6osJi+0ujMMrYWYPUH3AAD+0dY7ACx2XBSBKpE+C32JuuaWvfpyw10NhvIlzuFhRQxmI3IeUhxSvKvDfMKUPv+kqw4AAAA="
 views = 84380
 likes = 2163
 comments = 627
+comments_off = false
 fetched = 2026-11-21
 description = "Seeboam back at you with another awful cringey roleplay bideo :D I had so much fun in the Hewwo video with the baby-talk that I had to make another character with this voice LOL. In this video you help a baby bear catch a fish and then eat it together (not before getting smacked with it a few times) :3 There is tapping, mouth sounds, water sounds (splashing, babbling brook) and a bit of hand movements and visual triggers. \n\nTIMESTAMPS\n0:00 - Doot doot splash!\n2:50 - Fish prayer [ear to ear whispering]\n4:57 - \"Quiet\" repeated whispers\n5:36 - Splashing, whispers, tongue clicking\n7:33 - FISH SMACK [visual triggers]\n8:59 - FISH KISS\n10:35 - Eating the fish [\"munch\" \"om nom\" and mouth sounds]\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [

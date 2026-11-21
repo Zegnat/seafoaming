@@ -9,9 +9,10 @@ length = "0:46"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAA4BaJZwAAltT4KAAAP75yOYRaQu6SepezzlLsK1+YkEQAAAA"
+placeholder = "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAwCdASogABIAPtFWo0uoJKMhsAgBABoJaQAAW+lsVQWRMJ2+5AAA/vaQOS0bO+Xx/bu6bR4Emy1kKG9BAWAEAAA="
 views = 10872
 likes = 381
+comments_off = true
 fetched = 2026-11-21
 description = "fUR SNEK GOES FLOP FLOP"
 chapters = [

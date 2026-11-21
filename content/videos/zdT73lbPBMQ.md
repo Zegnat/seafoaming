@@ -8,10 +8,11 @@ duration = 934
 length = "15:34"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoQAAkAA4BaJaACdAYuv20wom1yVeAA/u6+Z5J+Az+ehl/GSEk0KBt79HTf0qP53dZwEAV/5rapkwo5pE1rRlGInyGlJba0MfxDrvKWrqyw4NSIEAA="
+placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBACdASogABIAPtFepk6oJSMiKAqpABoJZQCzgBE/sNLmQ9v1QuEB3yyAAP7pU8YeUXfnRDGgad6X81rKt5lVf38+2x3++gCCfeh8nyvt5yZzCcKuFrvjb5jaggD3iEWjTbWwwdb1tII25XRXQAAA"
 views = 58809
 likes = 1790
 comments = 102
+comments_off = false
 fetched = 2026-11-21
 description = "Thanks to Manta Sleep for today's sponsor! Get 10% off your order with code 'seafoam' → https://tinyurl.com/2fzee4t8\nYou're filled with so many different flavors of negativity, but lucky for you that's my favorite food! Nomnomnom! \nTIMESTAMPS:\n0:00 - HIII\n\r2:00 - Asking permission first because Im nice, using my fingers to pull out negativity\n3:49 - Using a spoon to scoop scoop scoop it up \n5:45 - Chopsticks to pluck the stringy bits \n8:00 - Boba straw to poke and drink the liquid negativity \n11:25 - Finger swiping it off your face\n12:51 - Ear cupping and swiping \n14:03 - All cleared up! Thank you for the meal! I'm now your personal negativity nibbler for life\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #whispering"
 chapters = [

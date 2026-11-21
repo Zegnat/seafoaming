@@ -9,10 +9,11 @@ length = "0:27"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJZQC7ACp7m/cMAD+0bRQ8jOtwt8LB4+9+84jSH/lYdwjxT7NPHnm4i7dJRiaORWRhHT88BNvAbIqafwuWsTlyZ+ycJpoBn7Unj3yAAA="
+placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPslWpEunpSOhsAwA8BkJZQDA3BjyaB36iZd2TJDVe0DKSgnNgAD+0CLy7tun4eNeGvYfkKKLxQOR3TH741hECLjoIOTUEgRbhzhaP+BWwCjjYEAA"
 views = 18433
 likes = 342
 comments = 49
+comments_off = false
 fetched = 2026-11-21
 description = "I poke u"
 chapters = [

@@ -8,10 +8,11 @@ duration = 7983
 length = "2:13:03"
 availability = "public"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAkAA4BaJZwAD45MZZPyAA6AAP64S3+P17k+IqB8c6ewDpDZUT24Iq6AZNnj6cYbE2KhkRQgMQW9qwOq3LXCEQxgQIAA"
+placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAwCdASogABIAPr1Qn0unJSKht/qoAOAXiWMAyrQWSS/EjKjruhnYAP32pZsLJcxoP6MuOyHPoqE/l0XtB3qeTwpgsq67F4rl9w3JM0WVdw3dKOnvxTHXu34OWGaAAAA="
 views = 8458
 likes = 149
 comments = 59
+comments_off = false
 fetched = 2026-11-21
 description = "Watch the first failure part of this stream here: https://www.youtube.com/watch?v=q89VVIsUBiE\nI wanted to stream YouTube and Twitch but it made things too laggy so I stayed on twitch only :3\n\nRoyalty free music Royaltrax playlist used:\nhttps://www.youtube.com/playlist?list=PLm3UQuK9_HgljqnejQUxfY5mFouwF2noE\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nGIVE ME FREE MONEY (Paypal): https://www.paypal.me/SeafoamKitten\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [

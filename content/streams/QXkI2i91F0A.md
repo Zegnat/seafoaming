@@ -9,10 +9,11 @@ length = "2:58:54"
 availability = "unlisted"
 status = "unlisted"
 age_restricted = false
-placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJQBOgMX6T8rNAAD+7alCG8n/O1LSOuxSpr4qkdjOjpUhURmMqxR84kqPDkJjB7Pq2IqXZu0V8zQPFhphsNcBlKMQBdeCT4MFleEjAAA="
+placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFQokyoJCMisBgMAQAaCUAY3or1I+sdH92tXt8HVtOoGQAA/vdAC4wCPCV9qCN4iLu00rPa1vH41G5gQ3ZgzkU+TdZ/L9BARz3SmHXnvruymNYDKwAAAA=="
 views = 8910
 likes = 365
 comments = 9
+comments_off = false
 fetched = 2026-11-21
 description = "Support the stream: https://streamlabs.com/seafoamkitten 🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n\nThe snack box I opened is Japan Okashi Box: www.japanokashibox.com\nFor 20% off use coupon code:  SEAFOAM\n\nPlaying Monster Prom!! Thanks to Craven for gifting me this game ^.^\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://goo.gl/WKbNuf\n💬Seafoam Discord → https://goo.gl/9mdB2s"
 chapters = [
