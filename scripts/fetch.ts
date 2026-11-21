@@ -4,7 +4,7 @@ const ROOT = new URL("..", import.meta.url).pathname;
 const CHANNEL = "https://www.youtube.com/@SeafoamKitten";
 const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
 Deno.chdir(ROOT);
-for (const dir of [".cache/videos", ".cache/playlists", ".cache/status", ".cache/thumbs"]) {
+for (const dir of [".cache/videos", ".cache/playlists", ".cache/status", ".cache/thumbs", ".cache/asmrindex"]) {
   Deno.mkdirSync(dir, { recursive: true });
 }
 
@@ -56,11 +56,22 @@ for (const id of await lines(["--flat-playlist", "--print", "id", `${CHANNEL}/pl
   }
 }
 
+// The ASMR Index (see scripts/import-asmrindex.ts) knows videos that no list on the channel shows,
+// for example old unlisted videos. Videos that it does not mark as removed count as listed.
+for (const id of ids(".cache/asmrindex", ".json")) {
+  wanted.add(id);
+  if (!JSON.parse(Deno.readTextFileSync(`.cache/asmrindex/${id}.json`)).removed) listed.add(id);
+}
+
 // Without --refresh, only download videos that are not in the cache yet, and check again the cached videos
 // that YouTube no longer lists normally, so their pages can show that they are gone.
+// Videos with a status file are already known to be unavailable, so only --refresh checks them again.
 const have = refresh ? new Set() : ids(".cache/videos", ".info.json");
 const cached = ids(".cache/videos", ".info.json");
-const todo = [...new Set([...wanted, ...cached])].filter((id) => !have.has(id) || !listed.has(id));
+const unavailable = refresh ? new Set() : ids(".cache/status", ".json");
+const todo = [...new Set([...wanted, ...cached])].filter((id) =>
+  (!have.has(id) || !listed.has(id)) && !unavailable.has(id)
+);
 console.log(`Downloading ${todo.length} of ${wanted.size} videos.`);
 // yt-dlp exits with an error when one video fails, so the result is ignored.
 if (todo.length) {

@@ -119,6 +119,15 @@ function transcript(info: Info, written: string) {
   if (written) {
     return ["## Transcript", "", "The community wrote this transcript.", "", written, ""].join("\n");
   }
+  if (info.asmrindex) {
+    return [
+      "## Transcript",
+      "",
+      "The wiki never downloaded this video from YouTube, so it has no transcript of it.",
+      "",
+    ]
+      .join("\n");
+  }
   const [path, manual] = subtitleFile(info);
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
@@ -180,7 +189,9 @@ function readStatus(id: string) {
 function videoPage(info: Info, placeholder: string | null) {
   const extra = community(info);
   const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
-  const gone = readStatus(info.id);
+  // For a video from the ASMR Index, the removed mark of the index is the fallback when YouTube gave no reason.
+  const fromIndex = info.asmrindex?.removed ? { status: "removed", by: null, message: null, checked: null } : null;
+  const gone = readStatus(info.id) ?? fromIndex;
   const status = gone?.status ??
     ({ unlisted: "unlisted", subscriber_only: "members-only" } as Record<string, string>)[info.availability] ?? null;
   const date = new Date(info.timestamp * 1000).toISOString().replace(/\.\d+Z$/, "Z");
@@ -211,8 +222,10 @@ function videoPage(info: Info, placeholder: string | null) {
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
     // yt-dlp gives no comment count when the comments are turned off.
-    `comments_off = ${toml(info.comment_count == null)}`,
+    `comments_off = ${toml(!info.asmrindex && info.comment_count == null)}`,
     `fetched = ${fetched}`,
+    `source = ${toml(info.asmrindex ? "asmrindex" : null)}`,
+    `source_url = ${toml(info.asmrindex?.url)}`,
     `description = ${toml(info.description || "")}`,
     "chapters = [",
     ...chapters.map((c) => {
@@ -293,6 +306,23 @@ if (import.meta.main) {
     for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
     }
+  }
+  // Videos that only The ASMR Index knows, because they were gone before the first download of the wiki.
+  for (const entry of jsonFiles(`${CACHE}/asmrindex`, ".json")) {
+    if (exists(`${CACHE}/videos/${entry.id}.info.json`)) continue;
+    const info: Info = {
+      id: entry.id,
+      title: entry.title,
+      description: entry.description,
+      timestamp: Date.parse(entry.upload_date) / 1000,
+      duration: entry.duration,
+      epoch: Date.parse(entry.captured) / 1000,
+      asmrindex: entry,
+    };
+    const placeholder = await thumbnail(info.id);
+    placeholders.set(info.id, placeholder);
+    // The index does not say if a video was a short or a live stream.
+    write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder));
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data, placeholders));
