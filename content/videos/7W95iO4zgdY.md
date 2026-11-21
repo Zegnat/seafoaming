@@ -11,6 +11,12 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFQpUuoJCOhsBgMAQAaCWIAs6DmREGoKq530AiByKgh840AAOIMrvYfmKy/T87YnjiKt05EUO7FOrARmyS4Ur57iMp9d/lvoeVjJU2OgGgf1AB7AAA="
+spotify = "https://open.spotify.com/album/3Q9afx4TLnfxYqsus5CDPa"
+spotify_release = { id = "3Q9afx4TLnfxYqsus5CDPa", name = "Wolf Lost Her Voice!", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "32FpD7K5OO7xCAobiAGHu0", name = "Wolf Lost Her Voice! Pt.1", length = "5:23" },
+  { id = "1aSPTmcNA5WE3KzAXNWN8B", name = "Wolf Lost Her Voice! Pt.2", length = "5:22" },
+]
 views = 119050
 likes = 2608
 comments = 539

@@ -9,6 +9,12 @@ length = "10:17"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBACdASogABIAPtFYokuoJSMhsBgMAQAaCWUArAALpPnSIqggDeieN4AA92L7PFImTG7nvv0xwtzFyfqAhYWHQsnAX7D5hiLBzbPdv4PFhUOYqxDYWUX6RdyMAA=="
+spotify = "https://open.spotify.com/album/1vnu2pORD5K2hNOOmoSIXE"
+spotify_release = { id = "1vnu2pORD5K2hNOOmoSIXE", name = "Ferret Ear Licking", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4yTt1NzuF7j1vknRQRDiZs", name = "Ferret Ear Licking Pt.1", length = "5:05" },
+  { id = "2kVDW48Cj4i9w0ecoIutMN", name = "Ferret Ear Licking Pt.2", length = "5:07" },
+]
 views = 44535
 likes = 1191
 comments_off = true

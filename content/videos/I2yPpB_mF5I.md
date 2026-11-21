@@ -12,6 +12,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASogABIAPslUnkunpKKhsAwA8BkJZQC+SCmQBb/C/TlMesAA/u6IT7Kv8olHrNOTWGQStQ+9fVgpoN4qgLMlpeE3IqDY2aiMYjMKCC7X3wAAAA=="
+spotify = "https://open.spotify.com/album/4IKE7woHaT3e96KPeZMzZb"
+spotify_release = { id = "4IKE7woHaT3e96KPeZMzZb", name = "DABLOONS CATGIRL, Greetings Traveler", type = "EP", date = "2022-12-12", cover = true }
+spotify_tracks = [
+  { id = "6CCuo2tvtFurlQgz6aETbX", name = "DABLOONS CATGIRL, Greetings Traveler Pt.1", length = "5:30" },
+  { id = "0yPDugvOmO0GYWOtL0Q6pK", name = "DABLOONS CATGIRL, Greetings Traveler Pt.2", length = "5:30" },
+  { id = "00sfO8bo1iPtVvcthJdfRp", name = "DABLOONS CATGIRL, Greetings Traveler Pt.3", length = "5:30" },
+  { id = "1fAb8uwOaGZLzBwoPUSMD1", name = "DABLOONS CATGIRL, Greetings Traveler Pt.4", length = "5:30" },
+]
 views = 2424
 likes = 234
 comments = 40

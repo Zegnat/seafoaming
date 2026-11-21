@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPsFMoEunpCMht/qoAPAYCUAWHYKNEmXTcl/jmH/hJM8AAPnNyruKNLdm+U4jM1Jl/2r6GTbe7O0WmOOAUrZcuxzjw8l3314Ak+6UTvSYgHkoanzhnXImdJfW37soWxvecAA="
+spotify = "https://open.spotify.com/album/4p86sWs9w4NHPqIgfVfHca"
+spotify_release = { id = "4p86sWs9w4NHPqIgfVfHca", name = "Kisses with Ember the Dragon", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "7yQkGX56F1P0HbIaiNRWNW", name = "Kisses with Ember the Dragon Pt.1", length = "4:28" },
+  { id = "2rAG2ufxu6a2vt3WZ6lpOQ", name = "Kisses with Ember the Dragon Pt.2", length = "4:29" },
+  { id = "1yLaZ1j0am9z6Fu8Gilnb8", name = "Kisses with Ember the Dragon Pt.3", length = "4:29" },
+  { id = "08HNvlXlzc6Zs6WOqfbMbz", name = "Kisses with Ember the Dragon Pt.4", length = "4:46" },
+]
 views = 1456716
 likes = 15470
 comments = 2700

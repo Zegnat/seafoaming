@@ -9,6 +9,13 @@ length = "13:36"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFYpUwoJSOiKA1RABoJZQCxH6HGW9lky8Dqd5QN2iZ7x+eTNvUAAP7xO9EJTGXXynlINOdtrYX/lsAdIAzTj4dF1yw3uQi+cyNrmmqZjuT+0CSZWQqjCdE/vQRsAgAA"
+spotify = "https://open.spotify.com/album/07hyvdqKYsAcrERku2h0hy"
+spotify_release = { id = "07hyvdqKYsAcrERku2h0hy", name = "Sticky Ears, Fingers, Tape and Crinkles", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3pPPKzF8gzDWtesQIZstiI", name = "Sticky Ears, Fingers, Tape and Crinkles Pt.1", length = "4:32" },
+  { id = "2PZDLtqNNvc37YaVYFsQRH", name = "Sticky Ears, Fingers, Tape and Crinkles Pt.2", length = "4:30" },
+  { id = "07SvJv79jonjVXDHMWbDsA", name = "Sticky Ears, Fingers, Tape and Crinkles Pt.3", length = "4:34" },
+]
 views = 27256
 likes = 659
 comments = 173

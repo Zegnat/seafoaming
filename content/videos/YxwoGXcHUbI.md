@@ -9,6 +9,19 @@ length = "47:54"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogABIAPtFapUwoJSOiMAgBABoJYwC+SCHcN5yqZ7F2cAtrGZ/gAP7N5IDUbUnv0TbhHXFT0428k4n49ZYmStWfyTNikHZD4+LhlDkvsUr6eGfF69THCUiESFbl0y3dQ+iqWZ/RnjxAAA=="
+spotify = "https://open.spotify.com/album/1OLkn2rX7b7SdTJdvvCG9S"
+spotify_release = { id = "1OLkn2rX7b7SdTJdvvCG9S", name = "Cutting Soap and Carving a Bunny", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3v7tceucjyNLMm3eCs6Awn", name = "Cutting Soap and Carving a Bunny Pt.2", length = "5:18" },
+  { id = "41Bvvl9KWrmSYBi4Gi3MYs", name = "Cutting Soap and Carving a Bunny Pt.1", length = "5:21" },
+  { id = "3thsBHNHD1pessz56o8VTU", name = "Cutting Soap and Carving a Bunny Pt.3", length = "5:20" },
+  { id = "7aPtubJm7dqUcfG81Yms7C", name = "Cutting Soap and Carving a Bunny Pt.4", length = "5:18" },
+  { id = "72B2dlPuMQ0ZaUUJvl63X6", name = "Cutting Soap and Carving a Bunny Pt.5", length = "5:20" },
+  { id = "46hVypm4uh5kwWQDlC7Q9S", name = "Cutting Soap and Carving a Bunny Pt.6", length = "5:21" },
+  { id = "5F64SF1gv1N5gXIdDr4w5i", name = "Cutting Soap and Carving a Bunny Pt.7", length = "5:21" },
+  { id = "6gtm54j5fHrhd6ODcZDCiw", name = "Cutting Soap and Carving a Bunny Pt.8", length = "5:22" },
+  { id = "1r5TLKaJfbpubBeEk323Kv", name = "Cutting Soap and Carving a Bunny Pt.9", length = "5:13" },
+]
 views = 37975
 likes = 1223
 comments = 302

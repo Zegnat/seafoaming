@@ -11,6 +11,8 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwC1G5NEIA3G8BRghHTpCUfag3+xtDQAAP7BPkuaUlf26ZGTLQR1G+D3axX8rJMXDvuvm/Kn03XUc3cYoL4ubXD0A5iWlMAAAA=="
+spotify_podcast = "https://open.spotify.com/episode/7amrvjmBdlZ56wxX4qVCpM"
+spotify_episode = { id = "7amrvjmBdlZ56wxX4qVCpM", name = "FAIRY ASMR🧚🏻‍♀️Be My Human Companion! ✨Healing + Protecting You (gentle personal attention + magic)", date = "2025-09-27", length = "15:33", cover = true }
 views = 63598
 likes = 2225
 comments = 86

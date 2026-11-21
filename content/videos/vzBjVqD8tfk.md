@@ -9,6 +9,13 @@ length = "12:44"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASogABIAPsFMn0unpCMht/qoAPAYCWUAt+fAgJjtd92zWQ/1B6nhxcQgAPrSuqzMW7nCekIhCzK4FlELQHYbBSG894FLvlI6c+SxtBAUoS3XqlJgAAA="
+spotify = "https://open.spotify.com/album/0VsDDPl7NuXryFDq62B087"
+spotify_release = { id = "0VsDDPl7NuXryFDq62B087", name = "FIZZY GULP Drinking BEPIS", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4LrvDaPZCN8OklGxt2lhPP", name = "FIZZY GULP Drinking BEPIS Pt.1", length = "4:06" },
+  { id = "3OdLU6Zqubk0dVMKgUm0qS", name = "FIZZY GULP Drinking BEPIS Pt.2", length = "4:01" },
+  { id = "3pLEsw2mS11oOLb3kBbvsA", name = "FIZZY GULP Drinking BEPIS Pt.3", length = "4:36" },
+]
 views = 67745
 likes = 1948
 comments = 590

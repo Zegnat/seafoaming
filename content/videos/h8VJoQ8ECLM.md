@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBfnBDVfksLWAoTCY0z0ngzAOUFdAAD+9Jxgc++TuZ2OscH+NhSb+CwGEnpgdGqhMOIGbqMbxOCLv4LNO3ix98u9Vba2lVkP+XN1bLNM7H3RRirNhLJXk4qQAA=="
+spotify = "https://open.spotify.com/album/33LiiDRoFxVhMpYADRoMT9"
+spotify_podcast = "https://open.spotify.com/episode/69VbHkSp5SyCKTz1yt8Bex"
+spotify_release = { id = "33LiiDRoFxVhMpYADRoMT9", name = "ASMR Catgirl Obsessed with Your Ears – Can I Touch Them?", type = "EP", date = "2025-05-16", cover = true }
+spotify_tracks = [
+  { id = "0TBndqu6pVwz0wOTT1uXcW", name = "Sniffing Your Ears, \"Pleeeease Let Me Touch Them!!\"", length = "5:51" },
+  { id = "3tagV6z4BgAJs3Pf6vgBSe", name = "Relaxing, Slow Ear Rubbing & Massage", length = "6:06" },
+  { id = "5LH0HmONr5lDu66fJ5jB4y", name = "Super Soft Whispers & Begging To Lick Your Ears", length = "6:14" },
+]
+spotify_episode = { id = "69VbHkSp5SyCKTz1yt8Bex", name = "ASMR 🐾Can I Touch Them?! This Catgirl is OBSESSED with Ears...", date = "2025-04-20", length = "18:11", cover = true }
 views = 349512
 likes = 6038
 comments = 229

@@ -9,6 +9,14 @@ length = "20:24"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFaqU2oJSQiKAqpABoJQBOmUACSOzBkB7QUnaWSTzvHGpMoAP70nJZctXcQkEYKLsD0PPb2VslMFD7mwilCt6ZPEsKxJPil+UMe1E/ezSHRzFLiJWY+hVyYbpZ4HNhAAAA="
+spotify = "https://open.spotify.com/album/3H2fWQAvU4cvnJWKpfCYKR"
+spotify_release = { id = "3H2fWQAvU4cvnJWKpfCYKR", name = "Tapping Your Ears IN SPAAAAAAACE", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1DyzJkPwLim83yzajGUgmo", name = "Tapping Your Ears IN SPAAAAAAACE Pt.1", length = "5:02" },
+  { id = "7IRjytCKCkRHLbRgG5SEOy", name = "Tapping Your Ears IN SPAAAAAAACE Pt.2", length = "5:00" },
+  { id = "4ODdu4Ra2w8AaZpZfYAjH3", name = "Tapping Your Ears IN SPAAAAAAACE Pt.3", length = "4:58" },
+  { id = "2tSdNpMiysqJerFiL9KiMa", name = "Tapping Your Ears IN SPAAAAAAACE Pt.4", length = "5:23" },
+]
 views = 87974
 likes = 1580
 comments = 411

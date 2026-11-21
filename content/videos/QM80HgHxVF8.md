@@ -9,6 +9,15 @@ length = "24:19"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwBACdASogABIAPtFUokuoJKMhsAgBABoJYgCdABjEY3Xl6R4aCuPfEyQV6eMAAPwM72ycEb2rcfauB5kjufNr/bPRYrRXTWZlkGWJCtgE2cp90Ka2P2Z64jDVcBEKoFgcxr8EcKErQ5SvjfiBviAA"
+spotify = "https://open.spotify.com/album/6cy94ZyX12U2X3U5HwOILk"
+spotify_release = { id = "6cy94ZyX12U2X3U5HwOILk", name = "PROTECTOR, Keeping You Safe", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "6ROxOjGDUxT3tLIkslWRww", name = "PROTECTOR, Keeping You Safe Pt.1", length = "4:55" },
+  { id = "3NfoGEsOqtIhTOhJCZlr7A", name = "PROTECTOR, Keeping You Safe Pt.2", length = "4:51" },
+  { id = "74G8AJ8qHXXiSld5xT1SO6", name = "PROTECTOR, Keeping You Safe Pt.3", length = "4:51" },
+  { id = "4VGm2Xa25v3Xid1Wm7SVPD", name = "PROTECTOR, Keeping You Safe Pt.4", length = "4:50" },
+  { id = "67FppwyBPNRJNfLOIKGfeN", name = "PROTECTOR, Keeping You Safe Pt.5", length = "4:52" },
+]
 views = 137816
 likes = 4857
 comments = 536

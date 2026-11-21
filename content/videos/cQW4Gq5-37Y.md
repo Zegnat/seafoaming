@@ -9,6 +9,14 @@ length = "18:43"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPtFWokuoJKMhsAgBABoJQBfnAxfui6Z1g1V52vsjA+QWwUAgAAD+7Lr/hvcaNssF67x191y7RpMmkFUrKfhGe9di0Gy29mLcE6WVcmhDxKuewAAA"
+spotify = "https://open.spotify.com/album/6uFForAysFQlrGx84hangI"
+spotify_release = { id = "6uFForAysFQlrGx84hangI", name = "FOREST SPIRIT Smoke Cleansing Your Aura", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "6AKMxkkT8OlzByJdRyP07Z", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.1", length = "4:46" },
+  { id = "3D9bd3AMPoSJUKHC31MYu8", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.2", length = "4:47" },
+  { id = "1sYt9PhxQPBymLZfLEDbzB", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.3", length = "4:41" },
+  { id = "013xSpWLsUOyIDpIikp7Sh", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.4", length = "4:29" },
+]
 views = 176194
 likes = 3760
 comments = 442

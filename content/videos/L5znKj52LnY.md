@@ -9,6 +9,13 @@ length = "13:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPr1Sn0unMSKht/qoAiAXiWUApxuoAJbkUZaHFhfRYraAAP6Qlwnk54LeZpJUCijSlyfMXG9rsv6P/cEqCSV6yUkFMjwyHNkay82Az8wj6muXEr84+4+oC9wA"
+spotify = "https://open.spotify.com/album/6YBS9IW2ccyFeADr0PQUZv"
+spotify_release = { id = "6YBS9IW2ccyFeADr0PQUZv", name = "CARING FRIEND Helping You Sleep", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "7BYJKrMYAwjA4MORLaqTNL", name = "CARING FRIEND Helping You Sleep Pt.1", length = "4:37" },
+  { id = "3YpdCsnvbr4HOT5khsioY6", name = "CARING FRIEND Helping You Sleep Pt.2", length = "4:37" },
+  { id = "0AiSB9fPh3X25g31zMcem0", name = "CARING FRIEND Helping You Sleep Pt.3", length = "4:37" },
+]
 views = 131360
 likes = 1934
 comments = 383

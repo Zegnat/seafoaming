@@ -11,6 +11,12 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFapkyoJSOiMBgIAQAaCWcAx+Qtk4Ia/o4LmxsBwuVxxqGVAADxl+XW/IuIx0u7qHeRv6vPapitWbTBamfydviobPlxOmHc1HMEAae5NQAAAA=="
+spotify = "https://open.spotify.com/album/4NDkeD3OiNsu5B1OkSSFMJ"
+spotify_release = { id = "4NDkeD3OiNsu5B1OkSSFMJ", name = "Disappointed Parent Hurts Your Feelings", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "6KzZGFS1zI64O1qkjU5YXW", name = "Disappointed Parent Hurts Your Feelings Pt.1", length = "5:30" },
+  { id = "0FgFPEJTSTBC1epsatpF5z", name = "Disappointed Parent Hurts Your Feelings Pt.2", length = "5:42" },
+]
 views = 150130
 likes = 3293
 comments = 1900

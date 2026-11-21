@@ -11,6 +11,8 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFepk4oJSOpKAqpIBoJYwCdM1XBoDo69F4VS8nZLGloPJWj9wAA/qTYAif1aQiDnbhqDCu9/DPVH8YMREs5SYqFO9l4llvfgFfL6uZqnhN5p8PB6LDoIAAA"
+spotify_podcast = "https://open.spotify.com/episode/0oVdWu1BZ3BRvy5tpVlmdi"
+spotify_episode = { id = "0oVdWu1BZ3BRvy5tpVlmdi", name = "SPONGEBOB ASMR 💥How TOUGH are You? 💪 Proving I'm NOT a Bubble Blowin' Baby at the Rusty Harpoon", date = "2025-08-08", length = "14:29", cover = true }
 views = 48063
 likes = 2204
 comments = 212

@@ -9,6 +9,8 @@ length = "11:18"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASogABIAPtFUokuoJKMhsAgBABoJYgCdKLGBavDJCyKA/x624Gw4DTPE1uwA/atA5pHCH9/UQsNdqo7ggQBuN0Ea+dkSWGt5DgEjQEiLwbRW7GnsSWu9OLrH5IsCVoTyIoet01rU757h15LdOJx+Z6v5XBFuGwAA"
+spotify_podcast = "https://open.spotify.com/episode/14C5ZylzaeoJ00gixWXdxp"
+spotify_episode = { id = "14C5ZylzaeoJ00gixWXdxp", name = "ASMR 💅🏻 STACY & BECKY 👓Twin Ear Attention & Tingles | Opposite Personalities", date = "2025-01-24", length = "11:18", cover = true }
 views = 68571
 likes = 2300
 comments = 132

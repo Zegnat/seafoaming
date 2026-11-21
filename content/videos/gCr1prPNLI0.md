@@ -9,6 +9,15 @@ length = "12:07"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASogABIAPs1Yo0unpaMhsBgMAPAZiUAVhlAAnk2BtL4LQMwg47UvkV+wAP7tGl2T5DJPLY6chvC3kR5RRi7fLQWfk8j79IZGLgu0lX3dQOofSFa2rZi3rLtYoDwZ7K0MTWE16lCjVw7QkW/I05iA9CB7fIEkBwAA"
+spotify = "https://open.spotify.com/album/2RpAU8L8zgmeXmJW4AWPmp"
+spotify_podcast = "https://open.spotify.com/episode/1DfZnCwjGyt245ZRAki26Z"
+spotify_release = { id = "2RpAU8L8zgmeXmJW4AWPmp", name = "Oh, You're Kinda Stupid... ASMR Intelligence Test", type = "EP", date = "2025-09-12", cover = true }
+spotify_tracks = [
+  { id = "1VTnwUBq3X9NA1l0qjGNoq", name = "Lightstick Triggers & Scent Test With Sniffing", length = "4:06" },
+  { id = "3cWY7XFAlUjfT4OpGaQloh", name = "Rubber Duck Taps & Water Burbles", length = "4:07" },
+  { id = "6WFTqrN6cyHcsqHhoLvCdY", name = "Squishing A Rubber Mat With Soft Whispers", length = "3:54" },
+]
+spotify_episode = { id = "1DfZnCwjGyt245ZRAki26Z", name = "Oh, you're kind of stupid... :\\ ASMR Intelligence Test", date = "2025-08-15", length = "12:07", cover = true }
 views = 37338
 likes = 1594
 comments = 142

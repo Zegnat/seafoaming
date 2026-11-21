@@ -9,6 +9,13 @@ length = "12:48"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASogABIAPtFWo0uoJKMhsAgBABoJYwCzgBitc18l90DA8kyPxoAA/hUKuB+wArEG5Fh8tI1G9755DFv/ORMf1WbA5/VEmLqznRx1AEwxLJAUR7k6jwQyAHav8AA="
+spotify = "https://open.spotify.com/album/3lgrrU7d22kMTUNfYj5toX"
+spotify_release = { id = "3lgrrU7d22kMTUNfYj5toX", name = "PSPSPS... You're My Kitten", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2wE9Y2dYxBwwqISidsOyXJ", name = "PSPSPS... You're My Kitten Pt.1", length = "4:18" },
+  { id = "3wzlKam2upczgw0oRI2z0c", name = "PSPSPS... You're My Kitten Pt.2", length = "4:15" },
+  { id = "2SeBRaugRd9XXpnLhRNDqm", name = "PSPSPS... You're My Kitten Pt.3", length = "4:15" },
+]
 views = 49565
 likes = 1951
 comments = 162

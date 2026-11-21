@@ -11,6 +11,13 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASogABIAPtFao0uoJSMhsAgBABoJYgCdMoMrZCdf8s/98EM4eH1JqclQAPrOINUdz1TfOpTYrrKDNvhn6zalYP2pv1t3pl0U6BpMdAul3tB1hNSqErgRIuJM879dvlc1BYre0+Lzk95hqJwfs+enDd7vSAAAAA=="
+spotify = "https://open.spotify.com/album/51SJSrF035Ou5xDdxQ7Rby"
+spotify_release = { id = "51SJSrF035Ou5xDdxQ7Rby", name = "Naughty Creators", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "7u5L4Qq9r2KxxQUM9QC3S4", name = "Naughty Creators Pt.1", length = "5:49" },
+  { id = "5nWkVJNXRosUj7A476E8SS", name = "Naughty Creators Pt.2", length = "3:47" },
+  { id = "2Sm2iTGa7mEOCeBnWds2mc", name = "Naughty Creators Pt.3", length = "4:14" },
+]
 views = 175144
 likes = 8042
 comments = 756

@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPs1YpEunpaOhsBgMAPAZiWUAvkgQhyf6TPo+1QNOMMW3vThMSyEAAP6xY7AR7jHpi8W6YAVCqW0FyIbHKiVhUl5Z61ln7/QX+RLRaCYksxBZgACXh7u8AA=="
+spotify = "https://open.spotify.com/album/6uoVkWwNh79d6howclg0FS"
+spotify_release = { id = "6uoVkWwNh79d6howclg0FS", name = "a talk about mental health", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3fYlcQSTuU1GMiwDi7W0hM", name = "a talk about mental health Pt.1", length = "5:34" },
+  { id = "42PJMWbtIzU6Fd4QivndfA", name = "a talk about mental health Pt.2", length = "5:30" },
+  { id = "4lbkY9PAlZvWtwYoEdHDmw", name = "a talk about mental health Pt.4", length = "5:01" },
+  { id = "63uObGZkSu7fmAJiiCaRcu", name = "a talk about mental health Pt.3", length = "5:37" },
+]
 views = 20237
 likes = 922
 comments = 231

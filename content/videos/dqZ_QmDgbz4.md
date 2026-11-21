@@ -9,6 +9,13 @@ length = "12:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABwBACdASogABIAPsVQo0unpK8hsAwB4BiJZACsABjFaqWNfrH5o2BgdNAsAAD+8yBmQBG1x62Y8358rz9h9SWiuvYi+p7g0WZIiNv8kq9EUwrSyYQxm4YAAAA="
+spotify = "https://open.spotify.com/album/3IGpLRF6nE8TBn4AebjdV9"
+spotify_release = { id = "3IGpLRF6nE8TBn4AebjdV9", name = "You Are Worthy Of Personal Attention", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4845ozW4F8rISuq5qOr0Ps", name = "You Are Worthy Of Personal Attention Pt.1", length = "4:56" },
+  { id = "3XdItXQvEKE1yOuqN2SvPo", name = "You Are Worthy Of Personal Attention Pt.2", length = "3:51" },
+  { id = "0XOWxmCDhveq4FcimvlfCs", name = "You Are Worthy Of Personal Attention Pt.3", length = "4:09" },
+]
 views = 311112
 likes = 7403
 comments = 566

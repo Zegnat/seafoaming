@@ -11,6 +11,13 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPsVSoEunpSMht/VYAPAYiWUAvdAPSuybZPoBlT1vLVBICAAA/vFs2YxKC+GyTZa20cHtsfUIs2xl2PpmGHwD0ncGawxj7PD3a5qio4AjWfFwFAAA"
+spotify = "https://open.spotify.com/album/5b3MCwdFJrW3W32E01wNaL"
+spotify_release = { id = "5b3MCwdFJrW3W32E01wNaL", name = "HAND MOVEMENTS October Patron Appreciation", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "7p8n1jibn9vgPFQ5wSKDa9", name = "HAND MOVEMENTS October Patron Appreciation Pt.1", length = "4:40" },
+  { id = "1ZYxPt1jDoAwIJpE6KNg0D", name = "HAND MOVEMENTS October Patron Appreciation Pt.2", length = "4:39" },
+  { id = "5h6OySeO0ZqDmvY6NF7GCp", name = "HAND MOVEMENTS October Patron Appreciation Pt.3", length = "4:44" },
+]
 views = 23059
 likes = 871
 comments = 208

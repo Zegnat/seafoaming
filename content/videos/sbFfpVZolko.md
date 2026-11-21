@@ -11,6 +11,8 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASogABIAPtFUo0uoJKMhsAgBABoJZwDMWB6RC/GFE9LdtKsjv4AA/vSclkujCAJjOSPp3246Cg4tD4GJXhxHe8fcZTmhF79cm6wAAA=="
+spotify_podcast = "https://open.spotify.com/episode/5LpVLPXDHHCxtJb5ErSWWt"
+spotify_episode = { id = "5LpVLPXDHHCxtJb5ErSWWt", name = "GB Skip navigation Search    Create   Avatar image ASMR Your Sleep Demon is Fascinated with You! | Curious Personal Attention + SLOOOW Talking", date = "2025-02-07", length = "25:10", cover = true }
 views = 107228
 likes = 3274
 comments = 194

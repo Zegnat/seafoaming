@@ -9,6 +9,16 @@ length = "30:48"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAt7gPRXArsoBu8WeAZBhgecW1CAD+VtdaZw7FTa/rXPcJkly8Kl9AyTuvagt1EY/GCQhrIeZL9mwqzEDsL4AAAA=="
+spotify = "https://open.spotify.com/album/3FvPCDwsKaeqSUX5XP2FqK"
+spotify_release = { id = "3FvPCDwsKaeqSUX5XP2FqK", name = "A Video Within a Video", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3IcloG4JTx4bNTMFSMPpmi", name = "A Video Within a Video Pt.1", length = "5:16" },
+  { id = "1UDpZJqnd24HlqcKyZy6Ev", name = "A Video Within a Video Pt.2", length = "5:00" },
+  { id = "6o5yHLr9xbNL4P2p3nfdBU", name = "A Video Within a Video Pt.3", length = "5:08" },
+  { id = "2ZTmr425TtwsktXXGCg3Uy", name = "A Video Within a Video Pt.4", length = "5:08" },
+  { id = "2Fjh2ixRWjBFt0q3jC2jjQ", name = "A Video Within a Video Pt.5", length = "5:08" },
+  { id = "6NBUUbsFc6VRMfIXQiiQnj", name = "A Video Within a Video Pt.6", length = "5:08" },
+]
 views = 53288
 likes = 1375
 comments = 301

@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPtFSo0woJKMiMBgMAQAaCWMAuzMYuGYiVWu/89zdCz1p8BXAAP75AjlN1FiO58VqGF7DoEERlxXt9uOUvQ3onZxi0h0taCUmkEZrYAJRLG9SlqbPOyAAAA=="
+spotify = "https://open.spotify.com/album/7lvbDbmI0gfKJUHtzTJlaU"
+spotify_release = { id = "7lvbDbmI0gfKJUHtzTJlaU", name = "Cookie Eating and Whisper Reading", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0nDE1vFGuj0ZGRy7AxcrL5", name = "Cookie Eating and Whisper Reading Pt.1", length = "4:34" },
+  { id = "0AnavV9iD0s2cNOnC0a6kZ", name = "Cookie Eating and Whisper Reading Pt.2", length = "4:37" },
+  { id = "0eB5qb3OJLxePZWJAtEkui", name = "Cookie Eating and Whisper Reading Pt.3", length = "4:54" },
+  { id = "2JKmAks0Pzy1tskqIpZWSg", name = "Cookie Eating and Whisper Reading Pt.4", length = "4:21" },
+]
 views = 29039
 likes = 975
 comments = 189

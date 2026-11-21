@@ -9,6 +9,16 @@ length = "13:27"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQBACdASogABIAPsVSo0unpSOhsAwA8BiJZACdMwnDQXmHVJEq+tqImLit/Te6AAD+e1wXWM9t1obd2JuKbPZYWLxiEbl8rFovuWZ6+xlxvmul3bdFnb2USLxOUCxC33fGR6lQdUKUwlHftGIMEzAdgAA="
+spotify = "https://open.spotify.com/album/5qfmyMBDnO4gX6hHtVbGQp"
+spotify_podcast = "https://open.spotify.com/episode/01PWZMWkqgy9BPMONKEZXk"
+spotify_release = { id = "5qfmyMBDnO4gX6hHtVbGQp", name = "ASMR Tiny Vampire Punches You to Sleep (boxing, whispering, biting, KO!)", type = "EP", date = "2026-04-17", cover = true }
+spotify_tracks = [
+  { id = "0bKe8AugN3tggKGC92rp6n", name = "Warming up and Stretching", length = "4:00" },
+  { id = "33XwXHr88EDUadocjiCjKs", name = "Fight Begins! Punching Sounds, Pow Pow!!", length = "3:27" },
+  { id = "5ITiBpd3dPhBzMfx4INhHL", name = "... You Got Revenge", length = "4:17" },
+  { id = "525j5SNpR6taigsf1N6IkR", name = "Super Duper Words of Encouragement!", length = "1:43" },
+]
+spotify_episode = { id = "01PWZMWkqgy9BPMONKEZXk", name = "ASMR🥊Tiny Vampire Punches You to Sleep💥(boxing, whispering, biting, KO!)", date = "2026-03-20", length = "13:27", cover = true }
 views = 80033
 likes = 2845
 comments = 180

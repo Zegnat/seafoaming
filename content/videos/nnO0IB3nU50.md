@@ -9,6 +9,8 @@ length = "29:29"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBQCdASogABIAPsFIn0unpCKht/qoAPAYCWYArDlBOvAIzTljcjTOyc+1aDvTIZzfY7vYAP70rr3sNTx1BsOPG8avqWbxgjrf5gMw+HtAaJuH4a9Tbm9tPGRltTwiDNGXhrnjuiWwYW6soEcG6ivdAcoVSiFbMv7EAAAA"
+spotify_podcast = "https://open.spotify.com/episode/6cXpaSslrRiHNF4kpVVHeQ"
+spotify_episode = { id = "6cXpaSslrRiHNF4kpVVHeQ", name = "ASMR🌰 Fox Girl Takes Care of You! 🍂 Magic Healing Tea & Sweet Affirmations", date = "2026-11-10", length = "29:29", cover = true }
 views = 46631
 likes = 1351
 comments = 74

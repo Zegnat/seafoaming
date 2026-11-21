@@ -11,6 +11,18 @@ age_restricted = false
 language = "en-US"
 language_name = "American English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCWMAyJgLMofcGmmKvCavv6qvPpWL1wAA/vQxfpOduqJNSJR2UaAva1HI7/natJSzskuXbrEpmxSi0JM6jWKrQrS2tLkCXhE1yM3/BMTFwAAA"
+spotify = "https://open.spotify.com/album/0Kgvhld6O8gJlWs1YlCqhq"
+spotify_podcast = "https://open.spotify.com/episode/7n3MloL6LyUKE1Sd3zmkZ9"
+spotify_release = { id = "0Kgvhld6O8gJlWs1YlCqhq", name = "ASMR Goth IHOP, Your Rude Waitress is Kinda Flirty - Gossiping, Telling You Secrets, Drawing You", type = "EP", date = "2025-01-24", cover = true }
+spotify_tracks = [
+  { id = "5QEK6XsptoBgRVhbJdwZ4R", name = "Welcoming You & Writing A Note About You(Don't Get On My Nerves)", length = "3:59" },
+  { id = "58z49AT6ir51neFq3R0AnV", name = "Whispering & Drawing You While We Wait(Marker Sounds)", length = "3:59" },
+  { id = "2Bfn0t8vYK0T46XYOFnlM1", name = "Whispering Close To Your Ear & Marker Scraping", length = "4:01" },
+  { id = "5je2OKgKM7A5I3LMfrOSgi", name = "Quite Breathy Whispers While Drawing", length = "3:55" },
+  { id = "3mxEjtJK0282eEZl7K58hq", name = "Finishing Up The Drawing(Paper Scraping Sounds)", length = "3:56" },
+  { id = "6I1PxGvNXlkyVJ2LxvRNoy", name = "Showing You The Drawing With Paper Flipping & Tapping Sounds", length = "3:20" },
+]
+spotify_episode = { id = "7n3MloL6LyUKE1Sd3zmkZ9", name = "ASMR Goth IHOP 🖤Your Rude Waitress is Kinda Flirty...🖤 Gossiping, Telling You Secrets, Drawing You", date = "2024-12-27", length = "23:10", cover = true }
 views = 838804
 likes = 18006
 comments = 735

@@ -11,6 +11,13 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASogABIAPtFcpUyoJSOlsBgIAQAaCUAWnQISyr37lY9TFuAA/ru4MhVbLLl7ri/3mv4oZ+8X4gXn2RnsOofEsUyH8ufLK4M+ufcdBQdUeGQ2XFl5nyzUAAAA"
+spotify = "https://open.spotify.com/album/4nXlcjItZEofBeynq8oEd5"
+spotify_release = { id = "4nXlcjItZEofBeynq8oEd5", name = "BACKSTREET DEALER Slingin' Neos Dirt Cheap", type = "Single", date = "2022-11-30", cover = true }
+spotify_tracks = [
+  { id = "6oyadpyKJApnIHpk4H47Sm", name = "BACKSTREET DEALER Slingin' Neos Dirt Cheap Pt.1", length = "4:24" },
+  { id = "1n8CbGOnmW05LLSeHzei0e", name = "BACKSTREET DEALER Slingin' Neos Dirt Cheap Pt.2", length = "4:23" },
+  { id = "3rLDlHkjSkplQZNbRIa01j", name = "BACKSTREET DEALER Slingin' Neos Dirt Cheap Pt.3", length = "4:24" },
+]
 views = 81047
 likes = 2954
 comments = 449

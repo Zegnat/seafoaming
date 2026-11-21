@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUAVhnHYLyP0LtTm4V2mJ+dLrJSgAPHcIqqqS20gMsrfE6GJ6bEvzEw41gAHtlv9F9VCTKf78EOaTFIzlQ4F8diHiDoJ+0d2gnsdxzNGAAAA"
+spotify = "https://open.spotify.com/album/1eX8C4jT7EjR2NjHbZkO2a"
+spotify_podcast = "https://open.spotify.com/episode/7dbOvAdUUTgzxGOgPWkb94"
+spotify_release = { id = "1eX8C4jT7EjR2NjHbZkO2a", name = "Classmate ASMR Tingly Study Sesh With Your Crush", type = "EP", date = "2025-12-19", cover = true }
+spotify_tracks = [
+  { id = "7dhUrJm1z2RJT6dJMkVJvu", name = "Chewing Gum & Whisper Chatting", length = "7:32" },
+  { id = "3CpgYy6e5nd4Y5bYhvDgoY", name = "Asking You Questions & Writing", length = "9:33" },
+  { id = "25QlLiuMI9jZ4rOcd7eK8v", name = "Studying & Super Tingly Gum Chewing", length = "4:14" },
+]
+spotify_episode = { id = "7dbOvAdUUTgzxGOgPWkb94", name = "CLASSMATE ASMR 📚 Tingly Study Sesh With Your Crush 💞 (attention, writing, gum chewing, quizzing you)", date = "2025-11-21", length = "21:18", cover = true }
 views = 74238
 likes = 2227
 comments = 126

@@ -9,6 +9,8 @@ length = "20:07"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBQCdASogABIAPtFWoEuoJKohsBgMAUAaCUAX7igqi8gRAQEuB0r3GPZzp4GlQXuBFBrpkAD+WZws9cntdX8jcMua19Uketa0uOExu/Gd2Bblze7A5phRMQ7uPX5EEEw5zEXgYq6clgAAAAA="
+spotify_podcast = "https://open.spotify.com/episode/04anEoVKS9YJfBDr5Vodnm"
+spotify_episode = { id = "04anEoVKS9YJfBDr5Vodnm", name = "ASMR ☔🚘Guided Rainy Car Ride (Eyes Closed) | Lights Passing + Soft Whispers | Cozy Vibes for Bedtime", date = "2024-08-30", length = "20:07", cover = true }
 views = 57658
 likes = 1751
 comments = 100

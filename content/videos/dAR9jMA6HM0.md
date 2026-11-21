@@ -9,6 +9,17 @@ length = "15:11"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASogABIAPtFSokwoJCMiMBgMAQAaCWMAgnAEpZERWnZMDXAjYJsToAD+8Q1e02xQT4MWzthAaR1/GSR/pGcmfkOdlc7Rq1oqcpkLcvnNn2w+Ph5wGDpYzG7g3zPwaaesCtaeGAAA"
+spotify = "https://open.spotify.com/album/3bUGSd2Jqg06fow6M1kG3q"
+spotify_podcast = "https://open.spotify.com/episode/13GaZ5TjSvyTVG4A8ISk6S"
+spotify_release = { id = "3bUGSd2Jqg06fow6M1kG3q", name = "ASMR HELPING YOU SLEEP - Goodnight Kisses & Slow, Breathy Whispers", type = "EP", date = "2025-01-17", cover = true }
+spotify_tracks = [
+  { id = "4PBwO6B8CgQaCUrB0D54nr", name = "Whispering Positive Thoughts & Giving Kisses", length = "3:07" },
+  { id = "4bUUmXgoxrErp1UHefJQMU", name = "Soft Finger Kisses & Breathy Whispers", length = "3:01" },
+  { id = "3PDL91qOyb5qwv5kPi9lFv", name = "I'm Gonna Meet Your In Dreamland (Up Close Kisses)", length = "3:02" },
+  { id = "16cDL727bgrtfks5fEWxDu", name = "Whispering ‘Sleepy’, Calming You Down", length = "2:53" },
+  { id = "4IDxb0K7aFfdmMEBNeC4jN", name = "Giving You Finger Kisses Ear To Ear", length = "3:08" },
+]
+spotify_episode = { id = "13GaZ5TjSvyTVG4A8ISk6S", name = "ASMR 💤 HELPING YOU SLEEP 🩵 Goodnight Kisses + Slow, Breathy Whispers", date = "2024-12-16", length = "15:11", cover = true }
 views = 215671
 likes = 4085
 comments = 156

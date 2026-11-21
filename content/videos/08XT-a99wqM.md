@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPslQoUunpKMht/VYAPAZCWMAtOgMWly1pjx7CqTCQawmdXmikgAA/sE+1I05XVaHH6rwqkn/dmq6sS1kk2aFqHDpKrazi2IdgUlkebFC2LfZm2QeOUbeAdAA"
+spotify = "https://open.spotify.com/album/15SuVxThIPsCtqynlzFkJ8"
+spotify_release = { id = "15SuVxThIPsCtqynlzFkJ8", name = "Friendly Alien Spends Christmas With You", type = "EP", date = "2024-01-03", cover = true }
+spotify_tracks = [
+  { id = "4bGdbIW3JHzCjkAL0lFSid", name = "Friendly Alien Spends Christmas With You Pt.1", length = "5:06" },
+  { id = "1iuKREjBx4yAYojuCMwcSL", name = "Friendly Alien Spends Christmas With You Pt.2", length = "5:10" },
+  { id = "4oCh1BkyJ8414KQZOawocH", name = "Friendly Alien Spends Christmas With You Pt.3", length = "5:08" },
+  { id = "5K9leDRBiUQvW4NYSGJbnK", name = "Friendly Alien Spends Christmas With You Pt.4", length = "5:08" },
+  { id = "17rW02HXfpFZF8xO3B3pnK", name = "Friendly Alien Spends Christmas With You Pt.5", length = "5:08" },
+]
 views = 61303
 likes = 2161
 comments = 161

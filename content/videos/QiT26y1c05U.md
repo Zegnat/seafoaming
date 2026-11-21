@@ -11,6 +11,18 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUATplCPwAHsGZSweJXqaKGIdm55YsAA/vSPVMsXR3cRobbu0PfKtdLGDVxP+5bOA/4rIV/R/Pd1R+x3cdZ8JvZAm5/EgOWGs3IYC9XroYAXf2v30dXTX20EcnYUgAA="
+spotify = "https://open.spotify.com/album/0NzrLBbDqxcVDHnMywv8Yl"
+spotify_release = { id = "0NzrLBbDqxcVDHnMywv8Yl", name = "ASMR SUPREME OVERLORD", type = "Album", date = "2024-09-20", cover = true }
+spotify_tracks = [
+  { id = "711qi3tJRkBSrnxOJlKCN5", name = "Explaining The Concept Of Yana", length = "2:39" },
+  { id = "3nw8yakUm5VTcxDe7CijLn", name = "Mumbling To Himself", length = "2:11" },
+  { id = "0n0KWbQblD50YCqqvAsYyC", name = "Scanning Your Brain", length = "2:25" },
+  { id = "3ZtNeiPQ7KbBWFKnnzygqZ", name = "Declaring You As His Arch Nemesis", length = "2:01" },
+  { id = "2WPE5wiPwgOwoMvQ0KYqIS", name = "Light Stick Brainwave Disruptors", length = "3:44" },
+  { id = "2eL0vR3N9dlwvXkuGZhFvR", name = "Plucking And Eating Your Yummy Yana", length = "2:39" },
+  { id = "1U204SL5iQGpAaaSj8pib4", name = "Fixing His Makeup", length = "2:41" },
+  { id = "0kJlguG4FEhmqgE93zdd17", name = "You Will Rue The Day That You Messed With Xak", length = "1:21" },
+]
 views = 325425
 likes = 5793
 comments = 387

@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFQpUwoJC+iMBgMAfAaCUAXYAZoJ7HHVj8mI+KPRf31x5aYgAD+SHEO56kEiffrKBn1Ws01qZWSAzlqhdDPHyh9PUx8gEgvn8EekVEq6TbKDC28x4lI59SD6lpAAA=="
+spotify = "https://open.spotify.com/album/5qvhjemuSVB2TrXqdBM1ce"
+spotify_release = { id = "5qvhjemuSVB2TrXqdBM1ce", name = "FRIENDLY DRAGON Fascination with You", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3sP07o0jYdOwysIcGpxsD5", name = "FRIENDLY DRAGON Fascination with You Pt.1", length = "5:33" },
+  { id = "6Tq1sPr5Jx9MtGyjyAeqBE", name = "FRIENDLY DRAGON Fascination with You Pt.2", length = "5:29" },
+  { id = "7czkE7ENvyOmEOQPwrwVb8", name = "FRIENDLY DRAGON Fascination with You Pt.3", length = "5:30" },
+  { id = "0X1KNNh6f8Xdn4pVEOYoRw", name = "FRIENDLY DRAGON Fascination with You Pt.4", length = "5:16" },
+]
 views = 1860912
 likes = 26633
 comments = 6300

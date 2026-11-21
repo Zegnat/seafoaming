@@ -9,6 +9,13 @@ length = "15:04"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFepk6oJSMiKAqpABoJYwB4tgGYe9mqyicIRlZgyC/NAAD+02C/+F5NszVLYkc9b9NfqkkVUXqElrgTrUbt6KfDozQWMRuAqm64ToCRbWWF++vUahSDKMnAAAA="
+spotify = "https://open.spotify.com/album/5bfWoFSORJIhzV28kw7I6R"
+spotify_release = { id = "5bfWoFSORJIhzV28kw7I6R", name = "Mermaid Pillow Sparkly Sequins", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0RdcdAGzBTTQ5b8RCv5R8z", name = "Mermaid Pillow Sparkly Sequins Pt.1", length = "5:57" },
+  { id = "7HdI9csrzKoX3HKS4jUs4H", name = "Mermaid Pillow Sparkly Sequins Pt.2", length = "4:28" },
+  { id = "13fCO2nDmSjibTDvyhuYU8", name = "Mermaid Pillow Sparkly Sequins Pt.3", length = "4:39" },
+]
 views = 29339
 likes = 1353
 comments = 104

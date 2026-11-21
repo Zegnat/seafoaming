@@ -11,6 +11,8 @@ age_restricted = false
 language = "en-US"
 language_name = "American English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBOgA9DGvzI9KmVvKOI6qfTgAP7235jHH5GcfY3mDGjnADDNJkdygNX7dJ+p/l4/+NXM//UIANgzUMyi16YHldZXkaIQMWz0qYH5NzO3iFlE6U9xutEqPaGAAA=="
+spotify_podcast = "https://open.spotify.com/episode/2dZ00mrSW2EcurNeMyTeLc"
+spotify_episode = { id = "2dZ00mrSW2EcurNeMyTeLc", name = "ASMR 💀 B*TCHY MOM Gaslights & Insults You (because mother knows best)", date = "2025-01-10", length = "22:36", cover = true }
 views = 51684
 likes = 1787
 comments = 309

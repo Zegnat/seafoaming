@@ -11,6 +11,12 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPsVSpEunpSQhsAwA8BiJQBdl+LAqjytbwf6wxhFL4zgQ+l+lvAD9kwFBvdqa3iwv69nENtUm4g3pIOWmdMTPqljXN9aVWilnltdbgQUwp2yR1KjQgAA="
+spotify = "https://open.spotify.com/album/5YpYuB20j35GvXTEs5QdEI"
+spotify_release = { id = "5YpYuB20j35GvXTEs5QdEI", name = "Mom Comforts You After Nightmare", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5DQXazPtZEEyroKw59dr0Y", name = "Mom Comforts You After Nightmare Pt.1", length = "5:28" },
+  { id = "2S6nuuJWq8nC4nOC8YMze8", name = "Mom Comforts You After Nightmare Pt.2", length = "5:30" },
+]
 views = 194855
 likes = 3407
 comments = 1000

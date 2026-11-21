@@ -11,6 +11,19 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPs1SpkunpKQhsBgMAPAZiUATpmaHwAKgJ+1SFxst+K5sV6GmasAA/u7VMAG+SdlOjoy6sAoYB9nzjvoPh3t0jrNi3P9nnJOPTAhzbr+JfPtYDP7zZlOxJmo4AAA="
+spotify = "https://open.spotify.com/album/1IzZxnzDqvtVnBb6XLtYm2"
+spotify_podcast = "https://open.spotify.com/episode/0EXlZa98yqP9b2cur2J261"
+spotify_release = { id = "1IzZxnzDqvtVnBb6XLtYm2", name = "Lobotomizing You Cutely and Removing Your Brain Rot", type = "Album", date = "2024-11-21", cover = true }
+spotify_tracks = [
+  { id = "1gsojt2oSmApJOnb4L4aMF", name = "You Wake Up In A Strange Place", length = "2:45" },
+  { id = "7LFwRZq6NscvXgGXvwaKR1", name = "What Motivates Her To Do This", length = "2:27" },
+  { id = "6o1Mme3bND2piZlgFdt3BX", name = "Opening Up Your Brain Thru Your Ears", length = "3:17" },
+  { id = "2gdM4x8B3jcV1Qk7I1xWus", name = "Layered Ear Rubbing And Cupping", length = "2:49" },
+  { id = "6B0Kb6oCNWv5AjJO0ShR3C", name = "Getting Out The Really Stuck Stuff", length = "2:19" },
+  { id = "7L5ltpKJbuCc8HXy1dp7QP", name = "Yanking And Snipping The Remainders", length = "2:14" },
+  { id = "3WcS1xI5p1fRx8vMnCfsNS", name = "Yay Dessert Time", length = "2:50" },
+]
+spotify_episode = { id = "0EXlZa98yqP9b2cur2J261", name = "Hewwo? 😊 Lobotomizing You Cutely 🔪 Removing Your Brain Rot + Eating the Yummy Bits", date = "2024-10-25", length = "18:40", cover = true }
 views = 357233
 likes = 8916
 comments = 414

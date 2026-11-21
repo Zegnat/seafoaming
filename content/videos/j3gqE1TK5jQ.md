@@ -11,6 +11,8 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFWqE4oJCQiMBgIAQAaCWUAuwAMZgmp9+IM12rT72xIR+mq4AD+9FRZdML7eAJPkeUenFar0SMN093bP3+Q/Wv2hEIfGY+ejwSrnGMHK8pKQuFwAAA="
+spotify_podcast = "https://open.spotify.com/episode/5KzpjXbUtQgTkCUde5eG06"
+spotify_episode = { id = "5KzpjXbUtQgTkCUde5eG06", name = "Apocalypse ASMR 🌐 Alone in the Wastelands… Until I Found You 🌌 (futuristic rescue, patching you up)", date = "2025-09-05", length = "19:55", cover = true }
 views = 66705
 likes = 2551
 comments = 138

@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASogABIAPsVQoUunpKMhsAwA8BiJYwCxHoAAGHtqcWZyJdbqAADW19dhw1RwptIBO3rcJtg2G64hV2/tLbdljMe45NXpzkosdAd4CLuPqNDQAAAA"
+spotify = "https://open.spotify.com/album/4p8FlRgl2Xh9hcCtIkqIWc"
+spotify_release = { id = "4p8FlRgl2Xh9hcCtIkqIWc", name = "Miss Spooky Helps You Recover", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3MCsDjoJ7QxUa0hXyAWzhr", name = "Miss Spooky Helps You Recover Pt.1", length = "4:20" },
+  { id = "7vKs6k36xRWObSPiz7mL2f", name = "Miss Spooky Helps You Recover Pt.2", length = "4:21" },
+  { id = "3XW2rGzxiHMeF69gCRIVfT", name = "Miss Spooky Helps You Recover Pt.3", length = "4:10" },
+]
 views = 77098
 likes = 1991
 comments = 525

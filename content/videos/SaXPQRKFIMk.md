@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPslQoUunpKMhsAwA8BkJYwC7My/C+gfhV2k8jSJnTzBf8/+9HwAA/uzXQHDlKxSv9QiL8s0eCdo4XSJqhcxRdSpUOYWF1gVU6hdQpk7f8W4Eqda95OAAAA=="
+spotify = "https://open.spotify.com/album/7xRYy1BJ9VP4Qa0hZa30kz"
+spotify_release = { id = "7xRYy1BJ9VP4Qa0hZa30kz", name = "Spending Your Birthday with Fay", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0AiqI5g5omRyqoqsFkLEvi", name = "Spending Your Birthday with Fay Pt.1", length = "5:01" },
+  { id = "4Gx5xoMTb6KYyslfDiVZo0", name = "Spending Your Birthday with Fay Pt.2", length = "5:04" },
+  { id = "5hH2mlVPzucE3dZgMC5jg5", name = "Spending Your Birthday with Fay Pt.3", length = "5:02" },
+  { id = "6MXcqejSz7wfDhGe2XuRXH", name = "Spending Your Birthday with Fay Pt.4", length = "5:17" },
+]
 views = 218753
 likes = 6582
 comments = 737

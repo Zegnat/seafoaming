@@ -9,6 +9,8 @@ length = "18:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFcpE4oJSMiKAqpABoJZwAAJZfRRdimq2sxmGjasejB5NgA/vS0Vw5/Pv7+7nzrv5IIthyYhS+2TvSohRyBPjC3DollhUl3ht+mKy+aKWnoNJaFxGAAAA=="
+spotify_podcast = "https://open.spotify.com/episode/5IC1yl7Q0Fg57IrII7xfkY"
+spotify_episode = { id = "5IC1yl7Q0Fg57IrII7xfkY", name = "ASMR 🥰 I will explode your brain with a glue stick", date = "2024-09-20", length = "18:57", cover = true }
 views = 31669
 likes = 1353
 comments = 95

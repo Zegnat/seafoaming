@@ -9,6 +9,16 @@ length = "27:24"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBQCdASogABIAPtFYpEuoJSOhsAgBABoJYgCdMoACbO/toU+a4YmwXK8TIH7ZTS/KwAD+aAolJ4TEgVc9MWp68Ni+kUqrTlKpCUtfhIpDqJnmWZwXPEKvwrHflf8YhlpLTHCZcgkWjNOkMVAAhbOHAAA="
+spotify = "https://open.spotify.com/album/7xla4yg3lVqBD5ropyVw07"
+spotify_release = { id = "7xla4yg3lVqBD5ropyVw07", name = "Relaxation for Depression and Anxiety", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5gs7oeUDCFnXTLrk4VZxyP", name = "Relaxation for Depression and Anxiety Pt.1", length = "4:28" },
+  { id = "5YrV3JbCUb8ickEDvPrWe6", name = "Relaxation for Depression and Anxiety Pt.2", length = "4:30" },
+  { id = "3SwZ51LB9h8TUU4HUJQ39R", name = "Relaxation for Depression and Anxiety Pt.3", length = "4:28" },
+  { id = "345OZrdD1dEwpcGobyKmi9", name = "Relaxation for Depression and Anxiety Pt.4", length = "4:30" },
+  { id = "7cIVaej8eGYl6uP8n4JXyK", name = "Relaxation for Depression and Anxiety Pt.5", length = "4:33" },
+  { id = "3w4MhLnViWrnkV5TWwiCi2", name = "Relaxation for Depression and Anxiety Pt.6", length = "4:55" },
+]
 views = 228490
 likes = 5511
 comments = 709

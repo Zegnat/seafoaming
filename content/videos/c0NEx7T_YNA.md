@@ -9,6 +9,14 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQBACdASogABIAPsFKn0unpCKht/qoAPAYCUAX5wLpTWS354jCA1fEJoMpsn+1wAD8xef4ggfJFualNjuViqTOlfb5N1IK0s2XXiTFXBGFj/+2A+7oqIM1w5ssYme2PUjVHI4TnO6y3PAIBAx35AAA"
+spotify = "https://open.spotify.com/album/3d8wJ0c09WyNAnZwJKmIx8"
+spotify_release = { id = "3d8wJ0c09WyNAnZwJKmIx8", name = "DEEP and INTENSE Mouth Sounds", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5ycOtHOxTmD7ZTRPzEwRE2", name = "DEEP and INTENSE Mouth Sounds Pt.1", length = "4:59" },
+  { id = "5rCQ5jeQHWssVMw5i7dEVe", name = "DEEP and INTENSE Mouth Sounds Pt.2", length = "5:00" },
+  { id = "3z8buL5N7HrqgGlxmf4FSu", name = "DEEP and INTENSE Mouth Sounds Pt.3", length = "4:57" },
+  { id = "11TcNhw84TwYlcq4sh1npR", name = "DEEP and INTENSE Mouth Sounds Pt.4", length = "4:45" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

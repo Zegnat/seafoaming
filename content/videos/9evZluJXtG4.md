@@ -9,6 +9,16 @@ length = "21:04"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFep04oJSOiKAqpABoJYwCsL9SA45dTDGhSxs60yhXTh/j4AP70e1eS3bs4J0BebHewCCKNh1j5QdTs4ptK1en9n8778fpYSin5lBguebPO7zQiruDOhFqW6QAAAA=="
+spotify = "https://open.spotify.com/album/4ts5l5BLXthfoEZBgtrhUT"
+spotify_podcast = "https://open.spotify.com/episode/08WQOY74g1emyzeusphfxZ"
+spotify_release = { id = "4ts5l5BLXthfoEZBgtrhUT", name = "ASMR The Hungry Hypnotist Devours Your Mind, Body & Soul", type = "EP", date = "2025-08-15", cover = true }
+spotify_tracks = [
+  { id = "0oMqFTz8YFnOqmmN6jDOyI", name = "Focus On The Swinging Crystal (Guided Meditation)", length = "5:08" },
+  { id = "3NfmZpqrV8LIZmDSCHVDqS", name = "Scooping You With A Wooden Spoon (Soft Whispers)", length = "5:50" },
+  { id = "7oJtIXH15UvofDGtda8jxO", name = "Eating The Badness From Your Mind", length = "4:43" },
+  { id = "72k3GUI329yGbUwkm51i0P", name = "Layered & Echoed Mouthsounds With Whispers", length = "5:23" },
+]
+spotify_episode = { id = "08WQOY74g1emyzeusphfxZ", name = "HUNGRY Hungry Hypnotist 🌀 Eating your Mind, Body & Soul! | Guided Relaxation + Mouth Sounds ASMR", date = "2025-07-18", length = "21:04", cover = true }
 views = 113576
 likes = 3110
 comments = 161

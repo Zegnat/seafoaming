@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBQCdASogABIAPtFcpU0oJSOiMBgIAQAaCWIArC+wxkASjQq2wbRlScrhKSxKgZDmyWAA/MZWVcx1DLY+3VQwbRlJg056qR1CsweL125gd7vFyeVyf3yaT8poQUMJGwmtNS6BgAA="
+spotify = "https://open.spotify.com/album/20xXRpQGqJGtUz4pRAXUmX"
+spotify_release = { id = "20xXRpQGqJGtUz4pRAXUmX", name = "CLUB ZZZ Welcoming the Newbie", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3h4tSni0uwn0J2d3JKurU3", name = "CLUB ZZZ Welcoming the Newbie Pt.1", length = "4:49" },
+  { id = "2Olxv0jML5ezCBIEZVhZdd", name = "CLUB ZZZ Welcoming the Newbie Pt.3", length = "4:35" },
+  { id = "7FPfQwqq085Wyx4mSABFi2", name = "CLUB ZZZ Welcoming the Newbie Pt.2", length = "4:43" },
+  { id = "7FvU6JX8WIIAH3ThwvTE4Y", name = "CLUB ZZZ Welcoming the Newbie Pt.4", length = "4:45" },
+  { id = "6tQKllYEnFjIZKemEhHa9C", name = "CLUB ZZZ Welcoming the Newbie Pt.5", length = "4:45" },
+]
 views = 556541
 likes = 12155
 comments = 1700

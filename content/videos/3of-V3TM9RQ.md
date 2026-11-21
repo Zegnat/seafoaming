@@ -11,6 +11,14 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFiqlAoJaOiqAgBABoJYwCsM1XBW/ATYz7aRYt2Zv3BfVwyAAD+8bMeBpYJ1JcW6qd+u/bbTgEP+SwJtk0t88SDk0K7MTsWwWOj9vUAmNm4jDckhbNOy058WdFz0gAA"
+spotify = "https://open.spotify.com/album/0Uuu4jY3voFCYLN8drJJCl"
+spotify_release = { id = "0Uuu4jY3voFCYLN8drJJCl", name = "MELT YOUR BRAIN", type = "EP", date = "2023-09-08", cover = true }
+spotify_tracks = [
+  { id = "180lXoR2exjWsiCPr5piBA", name = "MELT YOUR BRAIN Pt.1", length = "4:18" },
+  { id = "35JruFdSA5ncogDtknAptj", name = "MELT YOUR BRAIN Pt.2", length = "4:24" },
+  { id = "6uiebcpEe5bcpHIh25A9LW", name = "MELT YOUR BRAIN Pt.3", length = "4:25" },
+  { id = "3hoxqz9qVgQeiV7TE2BLYa", name = "MELT YOUR BRAIN Pt.4", length = "4:19" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

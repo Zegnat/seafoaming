@@ -9,6 +9,22 @@ length = "1:01:49"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPsFKn0unpCKht/qoAPAYCWUAs4AWsVMCclJFYaDygfVxZANgAP6ETVtNWtycY5ZK02bfAXDeWCbSJn6SmvZmV9KKGa4gUdL/b8uwIzNBmd0LISINd2BQaAAA"
+spotify = "https://open.spotify.com/album/2MNgKcVeD7rFhVTGwicWnp"
+spotify_release = { id = "2MNgKcVeD7rFhVTGwicWnp", name = "Plastic Pen Chewing and Mouth Sounds", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "6ASFaWVmEOWnIKX4gDkHU0", name = "Plastic Pen Chewing and Mouth Sounds Pt.1", length = "5:09" },
+  { id = "0Zjcsw1u1CMDbG9cpTWarb", name = "Plastic Pen Chewing and Mouth Sounds Pt.2", length = "5:11" },
+  { id = "5KTLKI5QBqlsOziG1qIvlI", name = "Plastic Pen Chewing and Mouth Sounds Pt.3", length = "4:51" },
+  { id = "7yHwDfT6idj5C4SvImoSGr", name = "Plastic Pen Chewing and Mouth Sounds Pt.4", length = "5:06" },
+  { id = "1nglo3QFJNMrPgzUCh6pVq", name = "Plastic Pen Chewing and Mouth Sounds Pt.5", length = "5:05" },
+  { id = "37XQHglgqEHcaVQ9080scl", name = "Plastic Pen Chewing and Mouth Sounds Pt.6", length = "5:10" },
+  { id = "4RgmJBZm73xymhkTCEMTqS", name = "Plastic Pen Chewing and Mouth Sounds Pt.7", length = "5:12" },
+  { id = "0eG6iEgZoBNogPmMNDcVdF", name = "Plastic Pen Chewing and Mouth Sounds Pt.8", length = "5:06" },
+  { id = "0NAMm23wJoOGnMP0WDe84L", name = "Plastic Pen Chewing and Mouth Sounds Pt.9", length = "5:10" },
+  { id = "0H1yCfWkOn85pPRyIO3BjD", name = "Plastic Pen Chewing and Mouth Sounds Pt.10", length = "5:04" },
+  { id = "1bzTQ1F1amPt5I5SXBnQXf", name = "Plastic Pen Chewing and Mouth Sounds Pt.11", length = "5:12" },
+  { id = "214UubVi7qtWPyj7XrRhZU", name = "Plastic Pen Chewing and Mouth Sounds Pt.12", length = "5:32" },
+]
 views = 182224
 likes = 3206
 comments = 469

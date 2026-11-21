@@ -9,6 +9,8 @@ length = "21:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASogABIAPtFcqk2oJSQiKAqpABoJQBjegWh7kzKmQYpUrCU89jQA/vQxlGodXNkko2vCVnCc2SWP9B9ZV62RsRZSi8ozB7mrainq77A6wt8+a/CgI4xLkTwZFj6VX8/CCARhW25QakAAAA=="
+spotify_podcast = "https://open.spotify.com/episode/6L2SCBSqrj3DAd6UE8YH3C"
+spotify_episode = { id = "6L2SCBSqrj3DAd6UE8YH3C", name = "ASMR ❤️ Caring Friend | How to Manifest Love & Change Your Life", date = "2024-10-11", length = "21:32", cover = true }
 views = 30642
 likes = 1091
 comments = 73

@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPsFMoEunpCMht/qoAPAYCUATpCbAXBpUMs4DgyvEOWgLYeOmwedAAAD+xK453vAR7tgdZv36At2Wgmr4huDeyIeclD+IG4nF7emfpE5glqUfYFHVwYSeg3mOPXQgAA=="
+spotify = "https://open.spotify.com/album/6EMFccZAdrBEmdGquuSBYj"
+spotify_release = { id = "6EMFccZAdrBEmdGquuSBYj", name = "Tsundere Dragon Girl Returns", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3pRbn5QD8b7BwbZVO97qpW", name = "Tsundere Dragon Girl Returns Pt.1", length = "4:54" },
+  { id = "5aOsQk2lhuBbB59PKEf2qf", name = "Tsundere Dragon Girl Returns Pt.2", length = "4:51" },
+  { id = "6uqZGfMsmN4hXd8ONhEs38", name = "Tsundere Dragon Girl Returns Pt.3", length = "4:42" },
+  { id = "6a35Z8XB0OKmdXbxjroiWI", name = "Tsundere Dragon Girl Returns Pt.4", length = "4:26" },
+]
 views = 1188082
 likes = 13589
 comments = 3400

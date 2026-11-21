@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPsVOokunpCMhsAwA8BiJQBYj5ohTBLHO77QL1q5MApYBLUohcAD+Ai++TLjHMfSuz1eJu6BkWYSuGdGxaxspFb+MHcV1pzPkfH4l7skVEf/rEhv3vgsIhwAA"
+spotify = "https://open.spotify.com/album/3ACI5dksLpRtFKtmSlL857"
+spotify_release = { id = "3ACI5dksLpRtFKtmSlL857", name = "Kawaii School Supplies Show and Tell", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "12CecNX5xjGSwzpaWbYiHJ", name = "Kawaii School Supplies Show and Tell Pt.5", length = "5:26" },
+  { id = "2ZKskxEamR8CThzGZQqoXs", name = "Kawaii School Supplies Show and Tell Pt.1", length = "5:27" },
+  { id = "49RIpn8YtK4vlhUpZ1Glhc", name = "Kawaii School Supplies Show and Tell Pt.2", length = "5:20" },
+  { id = "0jYXz6EuywvMsC92uFK1jv", name = "Kawaii School Supplies Show and Tell Pt.3", length = "5:29" },
+  { id = "59HEvYH3m7d8N7HMfw8MP3", name = "Kawaii School Supplies Show and Tell Pt.4", length = "5:24" },
+]
 views = 127503
 likes = 4023
 comments = 565

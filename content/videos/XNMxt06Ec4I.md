@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPs1Uo0unpKMhsBgMAPAZiWMAnQAv3od+QvpSF/WOMz9kuC6wAP7CHjYu8aheOYP2XT/kPhA5AV8iB6BUyyd9Rl2wlaoAqbhCPXTPZORKCFXh1ZYeeHZXIAAA"
+spotify = "https://open.spotify.com/album/2tq8sJeopns8EuTJnI5nvM"
+spotify_release = { id = "2tq8sJeopns8EuTJnI5nvM", name = "Backstreet Stick and Poke", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2Z2wNIrUAM3aIFRvbXQH2y", name = "Backstreet Stick and Poke Pt.1", length = "6:41" },
+  { id = "5gZZXF7pQVYpw2ddLXTg9K", name = "Backstreet Stick and Poke Pt.2", length = "5:01" },
+  { id = "2Svw9hjxYk6YTZCUvNDABf", name = "Backstreet Stick and Poke Pt.3", length = "7:50" },
+  { id = "4Ps797R84twFrSd1T5wHuQ", name = "Backstreet Stick and Poke Pt.4", length = "6:37" },
+]
 views = 370707
 likes = 9866
 comments = 993

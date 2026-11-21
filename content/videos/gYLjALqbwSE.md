@@ -9,6 +9,16 @@ length = "14:08"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPtFSo0woJCMiMBgMAQAaCWMArhwLJsJOtLqfWnCjYSXEFedK/3Uv4AD+8N8FibaTZNsSoodAxvuO7pP1pjj5eNlrkRYWbtUGElhlXfakOYGnr5bLoAHKkxEEgJkAAA=="
+spotify = "https://open.spotify.com/album/2a0klU9xtpmlLnf1RNpUNJ"
+spotify_podcast = "https://open.spotify.com/episode/6aDYgaDoifz5FOfksIoszQ"
+spotify_release = { id = "2a0klU9xtpmlLnf1RNpUNJ", name = "ASMR SCALP MASSAGE, The Scritches Will Have You Kicking Your Leg Like a DOGGG", type = "EP", date = "2024-12-27", cover = true }
+spotify_tracks = [
+  { id = "2ZMXVTCODKoojbJFvjEIjr", name = "Starting With Rough Ear Scratches", length = "3:42" },
+  { id = "2gs6ioazAHWq3fz9kzSmXz", name = "Whispering Up Close While Scratching", length = "3:41" },
+  { id = "1ta2ozQu6DpM2pBxuJOl8k", name = "Very Gentle Whispers With Soft Scratches", length = "3:29" },
+  { id = "63IbaW1VlmGEWaXE4p8T8U", name = "Relaxing Scritches & Soothing Whispering To Put You To Sleep", length = "3:17" },
+]
+spotify_episode = { id = "6aDYgaDoifz5FOfksIoszQ", name = "ASMR SCALP MASSAGE 🥴The Scritches Will Have You Kicking Your Leg Like a DOGGG", date = "2024-12-01", length = "14:08", cover = true }
 views = 573695
 likes = 7147
 comments = 258

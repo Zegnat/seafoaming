@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPsVSoEunsSMht/VYAiAYiUATpygAOaTUfxQwTHEPm5+fGAD8a/60gSQcU340x5EHtRjpP+XayCiwjG41v2PUahZ+92a/7sK/MdEWMppfsfsSjlwf00RcsEGao4AAAA=="
+spotify = "https://open.spotify.com/album/28nK7ORyH5Vhtjik17klM7"
+spotify_release = { id = "28nK7ORyH5Vhtjik17klM7", name = "Your Plant Takes Care of YOU", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "06yhmkSLWGTvZAQY0IrEOz", name = "Your Plant Takes Care of YOU Pt.1", length = "5:09" },
+  { id = "21AhgyR8lTXFBTthPdblUF", name = "Your Plant Takes Care of YOU Pt.2", length = "5:09" },
+  { id = "2sabUelTi5LBqVoAzXzUPP", name = "Your Plant Takes Care of YOU Pt.3", length = "5:17" },
+]
 views = 187069
 likes = 4030
 comments = 1300

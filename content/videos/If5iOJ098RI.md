@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPsVQoEunpKohsAwBQBiJQAALUIUPhy09fPgJ1iWYdSwAAP7WhFEi2H4m5tWNa2yTPnKejvl+nBg5HZXVCdfO+1cCb7baRcsD3IX9aivl4PvBIdp0OgcngAAA"
+spotify = "https://open.spotify.com/album/22qF3myF0BbF0tGzxFTyqI"
+spotify_release = { id = "22qF3myF0BbF0tGzxFTyqI", name = "Summer Secret Santa", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0TOMPc4sSVoVamJJlXIuV3", name = "Summer Secret Santa Pt.1", length = "4:01" },
+  { id = "65LlyIcgGjZQp442hbJ8Lm", name = "Summer Secret Santa Pt.2", length = "4:02" },
+  { id = "7e1jdnJcTlAdGR25ePgTik", name = "Summer Secret Santa Pt.3", length = "3:59" },
+]
 views = 14756
 likes = 554
 comments = 176

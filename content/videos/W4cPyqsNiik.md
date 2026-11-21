@@ -11,6 +11,13 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFcpE0oJSOiMBgIAQAaCUAWI+yAL0UQdBAUAYR2k4znZKAbRjgA/elPC3/kOIWRh3QAl3t4UoxSwHIkCFL70x65Cec7TjR1oEIwr9Ueq2Lb0X89LqV8/L7HDrqAAA=="
+spotify = "https://open.spotify.com/album/5dKSWEZNgNh1KOzpbN16Zc"
+spotify_release = { id = "5dKSWEZNgNh1KOzpbN16Zc", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1XcPBZCj3iPVKC9QTvDpCw", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.1", length = "4:05" },
+  { id = "2HLTsvXWQM3Xj8NKfsuBsH", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.2", length = "4:01" },
+  { id = "2ZEKqUd6vXi7cBuTmWXlZ9", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.3", length = "3:58" },
+]
 views = 485482
 likes = 6950
 comments = 862

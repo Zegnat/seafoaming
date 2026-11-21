@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsFIn0unpCKht/qoAPAYCWMAnQAh2YJ2ZFZ67jIwfN4aAAD+8RD6U3/oD1V897adUAmZe+tIPAvBELqcZmj3Clz24Hz/CFYrX7drueCP1o9chzkM3JjJUAAA"
+spotify = "https://open.spotify.com/album/7hun1FpYYvpIi00MdlBIwh"
+spotify_release = { id = "7hun1FpYYvpIi00MdlBIwh", name = "DRAGON GIRLFRIEND Patching You Up", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "6eV3DIDP9HXkXzLIACdtph", name = "DRAGON GIRLFRIEND Patching You Up Pt.1", length = "5:12" },
+  { id = "1hoK5HO2DwUtK1HxOs9rUG", name = "DRAGON GIRLFRIEND Patching You Up Pt.3", length = "5:26" },
+  { id = "3AkhoUVnGswH1V97Niov2U", name = "DRAGON GIRLFRIEND Patching You Up Pt.2", length = "5:10" },
+  { id = "1WgD9p6lwyQ74WTv08CGGi", name = "DRAGON GIRLFRIEND Patching You Up Pt.4", length = "4:43" },
+]
 views = 483760
 likes = 8464
 comments = 1100

@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFMoEunpCMht/qoAPAYCUAXYALb3uZzNZfs+q43rCOImEPPrYAA/TE+SnQF4Xm2SpmB3lN1yGXt19rmKr9NkogTscCRFlDCbJPLupfaK2/1/Zk1BI1/AYiF4AAAAA=="
+spotify = "https://open.spotify.com/album/5TEmAEgdw7yg7wVFgKtYhc"
+spotify_release = { id = "5TEmAEgdw7yg7wVFgKtYhc", name = "The Worst Dentist Ever", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1ZMRmQyKu8PgWwMFLtusFv", name = "The Worst Dentist Ever Pt.1", length = "4:01" },
+  { id = "5spYCuUpnyyCrK0Ap6y0I4", name = "The Worst Dentist Ever Pt.2", length = "4:00" },
+  { id = "5bJ3Ba90qeloFJANcvGcNo", name = "The Worst Dentist Ever Pt.3", length = "4:01" },
+  { id = "2cnNQ3Lrqw3h1DqFR22ARg", name = "The Worst Dentist Ever Pt.4", length = "4:13" },
+]
 views = 291848
 likes = 6290
 comments = 1600

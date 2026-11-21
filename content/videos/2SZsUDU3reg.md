@@ -9,6 +9,8 @@ length = "17:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPslSn0unpKKhsAwA8BkJYwDE2BujDKG8hE9NU6bMJtjZ71nGAAD+9I/jKqGHSgPGgIxyJyvuWjunvHbaiFeXlbs0s7nsvBZg9axqXzxpAYJAgXF893AGhugA"
+spotify_podcast = "https://open.spotify.com/episode/5yS88RZjLejPRr1Uo1pkpY"
+spotify_episode = { id = "5yS88RZjLejPRr1Uo1pkpY", name = "ASMR 🦇 This Ditzy Bat Lives Here Rent Free?! | Curious Touching, Throat Clicking, Stealing(?)", date = "2024-09-06", length = "17:13", cover = true }
 views = 113519
 likes = 3459
 comments = 200

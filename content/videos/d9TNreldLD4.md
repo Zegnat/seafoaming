@@ -11,6 +11,14 @@ age_restricted = true
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASogABIAPslSn0unpKKqMAwBQBkJQBOmUABFYH87qFzOg5kAAO3Mt3QTcrDg5TyvKO51EHybjWHuiQ4m70jB1fzP/CWpRnn5aP8njpRpNUuoZ8ZYU4pEAAAA"
+spotify = "https://open.spotify.com/album/4vTXsrDpAFAt0DzEtVJ0Ep"
+spotify_release = { id = "4vTXsrDpAFAt0DzEtVJ0Ep", name = "Favorite Fidget Toys", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5BPNcRgqYxjE7uULbHrFSZ", name = "Favorite Fidget Toys Pt.1", length = "4:02" },
+  { id = "6UN9mKvVuBayeMZ1JMunQa", name = "Favorite Fidget Toys Pt.2", length = "4:00" },
+  { id = "7oiGJnWvvQAp0OvQB87X5F", name = "Favorite Fidget Toys Pt.3", length = "4:00" },
+  { id = "5cxHm2E75fp7K4Mm75JgMb", name = "Favorite Fidget Toys Pt.4", length = "4:20" },
+]
 views = 36172
 likes = 1201
 comments = 291

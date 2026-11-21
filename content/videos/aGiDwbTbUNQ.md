@@ -9,6 +9,15 @@ length = "23:51"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPslUnkunpKKhsAwA8BkJZACdMtDCanoPhcOoWRa5wvRcCmOiPUgA/skMnNxpe7ZHP/1FTP2VZmr9POSFEk9yDPzHN52pceDfBQslVV/oTe4LVDSe20zV0fLGX8mQAA=="
+spotify = "https://open.spotify.com/album/0Il7SCDDlMEyRPklzjygik"
+spotify_release = { id = "0Il7SCDDlMEyRPklzjygik", name = "Fan Favorite Trigger Words", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "16yVCsNK222OqhLAm1OZPL", name = "Fan Favorite Trigger Words Pt.1", length = "4:48" },
+  { id = "4f50GEA4VeWasNokAy0i24", name = "Fan Favorite Trigger Words Pt.2", length = "4:43" },
+  { id = "3C3z1PfaucR0gN4MOqIryb", name = "Fan Favorite Trigger Words Pt.3", length = "4:49" },
+  { id = "3JtONMSYnvNXP3vZVbJuux", name = "Fan Favorite Trigger Words Pt.4", length = "4:50" },
+  { id = "06xyLfvkd7MPNjTorJgetx", name = "Fan Favorite Trigger Words Pt.5", length = "4:41" },
+]
 views = 32187
 likes = 896
 comments = 224

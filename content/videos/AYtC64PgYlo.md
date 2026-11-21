@@ -11,6 +11,17 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASogABIAPslSoUunpKMhsAwA8BkJYjgACsABZNZQWWm6YJdAAP73gkVCSRiCADcB5LxwZtHaJz1YM11h8Ss8WHgtHmaz5i8LOWXc5ts17cNYxOd3R3HCILT5evHImNQBhQKsLjpPnIAAAA=="
+spotify = "https://open.spotify.com/album/7v8uVnCpQsDJZODBoY2oYU"
+spotify_release = { id = "7v8uVnCpQsDJZODBoY2oYU", name = "ASMR Evil Dragon Queen Captures You", type = "Album", date = "2024-03-01", cover = true }
+spotify_tracks = [
+  { id = "5RLLXY6i5qillkA1xjDipa", name = "Intro", length = "4:00" },
+  { id = "5VltCquKcP3iGQ42MwWlkE", name = "We Are In This Dungeon To Play", length = "4:31" },
+  { id = "5mBTDUXkIzolrh27vEdUyY", name = "I Am Here To Tortute Everyone", length = "3:51" },
+  { id = "5GyuwgS1rWzfUgvff73Vcs", name = "I Feel Disgust, You Won’t Change My Mind", length = "3:28" },
+  { id = "6W9JK8mHxNpXeRHP1baGsy", name = "Do You Want Your Freedom?", length = "3:10" },
+  { id = "2AJ1vp9KqPg9XryAVUmFTH", name = "Give Me A Smile", length = "3:01" },
+  { id = "7bbk86FFpjksiGF01tvCfL", name = "Outro", length = "2:08" },
+]
 views = 254738
 likes = 6558
 comments = 433

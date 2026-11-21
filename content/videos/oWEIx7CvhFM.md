@@ -11,6 +11,8 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFapUuoJaOhsAgBABoJQBdmZDA4pFD2snejrHVE6cUhl2AA/vGi6bAZNLo8p+69+/jAuYK5NHgUJuujlm73J1VkwVkJcMuM+cATLCJC1g3rpSHaTXM+uE+v0nu2PTbAAAA="
+spotify_podcast = "https://open.spotify.com/episode/11u1NbvOEBHC5NQVnSHjSe"
+spotify_episode = { id = "11u1NbvOEBHC5NQVnSHjSe", name = "(Shrek) ASMR 🐺 Big Bad Wolf 🐺 I'll HUFF and I'll PUFF and...", date = "2024-10-24", length = "16:51", cover = true }
 views = 131982
 likes = 3382
 comments = 238

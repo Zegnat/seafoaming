@@ -9,6 +9,16 @@ length = "27:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWMArAAQqV875w1A7ZXF0NUGeg/6BAD+4RGzuGJJZZHHJotBkReG6tJYtimXPvU6Xgfrw2nUd/myJ8+OktEww2N3H9DQtLrKE0beE3AAAA=="
+spotify = "https://open.spotify.com/album/7qn9LCR0l2J69JcmVBvXYi"
+spotify_release = { id = "7qn9LCR0l2J69JcmVBvXYi", name = "$20 vs $200 MICROPHONE", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "2hUtd4vo3vQwKYHtPRuksQ", name = "$20 vs $200 MICROPHONE Pt.1", length = "4:35" },
+  { id = "7l71O8FGJYzGcrUE4jIYFt", name = "$20 vs $200 MICROPHONE Pt.2", length = "4:33" },
+  { id = "53ldiqTCSa6BbhdiAD8xI5", name = "$20 vs $200 MICROPHONE Pt.3", length = "4:32" },
+  { id = "6omMVGx8qLIQx0r5S7caLd", name = "$20 vs $200 MICROPHONE Pt.4", length = "4:28" },
+  { id = "29rktOXctvnvNxUABSkNzW", name = "$20 vs $200 MICROPHONE Pt.5", length = "5:02" },
+  { id = "34cnS3aPKWEigvvPBS0W80", name = "$20 vs $200 MICROPHONE Pt.6", length = "4:40" },
+]
 views = 305986
 likes = 7444
 comments = 1100

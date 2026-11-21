@@ -9,6 +9,14 @@ length = "18:36"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPtFapE2oJSMiMBgIAQAaCWIAtOg0KWlH0wk9+Z1ETkLyuczgAPzuGh+sjNdB8mgJNvunGf8oyj42pThszZQJcR9ICHvKMshY6bWmqZFCSk2A7a20aC9cVvWD1u4CgfdUUsjiiBK8AAA="
+spotify = "https://open.spotify.com/album/3jsnjxwzVqg8XuC0eI9873"
+spotify_release = { id = "3jsnjxwzVqg8XuC0eI9873", name = "My Choker Collection and Patron Appreciation", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "05nmHYjkTQxn1j1J2kT3zR", name = "My Choker Collection and Patron Appreciation Pt.1", length = "4:39" },
+  { id = "4StSQlcV2Q9ixNuM9gsjVY", name = "My Choker Collection and Patron Appreciation Pt.2", length = "4:36" },
+  { id = "0m5owpeCUVYfoYRkCrHm8X", name = "My Choker Collection and Patron Appreciation Pt.3", length = "4:35" },
+  { id = "4fP28BJj6Yn3xUenFBpmsk", name = "My Choker Collection and Patron Appreciation Pt.4", length = "4:46" },
+]
 views = 57422
 likes = 1582
 comments = 389

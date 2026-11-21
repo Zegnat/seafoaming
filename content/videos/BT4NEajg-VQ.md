@@ -9,6 +9,13 @@ length = "12:11"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPtFcpEyoJSOisBgIAQAaCUAVhnHYgJLhivXcnH7U/UQAAPmsID8LdGqcA1cR2zVgObfGZTgMkt/70ivWZ/CqG8b7DdHxFY3zGZUae6X1/StCN2pVxuUAoAAA"
+spotify = "https://open.spotify.com/album/5VDgz7G9nL6IdcR2ewZC4Z"
+spotify_release = { id = "5VDgz7G9nL6IdcR2ewZC4Z", name = "Heartbeat Sounds", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0re34KCQPJpJ86zmKo5S7G", name = "Heartbeat Sounds Pt.3", length = "4:03" },
+  { id = "4X7LWYkUcXlaaX1wfaOHfJ", name = "Heartbeat Sounds Pt.1", length = "4:02" },
+  { id = "3TU8QuNG9PZlIDrLRxMwUf", name = "Heartbeat Sounds Pt.2", length = "4:06" },
+]
 views = 87895
 likes = 2335
 comments = 774

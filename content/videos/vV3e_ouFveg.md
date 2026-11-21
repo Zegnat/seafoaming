@@ -9,6 +9,13 @@ length = "17:46"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFYo0uoJSMhsBgMAQAaCWcAt7gML0/dUhLIdr8dgJL3Z7sWHgAA/kYqktAJRQgIDmn+gTeqD+eJmo4p1D9W5lwJiItt85SMlWjNa1FrCLAvHcGhOTsNOUAAAAA="
+spotify = "https://open.spotify.com/album/6O0CmOxZxU68Z7D3q2Fj2S"
+spotify_release = { id = "6O0CmOxZxU68Z7D3q2Fj2S", name = "Caring Friend For the Angry, Misunderstood & Forgotten", type = "Single", date = "2019-01-01", cover = true }
+spotify_tracks = [
+  { id = "7jOrX6asOYFBs37B1o9riN", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 1", length = "6:13" },
+  { id = "3XwhsoADYz14jz9nhvi8lz", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 2", length = "5:31" },
+  { id = "467PgILFwz1zVN3P3wfKJ0", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 3", length = "6:03" },
+]
 views = 234069
 likes = 4239
 comments = 1000

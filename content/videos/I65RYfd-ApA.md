@@ -11,6 +11,16 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFYpEyoJSOiKA1RABoJQBajYwAvDgWjDhl67dG1hj/ZK012MPgA/tXZ8ATYxzqAQQIbEciTYMbdz1pd1NVV/fb2JD70G618+WgViG21RdWY4RxhR5ArFaxasAAAAA=="
+spotify = "https://open.spotify.com/album/7fIa5T4Kx35FhujqMJbOEz"
+spotify_release = { id = "7fIa5T4Kx35FhujqMJbOEz", name = "Opening Letters and Gifts From You", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0oXRq9agBB7ddCkoJt9B4U", name = "Opening Letters and Gifts From You Pt.1", length = "5:10" },
+  { id = "4W02JXmCUKJijfgN2TKSyw", name = "Opening Letters and Gifts From You Pt.2", length = "5:15" },
+  { id = "6zUqkqNklcFMF72TJspy9C", name = "Opening Letters and Gifts From You Pt.3", length = "5:12" },
+  { id = "1ZBIHHo2tW98g3iGcWynBx", name = "Opening Letters and Gifts From You Pt.4", length = "5:08" },
+  { id = "5a9LgrDfTBNiamUL44iPp8", name = "Opening Letters and Gifts From You Pt.5", length = "5:08" },
+  { id = "4F48PCRiYwzLMEUFWmp7Uz", name = "Opening Letters and Gifts From You Pt.6", length = "4:58" },
+]
 views = 12550
 likes = 450
 comments = 144

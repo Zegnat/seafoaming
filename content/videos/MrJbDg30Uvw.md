@@ -11,6 +11,13 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFapUuoJSOhsAgBABoJYwC7AB4mAXQKP4TVmuQDWvW1GWSi0AD+74xfh/ztPfBEaW1DNgegw+AKIHT+1MPDOu/CFVAVbQY5aJkHm6vlR/Nk+KIAAAA="
+spotify = "https://open.spotify.com/album/31HvHaSHcphFv5Da2zniQs"
+spotify_release = { id = "31HvHaSHcphFv5Da2zniQs", name = "Eating Your Ears", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2waDAFo0xDyrg86U0nicu5", name = "Eating Your Ears Pt.1", length = "3:51" },
+  { id = "0OKS5FFgiU4KmsQ61kOgi9", name = "Eating Your Ears Pt.2", length = "3:54" },
+  { id = "44SqJ4QORcJS4YunOQJcLV", name = "Eating Your Ears Pt.3", length = "3:58" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

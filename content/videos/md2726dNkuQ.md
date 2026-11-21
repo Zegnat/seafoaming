@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFOn0unpCKht/qoAPAYCWUAuwAeAufVRVv18Jk73nx1Ys+fSMAA+m7EG/bqBMmOiysBL5zV+NJ99RRR/zUfVdoxiTgwpVacmnbNlibq4KQqDQuOopG2N4uSLS8AAA=="
+spotify = "https://open.spotify.com/album/4bSDY7eyWWHUc1188OcufU"
+spotify_release = { id = "4bSDY7eyWWHUc1188OcufU", name = "Trying Ombre Purple Wig", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5RTjtklqkbcDR4mZzZAVw3", name = "Trying Ombre Purple Wig Pt.1", length = "5:12" },
+  { id = "03mCdToAlyTYTPnY59cfAT", name = "Trying Ombre Purple Wig Pt.2", length = "5:06" },
+  { id = "5zWoSe8wGIynWv7QDub640", name = "Trying Ombre Purple Wig Pt.3", length = "5:00" },
+]
 views = 25163
 likes = 771
 comments = 197

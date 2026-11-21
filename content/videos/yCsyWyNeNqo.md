@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASogABIAPtFaoUuoJaMhsBgMAQAaCUAXZl5AL/NXIJk06gwzKxnr2HAA/vXu55cQCeloQPtFeyB/icbZ9AONsPWGcV8O6FbACtbjJnfV9DRgcIFr+3XJCwFB+oSOLenPk/LiXcO7eQMz5NKRXmyAAA=="
+spotify = "https://open.spotify.com/album/2FVYlvcJsSGEaYQSkbHC7j"
+spotify_release = { id = "2FVYlvcJsSGEaYQSkbHC7j", name = "Popular Girl Not Listening", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2KveL0IFlnR1VxvbM1zkBc", name = "Popular Girl Not Listening Pt.1", length = "5:59" },
+  { id = "4rn5p0roEBsYkHcYBtmYb8", name = "Popular Girl Not Listening Pt.2", length = "7:06" },
+  { id = "3mkVwZR9kg6FFr9byuxfK7", name = "Popular Girl Not Listening Pt.3", length = "5:47" },
+  { id = "2E5foOPRBNY1sVVjMUL6QJ", name = "Popular Girl Not Listening Pt.4", length = "4:21" },
+  { id = "5i29y5drfVgkVuYf97oqoK", name = "Popular Girl Not Listening Pt.5", length = "4:36" },
+]
 views = 131741
 likes = 4462
 comments = 451

@@ -9,6 +9,14 @@ length = "17:45"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFWp02oJCOiMBgIAQAaCWMAs4Aur7mv97WY2xBluRaSuNFAAP6e83VeSeGDkZOiLStQQZxKAgPodcj6yN6HD0yyuVuZ1ZG4eKOeR9nuWRpV1ODcgpmfC2bm7UpwAAAA"
+spotify = "https://open.spotify.com/album/099yIg8pTa3qd7meYebviH"
+spotify_release = { id = "099yIg8pTa3qd7meYebviH", name = "I'd love you if you were a worm", type = "EP", date = "2022-12-14", cover = true }
+spotify_tracks = [
+  { id = "2zw5hy7J1ZKhF6BabUXLtc", name = "I'd love you if you were a worm Pt.1", length = "4:21" },
+  { id = "6mJUQqHb2YlmrvXjhbV6kD", name = "I'd love you if you were a worm Pt.2", length = "4:15" },
+  { id = "7BwzKKGSq9kwIa2sUaafEh", name = "I'd love you if you were a worm Pt.3", length = "4:25" },
+  { id = "5MhUJa0tffa0a7A1fpOdgl", name = "I'd love you if you were a worm Pt.4", length = "4:19" },
+]
 views = 115328
 likes = 3850
 comments = 384

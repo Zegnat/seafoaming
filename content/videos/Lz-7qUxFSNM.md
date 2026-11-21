@@ -11,6 +11,16 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFYpUyoJSOiKA1RABoJYwCnFA8qEtZVbYUtleavd37gGsloAP7ljQGHF0GMWgLxGBimBpaGutX/rTbtcFnX/sXMhbzTtsKvuLUULAadBKLaRXxHMpCEU+rjgAA="
+spotify = "https://open.spotify.com/album/3e4avJule0sVqmAIofUMf3"
+spotify_release = { id = "3e4avJule0sVqmAIofUMf3", name = "New Microphones and Setup", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "6FdlATOCy8RPBMWocdlRDe", name = "New Microphones and Setup Pt.1", length = "5:01" },
+  { id = "2zZLzE9IvptGUFBJx8FbJp", name = "New Microphones and Setup Pt.2", length = "5:02" },
+  { id = "4iuAyL1LG1KRhfTIrvwgrA", name = "New Microphones and Setup Pt.3", length = "5:01" },
+  { id = "7K5lfjrQjKKBAillSayhBm", name = "New Microphones and Setup Pt.4", length = "4:58" },
+  { id = "6sKeUn9z08ZKh721pNdQI1", name = "New Microphones and Setup Pt.5", length = "5:04" },
+  { id = "2n3rR3NGWure58h8Y4k9i9", name = "New Microphones and Setup Pt.6", length = "5:06" },
+]
 views = 72502
 likes = 2316
 comments = 507

@@ -11,6 +11,15 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPr1Qn0unJSMht/qoAOAXiWUAt7hRRfZnkbP1URGCAAD8WlWNkoVL/CD86BQ+L7weTy85EiqQfWCp6LnmKA/gFR/xM239T75soFPdOTKpRL8dAAAA"
+spotify = "https://open.spotify.com/album/5DjZrUZy6PdSAFMFS5ecNi"
+spotify_release = { id = "5DjZrUZy6PdSAFMFS5ecNi", name = "Tasting Snacks from India", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0EhMQxGXtzwrUruaNKdgJn", name = "Tasting Snacks from India Pt.1", length = "4:42" },
+  { id = "4w1JnladEuExpWvMeb3kwI", name = "Tasting Snacks from India Pt.2", length = "4:49" },
+  { id = "6CQF8duNEkb8144DnTd9mO", name = "Tasting Snacks from India Pt.3", length = "4:49" },
+  { id = "3Kfb6hv2Ku3U9NdLsXu3xU", name = "Tasting Snacks from India Pt.4", length = "4:49" },
+  { id = "1RzIcRvR5bRybd1KHGeat4", name = "Tasting Snacks from India Pt.5", length = "4:58" },
+]
 views = 18052
 likes = 549
 comments = 205

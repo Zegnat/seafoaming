@@ -9,6 +9,13 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASogABIAPtFapE0oJSMiKA1RABoJQBYj7RAf/KDZQ1cLakAlPU/8Q7NY1gm6AAD+qYK9qiB1Q/XrlVvGRkMkWTyHfJ8LmVpAd9DwQeVJkSHElT9iBTREsCaM+HAfY9RAet6yBgAA"
+spotify = "https://open.spotify.com/album/4OJWHIU8dO7lE0AkDwQKfW"
+spotify_release = { id = "4OJWHIU8dO7lE0AkDwQKfW", name = "Mouth Sounds and February Patron Appreciation", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2RBTtzce4vYfalMyzOfb8d", name = "Mouth Sounds and February Patron Appreciation Pt.1", length = "5:20" },
+  { id = "7gcjl6enCZThg5kgkp1mzn", name = "Mouth Sounds and February Patron Appreciation Pt.2", length = "4:37" },
+  { id = "0qOTAwiHMg5vW8csQSWwIS", name = "Mouth Sounds and February Patron Appreciation Pt.3", length = "4:18" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

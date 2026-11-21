@@ -9,6 +9,13 @@ length = "14:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPtFYpU0oJSOiKA1RABoJQBhWZDDZ2sVtIxGLWU1L+IMKBqyCijIAAP77k0MiW4oR+D3xsnlwJpEzeDgPuWSEw/QQ+nPs2Zykrwu9Eo8zAGHai4B2InzKvIDQAAA="
+spotify = "https://open.spotify.com/album/0uds9MrCuVcuxHKXj4BRDu"
+spotify_release = { id = "0uds9MrCuVcuxHKXj4BRDu", name = "Your Face Needs BOOPING", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1tU0ZCwBrGYuROyMHLoyJb", name = "Your Face Needs BOOPING Pt.1", length = "4:41" },
+  { id = "73mxfLIQRElTGUVMtVSOOx", name = "Your Face Needs BOOPING Pt.2", length = "4:33" },
+  { id = "50CXGexsnaMoWVRBQrGiKD", name = "Your Face Needs BOOPING Pt.3", length = "4:37" },
+]
 views = 107669
 likes = 3257
 comments = 182

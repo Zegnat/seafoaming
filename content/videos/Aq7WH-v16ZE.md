@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASogABIAPsVSo0unpSelMAwA8BiJQBUeg8RGnj5PyrY79tw0AAD+7qEnNxYiDBjTRfxNU19IzHpjmuY2JeYMM2IOvd/hl+D7+fGJYVg1qz/iIAAA"
+spotify = "https://open.spotify.com/album/2HCRnZRH964eYwQhiqiz5u"
+spotify_release = { id = "2HCRnZRH964eYwQhiqiz5u", name = "Canadian Gril Teaches You Aboot Canada", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4dIUYrFQt6EXA4axolx6Q9", name = "Canadian Gril Teaches You Aboot Canada Pt.1", length = "4:31" },
+  { id = "0qCu3pbjbE9vVGjhtYIk2v", name = "Canadian Gril Teaches You Aboot Canada Pt.2", length = "4:29" },
+  { id = "2oHNSqTVKYbxLWXIGBo2eM", name = "Canadian Gril Teaches You Aboot Canada Pt.4", length = "4:29" },
+  { id = "5DzhMQ73roILipc9RqFAz9", name = "Canadian Gril Teaches You Aboot Canada Pt.3", length = "4:36" },
+  { id = "1PfaSQFQLhZTYfDzlky2CF", name = "Canadian Gril Teaches You Aboot Canada Pt.5", length = "4:29" },
+]
 views = 91101
 likes = 2295
 comments = 973

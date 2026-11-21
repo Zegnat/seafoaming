@@ -9,6 +9,14 @@ length = "24:05"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFYoUuoJSMhsBgMAQAaCWMAs4AML+BNj7Q5kDFRrQaU3idaAAD+kzkM+qwLMeEK6E5JUbr+eHuaU31Ks26IKhd4Dtutm3s35Dy+j5ytxLWAAA=="
+spotify = "https://open.spotify.com/album/6V2zggM26Br6ZAvCpOWuyj"
+spotify_release = { id = "6V2zggM26Br6ZAvCpOWuyj", name = "Stickers & Crinkles", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "0liv7yCUK00e3tRfx9UHBb", name = "Stickers & Crinkles Pt.1", length = "5:15" },
+  { id = "192zxTfxh4RmFhskDhr1uC", name = "Stickers & Crinkles Pt.3", length = "5:46" },
+  { id = "4bACRplhl0hmtLYgXoRQZQ", name = "Stickers & Crinkles Pt.2", length = "6:09" },
+  { id = "6syTfE8O4mgTG0wNN7NWyU", name = "Stickers & Crinkles Pt.4", length = "6:55" },
+]
 views = 47791
 likes = 2237
 comments_off = true

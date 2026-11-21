@@ -9,6 +9,17 @@ length = "35:23"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPsVUokunpKMhsAwA8BiJQBOmcBBGf28fPGkl+5b7+cGMhejMIAD+70Qxc6JGHj+J55fMbdueFjCVZbXE2/nyd0gG+jfpWPLbTsRmHwgQ8G96nxCi3xkUK0FRhM9xDI3bgAA="
+spotify = "https://open.spotify.com/album/1eIMoojtWJdSVIthRg0VEX"
+spotify_release = { id = "1eIMoojtWJdSVIthRg0VEX", name = "Answering 25 Popular Questions", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "2guQ0NMh0AWtHu8EXqwA9o", name = "Answering 25 Popular Questions Pt.1", length = "5:00" },
+  { id = "7gjfDSXL6UvzXbEGE2JLDq", name = "Answering 25 Popular Questions Pt.2", length = "5:08" },
+  { id = "3T0qYM0DxDj3v9LjPegiB8", name = "Answering 25 Popular Questions Pt.3", length = "5:03" },
+  { id = "38Z4Cutqp2J6bMjxjZXg2o", name = "Answering 25 Popular Questions Pt.4", length = "4:51" },
+  { id = "4sBe2JwMH59BHl6nof6hVz", name = "Answering 25 Popular Questions Pt.5", length = "4:59" },
+  { id = "2yO0r7ORLQQlq9rhwcE0Ua", name = "Answering 25 Popular Questions Pt.6", length = "5:09" },
+  { id = "4rI0YpoMORJlU8iCl8Ih5Z", name = "Answering 25 Popular Questions Pt.7", length = "5:13" },
+]
 views = 25612
 likes = 922
 comments = 204

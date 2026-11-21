@@ -9,6 +9,16 @@ length = "20:03"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFUokuoJKMhsAgBABoJYgC7ABnePN91bhZX5xHwb/PAHuAA/nauICCySOQ5IC8aOffw6trhr/ihpP/UiF8c/s5bvNywEfV/+0mNtpTyfC9P1kTv+mUz4BM8/BK3IgxFwAA="
+spotify = "https://open.spotify.com/album/63ITYGWZdHvy83B7Sf95vM"
+spotify_podcast = "https://open.spotify.com/episode/0zeGsFDoC0ePSaZPnPF7pe"
+spotify_release = { id = "63ITYGWZdHvy83B7Sf95vM", name = "Oily Massage - Silky Ear Attention", type = "EP", date = "2026-11-06", cover = true }
+spotify_tracks = [
+  { id = "3vtz10JbD6yckgPpZ5B2SJ", name = "Warm Welcome", length = "5:27" },
+  { id = "3OjuMz4hFpFEKhLrV1PpwX", name = "Jelly Pads, Silky Smooth Strokes", length = "4:56" },
+  { id = "7FjZE51yCf5JCR6SD9pzmj", name = "Tentacle Gloves, Deep Intense Sounds", length = "5:23" },
+  { id = "7E5ulGPYGUh9ez8nmRkCFf", name = "Slow Finish and Drifting Off", length = "4:17" },
+]
+spotify_episode = { id = "0zeGsFDoC0ePSaZPnPF7pe", name = "ASMR 😴 OILY MASSAGE👂Silky Ear Attention for DEEP Tingles & Deeper Sleep", date = "2026-10-09", length = "20:03", cover = true }
 views = 67325
 likes = 2020
 comments = 117

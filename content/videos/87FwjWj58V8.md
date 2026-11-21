@@ -9,6 +9,15 @@ length = "25:17"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogABIAPtFcpk4oJSOiKAqpABoJQBUehgyJCN8BQIs2oJvtFz0YAP7rVuGHvWlMmmP3U1BI0igPV/rW7yT4NaLvxc+pCTp0J5GOW2AJ4jHbGou04TnTvzbJl7mxdJ69RBUJu0COmlhAAA=="
+spotify = "https://open.spotify.com/album/62OLaIYl6fNnDyKcooRz6v"
+spotify_release = { id = "62OLaIYl6fNnDyKcooRz6v", name = "LONG NAILS Tapping on Assorted Objects", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0s0KPJ9gEq19ijHBS4GjnO", name = "LONG NAILS Tapping on Assorted Objects Pt.1", length = "5:07" },
+  { id = "0Vcvw2pfhFM2NnZ7ZboEqs", name = "LONG NAILS Tapping on Assorted Objects Pt.2", length = "5:00" },
+  { id = "0d80Gn9illN3RpDRUh7vHr", name = "LONG NAILS Tapping on Assorted Objects Pt.3", length = "5:04" },
+  { id = "6sBlmyid7ucB5xvw56Wsz9", name = "LONG NAILS Tapping on Assorted Objects Pt.4", length = "4:51" },
+  { id = "5SHxEfEx4foYaGVSJTvbxv", name = "LONG NAILS Tapping on Assorted Objects Pt.5", length = "5:15" },
+]
 views = 72986
 likes = 1481
 comments = 517

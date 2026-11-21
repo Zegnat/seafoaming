@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQBACdASogABIAPr1Qn0unJSKht/qoAOAXiWUAtOgQFaJYX9s1ESWuke031AAA/saCtxHCVq3lPmpbCVerzCcUj6feCfIcGEbXeGOlBjPU0IzFjVwAAA=="
+spotify = "https://open.spotify.com/album/2VdlvQiIySlgVyep1OKd7u"
+spotify_release = { id = "2VdlvQiIySlgVyep1OKd7u", name = "Vampire Personal Trainer", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "2gLq6d5n12yICDV8Hth4CS", name = "Vampire Personal Trainer Pt.1", length = "3:29" },
+  { id = "7kW25LP8eD7FwBeTN5bbr4", name = "Vampire Personal Trainer Pt.2", length = "4:29" },
+  { id = "1zJO9CzhJoqRzkKl0MxHDO", name = "Vampire Personal Trainer Pt.4", length = "4:23" },
+  { id = "0sxs1Mx2I5AodSFxA4yGK3", name = "Vampire Personal Trainer Pt.3", length = "3:54" },
+  { id = "1viSRko7OzNLps3RSTAgzF", name = "Vampire Personal Trainer Pt.5", length = "5:42" },
+]
 views = 222081
 likes = 7467
 comments = 1000

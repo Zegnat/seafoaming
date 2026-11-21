@@ -9,6 +9,15 @@ length = "15:58"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFan0uoJaKhsBgMAQAaCWUAyNQMYVY7vBvkVpfuRIT0S12+L4AA/vbYXTObaotR6k9oOKtnjlZmMB6rnLtYxvVNqm+I2gpOap/IiCe6ls0qr9yVVek85mIAAAA="
+spotify = "https://open.spotify.com/album/1R2iLDBQLIjiFlSVnh5HiM"
+spotify_podcast = "https://open.spotify.com/episode/27ESRJpyyocFhyTZl4SJ7o"
+spotify_release = { id = "1R2iLDBQLIjiFlSVnh5HiM", name = "ASMR Eating Stick Things & Mouth Sounds", type = "EP", date = "2025-08-08", cover = true }
+spotify_tracks = [
+  { id = "4lD4K937LeUt7VdEyT5fMW", name = "Trying Eyeliner & Pencil", length = "5:05" },
+  { id = "0G2sZe2IADcLQkPT90d1o4", name = "Gel Pen & Brush Tasting", length = "5:32" },
+  { id = "3zSzUlOasO64ySrGVxoWqj", name = "Classic Big Pen Eating & Everything Altogether", length = "5:21" },
+]
+spotify_episode = { id = "27ESRJpyyocFhyTZl4SJ7o", name = "ASMR - How Many Stick-Shaped Items Can I Eat? | Pen Nommin' Mouth Sounds", date = "2025-07-11", length = "15:58", cover = true }
 views = 29932
 likes = 1231
 comments = 93

@@ -9,6 +9,16 @@ length = "37:27"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFUokwoJKMiMBgMAQAaCWIAAC5CLLqoQTRLfSpr/1eeBIvAAP7i8UhhreUH173fhT1weSWip7Gzz8T1liX97sC5He0c6tW2SF6zL9pkgnR8320rtvWh6XDO6jYgAA=="
+spotify = "https://open.spotify.com/album/1YR8INTAlYrclA20ymIIYY"
+spotify_podcast = "https://open.spotify.com/episode/0k6qx2vy5WW6WMbUfyez6V"
+spotify_release = { id = "1YR8INTAlYrclA20ymIIYY", name = "ASMR Loser Yaps About Their Chud Life", type = "EP", date = "2026-06-19", cover = true }
+spotify_tracks = [
+  { id = "1tpAPeDFynCxClMUHMWVUH", name = "Eating A Clementine With Soft Whispers", length = "10:41" },
+  { id = "2LNEhdIj65XHbibHgvCTrd", name = "Applying Foundation & Doing Contour", length = "10:27" },
+  { id = "1jcDkIbSVnxAojCDEA4bcG", name = "Whisper Ramble While Doing My Brows", length = "7:39" },
+  { id = "6ymLoriHxyI8sM0cAoZSKx", name = "Gentle Face Brushing With Whispers", length = "8:40" },
+]
+spotify_episode = { id = "0k6qx2vy5WW6WMbUfyez6V", name = "ASMR loser yaps about their chud life (whisper rambles while doing makeup badly)", date = "2026-05-24", length = "37:27", cover = true }
 views = 32938
 likes = 1492
 comments = 148

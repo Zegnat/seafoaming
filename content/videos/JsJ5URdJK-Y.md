@@ -9,6 +9,15 @@ length = "18:22"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPsFMn0unpCKht/qoAPAYCWMApxfP9E3WMnTL2WNTKp/gNTWVMIAA/vMkDMHAeT88Re+kLfCk1Q+yNCqwGurCQck50384j2svQKz8PYY+6LHslakNtdSfcpHMxYPiIpQwAAA="
+spotify = "https://open.spotify.com/album/2CEb1PYVoiXGb52OX4Jy8Z"
+spotify_podcast = "https://open.spotify.com/episode/58af9FDjGdES1lmhHDWL5n"
+spotify_release = { id = "2CEb1PYVoiXGb52OX4Jy8Z", name = "Loving & Affectionate KISSES for You - Gentle Affirmations ASMR", type = "EP", date = "2025-10-17", cover = true }
+spotify_tracks = [
+  { id = "360BZPlKWfGrvncUO9hsKv", name = "Giving You Gentle Kisses & Loving Whispers", length = "6:30" },
+  { id = "5BwMfzWVWS1gGJyLt2tnJH", name = "Ear To Ear Care & Kisses", length = "7:34" },
+  { id = "7iIub8S4txsKddFtlb2nHn", name = "You Are Cute & Precious XO", length = "4:18" },
+]
+spotify_episode = { id = "58af9FDjGdES1lmhHDWL5n", name = "ASMR 💕 Loving KISSES for You 💕 Affectionate Affirmations & Gentle Reassurance", date = "2025-09-19", length = "18:22", cover = true }
 views = 253037
 likes = 4590
 comments = 169

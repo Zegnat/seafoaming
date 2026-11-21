@@ -9,6 +9,16 @@ length = "29:17"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFUo0woJKMiMBgMAQAaCWcAwoAyyIyaK/zMXTXKbEYzWF46iAD+99GhkzXBVl08vP2rUeLTjYzvAXa6U+XI97BRAL21maHlmeyd6UZjbFDFuHRqXgPzcMA2OYzBcgAA"
+spotify = "https://open.spotify.com/album/0mVAo0haf5vhvs4nZdr8wj"
+spotify_release = { id = "0mVAo0haf5vhvs4nZdr8wj", name = "BEST FRIEND Fighting Your Shadow Self", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "6dfw2hvmA33IlBT1qlepOR", name = "BEST FRIEND Fighting Your Shadow Self Pt.1", length = "4:56" },
+  { id = "0KxlnRLvJvwzyRXFxauWgx", name = "BEST FRIEND Fighting Your Shadow Self Pt.2", length = "4:57" },
+  { id = "58Ovmfm3x1NI5mSe6N1ANB", name = "BEST FRIEND Fighting Your Shadow Self Pt.3", length = "4:35" },
+  { id = "5EOigTd1FhhguoFkaP6A7W", name = "BEST FRIEND Fighting Your Shadow Self Pt.4", length = "4:58" },
+  { id = "3XPV1feiFKP1iDyMGoLd21", name = "BEST FRIEND Fighting Your Shadow Self Pt.5", length = "5:05" },
+  { id = "7GluanWO9oU9XwPWotCVEo", name = "BEST FRIEND Fighting Your Shadow Self Pt.6", length = "4:46" },
+]
 views = 164803
 likes = 4427
 comments = 643

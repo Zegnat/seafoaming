@@ -9,6 +9,14 @@ length = "24:42"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBQCdASogABIAPtFcqk2oJSQiKAqpABoJYwC1IUFXoAuRuVIpF7b+FAl2Hn9WDnK/qAD+7ctmC32hAMf9Gt1YoqvcmrT95Ckk/oaNqzIaXrA5//30ZWJHpQQAAA=="
+spotify = "https://open.spotify.com/album/1r6cuJPXazyFoqAzjbz4eZ"
+spotify_release = { id = "1r6cuJPXazyFoqAzjbz4eZ", name = "Wood Sounds", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "7juirwrtgECANbI9ObzEQk", name = "Wood Sounds Pt.1", length = "6:28" },
+  { id = "1mIMT6xIZ6GYm2nEJAQXn7", name = "Wood Sounds Pt.2", length = "4:38" },
+  { id = "0gvWdAJ4xtizWYalM0Q9JH", name = "Wood Sounds Pt.3", length = "6:00" },
+  { id = "3jzifVd7n8vO9u8gJSApns", name = "Wood Sounds Pt.4", length = "7:36" },
+]
 views = 56074
 likes = 3559
 comments_off = true

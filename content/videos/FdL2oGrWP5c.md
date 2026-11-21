@@ -9,6 +9,14 @@ length = "17:06"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPr1SnUunJSKht/qoAOAXiWMAqPQhVnsaWJYHz8E9Hfw5eYAA9q5oaKAMJjAr0JLZmJS3v0S9zXUzPtj7ag82Dzdnlk87sQNmrDFxruJOGu+fTaKnJlzwY8rjYAA="
+spotify = "https://open.spotify.com/album/75HL3c7g5stvXhDOExsRPe"
+spotify_release = { id = "75HL3c7g5stvXhDOExsRPe", name = "Whisper Reading and Smoochies", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "73aBJFggUyvMGjCyzWYVkd", name = "Whisper Reading and Smoochies Pt.1", length = "4:15" },
+  { id = "3ASwGQ6t0rqKCjj7XVDs4t", name = "Whisper Reading and Smoochies Pt.2", length = "3:46" },
+  { id = "5F87aze803Oggc7nOHFO15", name = "Whisper Reading and Smoochies Pt.3", length = "4:29" },
+  { id = "49vG7oJMu159UcRoAMlYsr", name = "Whisper Reading and Smoochies Pt.4", length = "4:36" },
+]
 views = 175936
 likes = 3533
 comments = 348

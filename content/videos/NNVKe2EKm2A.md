@@ -9,6 +9,14 @@ length = "15:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFcp04oJSOiKAqpABoJQBdgAUAglv+kJEWUw3jdeuLN/wAA+BdUTea4wyZZwhfk8vxDioPjK79St+tMtq/TaQ0/WfB11FyRTq5f909QAtdKfFJplRBQJh86igAAAA=="
+spotify = "https://open.spotify.com/album/6NmdOgzxqBQl8h2dyWmtWD"
+spotify_release = { id = "6NmdOgzxqBQl8h2dyWmtWD", name = "Showering You in Valentine's Kisses and Love", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1CBD8djSsdALHLRRqXv9Cl", name = "Showering You in Valentine's Kisses and Love Pt.1", length = "3:44" },
+  { id = "5Q9zKI0WGjgLIMWllcpsar", name = "Showering You in Valentine's Kisses and Love Pt.2", length = "3:44" },
+  { id = "3O4Jc17UpyLBC6iU06MFQl", name = "Showering You in Valentine's Kisses and Love Pt.3", length = "3:48" },
+  { id = "0VpLWSsyeNM4Ri5xE50Zht", name = "Showering You in Valentine's Kisses and Love Pt.4", length = "4:14" },
+]
 views = 470933
 likes = 9429
 comments = 858

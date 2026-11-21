@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPtFUo0uoJKMhsAgBABoJYwCdABZEjnENXblkQBp/i1AA/t6686gaj8vwkNXtfF+W0giFWkgLKkFfHuUenKPSaid0M94F2r+1/MwAnCud1dsSqoblwDJQTVnxAAA="
+spotify = "https://open.spotify.com/album/4ISXcCR2fnxeK32B422ebO"
+spotify_release = { id = "4ISXcCR2fnxeK32B422ebO", name = "Miss Spooky Needs Your Help", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4wpME45cDgzLMxA0aslLw6", name = "Miss Spooky Needs Your Help Pt.2", length = "4:42" },
+  { id = "4UljIFsHqwWopOxi41UC6Q", name = "Miss Spooky Needs Your Help Pt.1", length = "4:40" },
+  { id = "4TLhu1AmyO3i5pYYiIxpTO", name = "Miss Spooky Needs Your Help Pt.3", length = "4:32" },
+]
 views = 158963
 likes = 3367
 comments = 930

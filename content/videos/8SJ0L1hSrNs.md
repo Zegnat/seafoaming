@@ -9,6 +9,14 @@ length = "20:49"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASogABIAPtFcp06oJSOiKAqpABoJQBWAAh6XaxF0AJy0MkiWyXwAAP5SJgd2gueOmtOgd9X0pts58XHXZpdeN9DFllD9UY0RKoP5CGKSDk9LPEq9W5CBiAEdG/37heuwAAA="
+spotify = "https://open.spotify.com/album/5etSEExCFeAjWTmtxTFMkz"
+spotify_release = { id = "5etSEExCFeAjWTmtxTFMkz", name = "Long Nail Mic Scratching", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4dkj6FbFrx9BpS2pgSLliI", name = "Long Nail Mic Scratching Pt.1", length = "5:11" },
+  { id = "6hmhqrYCFp0MZ5rIkp2nup", name = "Long Nail Mic Scratching Pt.2", length = "5:10" },
+  { id = "4ojGnfKbxEJwuUDDWig96X", name = "Long Nail Mic Scratching Pt.4", length = "5:17" },
+  { id = "6f3WGW9pPVQDZKWS4dDlAs", name = "Long Nail Mic Scratching Pt.3", length = "5:12" },
+]
 views = 130903
 likes = 2926
 comments = 292

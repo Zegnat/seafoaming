@@ -9,6 +9,17 @@ length = "47:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPr1SnUunJSKht/qoAOAXiWYAnTLddtA17isqu++B+y0gs8EAAP7lz8D3xJfuhK8reIPv72k8kbWBWTS4B/+mY7y5x49cyX9yzIDrWCNhjSyqejV2K8C9WIdx2FFGfa4gvXqKjETAAAA="
+spotify = "https://open.spotify.com/album/15ZHH4jZAe6gWweSZ1lfS7"
+spotify_release = { id = "15ZHH4jZAe6gWweSZ1lfS7", name = "Reading My Old Dream Journal", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4JIe33EI1mMMN0dBR43TBJ", name = "Reading My Old Dream Journal Pt.1", length = "6:57" },
+  { id = "7vUxuFhjuXtYZVLi6K1jHV", name = "Reading My Old Dream Journal Pt.2", length = "6:58" },
+  { id = "5tMxyEQU6z07j6lX1UBy55", name = "Reading My Old Dream Journal Pt.3", length = "7:38" },
+  { id = "2bYNrHw0jLoe8jC3tzaOHK", name = "Reading My Old Dream Journal Pt.4", length = "6:57" },
+  { id = "4BILtnlOHvKLrfqyjsCvnh", name = "Reading My Old Dream Journal Pt.5", length = "5:25" },
+  { id = "5WK9ZCzZetQCkgVAPQnMDc", name = "Reading My Old Dream Journal Pt.6", length = "6:08" },
+  { id = "2OZ31lHClD47UAzk6Xwzrs", name = "Reading My Old Dream Journal Pt.7", length = "7:09" },
+]
 views = 44677
 likes = 2379
 comments = 279

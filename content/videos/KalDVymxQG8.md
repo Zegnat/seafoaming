@@ -9,6 +9,16 @@ length = "19:12"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPsVQokunpKMhsAwA8BiJZACxDSAC8oEHlDGHKZafhI7x+Wg920fAAP7P2+ib0z5inWb8/APzs5GdkSDqqsra2m19IH8dqHFsD+rYPKKHJqtuhm7VWgbwKmsAAAA="
+spotify = "https://open.spotify.com/album/445JWsquBUdxdRdSHh4pWW"
+spotify_podcast = "https://open.spotify.com/episode/6qz2QnSyKmGAoDRk9CPcTx"
+spotify_release = { id = "445JWsquBUdxdRdSHh4pWW", name = "Deep Tingles ASMR - Scratching Your Cochlea", type = "EP", date = "2025-08-22", cover = true }
+spotify_tracks = [
+  { id = "5uNa8cXDjGcctpGX6iYmFQ", name = "Ear Cleaning With Different Brushes On Each Side", length = "5:17" },
+  { id = "3WeuRGthUMHUfgLTtZWjpL", name = "Illegal Cotton Swab Move With Whispers", length = "4:52" },
+  { id = "0xCuB5xtL2XqthDu7Tuqiw", name = "DOUBLE SWABBIN’ YOU (Both Ears At Once)", length = "4:08" },
+  { id = "25uinwTrTvEg27Smp6Irjd", name = "Fluffy Floofer In Your Earholes", length = "4:55" },
+]
+spotify_episode = { id = "6qz2QnSyKmGAoDRk9CPcTx", name = "DEEP Tingles 🤤 Cleaning Your Ears + Scratching Your COCHLEA | ASMR", date = "2025-07-25", length = "19:12", cover = true }
 views = 163656
 likes = 3268
 comments = 150

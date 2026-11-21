@@ -9,6 +9,13 @@ length = "12:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPsVSoUunpKMhsAwA8BiJQBWGW9dJAxjRzjjUFPjRNbpv3InAgAD9IBnJcFFkhk5eduvzlVlQeTUWl4iN6yg1+Ykc2niuzj0xBUCXo6gW3gAAAA=="
+spotify = "https://open.spotify.com/album/38A2ZyMQluWnNpTRy0gObA"
+spotify_release = { id = "38A2ZyMQluWnNpTRy0gObA", name = "Smiling Loudly in Your Ears", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "38C0KNKLRWLvwqVCbOgjM4", name = "Smiling Loudly in Your Ears Pt.1", length = "3:55" },
+  { id = "3vj5uxdUGNlW9RyTI8cUE3", name = "Smiling Loudly in Your Ears Pt.2", length = "4:10" },
+  { id = "5OgsTouKPAr8k2XgrPom0B", name = "Smiling Loudly in Your Ears Pt.3", length = "4:15" },
+]
 views = 66065
 likes = 1648
 comments = 423

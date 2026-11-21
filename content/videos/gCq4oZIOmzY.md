@@ -11,6 +11,11 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPr1MnkunJCKht/qoAOAXiWMAuwAYXpz1a+Iab7NG9dYD25XywAD+74H4mNpzWIgaV/h3bKBPTq9fjKcWZiknEGaTo++dCa6KruRplcwAx/kAAA=="
+spotify = "https://open.spotify.com/album/5prJtqrlJkGODtN2tdJklH"
+spotify_release = { id = "5prJtqrlJkGODtN2tdJklH", name = "Senpai, Why Won't You Open the Door", type = "Single", date = "2019-01-01", cover = true }
+spotify_tracks = [
+  { id = "2mecs7AiAbbq3ALSdxG5Wj", name = "Senpai, Why Won't You Open the Door", length = "9:00" },
+]
 views = 166035
 likes = 3712
 comments = 1200

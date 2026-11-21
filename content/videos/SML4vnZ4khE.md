@@ -9,6 +9,13 @@ length = "10:01"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPslUnkunpSKhsAwA8BkJYwCdABZK048w2JWtmbUxoZNCkgAA/dkaEqUCXkKaJz/ZQEm5eEAfZcMq0Th6YX1AdD1gC9exidxDe8Ge5EqZrCYNrxEbTwtgAA=="
+spotify = "https://open.spotify.com/album/1EhjRDlRvcwhDDQ6ccliNU"
+spotify_release = { id = "1EhjRDlRvcwhDDQ6ccliNU", name = "Reading a Viewer's Poem", type = "Single", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "1XQIvgmSK0vRYZ6UP4A77X", name = "Reading a Viewer's Poem Pt.1", length = "3:36" },
+  { id = "0t9w2bI8xzj643kq9cQHCy", name = "Reading a Viewer's Poem Pt.2", length = "2:57" },
+  { id = "0IWCUwGfUAylQd8g1ndfzu", name = "Reading a Viewer's Poem Pt.3", length = "3:28" },
+]
 views = 24163
 likes = 1354
 comments = 158

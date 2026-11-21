@@ -11,6 +11,11 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPslYpEunpaOhsBgMAPAZCWQAAIL8DUc59208oJqLmlQOg6EQ8ADOOfPLT9Z0RR5x9ZugUsabqXE/TevwbhBKY4jcmw1yoCYS17FQmSNzoRuAgypY/rdSdiE9sbkAn74YAAA="
+spotify = "https://open.spotify.com/album/3SV26tZbOkUwYw9hfWXvUD"
+spotify_release = { id = "3SV26tZbOkUwYw9hfWXvUD", name = "BITCHY Girlfriend Nagging and Insulting You to Death", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1WTFcI1BikqT1mW35K2YOj", name = "BITCHY Girlfriend Nagging and Insulting You to Death", length = "6:10" },
+]
 views = 168947
 likes = 3646
 comments = 1500

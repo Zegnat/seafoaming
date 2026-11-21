@@ -9,6 +9,14 @@ length = "17:23"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPsFKoEunpCMht/qoAPAYCUAVJHqQHsncsozCXTymofNZ4gU0AAD96CLjtA9hedHLepEl3kcpTIl7DTJNEnwpi4bLcmNfiaBslKiP6W8GMfA/hjVU6/JeL81p8/AAAA=="
+spotify = "https://open.spotify.com/album/4st5qaXEpJML0tqAJr0XOO"
+spotify_release = { id = "4st5qaXEpJML0tqAJr0XOO", name = "FLUFFY MIC March Patron Appreciation", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5CZjvKpjlZHtm2bVH4AkpM", name = "FLUFFY MIC March Patron Appreciation Pt.1", length = "4:14" },
+  { id = "3oWVwJdP1iHT4SWAVX4THJ", name = "FLUFFY MIC March Patron Appreciation Pt.2", length = "4:20" },
+  { id = "6XvyAf8FcT6MFdMCOQvVxF", name = "FLUFFY MIC March Patron Appreciation Pt.3", length = "4:05" },
+  { id = "42AZvdTithha42YtkMFl2q", name = "FLUFFY MIC March Patron Appreciation Pt.4", length = "4:44" },
+]
 views = 62754
 likes = 2146
 comments = 254

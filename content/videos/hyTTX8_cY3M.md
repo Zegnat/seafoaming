@@ -9,6 +9,8 @@ length = "28:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASogABIAPtFOpkuoI6OhsBgMAQAaCUAWI+OQiP7QMryraeEjvmAm1PazxDzAAP2rnMPX6Sel0O2WoEzqEhRxN365IIJ1Ngh+1DTobkVysMlpS/GMuQ9Hv7T6Q4m5Gb/wu93t8zQytHcTiO03NJkAAA=="
+spotify_podcast = "https://open.spotify.com/episode/0KjThTOY9MYAw9mKdVZzo4"
+spotify_episode = { id = "0KjThTOY9MYAw9mKdVZzo4", name = "ASMR 🥺 Insecure Girlfriend 🥺 \"Do you still love me...?\" | Angst, Hurt/Comfort, Kisses + Massage", date = "2024-11-15", length = "28:00", cover = true }
 views = 147197
 likes = 3219
 comments = 304

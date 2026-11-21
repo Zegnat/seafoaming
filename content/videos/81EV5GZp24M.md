@@ -11,6 +11,17 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFYpE0oJSOiMBgIAQAaCUATpmoYUwKfZbaKf5V0IQQtV9AA/cvnc3OyPA3rGDXviW3ntZ/UrwP0ZcSWq9Bu/ZaxD62vqdn/tlZObNsw4iMcuHQqgAAAAA=="
+spotify = "https://open.spotify.com/album/2V9e7wv847iboammWTjOkD"
+spotify_release = { id = "2V9e7wv847iboammWTjOkD", name = "KINDERGARTEN Kiwi's Secret Candyland", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0PuT1p8tUtuCM1CLlCTtpG", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.1", length = "4:39" },
+  { id = "2Ufjee1T9DFMGcEbLjte3v", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.3", length = "4:42" },
+  { id = "3VvqAYwqlIF9sIbfMW5IUl", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.2", length = "4:36" },
+  { id = "0dWXKCj9ck2yKS7rysDv3i", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.4", length = "4:37" },
+  { id = "4b2RqDJ9ujGt9gan5Er9af", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.5", length = "4:41" },
+  { id = "3EWUGFCEDkUczz1vEsKYFW", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.6", length = "4:43" },
+  { id = "6GHz1CFthKbnuYwXcBuqeC", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.7", length = "4:36" },
+]
 views = 58295
 likes = 2024
 comments = 202

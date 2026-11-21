@@ -11,6 +11,16 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWQAAFudep7fwgwx+onx9g+HBaAA/lHZM8Cyp4bPPjp8wj/8ns+Gr3ZWg6UdFFLl6aZGehQ4CaZh9v+6ZzR0FYzGP0hEiYXw6kF7MwuxTDMBPcAAAA=="
+spotify = "https://open.spotify.com/album/2bFpXEttvH3QyFDPwFbw3q"
+spotify_release = { id = "2bFpXEttvH3QyFDPwFbw3q", name = "MunchPak Unboxing and Tasting", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5ZYhQyvNfaTGVU4Q555nE8", name = "MunchPak Unboxing and Tasting Pt.1", length = "5:09" },
+  { id = "1Tq8AEMLUlKliqVWZvnV35", name = "MunchPak Unboxing and Tasting Pt.2", length = "5:13" },
+  { id = "7g5X6jeGKI7tJ7Gw2EogN2", name = "MunchPak Unboxing and Tasting Pt.3", length = "5:04" },
+  { id = "6MAdQl8uKkV1qdOi8LlbCT", name = "MunchPak Unboxing and Tasting Pt.4", length = "5:07" },
+  { id = "0Cb6VGlBpL24WpivOQKPC9", name = "MunchPak Unboxing and Tasting Pt.5", length = "5:13" },
+  { id = "6D6fdCHIYbwg1HRSt2PdMF", name = "MunchPak Unboxing and Tasting Pt.6", length = "5:09" },
+]
 views = 11643
 likes = 326
 comments = 115

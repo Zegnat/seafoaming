@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPtFSpEuoJKOhsBgMAQAaCUAY3oFmBoUV+WmP9P4x8gnHp4hQAP6A67mZDNvC9KSpKmGGKjzkXk7Woq7flx4ztbomlC/x+XZ+jSZxbXhQrbEIsajctYQAAA=="
+spotify = "https://open.spotify.com/album/5yS0xnVdrNImnJYycySekF"
+spotify_podcast = "https://open.spotify.com/episode/1hBt8LsUW6JCju9i5PiKFz"
+spotify_release = { id = "5yS0xnVdrNImnJYycySekF", name = "ASMR Paw Massage for Your Sad Ears - Catgirl Comfort & Purrsonal Attention", type = "EP", date = "2026-08-28", cover = true }
+spotify_tracks = [
+  { id = "3zqmfbqAZV6T1nMhpLY3z1", name = "Paw Ear Massage", length = "4:50" },
+  { id = "00XjgIVPd88ktVPkHkCGMG", name = "Secrets & Deeper Connection", length = "3:43" },
+  { id = "31PPjp8qSo0dhlndMeP07X", name = "Purrsonal Comfort", length = "4:11" },
+]
+spotify_episode = { id = "1hBt8LsUW6JCju9i5PiKFz", name = "ASMR Paw Massage for Your Sad Ears 🐾 Catgirl Comfort & Purrsonal Attention (You'll Feel Meowtastic!)", date = "2026-08-08", length = "12:58", cover = true }
 views = 79156
 likes = 2551
 comments = 140

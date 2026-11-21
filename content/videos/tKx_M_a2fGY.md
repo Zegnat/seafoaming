@@ -9,6 +9,15 @@ length = "27:24"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFWpk0oJCOiMBgIAQAaCUAWI3XgCNrw/f1fp+B5zfzAAP4VCrEjY597+OcaAbPrrDhjYqV0b3HTCHTDf+DuixAEmgHd/vs661vtZaikNYOolvA+NDsAAA=="
+spotify = "https://open.spotify.com/album/798dZKBLlA0chvnsWshEMj"
+spotify_release = { id = "798dZKBLlA0chvnsWshEMj", name = "DELETE Your Anxiety", type = "EP", date = "2023-11-28", cover = true }
+spotify_tracks = [
+  { id = "1dicFe2GN1iv9fXAoVIuCV", name = "DELETE Your Anxiety Pt.1", length = "4:56" },
+  { id = "2iXCpdM7Y4yx4msgXxXIh3", name = "DELETE Your Anxiety Pt.2", length = "4:57" },
+  { id = "4bBTubMSJJNXyFIrotAT5p", name = "DELETE Your Anxiety Pt.3", length = "4:56" },
+  { id = "4uZWQBFMKnYhLdWDjuCsVS", name = "DELETE Your Anxiety Pt.4", length = "4:58" },
+  { id = "4aNSw3pRUKmK7SAzUc2eis", name = "DELETE Your Anxiety Pt.5", length = "4:56" },
+]
 views = 32679
 likes = 1444
 comments = 92

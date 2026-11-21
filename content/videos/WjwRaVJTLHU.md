@@ -9,6 +9,17 @@ length = "46:02"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFcpk4oJSMiKAqpABoJYwC068/0K3/BVg9L6mSxtTU+27H1YwAA/u+Lll9KCWqVZseeblbI93AFkRzfI92pmdfqAAiiZ1GXafivybhrwiRBM7Hf9Vh3PPAA"
+spotify = "https://open.spotify.com/album/7o1WmXQoTPiDwuyuSuFQt6"
+spotify_release = { id = "7o1WmXQoTPiDwuyuSuFQt6", name = "Super Secret Weird Night", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "5dLIi8SvKv8OfTAZ4srPvj", name = "Super Secret Weird Night Pt.1", length = "5:50" },
+  { id = "7JsbDic4PwK0EQZ9OXULpo", name = "Super Secret Weird Night Pt.2", length = "7:41" },
+  { id = "2qGzeUqEUQunc2Z1cYQODz", name = "Super Secret Weird Night Pt.4", length = "4:55" },
+  { id = "4Wo0OjcR0Tb0rpn8aQTyTq", name = "Super Secret Weird Night Pt.3", length = "7:20" },
+  { id = "312fLH2M0QQmZZPaJJb8kw", name = "Super Secret Weird Night Pt.5", length = "5:10" },
+  { id = "5z3385zXYfou9r7s9nmSOQ", name = "Super Secret Weird Night Pt.6", length = "7:51" },
+  { id = "4lcYHST7rcvCswTxGchaLG", name = "Super Secret Weird Night Pt.7", length = "7:14" },
+]
 views = 147931
 likes = 4478
 comments = 347

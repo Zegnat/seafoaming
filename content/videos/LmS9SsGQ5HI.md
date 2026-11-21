@@ -9,6 +9,12 @@ length = "12:15"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsFOn0unpCKit/qoAPAYCWUAyNQbZ/YsDgY3yo8PvJDcMAD+0MRBtj/mmgcF2xy3L43z8nBR5Yju5M4ziC0sB60Sdkt65zgrITBiS7EqftNLDbOSDro+0AAA"
+spotify = "https://open.spotify.com/album/23Yab2fCVvYTssHpol53w8"
+spotify_release = { id = "23Yab2fCVvYTssHpol53w8", name = "Oil Ear Massage: Ear Massage & Positive Words to Help You Sleep", type = "Single", date = "2019-01-01", cover = true }
+spotify_tracks = [
+  { id = "1Jh1cbjKwM41xY7PGKaje2", name = "Lovely Ear Massage & Positive Words to Help You Sleep Pt. 1", length = "6:58" },
+  { id = "70N2tHj8czmSaoF1AILarH", name = "Lovely Ear Massage & Positive Words to Help You Sleep Pt. 2", length = "5:17" },
+]
 views = 212836
 likes = 2867
 comments = 289

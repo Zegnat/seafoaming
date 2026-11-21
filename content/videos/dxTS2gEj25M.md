@@ -9,6 +9,22 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASogABIAPslUoUunpKMhsAwA8BkJZwDCgCFeWrTDujtsENuAvJgQAP7PQ+CSsUkGRkKhBDjbXnfHyUpmCXe4R+gDj7ZcPhesb/+sIEKgAAA="
+spotify = "https://open.spotify.com/album/4Zj3NKq1CsrFjwkHCPAP97"
+spotify_release = { id = "4Zj3NKq1CsrFjwkHCPAP97", name = "Ear Noms and Ear Tapping", type = "Album", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4Lad1PqSJNlBbJLQajBIQP", name = "Ear Noms and Ear Tapping Pt.1", length = "5:09" },
+  { id = "59oGR3YDLjMwfBOEQ5EI9o", name = "Ear Noms and Ear Tapping Pt.2", length = "5:11" },
+  { id = "5pspQyJbbTfjkfPlFhN9b4", name = "Ear Noms and Ear Tapping Pt.3", length = "5:02" },
+  { id = "1PbhSSX9Te4bqBTzF9BLtn", name = "Ear Noms and Ear Tapping Pt.4", length = "5:02" },
+  { id = "4KaHIGKWnhtLScxVu8DzDI", name = "Ear Noms and Ear Tapping Pt.5", length = "5:29" },
+  { id = "6DMjv7OPeK32VvlHpFb0As", name = "Ear Noms and Ear Tapping Pt.6", length = "5:16" },
+  { id = "0XIwmakdSDadKkaBVKv6MY", name = "Ear Noms and Ear Tapping Pt.7", length = "5:12" },
+  { id = "6TsfhJ2lZ7rf2BSl8QBFeh", name = "Ear Noms and Ear Tapping Pt.8", length = "5:13" },
+  { id = "7cY487BJ9aN4PdNXGo8ccA", name = "Ear Noms and Ear Tapping Pt.9", length = "5:02" },
+  { id = "6lesLcTVNDwjTDJneS7SuK", name = "Ear Noms and Ear Tapping Pt.10", length = "5:11" },
+  { id = "418iZSVVuwTZwZQknSZ8FU", name = "Ear Noms and Ear Tapping Pt.11", length = "5:06" },
+  { id = "2lxxHRrTjB2JkLIUxMQ452", name = "Ear Noms and Ear Tapping Pt.12", length = "4:49" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

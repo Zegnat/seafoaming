@@ -11,6 +11,16 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPsFSo0unpSOhsAwA8BgJYwC7ABuCMIV5bvBEZSsIJj6p0AD+9e65VOKcqjsSUitpc/d9dZCakGEz+Z50yWQGhkq22fUtuOkHfGQpfTwzgFamYvqA87mjHZdIc2gAAA=="
+spotify = "https://open.spotify.com/album/0jtVX7ze3yejpv10q129m6"
+spotify_release = { id = "0jtVX7ze3yejpv10q129m6", name = "Unboxing Kawaii Squishies", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0S2WkCKXJs0XA4fSRkMCHY", name = "Unboxing Kawaii Squishies Pt.1", length = "4:51" },
+  { id = "5VwCMjBPYgun7KApbd82ZW", name = "Unboxing Kawaii Squishies Pt.2", length = "4:51" },
+  { id = "5PbyzXc6RGI8Q94JidVIU2", name = "Unboxing Kawaii Squishies Pt.3", length = "4:53" },
+  { id = "1BNO37BPi6VDMUKVnGZrGI", name = "Unboxing Kawaii Squishies Pt.4", length = "4:57" },
+  { id = "7bSeKUeP4DYzJyFRoLUBnS", name = "Unboxing Kawaii Squishies Pt.5", length = "4:44" },
+  { id = "7p0gYFDmGKhPlxumOLwFQp", name = "Unboxing Kawaii Squishies Pt.6", length = "4:51" },
+]
 views = 35399
 likes = 784
 comments = 247

@@ -11,6 +11,14 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwBQCdASogABIAPtFapEuoJaOhsAgBABoJZACdMoR+Jxbqfoi812cJpqJ+CWoawrnM+B5gAPzmPy9gRqrfyRJvFYG94FwQ/D8F752Ab/PgtkMU3U9C3Snnh+WY+JhruYIaVoLMhfYibJ+trMNIIqDQAAA="
+spotify = "https://open.spotify.com/album/2OhAcKwEqIoyewIqWOODQU"
+spotify_release = { id = "2OhAcKwEqIoyewIqWOODQU", name = "Tongue Punch", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "4MbAa4peZKRFQSHaZehlEd", name = "Tongue Punch Pt.1", length = "3:08" },
+  { id = "7EOH7FgaKXMMGrSGsFzrRZ", name = "Tongue Punch Pt.2", length = "3:25" },
+  { id = "714aUQ7gJfHHVNtDu1KYXY", name = "Tongue Punch Pt.3", length = "3:13" },
+  { id = "5ZIfGF1iOfqWqkU5yURwt1", name = "Tongue Punch Pt.4", length = "3:37" },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFcpE2oJSMiKA1RABoJYwC1GzRCmA3ALqVT0dm9aUy9b/sAAPgOIN7BA0oTcMB44fdcCJHbu8jLnij02NzLXBxG91w6Kxk91xgDjJ0LYy952i+qNJF+EnEaAAA="
+spotify = "https://open.spotify.com/album/1QrzA1YuZcEeEPJSgOiNfZ"
+spotify_release = { id = "1QrzA1YuZcEeEPJSgOiNfZ", name = "When Im Unsupervised at a Convention", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "5HAiRe07wdpQvaIfURJzs5", name = "When Im Unsupervised at a Convention Pt.1", length = "4:32" },
+  { id = "6MeVhdhnRwxxigRa6aeNTe", name = "When Im Unsupervised at a Convention Pt.3", length = "5:04" },
+  { id = "4fBWaRQlDUBS2Q11cDjL8E", name = "When Im Unsupervised at a Convention Pt.2", length = "5:11" },
+  { id = "3mHioeLjIBAgxWzcTvvWcX", name = "When Im Unsupervised at a Convention Pt.4", length = "4:46" },
+  { id = "7shsIN82NqD4mlcM1UZqGF", name = "When Im Unsupervised at a Convention Pt.5", length = "4:58" },
+]
 views = 67617
 likes = 2402
 comments = 312

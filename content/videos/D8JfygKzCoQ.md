@@ -9,6 +9,13 @@ length = "12:51"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASogABIAPtFcpE0oJSOiMBgIAQAaCUATploYNFjKEyQIt6YG6nvgUjZ++NmNgAD+5g/fYJq5ZxNHp+mO2eQC6wrrr0oVjI31ES2/RNMR9XtNfLMCArOef0RBeJh6Ell5wFa3C3YQwAA="
+spotify = "https://open.spotify.com/album/4i3ooj7fJVzlobUTXAAsy0"
+spotify_release = { id = "4i3ooj7fJVzlobUTXAAsy0", name = "BUBBLE WRAP On Your Ears", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "65ew6lDIW7QIXIOmQ1whx5", name = "BUBBLE WRAP On Your Ears Pt.1", length = "4:14" },
+  { id = "4Agx2nrwFKNmOcnVWQsnBY", name = "BUBBLE WRAP On Your Ears Pt.3", length = "4:22" },
+  { id = "458CJY89o7RiLBI70cbEEQ", name = "BUBBLE WRAP On Your Ears Pt.2", length = "4:16" },
+]
 views = 25314
 likes = 856
 comments = 154

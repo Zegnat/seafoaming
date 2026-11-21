@@ -9,6 +9,16 @@ length = "20:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFapUuoJaOhsAgBABoJQBdgA8Mv/b7nx7MNwNfQXyDkAYAA/sE+rARLQcqYenp727ZWivWkBvn+ru8RDithLtYEcJO+/6oR/BNIZcGGBsUJolOSAAA="
+spotify = "https://open.spotify.com/album/5F0c5ZDdkgJc4qTZprUMK9"
+spotify_podcast = "https://open.spotify.com/episode/3w1yYBNUimqFoto66vPyHH"
+spotify_release = { id = "5F0c5ZDdkgJc4qTZprUMK9", name = "Let Me Fix Your Ugly Face (Spit Painting ASMR)", type = "EP", date = "2025-07-11", cover = true }
+spotify_tracks = [
+  { id = "4bOVbFBpXWlIzlKkMN01qh", name = "Spit Painting With Fingers & Whispers", length = "5:29" },
+  { id = "2jLbbxc1Q3shDmDALct7Dg", name = "Whats In Her Purse? (Super Clicky)", length = "4:37" },
+  { id = "7mpGFURoJ28j4TRipRlMm9", name = "Applying Lipbalm To Your Crusty Lips", length = "4:49" },
+  { id = "3JSNX17VkJfwNQTWr1tAI5", name = "Super Tingly Lip Gloss & Licking", length = "5:37" },
+]
+spotify_episode = { id = "3w1yYBNUimqFoto66vPyHH", name = "Um You Look Ugly 💔🥀 Let Me Fix You! | Spit Painting, Lipgloss, Unintelligible Whispers ASMR", date = "2025-06-13", length = "20:32", cover = true }
 views = 125871
 likes = 3214
 comments = 204

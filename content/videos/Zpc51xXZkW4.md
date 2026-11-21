@@ -11,6 +11,16 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFcpEyoJaOiMBgIAQAaCWMAuwANEsNsp0RMm8EqxeCTk7RnFOPAAP7oi+jc61Lo58aXg+pIcGW51K7m0j3y350gEYjVHAH3qrykPt67PDKfESinXAw3tm6nVyITipAA"
+spotify = "https://open.spotify.com/album/0dLWQSDGFZXD3UpnVAbmg4"
+spotify_release = { id = "0dLWQSDGFZXD3UpnVAbmg4", name = "Rude Makeup Artist", type = "Album", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "24Vq7bAkDwEbPkE8To6aV4", name = "Rude Makeup Artist Pt.1", length = "7:27" },
+  { id = "5lg8Z6HQYg30cBdCxQUPQd", name = "Rude Makeup Artist Pt.2", length = "5:35" },
+  { id = "2vZ6H5H3yoCNJcwnGnU4Ot", name = "Rude Makeup Artist Pt.3", length = "6:50" },
+  { id = "59FYjk6i2USpCFmSUy6JWT", name = "Rude Makeup Artist Pt.4", length = "6:04" },
+  { id = "18v9RyDqiMHSXEQWN3xeNR", name = "Rude Makeup Artist Pt.5", length = "5:32" },
+  { id = "2hl4e0iQrDA3r566EDZqjv", name = "Rude Makeup Artist Pt.6", length = "5:19" },
+]
 views = 111047
 likes = 3585
 comments = 509

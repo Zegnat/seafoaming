@@ -11,6 +11,17 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASogABIAPtFgpU4oJaMiKAqpABoJYwAAHoApFiDrcIOw7iIAAP6JC4QNJj6NfruyZ5cxjA2VOVDBb/VpKzDv6jqrNvGdL8Myo5MFgkE35yskBvFUpJieOLt/wS2zj3MNJLoPtEWnoAA="
+spotify = "https://open.spotify.com/album/07A25dAY31Q2wyGJwfq3mT"
+spotify_podcast = "https://open.spotify.com/episode/7pCrFnB3CLjmBk9RFHNLZb"
+spotify_release = { id = "07A25dAY31Q2wyGJwfq3mT", name = "Intensive Sleep Clinic", type = "EP", date = "2026-10-02", cover = true }
+spotify_tracks = [
+  { id = "6IMlCS8jY6vQc67BDDoe2q", name = "Inspecting Your Ears", length = "4:55" },
+  { id = "7H8JhDRgrmPq8TzR4v63bc", name = "Adjustments and Snipping Energy", length = "6:39" },
+  { id = "2CtqPFPM3zFERSKLMdseCY", name = "Clicky Bumpy Roller", length = "5:32" },
+  { id = "0ncO7HqkhF7azMy2hlNC4x", name = "Face Brushing", length = "4:50" },
+  { id = "3lL8iTiwEzKsutnxYRQC4K", name = "Fluffy Feather on Your Face", length = "5:00" },
+]
+spotify_episode = { id = "7pCrFnB3CLjmBk9RFHNLZb", name = "Can't Sleep? I Found the Cause 💤 ASMR Tingly Insomnia Relief", date = "2026-09-05", length = "26:57", cover = true }
 views = 87278
 likes = 1974
 comments = 108

@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwBACdASogABIAPslUnkunpKKhsAwA8BkJYwCw7BtB4OyeOJ7g2cuGMhXzQAD9Eh384Z+3FeUO1Xrg4HtAoO3PNieXZSXfrvD/bDr+dJ+kAAAA"
+spotify = "https://open.spotify.com/album/4jzH5pnNJ5nGoAN3ARzAig"
+spotify_release = { id = "4jzH5pnNJ5nGoAN3ARzAig", name = "You are My Puppet", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3r2Hv1Pbw3WyCvNwinszeI", name = "You are My Puppet Pt.1", length = "4:53" },
+  { id = "0RK14pDuAFW8yIpRibhUsf", name = "You are My Puppet Pt.2", length = "4:55" },
+  { id = "2y1zeAcUsSlO1FFx2uUufB", name = "You are My Puppet Pt.3", length = "4:57" },
+]
 views = 189966
 likes = 3292
 comments = 633

@@ -11,6 +11,13 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPtFYpU0oJSOiKA1RABoJQBXDgX15NbnQVZY6B1R+/X3gSGYrUAD+6/9EVDnOiJFACkrmfWlqer5noPAoPaj8usS9lI7t+8Q5CrMB5PjUanU3pf0VoHUPc7UAAAA="
+spotify = "https://open.spotify.com/album/1CimJ1BRe38i03kWZTnh6U"
+spotify_release = { id = "1CimJ1BRe38i03kWZTnh6U", name = "ALIEN GIRL Ear Cleaning", type = "Single", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "3Ply3RqJ5yXaIGw7sBqjbk", name = "ALIEN GIRL Ear Cleaning Pt.1", length = "4:51" },
+  { id = "6wC7jzP6uczxqMV8JMt5FV", name = "ALIEN GIRL Ear Cleaning Pt.2", length = "4:58" },
+  { id = "7g3yBUbivgZWy6uJ8vvZCE", name = "ALIEN GIRL Ear Cleaning Pt.3", length = "5:00" },
+]
 views = 372798
 likes = 4844
 comments = 754

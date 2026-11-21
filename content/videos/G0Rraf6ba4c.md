@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPtFepU0oJSOiMBgIAQAaCWMAnTNMQP8Fu4E3+SrDG61rzeHvaYAA/tlDkHNyu3iFuPmd3GYsQ54c+dZ1F1wh6s8C9lOK4zGduQvfFNU6Vi895Fa7VMRq3d1EIo3azf3E7Fz0zI/IAAA="
+spotify = "https://open.spotify.com/album/7qNG3DBde6Bu8I987L7tEA"
+spotify_release = { id = "7qNG3DBde6Bu8I987L7tEA", name = "ASMR - Focus Games With Reward & Punishment (Impossible)", type = "EP", date = "2024-06-28", cover = true }
+spotify_tracks = [
+  { id = "4ghkKr3aiptH2NGgkF3mAY", name = "Intro & talking", length = "4:26" },
+  { id = "4rDHEJMjXJMP6WguaPsYV4", name = "Telling you to look at the green duck", length = "4:01" },
+  { id = "6tboTo7NigJH7YFfEPRVNy", name = "My voice is guiding you & distracting you", length = "3:29" },
+  { id = "1t1Fr1MdBA5modclaqeX4d", name = "Outro (soft spoken)", length = "2:39" },
+]
 views = 44697
 likes = 1629
 comments = 117

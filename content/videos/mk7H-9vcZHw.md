@@ -11,6 +11,19 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPr1SnkunJSKht/qoAOAXiWIAnTM9xvgpAiBCxNUC35F48BwMqADKe0PSbqhsPaheir28YQawI0PwrVaPmacksZQ72JeNU0jSLoYG93Dlao6qC81fRAAAAA=="
+spotify = "https://open.spotify.com/album/4Ad2qkvHtoecFJMXUNAp3Z"
+spotify_release = { id = "4Ad2qkvHtoecFJMXUNAp3Z", name = "Meet Your Kindergarten Teacher, Miss Pickles", type = "Album", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "7CJo5Y35C6BoaKnCvhA3zU", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.1", length = "5:06" },
+  { id = "6HOmmh7hCi3rYRSBdNKLss", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.2", length = "5:09" },
+  { id = "2UL62whwhSF4Ra8RQyR0wZ", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.3", length = "5:04" },
+  { id = "2ePz92ibhmnyhOfMyNr5iI", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.4", length = "5:00" },
+  { id = "5GLMO7zVMQvQo2O5xmLJWp", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.5", length = "4:59" },
+  { id = "70NAIIPhAUA2ECPVgcljyq", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.6", length = "5:07" },
+  { id = "5USubcUSvLxM8eGladsF2v", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.7", length = "5:08" },
+  { id = "2IQTYrBlXxEuIs2swAeGnP", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.8", length = "5:13" },
+  { id = "2Ywehky4Fu11TBpJ0PcamO", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.9", length = "5:39" },
+]
 views = 347733
 likes = 8275
 comments = 2400

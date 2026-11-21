@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBQCdASogABIAPsFQpEunpKQhsAwA8BgJYgCsM4UCmB6GJBisqeyq3swsL6Mvf+aq+BwA/l5xTeKskeiMZI+Rv28iqByatyagNHseTxKRkDqYpx1UjKuW95JYRCHfZ6ggGJP74AA="
+spotify = "https://open.spotify.com/album/314tGuvXSw8GiVMWTF3CcP"
+spotify_release = { id = "314tGuvXSw8GiVMWTF3CcP", name = "Hair Brushing and March Patron Appreciation", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "0YuJi4QISZrNahCaulHyJS", name = "Hair Brushing and March Patron Appreciation Pt.1", length = "4:32" },
+  { id = "0hwnGwak8FEkFnlQ5xQruc", name = "Hair Brushing and March Patron Appreciation Pt.2", length = "3:54" },
+  { id = "6MgluGTRl7zBEiaVXW58Ii", name = "Hair Brushing and March Patron Appreciation Pt.3", length = "3:57" },
+  { id = "7vZe4z3ImTWqdP9uEgiNjY", name = "Hair Brushing and March Patron Appreciation Pt.4", length = "3:51" },
+]
 views = 26083
 likes = 703
 comments = 169

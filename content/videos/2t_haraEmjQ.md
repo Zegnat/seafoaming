@@ -11,6 +11,14 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPr1OnkunJKKht/qoAOAXiWYArDNkAu81Taa9HhXpXiAA+KJW2BwaPHzjqON+c4VDPu4AHJOQbvd8SUrEgXFMlM8WifeNzrsJ7ujNcYF3TUf4mS2tLpen9fJ18AA="
+spotify = "https://open.spotify.com/album/5zejcwlc5IQt376bFeMIcw"
+spotify_release = { id = "5zejcwlc5IQt376bFeMIcw", name = "JAPANESE UNBOXING Goodie Bag", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "65pnIRXMJoS4OgNiIjDM6g", name = "JAPANESE UNBOXING Goodie Bag Pt.1", length = "5:18" },
+  { id = "0fxsPlUxFCTSBQoOneU3KZ", name = "JAPANESE UNBOXING Goodie Bag Pt.2", length = "5:18" },
+  { id = "0HgOVBvAwVZht4XK1RRupZ", name = "JAPANESE UNBOXING Goodie Bag Pt.3", length = "5:18" },
+  { id = "0bg68P81Gt4ar6RuHuiGzR", name = "JAPANESE UNBOXING Goodie Bag Pt.4", length = "5:18" },
+]
 views = 17920
 likes = 433
 comments = 215

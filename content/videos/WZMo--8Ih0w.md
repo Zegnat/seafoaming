@@ -11,6 +11,16 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPtFUo0woJKMiMAgBABoJQBbZAxW1CBbgjSOiXrDMX8r9wAD+s44D29Osql87sBEmaWH82OAZIJVYxZReiQfJEm/DyI9M/KwJdVbYjYsY+g1FamMLf68HYqGN/TYAAA=="
+spotify = "https://open.spotify.com/album/7xKwy6kNF3cSw8HM1dRnOV"
+spotify_release = { id = "7xKwy6kNF3cSw8HM1dRnOV", name = "101 Reasons To Comfort You", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "4MZCfZytM2TkFD8qVDtiac", name = "101 Reasons To Comfort You Pt.1", length = "5:32" },
+  { id = "4W15kSNxoy3LHwWTWoD5Pi", name = "101 Reasons To Comfort You Pt.2", length = "5:32" },
+  { id = "5QKVEUeQNDASNGIM3n1JGe", name = "101 Reasons To Comfort You Pt.3", length = "4:57" },
+  { id = "1BLRplmZC4xLBYWtdsAiR8", name = "101 Reasons To Comfort You Pt.4", length = "4:17" },
+  { id = "41yKT8wN6mxiLjYtQAUFH5", name = "101 Reasons To Comfort You Pt.5", length = "3:44" },
+  { id = "1FJZAyHZzBwD9c3zt1cQER", name = "101 Reasons To Comfort You Pt.6", length = "4:57" },
+]
 views = 92734
 likes = 4002
 comments = 472

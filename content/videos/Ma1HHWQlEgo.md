@@ -11,6 +11,13 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPsFMn0unpCKht/qoAPAYCUAWnQJNriWy2tsENqXvruRq3GjAAO2dhqcaNDD1veTWR51lKsySfB2R6Db4CVOdywumrNbunbbXbiny9E7Y20va8bmvDq89TwlzRbh9YpcEAgAAAA=="
+spotify = "https://open.spotify.com/album/4QEw689NqAMPuCTUhVMNml"
+spotify_release = { id = "4QEw689NqAMPuCTUhVMNml", name = "You Have To DO IT", type = "Single", date = "2023-09-21", cover = true }
+spotify_tracks = [
+  { id = "5PcCVfsrLyfWvVprkms2IY", name = "You Have To DO IT Pt.1", length = "3:20" },
+  { id = "2mFN6rb8Kisug94n7Hlcq8", name = "You Have To DO IT Pt.2", length = "3:20" },
+  { id = "0KLCzV9buXW965ACb1Urzs", name = "You Have To DO IT Pt.3", length = "3:19" },
+]
 views = 43547
 likes = 2212
 comments = 212

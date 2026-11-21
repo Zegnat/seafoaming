@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWpEuoJKOhsAgBABoJQBOmZL/AA8BRCOUs2i8j8+j8rbMUIAD+sxgrVDWfbcuCmLMxqTefpMDvORwhkvQViRxKuM9V22EFQeTWphruCLiELKYX/zU5daG+Z2TJcA2zkAA="
+spotify = "https://open.spotify.com/album/3cryUubRSndxsn2WZe6XkF"
+spotify_release = { id = "3cryUubRSndxsn2WZe6XkF", name = "FRIENDLY ALIEN Studying You", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "5lZMJNcMETPyiWhBe4Bv4P", name = "FRIENDLY ALIEN Studying You Pt.2", length = "4:10" },
+  { id = "5asclrZLJ5XK0rTAcVafgZ", name = "FRIENDLY ALIEN Studying You Pt.1", length = "4:08" },
+  { id = "2z3ibxhQuNzRNKhe8cqkBy", name = "FRIENDLY ALIEN Studying You Pt.3", length = "4:08" },
+  { id = "5fiiLhtkr113ObGA02TaT8", name = "FRIENDLY ALIEN Studying You Pt.4", length = "4:09" },
+]
 views = 363659
 likes = 6387
 comments = 756

@@ -9,6 +9,15 @@ length = "24:18"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPtFcp04oJSOiKAqpABoJQBYdgYnncL3Cp6xsEUt4UAAA/ozr9E5caqAqmc+vWltC1FrZr5svWZKD1kDvrzzuRkW+sns9HO+lEbPVjJMRhmiWxsAA"
+spotify = "https://open.spotify.com/album/2TSgo6LqTFYnDxKpAxBc39"
+spotify_release = { id = "2TSgo6LqTFYnDxKpAxBc39", name = "RAW HONEYCOMB Sticky Eating Sounds", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "1C1MahaEnuzKFyW3GdY5hq", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.1", length = "4:42" },
+  { id = "5aop1VpQKaHWvckfa4hIGt", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.2", length = "4:34" },
+  { id = "4lyVI8P7VkUS9KKEZjG5tu", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.3", length = "4:49" },
+  { id = "4qlXe99fMsgpU0xJsUi5xh", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.4", length = "4:43" },
+  { id = "6LhazomKnlPaG9QmDJpBDd", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.5", length = "5:24" },
+]
 views = 175799
 likes = 4031
 comments = 655

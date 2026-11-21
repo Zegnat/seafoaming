@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFeqE6oJSOmKAqpABoJZQC7AA05erRhSgnWOs4XDhXBEpOZAAD+7WD8Gj+6QBapQHgMD/j8pet40B1agFPmMyQsKG8KHakSXBOfmmnh2E2Zzk4AAAA="
+spotify = "https://open.spotify.com/album/05AAa0kcST6Tjh91CkanpR"
+spotify_release = { id = "05AAa0kcST6Tjh91CkanpR", name = "A Tsundere Halloween", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "3ZaERH5h1ZzljZXofBeUsB", name = "A Tsundere Halloween", length = "6:58" },
+  { id = "1d9gzaWR0SXsCLcNeLJIpB", name = "A Tsundere Halloween Pt.2", length = "5:34" },
+  { id = "4PC05gINYaVU92oEIVs6Zj", name = "A Tsundere Halloween Pt.3", length = "4:58" },
+  { id = "6s9KVuX0gRalukofi43DwU", name = "A Tsundere Halloween Pt.4", length = "4:35" },
+]
 views = 190595
 likes = 5974
 comments = 799

@@ -11,6 +11,15 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASogABIAPr1Qn0unJSKvN/qoAeAXiWUAxnwYxQdfmYnYlwJ3hIAA/uohM3UmB/BEGFMl0j7Zfx2Pb0ImGqux5rh7cFKuiMaDp5+KPBEY3KuYLAAA"
+spotify = "https://open.spotify.com/album/5S2AtqRhWv0Jc9v8rJNEug"
+spotify_release = { id = "5S2AtqRhWv0Jc9v8rJNEug", name = "TSUNDERE YOKAI Magical Forest Date", type = "EP", date = "2022-09-02", cover = true }
+spotify_tracks = [
+  { id = "1V05AXTnTF3VnIq3OxB3L2", name = "TSUNDERE YOKAI Magical Forest Date Pt.1", length = "5:04" },
+  { id = "4SzEwgnKA6XY0uuHul9P81", name = "TSUNDERE YOKAI Magical Forest Date Pt.2", length = "4:59" },
+  { id = "6gU5WNgmNnyQfc7vDGYhFC", name = "TSUNDERE YOKAI Magical Forest Date Pt.3", length = "4:57" },
+  { id = "4FJri36ygnls9skLfPXbkJ", name = "TSUNDERE YOKAI Magical Forest Date Pt.5", length = "5:33" },
+  { id = "3bXFcWjriIO11Di2KUbpUX", name = "TSUNDERE YOKAI Magical Forest Date Pt.4", length = "4:58" },
+]
 views = 170400
 likes = 3427
 comments = 512

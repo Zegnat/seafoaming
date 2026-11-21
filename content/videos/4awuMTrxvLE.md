@@ -11,6 +11,14 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBACdASogABIAPtFgqU+oJSOiKAgBABoJYwCsAAyOw35EwyiB1RU0C26zAAD+3u+0FiDeZJ+X5vvvkhOZhSdwWyNfkCsFHTtUTIqihBo+GDvN3++ehYQ2jko/mF26PxzKZcurqHZ95AubsgA="
+spotify = "https://open.spotify.com/album/5lkABabFFxDP79pL78UzL9"
+spotify_release = { id = "5lkABabFFxDP79pL78UzL9", name = "WHISPER READING My Short Story", type = "EP", date = "2020-01-01", cover = true }
+spotify_tracks = [
+  { id = "7hTs6UqTz1Mzb33LcVSSho", name = "WHISPER READING My Short Story Pt.4", length = "4:37" },
+  { id = "1jgNvbTmvaeZPV0LwkQW1k", name = "WHISPER READING My Short Story Pt.1", length = "4:28" },
+  { id = "2S2PMLq4P8YElEHSK6so5O", name = "WHISPER READING My Short Story Pt.2", length = "4:00" },
+  { id = "1h7m40niiiKdCp3d4ExJPQ", name = "WHISPER READING My Short Story Pt.3", length = "3:55" },
+]
 views = 61976
 likes = 2572
 comments = 304
