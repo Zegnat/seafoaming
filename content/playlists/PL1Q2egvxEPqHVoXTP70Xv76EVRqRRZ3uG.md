@@ -1,0 +1,22 @@
++++
+title = "Animal Roleplays"
+
+[extra]
+id = "PL1Q2egvxEPqHVoXTP70Xv76EVRqRRZ3uG"
+stack = ["JvCvgsSQ-No","7W95iO4zgdY","PKIvWNRNMO4"]
+views = 20571
+updated = 2022-12-02
+fetched = 2026-11-21
+description = ""
+videos = [
+  { id = "JvCvgsSQ-No", title = "ASMR - DOG ROLEPLAY ~ Doggo Sniffs & Licks Your Ears! ~" },
+  { id = "7W95iO4zgdY", title = "ASMR - WOLF GIRL ~ Wolf Lost Her Voice! Quietly Howling at the Moon & Puppy Bath ~" },
+  { id = "PKIvWNRNMO4", title = "ASMR - BABY BEAR ~ Catching Fish w/ Your Bear Friend! | Water Sounds | Tapping | Mouth Sounds ~" },
+  { id = "MpjmGHRcUIo", title = "ASMR - LOST CAT INN ~ You Are A Cat! | Come Inside for a Drink & Chat ~" },
+  { id = "0ag1sUnSszY", title = "ASMR - FOXGIRL ~ You are Robbed by a Bratty Foxgirl! ~" },
+  { id = "3nWkTIsqij4", title = "ASMR - DABLOONS CATGIRL ~ Greetings Traveler! Relax at this Cozy Inn | Quests | Magic Items" },
+  { id = "4zZ2NPWHUrw", title = "ASMR - PIGEON ROMANCE ~ Uwaah! B-But.. You're a Human and I'm a BIRD...! ~" },
+  { id = "8PiYwL6r2jY", title = "ASMR - PUPPY GIRL ~ This Dog is Annoying but She Loves You SO MUCH ~" },
+  { id = "40hm0vITfGc", title = "ASMR - BUNNY RABBIT ROLEPLAY ~ Eating & Munching on a Carrot & Lettuce! ~" },
+]
++++
