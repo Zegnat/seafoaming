@@ -59,3 +59,11 @@ mise exec -- prek install
 mise exec -- prek run --all-files
 mise exec -- deno task test
 ```
+
+## Licenses
+
+The repository follows the [REUSE specification](https://reuse.software/). `REUSE.toml` gives the license of each file, and `LICENSES/` holds the license texts.
+
+- The code is available under 0BSD.
+- The original content is available under CC BY 4.0.
+- The material from YouTube belongs to Seafoam Kitten ASMR. The licenses of this repository do not apply to it.
