@@ -10,3 +10,6 @@ skip_content_templating = ["videos/**", "streams/**", "playlists/**"]
 [slugify]
 # Keep YouTube IDs as they are: they are case sensitive.
 paths = "safe"
+
+[extra]
+repository = "https://github.com/Zegnat/seafoaming"

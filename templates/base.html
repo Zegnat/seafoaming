@@ -28,7 +28,8 @@
 <main>
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
 {% block content %}{{ section.content | safe }}{% endblock %}
+{% block edit %}<p class="edit"><a href="{{ config.extra.repository }}/edit/main/content/{{ current.relative_path }}">{{<icon name="pencil" />}}Edit this page on GitHub</a></p>{% endblock %}
 </main>
-<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">Copyright</a></footer>
+<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">Copyright</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
 </body>
 </html>
