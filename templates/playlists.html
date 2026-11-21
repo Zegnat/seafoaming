@@ -2,13 +2,14 @@
 {% block content %}
 {{ section.content | safe }}
 <table class="wikitable">
-<tr><th></th><th>Title</th><th>Videos</th><th>Views</th></tr>
+<tr><th></th><th>Title</th><th>Videos</th><th>Views</th><th>Last updated</th></tr>
 {% for p in section.pages %}
 <tr>
 <td>{% if p.extra.stack %}{{<stack ids={p.extra.stack} href={p.permalink} title={p.title} />}}{% endif %}</td>
 <td><a href="{{ p.permalink }}">{{ p.title }}</a></td>
 <td class="num">{{ p.extra.videos | length }}</td>
 <td class="num">{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
+<td>{% if p.extra.updated %}{{ p.extra.updated }}{% endif %}</td>
 </tr>
 {% endfor %}
 </table>
