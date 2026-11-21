@@ -1,6 +1,6 @@
 # Seafoam Wiki
 
-A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.youtube.com/@SeafoamKitten). [Zola](https://www.getzola.org/) builds the site from Markdown files.
+A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.youtube.com/@SeafoamKitten), online at <https://zegnat.github.io/seafoaming/>. [Zola](https://www.getzola.org/) builds the site from Markdown files.
 
 ## Requirements
 
@@ -74,6 +74,10 @@ To build the site for publication, run the command below. Zola builds the site i
 ```sh
 mise exec -- deno task build
 ```
+
+## Publish the site
+
+On every push to `main`, the workflow in `.github/workflows/pages.yml` runs `deno task build` and publishes `public/` to GitHub Pages. You can also start it by hand on the Actions page of the repository.
 
 ## Check the files
 
