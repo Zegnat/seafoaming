@@ -21,7 +21,8 @@ Seafoam Kitten ASMR links to these places in the descriptions of the videos. The
 
 ## Audio
 
-- [Spotify](https://spoti.fi/2Ufo8Pf)
+- [Spotify artist](https://open.spotify.com/artist/6uh6geb4QlGeZjRo9FP3p1)
+- [Spotify show](https://open.spotify.com/show/033zpJYUkfy02osi3mxfDh)
 - [Apple Music](https://music.apple.com/ca/artist/seafoam-kittens-asmr/1457732912)
 
 ## Support
