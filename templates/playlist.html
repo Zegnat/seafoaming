@@ -19,7 +19,7 @@
 <p><a href="{{ url }}">View on YouTube</a></p>
 {% if page.extra.description %}<p class="description">{{ page.extra.description | escape_html | newlines_to_br | safe }}</p>{% endif %}
 {{ page.content | safe }}
-{{<video_table root={root} entries={page.extra.videos} pages={local} caption={"Videos in " ~ page.title} />}}
+{{<video_table root={root} entries={page.extra.videos} pages={local} caption={"Videos in " ~ page.title} numbered={true} />}}
 {% endblock %}
 {# Playlists hold only data from YouTube, so there is nothing to edit. #}
 {% block page_links %}{% endblock %}

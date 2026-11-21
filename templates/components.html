@@ -16,11 +16,13 @@
 
 {# A sortable table by the ARIA Authoring Practices pattern. Rows follow the order of entries ({id, title}).
    Number cells start with their raw value in a hidden span, because sortable-table.js sorts them with parseFloat. #}
-{% component video_table(root: string, entries: array, pages: array, caption: string, order: string = "") %}
+{# numbered adds a column with the position in the list, for playlists; it is the default order. #}
+{% component video_table(root: string, entries: array, pages: array, caption: string, order: string = "", numbered: bool = false) %}
 <table class="wikitable sortable">
 <caption>{{ caption }}<span class="sr-only">, column headers with buttons are sortable</span></caption>
 <thead>
 <tr>
+{% if numbered %}<th class="num" aria-sort="ascending"><button><span aria-hidden="true">#</span><span class="sr-only">Position</span>{{<sort_icons kind="numbers" />}}</button></th>{% endif %}
 <th><span class="sr-only">Thumbnail</span></th>
 <th><button>Title{{<sort_icons kind="letters" />}}</button></th>
 <th{% if order %} aria-sort="{{ order }}"{% endif %}><button>Date{{<sort_icons />}}</button></th>
@@ -32,6 +34,7 @@
 {% for e in entries %}
 {% set found = [p for p in pages if p.extra.id == e.id] %}
 <tr>
+{% if numbered %}<td class="num">{{ loop.index }}</td>{% endif %}
 {% if found %}{% set p = found[0] %}
 <td>{{<thumb root={root} id={p.extra.id} href={root ~ (p.path | trim_start(pat="/"))} title={p.title} placeholder={p.extra.placeholder or ""} />}}</td>
 <td><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{{<tags status={p.extra.status or ""} age_restricted={p.extra.age_restricted or false} source={p.extra.source or ""} />}}</td>
