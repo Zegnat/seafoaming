@@ -359,7 +359,17 @@ if (import.meta.main) {
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     for (const e of data.entries ?? []) {
-      if (folderOf(e) && !placeholders.has(e.id)) placeholders.set(e.id, await thumbnail(e.id, folderOf(e)));
+      if (!folderOf(e) || placeholders.has(e.id)) continue;
+      placeholders.set(e.id, await thumbnail(e.id, folderOf(e)));
+      // REUSE: name the channel as the copyright holder of each image of its video.
+      const dir = `${ROOT}static/thumbs/${folderOf(e)}`;
+      for (const file of [...Deno.readDirSync(dir)].map((f) => f.name)) {
+        if (!file.startsWith(`${e.id}-`) || !file.endsWith(".webp") || !e.channel) continue;
+        write(
+          `${dir}/${file}.license`,
+          `SPDX-FileCopyrightText: ${e.channel.trim()}\n\nSPDX-License-Identifier: LicenseRef-YouTubeCreators\n`,
+        );
+      }
     }
     write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data, placeholders));
   }
