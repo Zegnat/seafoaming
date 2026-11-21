@@ -3,6 +3,12 @@ title = "Links"
 template = "links.html"
 
 [[extra.groups]]
+title = "Homepage"
+links = [
+  { label = "Seafoam Kitten on Carrd", note = "The homepage that Instagram links to", url = "https://seafoamkitten.carrd.co/", icon = "brands/carrd" },
+]
+
+[[extra.groups]]
 title = "YouTube"
 links = [
   { label = "Seafoam Kitten ASMR", note = "The main channel", url = "https://www.youtube.com/@SeafoamKitten", icon = "brands/youtube" },
