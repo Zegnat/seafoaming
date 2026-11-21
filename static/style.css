@@ -21,6 +21,10 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable { border-collapse: collapse; background: #f8f9fa; border: 1px solid #a2a9b1; }
 .wikitable th, .wikitable td { border: 1px solid #a2a9b1; padding: 0.2em 0.4em; }
 .wikitable th { background: #eaecf0; }
+.sortable th button { font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+.sortable th button::after { content: " \2195"; color: #a2a9b1; }
+.sortable th[aria-sort="ascending"] button::after { content: " \2191"; color: inherit; }
+.sortable th[aria-sort="descending"] button::after { content: " \2193"; color: inherit; }
 .icon svg { width: var(--size); height: var(--size); vertical-align: -3px; }
 .grid .icon svg { display: block; margin: auto; }
 .stack { display: inline-grid; padding: 8px 8px 0 0; vertical-align: top; }

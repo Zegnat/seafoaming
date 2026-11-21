@@ -5,12 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %} - {{ config.title }}{% endblock %}</title>
 <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+<script src="{{ get_url(path='sort.js') }}" defer></script>
 {% block head %}{% endblock %}
 </head>
 <body>
 <nav>
 <ul>
 <li><a href="{{ get_url(path='@/videos/_index.md') }}">{{<icon name="movie" />}}Videos</a></li>
+<li><a href="{{ get_url(path='@/shorts/_index.md') }}">{{<icon name="device-mobile" />}}Shorts</a></li>
 <li><a href="{{ get_url(path='@/streams/_index.md') }}">{{<icon name="broadcast" />}}Live streams</a></li>
 <li><a href="{{ get_url(path='@/playlists/_index.md') }}">{{<icon name="playlist" />}}Playlists</a></li>
 <li><a href="{{ get_url(path='@/characters/_index.md') }}">{{<icon name="users" />}}Characters</a></li>

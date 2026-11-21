@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
 {% set url = "https://www.youtube.com/playlist?list=" ~ page.extra.id %}
-{% set videos = get_section(path="videos/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
+{% set videos = get_section(path="videos/_index.md") %}{% set shorts = get_section(path="shorts/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
 {% set ids = [v.id for v in page.extra.videos] %}
-{% set local = [p for p in [...videos.pages, ...streams.pages] if p.extra.id in ids] %}
+{% set local = [p for p in [...videos.pages, ...shorts.pages, ...streams.pages] if p.extra.id in ids] %}
 {% set characters = get_section(path="characters/_index.md") %}
 {% set found = [c for c in characters.pages if [v for v in (c.extra.videos or []) if v in ids]] %}
 <table class="infobox">

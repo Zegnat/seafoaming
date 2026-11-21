@@ -8,18 +8,18 @@
 {% endcomponent icon %}
 
 {# Rows follow the order of entries ({id, title}); entries without a page link to YouTube. #}
-{% component video_table(entries: array, pages: array) %}
-<table class="wikitable">
-<tr><th></th><th>Title</th><th>Date</th><th>Length</th><th>Views</th></tr>
+{% component video_table(entries: array, pages: array, order: string = "") %}
+<table class="wikitable sortable">
+<tr><th></th><th>Title</th><th{% if order %} aria-sort="{{ order }}"{% endif %}>Date</th><th>Length</th><th>Views</th></tr>
 {% for e in entries %}
 {% set found = [p for p in pages if p.extra.id == e.id] %}
 <tr>
 {% if found %}{% set p = found[0] %}
 <td>{{<thumb id={p.extra.id} href={p.permalink} title={p.title} />}}</td>
-<td><a href="{{ p.permalink }}">{{ p.title }}</a>{% if p.extra.short %} (short){% endif %}</td>
+<td><a href="{{ p.permalink }}">{{ p.title }}</a></td>
 <td>{{ p.date | date(format="%Y-%m-%d") }}</td>
-<td>{% if p.extra.length %}{{ p.extra.length }}{% endif %}</td>
-<td class="num">{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
+<td data-sort="{{ p.extra.duration or '' }}">{% if p.extra.length %}{{ p.extra.length }}{% endif %}</td>
+<td class="num" data-sort="{{ p.extra.views or '' }}">{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
 {% else %}
 <td></td>
 <td><a href="https://www.youtube.com/watch?v={{ e.id }}">{{ e.title }}</a> (no wiki page)</td>
