@@ -5,7 +5,7 @@ a:hover { text-decoration: underline; }
 nav { position: absolute; top: 0; left: 0; width: 160px; padding: 1em; }
 nav ul { list-style: none; padding: 0; margin: 0.5em 0; }
 nav li { margin: 0.2em 0; }
-nav svg { vertical-align: -3px; margin-right: 0.4em; }
+nav .icon { margin-right: 0.4em; }
 main { margin-left: 192px; padding: 1em 1.5em; background: #fff; border: 1px solid #a7d7f9; border-right: 0; min-height: 80vh; }
 footer { margin-left: 192px; padding: 1em 1.5em; font-size: 0.85em; color: #54595d; }
 h1, h2 { font-family: "Linux Libertine", Georgia, Times, serif; font-weight: normal; border-bottom: 1px solid #a2a9b1; }
@@ -20,6 +20,8 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable { border-collapse: collapse; background: #f8f9fa; border: 1px solid #a2a9b1; }
 .wikitable th, .wikitable td { border: 1px solid #a2a9b1; padding: 0.2em 0.4em; }
 .wikitable th { background: #eaecf0; }
+.icon svg { width: var(--size); height: var(--size); vertical-align: -3px; }
+.grid .icon svg { display: block; margin: auto; }
 .num { text-align: right; }
 .small { font-size: 0.85em; color: #54595d; }
 lite-youtube { max-width: 640px; }
@@ -29,7 +31,7 @@ lite-youtube { max-width: 640px; }
 .grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(12em, 1fr)); gap: 1em; max-width: 52em; }
 .grid li { border: 1px solid #a2a9b1; background: #f8f9fa; text-align: center; padding: 1em; }
 .grid a { display: block; font-size: 1.2em; }
-.grid svg { display: block; margin: 0 auto 0.4em; }
+.grid .icon { display: block; margin: 0 auto 0.4em; }
 .grid small { color: #54595d; }
 @media (max-width: 720px) {
   nav { position: static; width: auto; }
