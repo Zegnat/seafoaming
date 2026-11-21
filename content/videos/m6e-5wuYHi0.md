@@ -18,3 +18,7 @@ description = "hello client. welcome to clinic™. \n\n🌐 Social Media! 🌐\n
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "You look like you need a head massage from your good friend Seafo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

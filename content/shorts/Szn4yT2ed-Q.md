@@ -18,3 +18,7 @@ description = "Super closeup whispers and a rhyme that will give you tingles!\n\
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

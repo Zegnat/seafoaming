@@ -18,3 +18,7 @@ description = "Sit back and get pampered! Enjoy the sounds of lotion, kisses, an
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

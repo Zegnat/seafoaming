@@ -18,3 +18,7 @@ description = "Omg hi today I'm telling you unintelligible secrets with breathy 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

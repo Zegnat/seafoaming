@@ -24,3 +24,7 @@ chapters = [
   { start = 1614, time = "26:54", title = "Eating da apple (crunchy & juicy)" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

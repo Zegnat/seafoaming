@@ -18,3 +18,7 @@ description = "Let me give you an oily ear massage and caress, poke and cup my h
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

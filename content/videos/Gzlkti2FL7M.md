@@ -45,3 +45,7 @@ chapters = [
   { start = 4236, time = "1:10:36", title = "Outro/sipping" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

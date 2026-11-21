@@ -18,3 +18,7 @@ description = "Hair brushing begins at: 6:59 Thanks to my $5+ patrons of July :D
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

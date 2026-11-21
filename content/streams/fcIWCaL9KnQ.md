@@ -18,3 +18,7 @@ description = "ASMR starts around 47:30 HAHA\nMultistreaming on youtube and twit
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

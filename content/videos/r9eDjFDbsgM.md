@@ -18,3 +18,7 @@ description = "SMOOCHES U SMOOCHES U SMOOCHES U (theres whipped cream all over y
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "h0i :3 In dis bideo I wear latex gloves that make some nice rubbe
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

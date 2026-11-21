@@ -22,3 +22,7 @@ chapters = [
   { start = 873, time = "14:33", title = "Attempt at bubble blowing" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

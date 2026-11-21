@@ -18,3 +18,7 @@ description = "Meow meow :3\nDis bideo includes soft spoken and whispering \"meo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "Today I am feeling tappy and also some scratchy!! :3\nI have some
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

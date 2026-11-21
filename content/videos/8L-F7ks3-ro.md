@@ -19,3 +19,7 @@ description = "I got rly bored and decided to sing to a hip hop beat LOLOL\n\nUs
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

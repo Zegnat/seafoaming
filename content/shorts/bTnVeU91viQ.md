@@ -19,3 +19,7 @@ description = "i woke up in the morning and had a squishy eye and it makes my mo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

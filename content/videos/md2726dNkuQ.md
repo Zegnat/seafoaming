@@ -26,24 +26,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### \<Untitled Chapter 1>
-
-[0:06](https://www.youtube.com/watch?v=md2726dNkuQ&t=6s) just number is the member most said carnival go and who doesn't to me white 5 ah yes
-
-### Brush tapping, scratching & more
-
-[2:18](https://www.youtube.com/watch?v=md2726dNkuQ&t=138s) yes the Argentine people I have m
-
-[5:49](https://www.youtube.com/watch?v=md2726dNkuQ&t=349s) [Music]
-
-[7:47](https://www.youtube.com/watch?v=md2726dNkuQ&t=467s) efe
-
-### Wig try on!
-
-[10:12](https://www.youtube.com/watch?v=md2726dNkuQ&t=612s) in total liquid 2 besides for you 3 emerge [Music] 2 and what
-
-### Hair brushing
-
-[14:26](https://www.youtube.com/watch?v=md2726dNkuQ&t=866s) in the time of life if they stay what
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

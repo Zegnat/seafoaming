@@ -26,3 +26,7 @@ chapters = [
   { start = 1625, time = "27:05", title = "Coupon code" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

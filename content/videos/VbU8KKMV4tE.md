@@ -18,3 +18,7 @@ description = "Go to sleeeep while the pendulum sways before your eyes :D Includ
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "This is the custom video for the contest winner Shifter1242. His 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

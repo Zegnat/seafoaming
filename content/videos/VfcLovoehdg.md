@@ -18,3 +18,7 @@ description = "I ordered a Tamagotchi iDL from Japan and I wanted to share with\
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -21,14 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:00](https://www.youtube.com/watch?v=wktOuyVIvGI&t=0s) [Music] go ahead then no well there isn't it's a pea token it's not my
-
-[1:02](https://www.youtube.com/watch?v=wktOuyVIvGI&t=62s) guiza min 29 wink xurxo you who owe to the bikes that you see me that climate in favor of building in Turin which is your park Picassent will serve attic shark Gonzalez Sinde without feelings yes from touching cry increase hours bikes no guti to whom only
-
-[2:07](https://www.youtube.com/watch?v=wktOuyVIvGI&t=127s) André to nobody [Music] and why don't we have Adam and moment and maybe the day Jordi
-
-[3:17](https://www.youtube.com/watch?v=wktOuyVIvGI&t=197s) too yes Peters
-
-[5:40](https://www.youtube.com/watch?v=wktOuyVIvGI&t=340s) and not always the same and
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

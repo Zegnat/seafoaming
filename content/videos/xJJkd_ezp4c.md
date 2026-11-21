@@ -18,3 +18,7 @@ description = "Another request video! I try on 5 different shirts with different
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

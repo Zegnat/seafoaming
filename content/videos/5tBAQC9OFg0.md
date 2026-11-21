@@ -18,3 +18,7 @@ description = "Fairy girl Novabella finds you injured! Don't worry, she will hea
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

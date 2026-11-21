@@ -19,3 +19,7 @@ description = "why did I make this? \n\nvideo snatched from:\nhttps://www.youtub
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

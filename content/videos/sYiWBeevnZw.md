@@ -18,3 +18,7 @@ description = "you tried  buddy\nfor the people who didn't do a good job but did
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

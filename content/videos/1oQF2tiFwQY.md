@@ -18,3 +18,7 @@ description = "Some tingly blowing and breathing sounds with a bit of positive a
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

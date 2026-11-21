@@ -31,3 +31,7 @@ chapters = [
   { start = 741, time = "12:21", title = "Time to KO you to sleep!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

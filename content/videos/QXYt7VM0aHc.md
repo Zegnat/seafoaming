@@ -18,3 +18,7 @@ description = "Want more Tsundere Dragon? Watch the previous videos here: https:
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

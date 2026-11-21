@@ -18,3 +18,7 @@ description = "Sticky sounds with tape, band aids and adhesive picture hanger th
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

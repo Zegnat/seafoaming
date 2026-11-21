@@ -18,3 +18,7 @@ description = "enjoy my dad joke title uwu \nCollection starts at 5:36 Thank you
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

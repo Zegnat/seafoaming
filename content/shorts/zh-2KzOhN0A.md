@@ -22,6 +22,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:02](https://www.youtube.com/watch?v=zh-2KzOhN0A&t=2s) They committed skateboard manga one Peter Westaway lives everything good very equally wide I want wave a record have your bill I'm tired Connick Jr. is a dream it fits me in this line with Wink breakdown or I add [ \_\_ ]' dream
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

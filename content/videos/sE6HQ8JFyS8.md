@@ -18,3 +18,7 @@ description = "Relax while I softly ramble and doodle silly pictures into the sp
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

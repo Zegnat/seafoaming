@@ -27,3 +27,7 @@ chapters = [
   { start = 950, time = "15:50", title = "Close up whispers and face petting" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

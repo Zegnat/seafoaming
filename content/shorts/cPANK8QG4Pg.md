@@ -19,3 +19,7 @@ description = "We walk by this house every day and every day the cat chases us"
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

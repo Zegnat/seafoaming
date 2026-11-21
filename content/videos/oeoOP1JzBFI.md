@@ -21,3 +21,7 @@ chapters = [
   { start = 397, time = "6:37", title = "Tongue shaking/wiggles" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

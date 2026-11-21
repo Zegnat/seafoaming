@@ -18,3 +18,7 @@ description = "Be sure to watch the second version on Bekah's channel to see ME 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

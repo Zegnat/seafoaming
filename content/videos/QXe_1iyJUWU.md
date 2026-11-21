@@ -30,3 +30,7 @@ chapters = [
   { start = 1120, time = "18:40", title = "Oops you missed your bus..." },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

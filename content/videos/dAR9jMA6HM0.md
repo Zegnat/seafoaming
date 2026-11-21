@@ -18,3 +18,7 @@ description = "It's time to relax and let me cover you in kisses and whisper you
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

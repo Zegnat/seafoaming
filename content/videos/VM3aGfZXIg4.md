@@ -18,3 +18,7 @@ description = "In this video I am repeating my favourite trigger words with whis
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

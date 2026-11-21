@@ -19,3 +19,7 @@ description = "this kind of feels asmr-ish to me with the restaurant ambiance in
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

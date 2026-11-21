@@ -18,3 +18,7 @@ description = "*2023 DISCLAIMER: SO UH PLEASE CONSIDER NOT USING THIS METHOD IF 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

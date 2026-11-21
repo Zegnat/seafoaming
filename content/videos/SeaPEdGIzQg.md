@@ -18,3 +18,7 @@ description = "In this video you find yourself wandering in an enchanted, sacred
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

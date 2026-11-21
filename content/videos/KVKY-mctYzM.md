@@ -19,3 +19,7 @@ description = "This is my grandma's scottish terrier. She is super strange and h
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

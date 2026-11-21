@@ -21,3 +21,7 @@ chapters = [
   { start = 947, time = "15:47", title = "Fancy new outro OOOOooOOoo" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

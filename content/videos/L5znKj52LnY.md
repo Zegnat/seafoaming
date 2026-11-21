@@ -18,3 +18,7 @@ description = "Made dis bideo for my friend Chris but I thought other people cou
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

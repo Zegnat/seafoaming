@@ -21,28 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:05](https://www.youtube.com/watch?v=2toLuBSWy0c&t=5s) This what I am my ex wing 1st tell me not to be but they left us well lieutenant macho that effectively there sugar of live total Latina and you go way 2 the fears
-
-[1:08](https://www.youtube.com/watch?v=2toLuBSWy0c&t=68s) through I put in me and are had louis michel h started in the dáil and it was restrictive [Music] but also if they are so simple ar and so equally that if under preferred but less not I atte
-
-[2:55](https://www.youtube.com/watch?v=2toLuBSWy0c&t=175s) the opinions of my life that she is that they step on the txingurri lives the court yes yes that [Music] what end enjoy
-
-[4:00](https://www.youtube.com/watch?v=2toLuBSWy0c&t=240s) [Music] make him demand x i that h
-
-[5:28](https://www.youtube.com/watch?v=2toLuBSWy0c&t=328s) opened to chino without a place of theme king's singers khatibi the time chin vikings yes no e
-
-[6:36](https://www.youtube.com/watch?v=2toLuBSWy0c&t=396s) so caves neira dv when we are moves like that like siemens mayra in president [Music] because it's my foot is in a hurry
-
-[7:42](https://www.youtube.com/watch?v=2toLuBSWy0c&t=462s) ok no I don't want you too are that type here of cancer but yes no wherever fears p
-
-[8:52](https://www.youtube.com/watch?v=2toLuBSWy0c&t=532s) hastings yes times in this note I am a geek man and where the spades match crist although it goes poker oh vivax and zinc
-
-[10:01](https://www.youtube.com/watch?v=2toLuBSWy0c&t=601s) but you that they take away for me [Music] slogan it's our turn we'll do [Music]
-
-[11:03](https://www.youtube.com/watch?v=2toLuBSWy0c&t=663s) exactly in afternoons beautify me yes with him
-
-[12:48](https://www.youtube.com/watch?v=2toLuBSWy0c&t=768s) oh what the spirit instead would do
-
-[15:01](https://www.youtube.com/watch?v=2toLuBSWy0c&t=901s) [Music] efe [Music] I miss you
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

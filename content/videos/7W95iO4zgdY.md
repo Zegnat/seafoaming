@@ -21,18 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:01](https://www.youtube.com/watch?v=7W95iO4zgdY&t=1s) Well, news, the Aqua team, Sweet and the Wish, but I'm not the one to say places now, so the second part, Pixar, with you, so work [Music]
-
-[2:03](https://www.youtube.com/watch?v=7W95iO4zgdY&t=123s) before a growth 2 [Music] [ Music]
-
-[3:24](https://www.youtube.com/watch?v=7W95iO4zgdY&t=204s) [Music] the mansion
-
-[4:32](https://www.youtube.com/watch?v=7W95iO4zgdY&t=272s) [Music] [Music] [Music] [Music] [Music]
-
-[6:16](https://www.youtube.com/watch?v=7W95iO4zgdY&t=376s) when you make me, there are times that I have,
-
-[7:48](https://www.youtube.com/watch?v=7W95iO4zgdY&t=468s) what sex, yes
-
-[8:50](https://www.youtube.com/watch?v=7W95iO4zgdY&t=530s) and
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

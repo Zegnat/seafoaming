@@ -18,3 +18,7 @@ description = "This video is more intense and rough ASMR than usual so don't hav
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

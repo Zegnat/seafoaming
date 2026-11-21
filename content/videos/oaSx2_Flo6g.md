@@ -18,3 +18,7 @@ description = "Thanks to Brinny for these cute LED fox ears :3 This bideo includ
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "I THINK ITS BAD IM SORRY ? Let me know in da comments if you like
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

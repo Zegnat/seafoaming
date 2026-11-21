@@ -21,28 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:00](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=0s) [Music] you ca n't [ \_\_ ] with h in all air demands who they are adding the subscription right to Henrietta the good Valdés ok with this is to say yes yes no we have to arrive ok ok news the magic date our in 6 football ok also previously has defended this
-
-[1:02](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=62s) universe of universe [Music] of fresh air with the sun is pounds criterion is expected of new at Sundance Institute these forms 6 5 remember to give your iPhone days were a sermon and h
-
-[2:02](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=122s) d walk vision I changed my life with virtues i
-
-[3:03](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=183s) in art and Bojan this game is mine sign is sad
-
-[4:04](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=244s) and I am an accountant Paris well they do
-
-[5:05](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=305s) n't make 10
-
-[6:12](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=372s) yes [Music] game I want nation
-
-[7:24](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=444s) 2 yes yes
-
-[8:38](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=518s) 6th in spa the software fails me yes yes no stains type d due to the fact Diego has sold brother are collection the Andean geography in space and time Villegas
-
-[9:44](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=584s) very difficult to take very cold from country to Paris in Washington and stay for you and wants more yes I was saying Haines Clouds obstacles to get [Music] that lives the same what efe
-
-[10:47](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=647s) until today, well, I speak white, older, okay, yes [Applause]
-
-[14:17](https://www.youtube.com/watch?v=Dk_ibU-4Nik&t=857s) [Music] in my whole life, 3, 7, here, yes, yes, dry in his plane and I don't care [Music] now in my 5th, yes
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

@@ -18,3 +18,7 @@ description = "b i g  s i p p\n\n🌐 Social Media! 🌐\n💙Twitter → https:
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

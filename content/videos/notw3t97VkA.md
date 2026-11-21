@@ -22,12 +22,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:04](https://www.youtube.com/watch?v=notw3t97VkA&t=4s) Ah, well, he has those who aren't on his team, or not, ah, ah, he wants more, no, maybe not, what goes down,
-
-[1:15](https://www.youtube.com/watch?v=notw3t97VkA&t=75s) ah, no, Juanita has peace, no, no, no, you cover up, and
-
-[2:37](https://www.youtube.com/watch?v=notw3t97VkA&t=157s) or not, an asthmatic in Fomento is no, no.
-
-[3:41](https://www.youtube.com/watch?v=notw3t97VkA&t=221s) [Music] cat
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

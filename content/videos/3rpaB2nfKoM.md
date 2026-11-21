@@ -23,14 +23,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### \<Untitled Chapter 1>
-
-[0:03](https://www.youtube.com/watch?v=3rpaB2nfKoM&t=3s) efe
-
-[1:54](https://www.youtube.com/watch?v=3rpaB2nfKoM&t=114s) plus [Music] crests min and so
-
-[2:57](https://www.youtube.com/watch?v=3rpaB2nfKoM&t=177s) h the region already face
-
-[4:14](https://www.youtube.com/watch?v=3rpaB2nfKoM&t=254s) [Music] toché
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

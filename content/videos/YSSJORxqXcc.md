@@ -26,3 +26,7 @@ chapters = [
   { start = 1222, time = "20:22", title = "Trigger 7" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

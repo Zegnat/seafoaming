@@ -42,42 +42,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### Intro, tapping on box/explaining Japan Crate
-
-[0:52](https://www.youtube.com/watch?v=ig9uvKYegk4&t=52s) [Music]
-
-[3:47](https://www.youtube.com/watch?v=ig9uvKYegk4&t=227s) [Music] [Music] [Music] [Music] [
-
-### Explaining each item, crinkle sounds
-
-[7:32](https://www.youtube.com/watch?v=ig9uvKYegk4&t=452s) Music] [Music] Sánchez [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music
-
-[17:35](https://www.youtube.com/watch?v=ig9uvKYegk4&t=1055s) ]
-
-[18:46](https://www.youtube.com/watch?v=ig9uvKYegk4&t=1126s) and [Music] [
-
-### Moar crinkles!!
-
-[21:21](https://www.youtube.com/watch?v=ig9uvKYegk4&t=1281s) Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music]
-
-### Honey & butter biscuit sticks
-
-[38:12](https://www.youtube.com/watch?v=ig9uvKYegk4&t=2292s) They
-
-### Flakey pastry cookies
-
-[44:07](https://www.youtube.com/watch?v=ig9uvKYegk4&t=2647s) Calvillo
-
-### Strawberry yogurt bacterial candies
-
-[44:38](https://www.youtube.com/watch?v=ig9uvKYegk4&t=2678s) [Music]
-
-### Savoury rice crackers (small)
-
-[47:00](https://www.youtube.com/watch?v=ig9uvKYegk4&t=2820s) [Music] [Music] [Music] [Music] [Music] [Music
-
-### Outro
-
-[59:36](https://www.youtube.com/watch?v=ig9uvKYegk4&t=3576s) ]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

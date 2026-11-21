@@ -18,3 +18,7 @@ description = "Thanks Craig for commissioning this bideo :3\nIn this video Fay c
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

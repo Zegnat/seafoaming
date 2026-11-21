@@ -18,3 +18,7 @@ description = "I got pretty acrylic nails so I thought they would be perfect for
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

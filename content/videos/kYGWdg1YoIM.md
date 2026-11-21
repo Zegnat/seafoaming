@@ -18,3 +18,7 @@ description = "Relax to the lovely fabric sounds as I stroke my beloved pet cat 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

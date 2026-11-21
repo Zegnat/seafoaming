@@ -18,3 +18,7 @@ description = "Happy Halloween! GET READY FOR SPOOPS\nIn this video Miss Spooky,
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

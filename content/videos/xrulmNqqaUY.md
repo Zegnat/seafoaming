@@ -21,3 +21,7 @@ chapters = [
   { start = 546, time = "9:06", title = "Thin gloves..." },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -29,36 +29,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### Intro
-
-[0:04](https://www.youtube.com/watch?v=6OohQXtspwc&t=4s) [Music] at the ceti to me too
-
-### Mittens, PLEASE
-
-[0:36](https://www.youtube.com/watch?v=6OohQXtspwc&t=36s) a girl but Marta simply with you efe as
-
-[1:42](https://www.youtube.com/watch?v=6OohQXtspwc&t=102s) [Music] here
-
-### Potion starts to take effect, soft speaking and face touching
-
-[6:28](https://www.youtube.com/watch?v=6OohQXtspwc&t=388s) the hallway of whom bedbugs grateful English [Music] diligence
-
-[8:03](https://www.youtube.com/watch?v=6OohQXtspwc&t=483s) [Music] I 5 [Music]
-
-[9:49](https://www.youtube.com/watch?v=6OohQXtspwc&t=589s) spirit today you
-
-[11:23](https://www.youtube.com/watch?v=6OohQXtspwc&t=683s) have loved [Music] Katz Varvares are from city
-
-### PURRING
-
-[12:29](https://www.youtube.com/watch?v=6OohQXtspwc&t=749s) in operation and
-
-[13:45](https://www.youtube.com/watch?v=6OohQXtspwc&t=825s) here [Music] before then
-
-[14:46](https://www.youtube.com/watch?v=6OohQXtspwc&t=886s) yes efe
-
-### Brief soft singing
-
-[15:04](https://www.youtube.com/watch?v=6OohQXtspwc&t=904s) [Music] and here yes and
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

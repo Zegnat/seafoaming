@@ -23,3 +23,7 @@ chapters = [
   { start = 1000, time = "16:40", title = "Soul: Layered and echoed mouthsounds, whispers + hand movements and weird visuals" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

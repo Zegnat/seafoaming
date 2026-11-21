@@ -19,3 +19,7 @@ description = "TOP 10 REASONS why this is the best asmr trigger\n1. \n2. \n3.\n4
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

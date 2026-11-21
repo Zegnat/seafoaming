@@ -18,3 +18,7 @@ description = "Sowwy this one is a little short. I hope you like the sounds :D \
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -26,3 +26,7 @@ chapters = [
   { start = 820, time = "13:40", title = "Both at once" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

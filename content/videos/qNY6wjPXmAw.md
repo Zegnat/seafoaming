@@ -18,3 +18,7 @@ description = "Hewwo! Today I'm doing some slow, breathy unintelligible whispers
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

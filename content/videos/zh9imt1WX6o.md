@@ -20,30 +20,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:06](https://www.youtube.com/watch?v=zh9imt1WX6o&t=6s) ลla ลla [music] ล la ล la laلا ล la la la
-
-[1:07](https://www.youtube.com/watch?v=zh9imt1WX6o&t=67s) [music] la la la la la [music] la la [ music] la la la [music] la la la
-
-[2:28](https://www.youtube.com/watch?v=zh9imt1WX6o&t=148s) [music] la la la la [music] la la la [music] la la la la la la [music] ล la la la
-
-[3:47](https://www.youtube.com/watch?v=zh9imt1WX6o&t=227s) ลla [music] ลla ลla ล la [music] laลา ลla [music ] ล lala
-
-[5:32](https://www.youtube.com/watch?v=zh9imt1WX6o&t=332s) [music] la la la la la la la [music] la la la la la la la ล lala [music] lala
-
-[6:32](https://www.youtube.com/watch?v=zh9imt1WX6o&t=392s) ล la la la [music] la la la la [music] lala la
-
-[7:37](https://www.youtube.com/watch?v=zh9imt1WX6o&t=457s) ล lala [music ] la la la [music] la la [music] la [music] la la la
-
-[8:48](https://www.youtube.com/watch?v=zh9imt1WX6o&t=528s) [music] la la la la [music] la la [music] la la ล la la la la la la la ล la la ลlaล la la la 랄
-
-[10:43](https://www.youtube.com/watch?v=zh9imt1WX6o&t=643s) [music] la la [music] la la [ music] la la [ music] la [music ] la [music] la la la la la [music]
-
-[11:50](https://www.youtube.com/watch?v=zh9imt1WX6o&t=710s) la ล la lala [music] ลlala ล la lala ล lala [music] ลla ล la la la
-
-[13:02](https://www.youtube.com/watch?v=zh9imt1WX6o&t=782s) la [music] la la la [music] la [music] la la [music] la la la [music] la la la
-
-[14:03](https://www.youtube.com/watch?v=zh9imt1WX6o&t=843s) la [music] la la ล lala [music] ล la la ล
-
-[15:10](https://www.youtube.com/watch?v=zh9imt1WX6o&t=910s) La
+YouTube only has automatic captions in another language (ru) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

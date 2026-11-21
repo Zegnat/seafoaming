@@ -21,24 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:38](https://www.youtube.com/watch?v=GavTR9dRgAw&t=38s) Here more before living off rags Louis we lived yes yes yes yes yes [Music]
-
-[1:43](https://www.youtube.com/watch?v=GavTR9dRgAw&t=103s) Anderson Evatt defense drawing for me with files if video woman was the corner my god interview continue and it's 30 Paris cookie let 's go on lines
-
-[2:45](https://www.youtube.com/watch?v=GavTR9dRgAw&t=165s) like living alone and me too -you and men's but today's requests and if not there too the minister Benitez to course also sells was good Benitez regime hyperactive 20 I see what
-
-[3:48](https://www.youtube.com/watch?v=GavTR9dRgAw&t=228s) but I hate myself I showed up to my trial man today is to leave elements definitely the same as
-
-[4:50](https://www.youtube.com/watch?v=GavTR9dRgAw&t=290s) me than on its obverse and here there are more than 7 and it gives us test white Christ the right girlfriend entered active Wintek is a course Goiriz is wow that you'll see Sebin yes
-
-[6:52](https://www.youtube.com/watch?v=GavTR9dRgAw&t=412s) ah
-
-[9:32](https://www.youtube.com/watch?v=GavTR9dRgAw&t=572s) [Music] i uy no way 3 week imagine [Music] white stained on my girl
-
-[10:56](https://www.youtube.com/watch?v=GavTR9dRgAw&t=656s) s but there's nobody anymore [Music] before of you march reign practice
-
-[11:57](https://www.youtube.com/watch?v=GavTR9dRgAw&t=717s) this so between beauty is called [Music] by pysn and mario the universe there is
-
-[12:59](https://www.youtube.com/watch?v=GavTR9dRgAw&t=779s) no enemy you believe
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

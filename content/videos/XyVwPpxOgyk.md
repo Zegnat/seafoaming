@@ -22,8 +22,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:29](https://www.youtube.com/watch?v=XyVwPpxOgyk&t=29s) No, and I'm putting you in a good mood [Music] good, and calm like an anchovy
-
-[1:30](https://www.youtube.com/watch?v=XyVwPpxOgyk&t=90s) and friends, good Giovanni Král s is or yes
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

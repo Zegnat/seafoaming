@@ -19,3 +19,7 @@ description = "Let me know in the chat which trigger you want! If you want yours
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "Autumn is so pretty :3 I thought I could share it with you. I hav
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

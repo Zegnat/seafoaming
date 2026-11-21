@@ -18,3 +18,7 @@ description = "Smolpire forgets how to put on gloves and is baffled by ridiculou
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

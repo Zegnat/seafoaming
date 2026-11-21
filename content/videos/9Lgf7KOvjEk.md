@@ -18,3 +18,7 @@ description = "There are too many positive affirmations videos so I decided to m
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

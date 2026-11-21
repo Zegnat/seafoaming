@@ -18,3 +18,7 @@ description = "me when i forgor to press record on my microphones, so the audio 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

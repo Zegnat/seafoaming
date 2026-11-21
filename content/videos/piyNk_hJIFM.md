@@ -18,3 +18,7 @@ description = "Shop #SallyBeauty: http://bit.ly/2z1x3vt Thanks to Sally Beauty f
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

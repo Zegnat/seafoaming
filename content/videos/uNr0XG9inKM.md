@@ -27,3 +27,7 @@ chapters = [
   { start = 450, time = "7:30", title = "Giving your eye a band-aid so you can heal :}" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

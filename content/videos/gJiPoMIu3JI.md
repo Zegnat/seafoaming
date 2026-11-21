@@ -18,3 +18,7 @@ description = "Let's go through my asmr prop collection, which has accumulated n
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

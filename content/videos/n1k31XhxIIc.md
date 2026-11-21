@@ -22,3 +22,7 @@ chapters = [
   { start = 615, time = "10:15", title = "Tentacle gloves, INTENSE and DEEP sounds (can you tell its my personal favorite? teehee)" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

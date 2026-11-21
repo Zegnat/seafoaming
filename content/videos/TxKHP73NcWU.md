@@ -19,3 +19,7 @@ description = "I collected some pics and mini video clips to show you a taste of
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

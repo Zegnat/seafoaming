@@ -25,3 +25,7 @@ chapters = [
   { start = 957, time = "15:57", title = "Completing the ritual + chatting" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

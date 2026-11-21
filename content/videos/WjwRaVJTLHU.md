@@ -18,3 +18,7 @@ description = "Shhh don't tell anyone you're doing this, sparkle usage is extrem
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "Thanks to my $5+ patrons of July, you help me so much and I appre
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

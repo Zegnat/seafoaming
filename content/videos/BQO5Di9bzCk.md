@@ -18,3 +18,7 @@ description = "You are TOTALLY NOT DYING. its cool bruh.\nTHIS ONE IS SUPER WEIR
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

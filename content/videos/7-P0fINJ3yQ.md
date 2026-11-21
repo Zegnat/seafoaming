@@ -18,3 +18,7 @@ description = "Enjoy some soft whispers and fluffy scalp massage in this safe li
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "She's eating all the bugs and has stolen your social security num
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

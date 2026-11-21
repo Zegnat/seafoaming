@@ -18,3 +18,7 @@ description = "This one is rather experimental! I make wet mouth sounds from smi
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

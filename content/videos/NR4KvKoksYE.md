@@ -18,3 +18,7 @@ description = "A zen garden bideo woah never seen that done before \nI tried to 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

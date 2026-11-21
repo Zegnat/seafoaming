@@ -20,3 +20,7 @@ chapters = [
   { start = 481, time = "8:01", title = "Get smooched at" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

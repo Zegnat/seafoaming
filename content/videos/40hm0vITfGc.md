@@ -18,3 +18,7 @@ description = "\"WABBIT? WABBIT.\" \nThis bideo includes ear to ear binaural eat
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -29,3 +29,7 @@ chapters = [
   { start = 1569, time = "26:09", title = "Fluffy tail brushing sounds & movements" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

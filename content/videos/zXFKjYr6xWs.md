@@ -21,8 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:30](https://www.youtube.com/watch?v=zXFKjYr6xWs&t=30s) Listen
-
-[8:31](https://www.youtube.com/watch?v=zXFKjYr6xWs&t=511s) [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

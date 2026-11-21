@@ -18,3 +18,7 @@ description = "I know a video on the internet can't fix your problems. But if yo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

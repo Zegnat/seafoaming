@@ -18,3 +18,7 @@ description = "Come here pookie I'm gonna kiss you and make you feel better beca
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

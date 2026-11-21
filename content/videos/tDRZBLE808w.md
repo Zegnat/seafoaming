@@ -21,3 +21,7 @@ chapters = [
   { start = 479, time = "7:59", title = "Reading my dreams!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "The Doctor appears to be quite concerned about your Affliction. B
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

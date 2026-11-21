@@ -18,3 +18,7 @@ description = "Relax, unwind and watch me speak softly and whisper as I am attem
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

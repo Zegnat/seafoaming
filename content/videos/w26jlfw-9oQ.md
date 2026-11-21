@@ -18,3 +18,7 @@ description = "WANT MOAR? Check out Indigo's channel for ANOTHER collab where we
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

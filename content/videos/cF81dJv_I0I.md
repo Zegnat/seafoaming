@@ -18,3 +18,7 @@ description = "Your friend is here to magically fix all your problems with a sca
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

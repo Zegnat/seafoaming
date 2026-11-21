@@ -18,3 +18,7 @@ description = "Today we are lighting matches together! :D This includes some sem
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

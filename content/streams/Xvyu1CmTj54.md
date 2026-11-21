@@ -19,3 +19,7 @@ description = "Request a doodle in the chat! If you want your request to be seen
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

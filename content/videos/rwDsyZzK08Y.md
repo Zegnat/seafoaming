@@ -28,3 +28,7 @@ chapters = [
   { start = 2657, time = "44:17", title = "Massage bar tapping" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

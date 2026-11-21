@@ -27,40 +27,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### \<Untitled Chapter 1>
-
-[0:06](https://www.youtube.com/watch?v=du4stqXmuTI&t=6s) You believe [Music] team prosecutor what nothing more than the team i you see me wilkerson goodbye and for my team Mexico generated me wave hurt
-
-### Crinkles and feeding you chocolate
-
-[1:24](https://www.youtube.com/watch?v=du4stqXmuTI&t=84s) and more yes I was sleeping [Music] are effective organize which fast iovaisha as well no but their present
-
-### Present :3
-
-[2:27](https://www.youtube.com/watch?v=du4stqXmuTI&t=147s) is easy in car of dreaming in the film is welcome an image Virginia this car but my Cristo Perez and I don't have 3 with class more cold [Music]
-
-[3:37](https://www.youtube.com/watch?v=du4stqXmuTI&t=217s) m know and without them although it lets you live more smiles not well because yes in Guatemalan I am
-
-### Ear to ear kissies begin
-
-[4:59](https://www.youtube.com/watch?v=du4stqXmuTI&t=299s) and occasions and don't declare sensitive acrylic minimum walking yes reality efe yes from
-
-[5:59](https://www.youtube.com/watch?v=du4stqXmuTI&t=359s) today onwards and the tissues much this and that's it yes always
-
-[7:09](https://www.youtube.com/watch?v=du4stqXmuTI&t=429s) James Banchile nothing ex phrase there are no more tests
-
-### "Muah" sounds
-
-[7:45](https://www.youtube.com/watch?v=du4stqXmuTI&t=465s) [Music] news snow
-
-### Om nom nomming you!
-
-[11:10](https://www.youtube.com/watch?v=du4stqXmuTI&t=670s) good yes or no 2 this is what we have between 15 years
-
-[12:17](https://www.youtube.com/watch?v=du4stqXmuTI&t=737s) and although they don't catch yes no
-
-[14:27](https://www.youtube.com/watch?v=du4stqXmuTI&t=867s) no and 6
-
-[16:48](https://www.youtube.com/watch?v=du4stqXmuTI&t=1008s) efe before
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

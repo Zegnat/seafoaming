@@ -21,14 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:07](https://www.youtube.com/watch?v=WrWSChU80Yo&t=7s) yes yes yes yes ah
-
-[2:33](https://www.youtube.com/watch?v=WrWSChU80Yo&t=153s) and ah and a good good
-
-[5:18](https://www.youtube.com/watch?v=WrWSChU80Yo&t=318s) yes 2 I don't know [Music] let's go let's go
-
-[7:32](https://www.youtube.com/watch?v=WrWSChU80Yo&t=452s) yes yes yes and we no no no [Music]
-
-[8:47](https://www.youtube.com/watch?v=WrWSChU80Yo&t=527s) yes no
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

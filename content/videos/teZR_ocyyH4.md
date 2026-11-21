@@ -21,22 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:19](https://www.youtube.com/watch?v=teZR_ocyyH4&t=19s) Joaquin noise without noise Graus before here wants before in you change with my house he's not at night that is to say yes
-
-[1:21](https://www.youtube.com/watch?v=teZR_ocyyH4&t=81s) ok Nicolas I want them to specify and a bite to the best of good my city
-
-[2:22](https://www.youtube.com/watch?v=teZR_ocyyH4&t=142s) what I homeless good numbers the future [Music] and more are 32 others that die shipping and sends that in that face of time
-
-[3:24](https://www.youtube.com/watch?v=teZR_ocyyH4&t=204s) well but no no I have to I now
-
-[4:33](https://www.youtube.com/watch?v=teZR_ocyyH4&t=273s) i big sadder at sight
-
-[6:02](https://www.youtube.com/watch?v=teZR_ocyyH4&t=362s) felt Amina Florida [Music] the day I wait for you this and you Esther Schouten we have yes we don't
-
-[7:08](https://www.youtube.com/watch?v=teZR_ocyyH4&t=428s) live changes and is who is logical
-
-[9:45](https://www.youtube.com/watch?v=teZR_ocyyH4&t=585s) ok if I had done that now 2 ok like that
-
-[10:50](https://www.youtube.com/watch?v=teZR_ocyyH4&t=650s) yes in Paris cake just years
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

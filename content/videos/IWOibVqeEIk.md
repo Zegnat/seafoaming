@@ -25,3 +25,7 @@ chapters = [
   { start = 953, time = "15:53", title = "Teeth tapping" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

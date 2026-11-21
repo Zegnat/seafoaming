@@ -22,3 +22,7 @@ chapters = [
   { start = 706, time = "11:46", title = "Applying liquid lipstick + sounds" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

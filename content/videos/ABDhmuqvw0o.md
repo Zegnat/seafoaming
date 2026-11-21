@@ -18,3 +18,7 @@ description = "I have the flu rn so I spent my last breath of life to finish edi
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

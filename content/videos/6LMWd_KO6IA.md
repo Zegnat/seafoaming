@@ -18,3 +18,7 @@ description = "Clover is a classmate who is popular for her sociability and her 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

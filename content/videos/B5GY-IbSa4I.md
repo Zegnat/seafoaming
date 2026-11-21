@@ -26,3 +26,7 @@ chapters = [
   { start = 1059, time = "17:39", title = "Sending you to bed with fishy kisses" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

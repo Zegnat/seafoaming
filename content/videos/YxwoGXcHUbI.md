@@ -18,3 +18,7 @@ description = "I'm not sure if this is a terrible video or not, but it was my fi
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

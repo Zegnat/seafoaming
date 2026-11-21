@@ -20,3 +20,7 @@ chapters = [
   { start = 516, time = "8:36", title = "Triggers start at" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

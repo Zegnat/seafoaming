@@ -18,3 +18,7 @@ description = "Mega crinkle time!! :D I love the sound of bubble wrap being crin
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

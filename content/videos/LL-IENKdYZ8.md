@@ -18,3 +18,7 @@ description = "Opening a gift sent to me for an early birthday gift! FANKYOO JOS
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

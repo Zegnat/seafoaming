@@ -18,3 +18,7 @@ description = "PEEP! It is time for ear to ear gibberish sounds! I make fast t,p
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

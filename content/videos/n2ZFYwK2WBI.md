@@ -18,3 +18,7 @@ description = "Nom nom. These are delicious :3 \n\n🌐 Social Media! 🌐\n💙
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

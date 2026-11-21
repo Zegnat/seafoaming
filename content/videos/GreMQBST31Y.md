@@ -18,3 +18,7 @@ description = "Have another 1 hour loop bideo :D Ear cupping and whispers for yo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

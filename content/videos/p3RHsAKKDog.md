@@ -18,3 +18,7 @@ description = "Enjoy some whisper rambles as I give you a bit of a life update! 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

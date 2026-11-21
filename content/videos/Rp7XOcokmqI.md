@@ -18,3 +18,7 @@ description = "I hope you enjoy my wet creepy smiles in your ear :3 lmaoo\nTrigg
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

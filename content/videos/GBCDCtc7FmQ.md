@@ -18,3 +18,7 @@ description = "I have a mask on so u can focus on just my eyes.  Look into them,
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

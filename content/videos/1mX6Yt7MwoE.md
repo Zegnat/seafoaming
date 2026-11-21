@@ -18,3 +18,7 @@ description = "You are my puppy today! I will give you love and head scratches a
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

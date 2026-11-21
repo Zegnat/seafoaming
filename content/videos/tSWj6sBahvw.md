@@ -21,3 +21,7 @@ chapters = [
   { start = 364, time = "6:04", title = "Fluffy massage!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

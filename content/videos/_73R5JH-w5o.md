@@ -18,3 +18,7 @@ description = "Want more Ember? See the other dragon videos here! https://goo.gl
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

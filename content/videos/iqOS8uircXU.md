@@ -29,3 +29,7 @@ chapters = [
   { start = 1722, time = "28:42", title = "Silicone fuzzy thing" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

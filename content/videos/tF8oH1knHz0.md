@@ -21,26 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:59](https://www.youtube.com/watch?v=tF8oH1knHz0&t=59s) Since the climb falls in water and salt if I felt more alive of firewood already my mother Quintabani have with swing crisis and cities
-
-[1:59](https://www.youtube.com/watch?v=tF8oH1knHz0&t=119s) 5 frontal technique oh no and it lasts macho Jimenez there is no day there are many people and I like this
-
-[3:00](https://www.youtube.com/watch?v=tF8oH1knHz0&t=180s) and you Santin you have bar [Music] arrange detect I left the scoring
-
-[4:34](https://www.youtube.com/watch?v=tF8oH1knHz0&t=274s) end press enter I already know me [Music] the crisis dude
-
-[5:51](https://www.youtube.com/watch?v=tF8oH1knHz0&t=351s) 22 [Music] they
-
-[6:53](https://www.youtube.com/watch?v=tF8oH1knHz0&t=413s) have to [Music]
-
-[7:56](https://www.youtube.com/watch?v=tF8oH1knHz0&t=476s) yes [Music] that is to say and Canada is captain
-
-[10:34](https://www.youtube.com/watch?v=tF8oH1knHz0&t=634s) [Music]
-
-[15:35](https://www.youtube.com/watch?v=tF8oH1knHz0&t=935s) yes
-
-[16:53](https://www.youtube.com/watch?v=tF8oH1knHz0&t=1013s) 5 minutes [Music] [Music]
-
-[18:27](https://www.youtube.com/watch?v=tF8oH1knHz0&t=1107s) I [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

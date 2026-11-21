@@ -18,3 +18,7 @@ description = "Thank you so much for sending me these MONQ ^_^\nIn this bideo I 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

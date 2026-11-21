@@ -18,3 +18,7 @@ description = "You're falling asleep during a car ride in the rain, comfy and co
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

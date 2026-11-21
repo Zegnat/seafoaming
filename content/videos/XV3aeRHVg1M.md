@@ -18,3 +18,7 @@ description = "This is the NO MUSIC version. Click here for the version with rel
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

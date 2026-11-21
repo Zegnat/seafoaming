@@ -21,3 +21,7 @@ chapters = [
   { start = 420, time = "7:00", title = "Triggers begin! Get comfy and relax to over an hour of tingles" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

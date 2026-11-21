@@ -21,3 +21,7 @@ chapters = [
   { start = 321, time = "5:21", title = "Soft and gentle" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

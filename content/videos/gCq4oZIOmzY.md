@@ -21,22 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:16](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=16s) normal tony fernandes there is water I had no luck cold n i [Music] and to active machines and wanted more
-
-[1:19](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=79s) sanz [Music] and why did n't I come ordered lavalle are more [Music] to 30 as ay hainer for the moment has said
-
-[2:21](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=141s) well to me because nothing [Music] noise from the major I want to give my ring acro stars ay yes [Music] please to everton iron of 6 and there if you know that is yes these laws d
-
-[3:31](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=211s) to me yes to me of art if you 3 this image 1 and and what things
-
-[4:33](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=273s) and practices and this city I'm going to lie they exhaust me and without noise in English 6 juan you have forgiven the trips you lend at 10 theater unsportsmanlike or penalties [Music]
-
-[5:43](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=343s) heaton that erases madrid- [Music] I have won although I see cold looks there are also some mortgages to be clear the river normal assistance more e
-
-[6:49](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=409s) yes [Music] Yes, although your destiny and
-
-[7:53](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=473s) x a hybrid for you, you fix that life is something that you have influenced [Music] and also explains Diana
-
-[8:58](https://www.youtube.com/watch?v=gCq4oZIOmzY&t=538s) Shanghai
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

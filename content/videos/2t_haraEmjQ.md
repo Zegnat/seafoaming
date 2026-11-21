@@ -21,22 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[2:14](https://www.youtube.com/watch?v=2t_haraEmjQ&t=134s) [Music]
-
-[3:16](https://www.youtube.com/watch?v=2t_haraEmjQ&t=196s) while
-
-[6:02](https://www.youtube.com/watch?v=2t_haraEmjQ&t=362s) Auguste Rodin forms a middle of Vinicius Times and [Music] but not
-
-[7:59](https://www.youtube.com/watch?v=2t_haraEmjQ&t=479s) bye yes [Music]
-
-[9:12](https://www.youtube.com/watch?v=2t_haraEmjQ&t=552s) sad [Music] conferred on me Klein night
-
-[10:15](https://www.youtube.com/watch?v=2t_haraEmjQ&t=615s) as [Music]
-
-[11:32](https://www.youtube.com/watch?v=2t_haraEmjQ&t=692s) everyone already [Music] [Music
-
-[13:12](https://www.youtube.com/watch?v=2t_haraEmjQ&t=792s) ] [Music] [Music] [Music] bye
-
-[18:32](https://www.youtube.com/watch?v=2t_haraEmjQ&t=1112s) [Music] i [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

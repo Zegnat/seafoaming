@@ -18,3 +18,7 @@ description = "Have some various crinkle assortments for ur earholes to enjoy wh
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

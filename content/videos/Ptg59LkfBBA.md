@@ -21,26 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:10](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=10s) person from Tokyo wow everything however j xavi 2 well friends has continuity of age in the time of trichet today
-
-[1:18](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=78s) to my house this in my life but he comes and six with this team he has lied
-
-[2:19](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=139s) efe is sad drunk 2000 spears robert fischer I have a side bayern yes let's see if I tirso the pizza
-
-[5:47](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=347s) in the little ones [Music]
-
-[7:21](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=441s) the technical plot efe what ok 5 but all llorens that has not exposed
-
-[8:29](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=509s) and go to destroy all the good ay sat down andmuch I'm
-
-[9:31](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=571s) going [Music] where efe usually
-
-[10:54](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=654s) type container crisis about the immersion of profile and well it's light years any doubt
-
-[12:15](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=735s) efe h formerly
-
-[13:32](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=812s) like the faith definition or fever the young man came from the father and rivas or labels all
-
-[14:40](https://www.youtube.com/watch?v=Ptg59LkfBBA&t=880s) d
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

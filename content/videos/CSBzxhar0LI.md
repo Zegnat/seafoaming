@@ -29,3 +29,7 @@ chapters = [
   { start = 1517, time = "25:17", title = "Final thoughts, what do you think?" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

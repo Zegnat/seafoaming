@@ -19,3 +19,7 @@ description = "I opened the door and this kitten just walked right in. Reuben my
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "You're so angry and there's steam coming from your ears! Let me h
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

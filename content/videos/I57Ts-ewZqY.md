@@ -26,36 +26,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### \<Untitled Chapter 1>
-
-[0:03](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=3s) rich corner 35
-
-### Crinky bacon cat toy
-
-[0:20](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=20s) with Beijing p yes and [Music]
-
-[2:20](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=140s) [Music] [
-
-### Bubble wrap crinkling and covering your ears
-
-[3:16](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=196s) Music] [ Applause] ah [Applause]
-
-[4:22](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=262s) [Applause] [Music] [Applause] [Applause] [Applause] [Applause] [ Music] [Music] [Music
-
-[5:22](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=322s) ] [Applause] [Music] [ Applause] [Music] more well Sting and Steve straight and as and
-
-### Tapping invisible Tic Tacs OwO
-
-[7:35](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=455s) [Applause] [Music] after
-
-[8:53](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=533s) or no no [Applause] [Music]
-
-### Tapping glass coffee jar and plastic lid
-
-[10:18](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=618s) since this is i take out ingredients in this case this historical and but life e e e
-
-[12:08](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=728s) Oh, [Music]
-
-[13:39](https://www.youtube.com/watch?v=I57Ts-ewZqY&t=819s) i
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

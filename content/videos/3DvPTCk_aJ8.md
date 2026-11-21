@@ -21,24 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:00](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=0s) sweet but girl i 27 or not bani and the Amaury crash I served i e too to me yes antich ok your baby so sucre I
-
-[1:00](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=60s) must make noise and I am [Music] I do n't think if he wants 14 well half that see country in chaos and it's that he asked me to say anyone
-
-[2:05](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=125s) again amen what ok with quotes m i [Music]
-
-[3:16](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=196s) with these creators and also ok m is not critical it's also
-
-[4:23](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=263s) [Music] and I already know lose visions change what my house yes no I die yes the snow nonstop ok shouldn't exist efe nor have planned to choose
-
-[5:26](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=326s) i this what is the crash ok [Music]
-
-[6:49](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=409s) yes and take to my house the matter I to my design sweet from your place ah yes pisa and guines caixa and I don't [Music] Christ no
-
-[8:13](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=493s) and [Music] e [Music] [Music] [ Music] [Music]
-
-[9:22](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=562s) Nissan and he looks at me and e [Music] not here city march set not that ship [Music]
-
-[11:21](https://www.youtube.com/watch?v=3DvPTCk_aJ8&t=681s) I cheered up I thought
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

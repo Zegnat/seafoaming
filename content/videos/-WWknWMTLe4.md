@@ -18,3 +18,7 @@ description = "Hewwo, today we have some relaxing hand movements! I included som
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

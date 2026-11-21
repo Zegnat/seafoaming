@@ -21,3 +21,7 @@ chapters = [
   { start = 704, time = "11:44", title = "Eating Astronaut ice cream sandwich (big CRONCH)" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

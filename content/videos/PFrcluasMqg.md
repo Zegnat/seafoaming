@@ -18,3 +18,7 @@ description = "No face/no talking this time but just pure brushie sounds! :3 In 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "I might boop you to death :D \nI made dis bideo because a few peo
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

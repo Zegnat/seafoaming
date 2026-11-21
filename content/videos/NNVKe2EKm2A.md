@@ -18,3 +18,7 @@ description = "habbi balumtimez day\n\n🌐 Social Media! 🌐\r\n💙Twitter �
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

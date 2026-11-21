@@ -23,3 +23,7 @@ chapters = [
   { start = 1159, time = "19:19", title = "Reminding you to be open seeing yourself in a nicer way, and to believe in yourself" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

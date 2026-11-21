@@ -18,3 +18,7 @@ description = "go to sleep or ill kill u\n\n🌐 Social Media! 🌐\n💙Twitter
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

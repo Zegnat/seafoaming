@@ -24,3 +24,7 @@ chapters = [
   { start = 2600, time = "43:20", title = "Big boy monster slime :3" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

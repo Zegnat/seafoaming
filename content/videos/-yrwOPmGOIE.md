@@ -24,3 +24,7 @@ chapters = [
   { start = 1026, time = "17:06", title = "Latex gloves" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

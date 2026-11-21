@@ -18,3 +18,7 @@ description = "In this video I answer some very popular questions. I was tagged 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

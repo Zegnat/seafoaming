@@ -23,3 +23,7 @@ chapters = [
   { start = 1004, time = "16:44", title = "Teeth sounds - chattering, chomping, tapping" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

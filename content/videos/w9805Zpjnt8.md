@@ -18,3 +18,7 @@ description = "Today I'm going to... cranial nerve exam you.. for something. The
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -21,3 +21,7 @@ chapters = [
   { start = 180, time = "3:00", title = "Brain exploding time :0" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

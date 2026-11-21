@@ -18,3 +18,7 @@ description = "I printed out lots of Seafoam fanart that I've gotten over the pa
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "It's been 3 years, so I figured it was time for another loooooong
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

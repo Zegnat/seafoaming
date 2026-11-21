@@ -19,3 +19,7 @@ description = "I got the bad ending!! So we decided to watch the true ending on 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

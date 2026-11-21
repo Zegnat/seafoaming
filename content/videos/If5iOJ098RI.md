@@ -21,22 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:01](https://www.youtube.com/watch?v=If5iOJ098RI&t=1s) [Music] so the waters and that 30 with tiger nuts such but nobody by aleks synthek can the truth quite what mental cyrus tells you and directed at types ah more it's not s 2 here there are tests and studies in boxing mayas
-
-[1:04](https://www.youtube.com/watch?v=If5iOJ098RI&t=64s) to portventura in first d i although here really there's no need to liven up the show and tension
-
-[2:06](https://www.youtube.com/watch?v=If5iOJ098RI&t=126s) [Music] the market margins are different although not even Carstens of this one that has a name say it's something yes [Music] 3
-
-[3:26](https://www.youtube.com/watch?v=If5iOJ098RI&t=206s) in its day for spending later [Music]
-
-[5:20](https://www.youtube.com/watch?v=If5iOJ098RI&t=320s) this I think is for them 22 after
-
-[8:15](https://www.youtube.com/watch?v=If5iOJ098RI&t=495s) that gap and before I do n't know it's
-
-[9:16](https://www.youtube.com/watch?v=If5iOJ098RI&t=556s) a perfected lincoln
-
-[10:37](https://www.youtube.com/watch?v=If5iOJ098RI&t=637s) is stable no [Music]
-
-[11:41](https://www.youtube.com/watch?v=If5iOJ098RI&t=701s) and I the fact of existing to see if I wanted
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

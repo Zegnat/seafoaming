@@ -18,3 +18,7 @@ description = "HEWWO welcome to my first sponsored video!! Today we are eating r
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

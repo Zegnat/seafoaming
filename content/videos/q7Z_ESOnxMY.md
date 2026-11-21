@@ -18,3 +18,7 @@ description = "idk why i made this \n\n💖 Support Me! 💖\n✔️Become a Mem
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

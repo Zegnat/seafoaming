@@ -18,3 +18,7 @@ description = "new fleecy hoodie :3 disregard the beefcake calendar I filmed thi
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

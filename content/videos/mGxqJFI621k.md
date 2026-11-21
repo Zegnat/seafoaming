@@ -18,3 +18,7 @@ description = "I had a few people request another match lighting video! This tim
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

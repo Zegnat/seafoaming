@@ -18,3 +18,7 @@ description = "Want more Ember? See the other dragon videos here! https://goo.gl
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

@@ -26,3 +26,7 @@ chapters = [
   { start = 843, time = "14:03", title = "All cleared up! Thank you for the meal! I'm now your personal negativity nibbler for life" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

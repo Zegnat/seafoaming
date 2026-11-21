@@ -18,3 +18,7 @@ description = "You're in need of some relaxation, so I'm here to give you a supe
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

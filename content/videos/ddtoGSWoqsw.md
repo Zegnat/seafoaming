@@ -18,3 +18,7 @@ description = "Wake up hooman! Commission by Maurice, thank you! \n\n🌐 Social
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -25,3 +25,7 @@ chapters = [
   { start = 1155, time = "19:15", title = "Finger rubbing hand sounds, pushing motions, exhale sounds" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

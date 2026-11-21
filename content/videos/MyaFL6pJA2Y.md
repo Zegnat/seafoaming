@@ -23,3 +23,7 @@ chapters = [
   { start = 770, time = "12:50", title = "Hardcover book" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

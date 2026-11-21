@@ -18,3 +18,7 @@ description = "Shush! This is the last video I filmed on my old duopop mic befor
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -28,3 +28,7 @@ chapters = [
   { start = 990, time = "16:30", title = "Treatment complete!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

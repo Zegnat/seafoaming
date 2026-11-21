@@ -18,3 +18,7 @@ description = "Random bideo I filmed suddenly today because I was like IM GONNA 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "SKIP TO 3:27 FOR FABRIC SCRATCHING! :3\nBig thanks to my April pa
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

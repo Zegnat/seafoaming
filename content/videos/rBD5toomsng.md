@@ -18,3 +18,7 @@ description = "This bideo was a request from Wizard! Wearing my fangs so my voic
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

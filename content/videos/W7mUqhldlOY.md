@@ -20,3 +20,7 @@ chapters = [
   { start = 304, time = "5:04", title = "SMOOOOOCH for you buddy. Thanks to my $5+ patrons this month!! Triggers begin at" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "You are now my arch nemesis!!! Prepare for endless suffering!\n\n
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

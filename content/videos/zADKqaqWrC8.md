@@ -18,3 +18,7 @@ description = "I looped it to an hour so you can listen for a long time and let 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

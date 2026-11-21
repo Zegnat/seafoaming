@@ -23,18 +23,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### Intro, reading your names
-
-[0:11](https://www.youtube.com/watch?v=IUduukPtF0w&t=11s) of and [Music]
-
-### Humming
-
-[5:05](https://www.youtube.com/watch?v=IUduukPtF0w&t=305s) [Music] [Music]
-
-[8:13](https://www.youtube.com/watch?v=IUduukPtF0w&t=493s) [Music] [Music] [Music]
-
-[10:16](https://www.youtube.com/watch?v=IUduukPtF0w&t=616s) [Music] [Music] [ Music] [Music] [Music] [Music] [Music
-
-[11:37](https://www.youtube.com/watch?v=IUduukPtF0w&t=697s) ]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

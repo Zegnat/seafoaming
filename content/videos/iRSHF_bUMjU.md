@@ -18,3 +18,7 @@ description = "I haven't seen many bideos with this trigger but I really love th
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

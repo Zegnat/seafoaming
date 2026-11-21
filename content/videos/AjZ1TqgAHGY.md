@@ -25,3 +25,7 @@ chapters = [
   { start = 1243, time = "20:43", title = "Unicorn makeup brush! Mic brushing, soft whisper" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

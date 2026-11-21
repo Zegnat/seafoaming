@@ -18,3 +18,7 @@ description = "Thank you so much to everyone who helps me on Patreon ^_^ In this
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

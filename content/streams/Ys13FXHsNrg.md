@@ -19,3 +19,7 @@ description = "It was my birthday, I'm 25 years old and officially MID TWENTIES 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

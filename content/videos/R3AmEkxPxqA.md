@@ -23,3 +23,7 @@ chapters = [
   { start = 1970, time = "32:50", title = "Eating pop rocks" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "**Ear cleaning starts at 3:12**\nI hope you enjoy me cleaning you
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

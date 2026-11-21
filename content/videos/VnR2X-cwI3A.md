@@ -29,3 +29,7 @@ chapters = [
   { start = 810, time = "13:30", title = "Your lesson for today & closing rambles" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

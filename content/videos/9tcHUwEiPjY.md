@@ -18,3 +18,7 @@ description = "This was a commission for Lucy! In this bideo Smol Idiot Vampire 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

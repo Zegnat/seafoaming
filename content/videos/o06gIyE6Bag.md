@@ -27,3 +27,7 @@ chapters = [
   { start = 656, time = "10:56", title = "Goodnight sweet dreams!!!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

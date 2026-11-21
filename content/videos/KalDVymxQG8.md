@@ -24,3 +24,7 @@ chapters = [
   { start = 1050, time = "17:30", title = "Floofing your face as a treat" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -18,3 +18,7 @@ description = "It's time to sleeeeep :3\nThis video has super close up whispers,
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

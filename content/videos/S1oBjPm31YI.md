@@ -20,3 +20,7 @@ chapters = [
   { start = 530, time = "8:50", title = "Trigger time! Fluffy mic massage" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

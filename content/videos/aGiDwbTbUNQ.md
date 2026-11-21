@@ -18,3 +18,7 @@ description = "I asked you guys on Twitter what your most tingly trigger words a
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

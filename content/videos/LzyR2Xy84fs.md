@@ -21,18 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:00](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=0s) and brutal
-
-[2:18](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=138s) 16
-
-[4:18](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=258s) [Music] swing here 1 fine dixit and fine
-
-[5:27](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=327s) at night yes who doesn't trichet and then innovate h sincerely siemens so so
-
-[6:31](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=391s) to them m [Music] on top yes as memphis [Music]
-
-[7:44](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=464s) although I feel uy with identical I would like all this dv
-
-[8:46](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=526s) yes district don't love me the people more
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

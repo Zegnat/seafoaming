@@ -24,3 +24,7 @@ chapters = [
   { start = 1170, time = "19:30", title = "Pipe cleaner pack [softer crinkle, fluffy sounds]" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

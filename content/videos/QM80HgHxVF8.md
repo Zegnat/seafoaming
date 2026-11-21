@@ -25,3 +25,7 @@ chapters = [
   { start = 1179, time = "19:39", title = "Ear brushing and blowing sounds" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

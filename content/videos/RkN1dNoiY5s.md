@@ -21,20 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:04](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=4s) [Music] who knows but varies [Music] you can't taiz i in restrict frank gens angry enough in Mayan family
-
-[1:28](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=88s) in six days ok I go mons [Music] vivona tracing the failed sticker
-
-[3:04](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=184s) he ning baja [Music]
-
-[4:29](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=269s) i e ah
-
-[5:36](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=336s) [Music] as and the racing more than chile [Music] ah
-
-[8:40](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=520s) what why [Music]
-
-[11:08](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=668s) in this ah
-
-[14:35](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=875s) and
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

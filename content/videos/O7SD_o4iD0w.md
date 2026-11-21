@@ -18,3 +18,7 @@ description = "This was a commission for Matthew Stevens ^_^ So thank him for ma
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

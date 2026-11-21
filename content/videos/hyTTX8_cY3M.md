@@ -32,3 +32,7 @@ chapters = [
   { start = 1627, time = "27:07", title = "Let's go snuggle!" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

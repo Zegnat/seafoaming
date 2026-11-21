@@ -18,3 +18,7 @@ description = "[Thanks to Lenovo for today's sponsor! They sent me their newest 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

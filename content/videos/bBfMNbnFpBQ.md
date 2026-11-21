@@ -18,3 +18,7 @@ description = "Thank you so much to my $5+ patrons!! I hope you enjoy the whispe
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -21,3 +21,7 @@ chapters = [
   { start = 558, time = "9:18", title = "Gum chewing with breathy whispers and some bubble blowing" },
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

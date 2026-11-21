@@ -18,3 +18,7 @@ description = "Relax and hang out with your special talking pupper :3 She sniffs
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

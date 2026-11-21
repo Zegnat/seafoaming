@@ -18,3 +18,7 @@ description = "tappity tap and clickity clack :D\n\n🌐 Social Media! 🌐\n�
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

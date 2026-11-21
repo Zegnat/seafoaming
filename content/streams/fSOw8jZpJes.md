@@ -18,3 +18,7 @@ description = "Enjoy some cozy relaxation while I do an assortment of triggers. 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

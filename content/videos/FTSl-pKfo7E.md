@@ -31,44 +31,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### Face touching, personal attention
-
-[0:14](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=14s) character
-
-[1:21](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=81s) a bit like our sky my people and
-
-### Cotton swab, cleaning your wounds
-
-[2:29](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=149s) such choice Garcia I floor excellent and studying
-
-[3:43](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=223s) my son had a bit more realism planned
-
-### Bandaid, crinkly and sticky sounds
-
-[4:08](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=248s) Scott Dixon
-
-### Water shaking
-
-[4:50](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=290s) the moment [Music] and yes you Michigan
-
-### Spray sounds, healing potion
-
-[5:58](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=358s) yes I have more [Music]
-
-### Crunchy eating sounds
-
-[7:29](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=449s) and fields to progress
-
-### Face touching, affirmations
-
-[7:44](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=464s) associated and broad file or encouraged to ok with blood ok active and little more I am listen or jeter no no and you will not have to
-
-[8:45](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=525s) before I had massive 6 the floor Escobar 2 what you see I keep ok
-
-### ȅ̮̾ͬ̍͐͗̔̀̀R̻͈̩̉͋ͩ͌͗ͭ̀͂̿R̨͇̱͔̰̹̈́ͬͅO̤̗̱̭͚̝ͣ̍ͫ͋R̴̲̱͐̈ͪ̀̓̀:̛̱̻̮̰̗̋̆͛͒̍ͣ ̀ͪ̋͘ͅͅḾ͇̮͔͓̟͓ͫͤ̆͐ͨ̅͆͗i̗͕͔̔̌ͦ͛ͯ͌ͭ̚s̹̼̖͐̏͊̋ͭ͋͑š̴̨̥͔̞̱̅͊͌ͮ̎ͬ̋͞ͅi̻̺͔͍̰̪̱̍͊͐̉̈̈́̀͝ͅn̸̵̛̙͐̃̈g̠̗̘ͮͪ̇̿͒͗̃͊́͘N̨̝͎ͭͤ̂͟͡Ọ̢͎̱̰̱͒͛̏ͅ
-
-[9:32](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=572s) but there is no need and Svensson my bike fix I slept no [Music] Martí D in the country yes yes well little hand expresses
-
-[10:40](https://www.youtube.com/watch?v=FTSl-pKfo7E&t=640s) skiing ah design [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

@@ -18,3 +18,7 @@ description = "If you're feeling sad or lonely, look no further! I'm here to giv
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

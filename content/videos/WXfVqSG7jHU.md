@@ -19,3 +19,7 @@ description = "I made dis slime. Boyfren was playing LoL loudly in the backgroun
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

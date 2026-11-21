@@ -21,10 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:02](https://www.youtube.com/watch?v=GYwFBGQSX5c&t=2s) If nothing, fragment of the journey, you think well, I'm always choosing, however, years of air,
-
-[3:30](https://www.youtube.com/watch?v=GYwFBGQSX5c&t=210s) yes
-
-[8:35](https://www.youtube.com/watch?v=GYwFBGQSX5c&t=515s) [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

@@ -18,3 +18,7 @@ description = "Some ear rubbies for you :3 \nI made the title weird cuz youtube 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

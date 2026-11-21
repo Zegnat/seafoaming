@@ -18,3 +18,7 @@ description = "Another match lighting bideo! Who likes the sound of matches ? I 
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

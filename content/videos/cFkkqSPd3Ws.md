@@ -18,3 +18,7 @@ description = "Enjoy some binaural ear-to-ear sounds with me :3 Ear massage, ear
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

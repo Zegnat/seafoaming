@@ -19,3 +19,7 @@ description = "Im fish-sitting for my mom. She had him in a tiny half gallon tan
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

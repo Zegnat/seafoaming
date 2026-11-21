@@ -18,3 +18,7 @@ description = "Obsessed girl eats your hair affectionately :3 \n\n💖 Support M
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

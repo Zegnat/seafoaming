@@ -27,48 +27,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### Exposition n junk
-
-[0:00](https://www.youtube.com/watch?v=7KJyur2y4H8&t=0s) and followed more elusive here goes from no one external if you and without pressure ok but the demand has increased but dude that they chis the reason for being good and yes and not even you little
-
-[1:00](https://www.youtube.com/watch?v=7KJyur2y4H8&t=60s) unique 5 I efe in fact this skills here 103 70 busquets what we feel
-
-### Water shaking and spraying
-
-[2:02](https://www.youtube.com/watch?v=7KJyur2y4H8&t=122s) yes and although affecting and I abstained laughs as i the immense nothing themselves
-
-[3:19](https://www.youtube.com/watch?v=7KJyur2y4H8&t=199s) and Ourense numbers 3 where or what was I going to have 3 [Music] knew I hid you're far away
-
-### Tweezer sounds and "pick pick peck"
-
-[4:21](https://www.youtube.com/watch?v=7KJyur2y4H8&t=261s) i to activities and the ruin cold i
-
-[6:01](https://www.youtube.com/watch?v=7KJyur2y4H8&t=361s) take I have no sense here Mick the gray of the theme of so much success I am gold
-
-### Flashlight visual triggers and wow ur eyes are pretty
-
-[6:23](https://www.youtube.com/watch?v=7KJyur2y4H8&t=383s) [Music] yes she why in honor of this new
-
-[7:24](https://www.youtube.com/watch?v=7KJyur2y4H8&t=444s) and I think I have to these d gray hairs other dates / fran colors text I've been in 3D
-
-[8:26](https://www.youtube.com/watch?v=7KJyur2y4H8&t=506s) is auditory affinity works can yes friends
-
-### Lotion sounds and intense ear massage
-
-[8:47](https://www.youtube.com/watch?v=7KJyur2y4H8&t=527s) corner more who of makeup to my neighbor from Skype Holland does n't believe me
-
-[10:07](https://www.youtube.com/watch?v=7KJyur2y4H8&t=607s) well I want to steal 6 here no and or no and here
-
-[11:38](https://www.youtube.com/watch?v=7KJyur2y4H8&t=698s) close of doubt and defeated why and yes sometimes 2 was hard where I joined appointments
-
-[12:38](https://www.youtube.com/watch?v=7KJyur2y4H8&t=758s) the works on a mission to mothers visits and then it They gave it is very firm 0 hits an abyss is betrayed all the lord more than Cheste Walker but yes city
-
-[13:46](https://www.youtube.com/watch?v=7KJyur2y4H8&t=826s) 3 I'm going where no spirit in if you're listening and now Benitez no salvation interesting Siemens skills nor of me m and you Spanish Marchi [Music]
-
-### Mouth sounds / ear eating
-
-[17:37](https://www.youtube.com/watch?v=7KJyur2y4H8&t=1057s) and
-
-[19:08](https://www.youtube.com/watch?v=7KJyur2y4H8&t=1148s) Seville says that I am you said that nothing for me
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

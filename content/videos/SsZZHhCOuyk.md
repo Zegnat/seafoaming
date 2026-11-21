@@ -17,3 +17,7 @@ description = "Enjoy some gud crinkles and rambles :3\n\n🌐 Social Media! 🌐
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

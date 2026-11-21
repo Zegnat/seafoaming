@@ -19,3 +19,7 @@ description = "Hope you guys enjoyed it :D\n\n🌐 Social Media! 🌐\n💙Twitt
 chapters = [
 ]
 +++
+
+## Transcript
+
+YouTube has no captions for this video, so the wiki has no transcript of it yet.

@@ -21,14 +21,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-[0:03](https://www.youtube.com/watch?v=BakIoDrM-s8&t=3s) [Music]
-
-[1:33](https://www.youtube.com/watch?v=BakIoDrM-s8&t=93s) images
-
-[2:41](https://www.youtube.com/watch?v=BakIoDrM-s8&t=161s) well ah in ombudsman message [Music] be well and 4cast with them if he in Verín [Music]
-
-[3:41](https://www.youtube.com/watch?v=BakIoDrM-s8&t=221s) understand me Tomic from Paris Washington efe this order [Music] Pisces family people crisis campaign binary [Music] [Music] it 's easy
-
-[5:08](https://www.youtube.com/watch?v=BakIoDrM-s8&t=308s) I feel this day the cancer yes [Music]
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

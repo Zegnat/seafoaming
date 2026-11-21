@@ -23,20 +23,4 @@ chapters = [
 
 ## Transcript
 
-This transcript comes from the automatic captions of YouTube.
-
-### \<Untitled Chapter 1>
-
-[0:00](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=0s) web change in to 36 interior yes mayer week 3 for me amen yes 9 fit
-
-[1:02](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=62s) and time change kiko team this is good efe bye paris h funes you see they are like that
-
-[2:08](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=128s) sky / george karl joseph kahn after henderson today [Music] stay fake yes
-
-[3:20](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=200s) andoain [Music] book I had if you see me who I am continent domenech [Music] if it doesn't die night there is no day as [Music]
-
-[4:48](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=288s) mixed
-
-### Skip to hair brushing
-
-[9:25](https://www.youtube.com/watch?v=CM0IO-NlQKU&t=565s) d
+YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.
