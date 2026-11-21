@@ -45,8 +45,9 @@
 <p><a href="{{ url }}">Watch on YouTube</a></p>
 {# Our own thumbnail as the poster, over the blurred placeholder. With a background set, lite-youtube-embed loads no poster from YouTube. #}
 {% set poster = "url('" ~ root ~ "thumbs/" ~ page.extra.id ~ "-640.webp')" if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-640.webp", allow_missing=true) else "" %}
-{# rel=0 limits the suggestions to this channel; YouTube no longer allows turning them off. #}
-<lite-youtube videoid="{{ page.extra.id }}" params="rel=0" title="{{ page.title }}" playlabel="Play: {{ page.title }}"{% if poster %} style="background-image: {{ poster }}{% if page.extra.placeholder %}, url('{{ page.extra.placeholder }}'){% endif %}"{% endif %}></lite-youtube>
+{# rel=0 limits the suggestions to this channel; YouTube no longer allows turning them off.
+   enablejsapi=1 lets site.js jump to the time of a chapter or transcript link in this player. #}
+<lite-youtube videoid="{{ page.extra.id }}" params="rel=0&enablejsapi=1" title="{{ page.title }}" playlabel="Play: {{ page.title }}"{% if poster %} style="background-image: {{ poster }}{% if page.extra.placeholder %}, url('{{ page.extra.placeholder }}'){% endif %}"{% endif %}></lite-youtube>
 {% endif %}
 {% if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-1-320.webp", allow_missing=true) %}
 <div class="strip">
