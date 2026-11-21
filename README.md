@@ -17,9 +17,10 @@ A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.
 | `content/streams/`    | One page for each live stream recording | Generated            |
 | `content/playlists/`  | One page for each playlist             | Generated            |
 | `content/characters/` | One page for each character            | Written by hand      |
+| `community/videos/`   | Notes, audio links and transcripts     | Written by hand      |
 | `static/thumbs/`      | Video thumbnails as WebP               | Generated            |
 
-Do not edit the generated pages, because the next update overwrites them. Put all knowledge about characters on the character pages.
+Do not edit the generated pages, because the next update overwrites them. Put all knowledge about characters on the character pages. Put information about a single video, such as links to audio platforms, notes or a written transcript, in `community/videos/`. The file `community/README.md` explains the format.
 
 To link a character to a video, add the video ID to the `videos` list in the front matter of the character page. The video page then shows the character, and the character page shows the video.
 

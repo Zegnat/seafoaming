@@ -1,4 +1,4 @@
-import { classify, parseVtt, timestamp } from "./generate.ts";
+import { classify, parseCommunity, parseVtt, timestamp } from "./generate.ts";
 
 function equal(actual: unknown, expected: unknown) {
   if (JSON.stringify(actual) !== JSON.stringify(expected)) {
@@ -46,4 +46,24 @@ Deno.test("classify turns YouTube errors into statuses", () => {
       { status: "unavailable", by: null },
     ],
   );
+});
+
+Deno.test("parseCommunity splits data, notes and a written transcript", () => {
+  const text = `+++
+spotify = "https://open.spotify.com/episode/1"
+apple_music = ""
++++
+
+Recorded in the new studio.
+
+## Transcript
+
+Hello, welcome back.
+`;
+  equal(parseCommunity(text), {
+    data: { spotify: "https://open.spotify.com/episode/1", apple_music: "" },
+    notes: "Recorded in the new studio.",
+    transcript: "Hello, welcome back.",
+  });
+  equal(parseCommunity("Only notes."), { data: {}, notes: "Only notes.", transcript: "" });
 });

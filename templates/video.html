@@ -24,6 +24,7 @@
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments_off %}<tr><th>Comments</th><td>Turned off</td></tr>{% elif page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
+{% if page.extra.spotify or page.extra.apple_music %}<tr><th>Listen</th><td>{% if page.extra.spotify %}<a href="{{ page.extra.spotify }}">{{<icon name="brands/spotify" />}} Spotify</a>{% endif %}{% if page.extra.spotify and page.extra.apple_music %}, {% endif %}{% if page.extra.apple_music %}<a href="{{ page.extra.apple_music }}">{{<icon name="brands/applemusic" />}} Apple Music</a>{% endif %}</td></tr>{% endif %}
 <tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
 {% set characters = get_section(path="characters/_index.md") %}
@@ -59,3 +60,4 @@
 {% endif %}
 {{ page.content | safe }}
 {% endblock %}
+{% block edit %}<p class="edit"><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if "/new/" in page.extra.edit_url %}Add community information about this video on GitHub{% else %}Edit the community information about this video on GitHub{% endif %}</a></p>{% endblock %}

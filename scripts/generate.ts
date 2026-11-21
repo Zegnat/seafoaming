@@ -1,8 +1,12 @@
 // Generate Zola Markdown pages for videos, streams and playlists from .cache/.
 
+import { parse as parseToml } from "@std/toml";
+
 const ROOT = new URL("..", import.meta.url).pathname;
 const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
+const COMMUNITY = `${ROOT}community/videos`;
+const REPOSITORY = "https://github.com/Zegnat/seafoaming";
 const PARAGRAPH_SECONDS = 60;
 const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
 const LANGUAGES = new Intl.DisplayNames(["en"], { type: "language" });
@@ -47,6 +51,43 @@ export function parseVtt(text: string) {
   return lines;
 }
 
+// Data that the community adds to a video, in community/videos/<id>.md. The generator never writes those files.
+export function parseCommunity(text: string) {
+  const match = text.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n?([\s\S]*)$/);
+  const data = match ? parseToml(match[1]) as Record<string, unknown> : {};
+  const body = (match ? match[2] : text).trim();
+  // A "## Transcript" section replaces the captions from YouTube.
+  const split = body.search(/^## Transcript\s*$/m);
+  const notes = (split === -1 ? body : body.slice(0, split)).trim();
+  const transcript = split === -1 ? "" : body.slice(split).replace(/^## Transcript\s*\n/, "").trim();
+  return { data, notes, transcript };
+}
+
+function community(info: Info) {
+  const path = `${COMMUNITY}/${info.id}.md`;
+  if (exists(path)) {
+    return {
+      ...parseCommunity(Deno.readTextFileSync(path)),
+      edit: `${REPOSITORY}/edit/main/community/videos/${info.id}.md`,
+    };
+  }
+  // GitHub opens a new file with this name and starting text.
+  const starter = [
+    "+++",
+    `# Community data for "${info.title}"`,
+    `# https://www.youtube.com/watch?v=${info.id}`,
+    "# Links to the same recording on audio platforms. Remove the lines that you do not use.",
+    'spotify = ""',
+    'apple_music = ""',
+    "+++",
+    "",
+    "<!-- Write notes about the video below, in Markdown. To replace the captions from YouTube, add a section that starts with the heading: ## Transcript -->",
+    "",
+  ].join("\n");
+  const query = new URLSearchParams({ filename: `community/videos/${info.id}.md`, value: starter });
+  return { data: {}, notes: "", transcript: "", edit: `${REPOSITORY}/new/main?${query}` };
+}
+
 const escapeMarkdown = (text: string) => text.replace(/([\\`*_<])/g, "\\$1");
 
 function exists(path: string) {
@@ -69,7 +110,10 @@ function subtitleFile(info: Info): [string | null, boolean] {
   return [null, false];
 }
 
-function transcript(info: Info) {
+function transcript(info: Info, written: string) {
+  if (written) {
+    return ["## Transcript", "", "The community wrote this transcript.", "", written, ""].join("\n");
+  }
   const [path, manual] = subtitleFile(info);
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
@@ -129,6 +173,8 @@ function readStatus(id: string) {
 }
 
 function videoPage(info: Info, placeholder: string | null) {
+  const extra = community(info);
+  const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
   const gone = readStatus(info.id);
   const status = gone?.status ??
     ({ unlisted: "unlisted", subscriber_only: "members-only" } as Record<string, string>)[info.availability] ?? null;
@@ -153,6 +199,9 @@ function videoPage(info: Info, placeholder: string | null) {
     `language = ${toml(info.language)}`,
     `language_name = ${toml(info.language ? LANGUAGES.of(info.language) : null)}`,
     `placeholder = ${toml(placeholder)}`,
+    `spotify = ${toml(link("spotify"))}`,
+    `apple_music = ${toml(link("apple_music"))}`,
+    `edit_url = ${toml(extra.edit)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
@@ -171,7 +220,10 @@ function videoPage(info: Info, placeholder: string | null) {
     "",
   ];
   // TOML has no null, so drop keys that YouTube did not give.
-  return front.filter((line) => !line.endsWith("= null")).join("\n") + transcript(info);
+  const notes = extra.notes
+    ? (extra.notes.startsWith("## ") ? extra.notes : `## Notes\n\n${extra.notes}`) + "\n\n"
+    : "";
+  return front.filter((line) => !line.endsWith("= null")).join("\n") + notes + transcript(info, extra.transcript);
 }
 
 function playlistPage(data: Info, placeholders: Map<string, string | null>) {

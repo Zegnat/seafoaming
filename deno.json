@@ -1,9 +1,10 @@
 {
   "imports": {
     "@std/encoding": "jsr:@std/encoding@1",
+    "@std/toml": "jsr:@std/toml@1",
+    "esbuild": "npm:esbuild@0.28.2",
     "sharp": "npm:sharp@0.34.5",
-    "thumbhash": "npm:thumbhash@0.1.1",
-    "esbuild": "npm:esbuild@0.28.2"
+    "thumbhash": "npm:thumbhash@0.1.1"
   },
   "nodeModulesDir": "auto",
   "tasks": {
