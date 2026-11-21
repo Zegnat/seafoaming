@@ -24,9 +24,12 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable caption { text-align: left; font-weight: bold; padding: 0.2em 0; }
 .sortable th button { font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
 .sortable th button:hover, .sortable th button:focus-visible { text-decoration: underline; }
-.sortable th button span::after { content: "\2195"; margin-left: 0.3em; color: #72777d; }
-.sortable th[aria-sort="ascending"] button span::after { content: "\25B2"; color: inherit; }
-.sortable th[aria-sort="descending"] button span::after { content: "\25BC"; color: inherit; }
+.sortable th button .sort { margin-left: 0.3em; }
+.sortable th button .sort .icon { display: none; }
+.sortable th:not([aria-sort]) button .sort .icon:nth-child(1),
+.sortable th[aria-sort="ascending"] button .sort .icon:nth-child(2),
+.sortable th[aria-sort="descending"] button .sort .icon:nth-child(3) { display: inline; }
+.sortable th:not([aria-sort]) button .sort .icon { color: #72777d; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .icon svg { width: var(--size); height: var(--size); vertical-align: -3px; }
 .grid .icon svg { display: block; margin: auto; }

@@ -19,10 +19,10 @@
 <thead>
 <tr>
 <th><span class="sr-only">Thumbnail</span></th>
-<th><button>Title<span aria-hidden="true"></span></button></th>
-<th{% if order %} aria-sort="{{ order }}"{% endif %}><button>Date<span aria-hidden="true"></span></button></th>
-<th class="num"><button>Length<span aria-hidden="true"></span></button></th>
-<th class="num"><button>Views<span aria-hidden="true"></span></button></th>
+<th><button>Title{{<sort_icons kind="letters" />}}</button></th>
+<th{% if order %} aria-sort="{{ order }}"{% endif %}><button>Date{{<sort_icons />}}</button></th>
+<th class="num"><button>Length{{<sort_icons kind="numbers" />}}</button></th>
+<th class="num"><button>Views{{<sort_icons kind="numbers" />}}</button></th>
 </tr>
 </thead>
 <tbody>
@@ -58,3 +58,9 @@
 {% set labels = {"unlisted": "Unlisted", "members-only": "Members only", "private": "Private", "removed": "Removed", "unavailable": "Unavailable"} %}
 {% if status in labels %} <span class="tag tag-{{ status }}">{{ labels[status] }}</span>{% endif %}{% if age_restricted %} <span class="tag">Age-restricted</span>{% endif %}
 {% endcomponent tags %}
+
+{# The three sort states of a column header; CSS shows the one that matches aria-sort. kind is "letters", "numbers" or "". #}
+{% component sort_icons(kind: string = "") %}
+{% set suffix = "-" ~ kind if kind else "" %}
+<span aria-hidden="true" class="sort">{{<icon name="arrows-sort" />}}{{<icon name={"sort-ascending" ~ suffix} />}}{{<icon name={"sort-descending" ~ suffix} />}}</span>
+{% endcomponent sort_icons %}
