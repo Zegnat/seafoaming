@@ -33,6 +33,6 @@
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
 {% block content %}{{ section.content | safe }}{% endblock %}
 </main>
-<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">{{<icon name="creative-commons-by" />}}Some rights reserved</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
+<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">{{<icon name="creative-commons-by" />}}Some rights reserved</a> · <a href="{{ root }}privacy/">{{<icon name="cookie-off" />}}Privacy</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
 </body>
 </html>
