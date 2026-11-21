@@ -36,7 +36,7 @@ To link a character to a video, add the video ID to the `videos` list in the fro
    mise exec -- deno task generate
    ```
 
-The fetch script needs some hours for the full channel, because it waits between requests to YouTube.
+The fetch script only downloads videos that are not in `.cache/` yet. To download all videos again, for example for new view counts, run `deno task fetch --refresh`. The fetch script waits between requests, so a refresh of the full channel needs some hours. If YouTube reports a rate limit, wait one hour and run the fetch script again.
 
 ## Build the site
 
