@@ -6,7 +6,10 @@
 {# The tables show 160 pixel wide thumbnails, so the 320 pixel snapshots are sharp; larger thumbnails use 640. #}
 {% set size = 320 if width <= 160 else 640 %}
 {% set previews = [root ~ file ~ "-" ~ n ~ "-" ~ size ~ ".webp" for n in [1, 2, 3]] %}
-<a class="thumb" href="{{ href }}"{% if snapshot %} style="{% for url in previews %}--t{{ loop.index }}: url('{{ url }}');{% endfor %}" data-previews="{{ previews | join(sep=' ') }}"{% endif %}><img src="{{ root }}{{ file }}-320.webp" srcset="{{ root }}{{ file }}-320.webp 320w, {{ root }}{{ file }}-640.webp 640w" sizes="{{ width }}px" alt="{{ title }}" width="{{ width }}" height="{{ width * 9 // 16 }}"{% if placeholder %} style="background: url('{{ placeholder }}') center / cover"{% endif %}{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}></a>
+{# A relative url() in a custom property resolves against style.css, not this page. A path from the site root works for both. #}
+{% set site = get_url(path="") | split(pat="/") %}{% set path = site[3:] | join(sep="/") %}
+{% set base = "/" ~ path ~ ("/" if path else "") %}
+<a class="thumb" href="{{ href }}"{% if snapshot %} style="{% for n in [1, 2, 3] %}--t{{ n }}: url('{{ base }}{{ file }}-{{ n }}-{{ size }}.webp');{% endfor %}" data-previews="{{ previews | join(sep=' ') }}"{% endif %}><img src="{{ root }}{{ file }}-320.webp" srcset="{{ root }}{{ file }}-320.webp 320w, {{ root }}{{ file }}-640.webp 640w" sizes="{{ width }}px" alt="{{ title }}" width="{{ width }}" height="{{ width * 9 // 16 }}"{% if placeholder %} style="background: url('{{ placeholder }}') center / cover"{% endif %}{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}></a>
 {% endcomponent thumb %}
 
 {# Trims its own whitespace, so a link with an icon does not underline spaces around it. #}
