@@ -18,5 +18,5 @@
 <p><a href="{{ url }}">View on YouTube</a></p>
 {% if page.extra.description %}<p class="description">{{ page.extra.description | escape_html | newlines_to_br | safe }}</p>{% endif %}
 {{ page.content | safe }}
-{{<video_table entries={page.extra.videos} pages={local} />}}
+{{<video_table entries={page.extra.videos} pages={local} caption={"Videos in " ~ page.title} />}}
 {% endblock %}

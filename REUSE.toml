@@ -32,3 +32,8 @@ SPDX-License-Identifier = "CC-BY-4.0"
 path = "static/vendor/lite-youtube-embed/**"
 SPDX-FileCopyrightText = "2019 Paul Irish"
 SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = "static/vendor/aria-practices/**"
+SPDX-FileCopyrightText = "World Wide Web Consortium"
+SPDX-License-Identifier = "W3C-20150513"

@@ -2,15 +2,26 @@
 {% block content %}
 {{ section.content | safe }}
 <table class="wikitable sortable">
-<tr><th></th><th aria-sort="ascending">Title</th><th>Videos</th><th>Views</th><th>Last updated</th></tr>
+<caption>Playlists<span class="sr-only">, column headers with buttons are sortable</span></caption>
+<thead>
+<tr>
+<th><span class="sr-only">Thumbnails</span></th>
+<th aria-sort="ascending"><button>Title<span aria-hidden="true"></span></button></th>
+<th class="num"><button>Videos<span aria-hidden="true"></span></button></th>
+<th class="num"><button>Views<span aria-hidden="true"></span></button></th>
+<th><button>Last updated<span aria-hidden="true"></span></button></th>
+</tr>
+</thead>
+<tbody>
 {% for p in section.pages %}
 <tr>
 <td>{% if p.extra.stack %}{{<stack ids={p.extra.stack} href={p.permalink} title={p.title} />}}{% endif %}</td>
 <td><a href="{{ p.permalink }}">{{ p.title }}</a></td>
 <td class="num">{{ p.extra.videos | length }}</td>
-<td class="num" data-sort="{{ p.extra.views or '' }}">{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
+<td class="num"><span hidden>{{ p.extra.views or -1 }} </span>{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
 <td>{% if p.extra.updated %}{{ p.extra.updated }}{% endif %}</td>
 </tr>
 {% endfor %}
+</tbody>
 </table>
 {% endblock %}

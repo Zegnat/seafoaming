@@ -1,5 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
 {{ section.content | safe }}
-{{<video_table entries={[{"id": p.extra.id, "title": p.title} for p in section.pages]} pages={section.pages} order="descending" />}}
+{{<video_table entries={[{"id": p.extra.id, "title": p.title} for p in section.pages]} pages={section.pages} caption={section.title} order="descending" />}}
 {% endblock %}
