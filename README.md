@@ -53,7 +53,7 @@ To preview the site while you edit it, run:
 mise exec -- zola serve
 ```
 
-To build the site for publication, run the command below. It builds the site into `public/` and minifies the JavaScript of `static/site.js`. Zola itself compiles and compresses the stylesheet from `sass/` and minifies the HTML.
+To build the site for publication, run the command below. Zola builds the site into `public/`, compiles the stylesheet from `sass/` and minifies the HTML. Then `scripts/build.ts` combines all stylesheets into one minified `style.css` and all scripts into one minified `site.js`, with the license notices of the vendored code. `zola serve` loads the separate files, so they stay easy to debug.
 
 ```sh
 mise exec -- deno task build

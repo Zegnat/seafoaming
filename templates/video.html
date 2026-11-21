@@ -1,8 +1,10 @@
 {% extends "base.html" %}
 {% block head %}
 {% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
+{% if config.mode != "build" %}
 <link rel="stylesheet" href="{{ root }}vendor/lite-youtube-embed/lite-yt-embed.css">
 <script src="{{ root }}vendor/lite-youtube-embed/lite-yt-embed.js" defer></script>
+{% endif %}
 {% endblock %}
 {% block content %}
 {% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}

@@ -5,8 +5,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %} - {{ config.title }}{% endblock %}</title>
+{# In build mode, scripts/build.ts has combined all stylesheets and scripts into these two files. #}
 <link rel="stylesheet" href="{{ root }}style.css">
-<script src="{{ root }}vendor/aria-practices/sortable-table.js" defer></script>
+{% if config.mode != "build" %}<script src="{{ root }}vendor/aria-practices/sortable-table.js" defer></script>{% endif %}
 <script src="{{ root }}site.js"></script>
 <script type="speculationrules">{"prefetch": [{"where": {"href_matches": "{{ root }}*"}, "eagerness": "moderate"}]}</script>
 {% block head %}{% endblock %}
