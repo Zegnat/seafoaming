@@ -12,6 +12,8 @@ async function ytDlp(args: string[], inherit = true) {
 }
 
 const refresh = Deno.args.includes("--refresh");
+// Other arguments go to yt-dlp, for example --cookies-from-browser for age-restricted videos.
+const extra = Deno.args.filter((arg) => arg !== "--refresh");
 const lines = async (args: string[]) => (await ytDlp(args, false)).split("\n").filter(Boolean);
 const ids = (dir: string, suffix: string) =>
   new Set(
@@ -50,6 +52,7 @@ if (todo.length) {
     "--preset-alias",
     "sleep",
     "--ignore-errors",
+    ...extra,
     "-o",
     ".cache/videos/%(id)s.%(ext)s",
     ...todo.map((id) => `https://www.youtube.com/watch?v=${id}`),
