@@ -47,8 +47,16 @@ mise exec -- deno task fetch --cookies-from-browser firefox
 
 ## Build the site
 
+To preview the site while you edit it, run:
+
 ```sh
 mise exec -- zola serve
+```
+
+To build the site for publication, run the command below. It builds the site into `public/` and minifies the JavaScript of `static/site.js`. Zola itself compiles and compresses the stylesheet from `sass/` and minifies the HTML.
+
+```sh
+mise exec -- deno task build
 ```
 
 ## Check the files

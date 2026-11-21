@@ -5,7 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %} - {{ config.title }}{% endblock %}</title>
 <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
-<script src="{{ get_url(path='sort.js') }}" defer></script>
+<script src="{{ get_url(path='vendor/aria-practices/sortable-table.js') }}" defer></script>
+<script src="{{ get_url(path='site.js') }}"></script>
+<script type="speculationrules">{"prefetch": [{"where": {"href_matches": "{{ get_url(path='') }}/*"}, "eagerness": "moderate"}]}</script>
 {% block head %}{% endblock %}
 </head>
 <body>

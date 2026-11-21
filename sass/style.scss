@@ -21,10 +21,13 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable { border-collapse: collapse; background: #f8f9fa; border: 1px solid #a2a9b1; }
 .wikitable th, .wikitable td { border: 1px solid #a2a9b1; padding: 0.2em 0.4em; }
 .wikitable th { background: #eaecf0; }
-.sortable th button { font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
-.sortable th button::after { content: " \2195"; color: #a2a9b1; }
-.sortable th[aria-sort="ascending"] button::after { content: " \2191"; color: inherit; }
-.sortable th[aria-sort="descending"] button::after { content: " \2193"; color: inherit; }
+.wikitable caption { text-align: left; font-weight: bold; padding: 0.2em 0; }
+.sortable th button { font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+.sortable th button:hover, .sortable th button:focus-visible { text-decoration: underline; }
+.sortable th button span::after { content: "\2195"; margin-left: 0.3em; color: #72777d; }
+.sortable th[aria-sort="ascending"] button span::after { content: "\25B2"; color: inherit; }
+.sortable th[aria-sort="descending"] button span::after { content: "\25BC"; color: inherit; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .icon svg { width: var(--size); height: var(--size); vertical-align: -3px; }
 .grid .icon svg { display: block; margin: auto; }
 .stack { display: inline-grid; padding: 8px 8px 0 0; vertical-align: top; }
@@ -82,3 +85,9 @@ lite-youtube { max-width: 640px; }
   .thumb[style]:hover, .thumb[style]:focus { animation: none; background-image: var(--t2); }
   .stack:hover img, .stack:focus img { animation: none; }
 }
+
+/* Smooth page changes in browsers with cross-document view transitions. The script in base.html names the clicked thumbnail. */
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition { navigation: auto; }
+}
+.infobox .thumb img { view-transition-name: thumb; }

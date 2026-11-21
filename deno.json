@@ -2,13 +2,14 @@
   "tasks": {
     "fetch": "deno run --allow-run=yt-dlp --allow-net=i.ytimg.com --allow-read --allow-write=.cache,static/thumbs scripts/fetch.ts",
     "generate": "deno run --allow-read --allow-write=content scripts/generate.ts",
-    "test": "deno test --allow-read scripts/"
+    "test": "deno test --allow-read scripts/",
+    "build": "zola build && deno bundle --minify --platform browser --output public/site.js static/site.js"
   },
   "fmt": {
     "lineWidth": 120,
-    "include": ["scripts/"]
+    "include": ["scripts/", "static/site.js"]
   },
   "lint": {
-    "include": ["scripts/"]
+    "include": ["scripts/", "static/site.js"]
   }
 }
