@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwBACdASogABIAPsFOokunpCMhsAwA8BgJZgCsABY02l6RptHL7neuz7tkIAD+59TozgFLWnpiKn2vQJN5V6vT1v5JStnedPbb15SFWiFVvCDh5u0RyF/Qp0XnWmKLJOqEmYrx41jLA0p1sAAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FkI-967gyJsM.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%F0%9F%8E%88%F0%9F%8E%8ABIRTHDAY+STREAM%F0%9F%8E%89%F0%9F%8E%B6+Ask+Me+Anything%21+%F0%9F%8E%B6+Drinks+%26+Answering+Personal+Questions+%3A%7D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkI-967gyJsM%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 15737
 likes = 1170
 comments = 49

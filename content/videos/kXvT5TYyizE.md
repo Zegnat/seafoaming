@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASogABIAPr1OnUunJKKht/qoAOAXiWpmQEYWIfy0HPmjyTtP9MAA/uVn5s9wRTwvkui42euSeUHT8Me0py2ynYYisy2WCk87e3MnlmS+gzpwk7shuqPipFYgE14Uopt5hp5dY2iA/1IaJEIox5edQxl5xAAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FkXvT5TYyizE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22how+to+drink+water+%28easy+step+by+step+instructions%29+%28tutorial%29+%28important%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkXvT5TYyizE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 73526
 likes = 3661
 comments = 590

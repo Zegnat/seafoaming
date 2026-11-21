@@ -9,6 +9,7 @@ length = "37:29"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBQCdASogABIAPtFapEwoJSOiMAgBABoJZQC90BjIluQwDZkfNw9JSfHF7RzCtfoAAP6rZ9N1IFrdENSVv3fxnP9aRBI4ksy9xwPFfr1Ah+sT0hsxVdKA92thJIsTgAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FR3AmEkxPxqA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+NEW++BINAURAL+MIC%21+%7E+Ear+to+Ear+Triggers%3A+Tapping%2C+Mouthsounds%2C+PopRocks%2C+Ear+Cupping+%26+More%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR3AmEkxPxqA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 40242
 likes = 755
 comments = 274

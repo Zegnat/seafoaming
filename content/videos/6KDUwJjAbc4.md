@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwC1G5NEIA3G8BRghHTpCUfag3+xtDQAAP7BPkuaUlf26ZGTLQR1G+D3axX8rJMXDvuvm/Kn03XUc3cYoL4ubXD0A5iWlMAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F6KDUwJjAbc4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22FAIRY+ASMR%F0%9F%A7%9A%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8FBe+My+Human+Companion%21+%E2%9C%A8Healing+%2B+Protecting+You+%28gentle+personal+attention+%2B+magic%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6KDUwJjAbc4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 63598
 likes = 2225
 comments = 86

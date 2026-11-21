@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWpEuoJKOhsAgBABoJQBOmZL/AA8BRCOUs2i8j8+j8rbMUIAD+sxgrVDWfbcuCmLMxqTefpMDvORwhkvQViRxKuM9V22EFQeTWphruCLiELKYX/zU5daG+Z2TJcA2zkAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F2RHXPnXqio4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FRIENDLY+ALIEN+%7E+Studying+You%21+Visual+Eye+Exam+%7C+Follow+the+Light%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2RHXPnXqio4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 363659
 likes = 6387
 comments = 756

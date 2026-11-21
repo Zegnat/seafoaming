@@ -11,6 +11,7 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFYpEuoJSOhsAgBABoJZQCo9BujGQyQPNt08QMNRp/PP/gA/uNFEV5DCab+4j4JglCE8WZ+h36wxy/6JwMzkUPy63QCyCJ5yr2tYr214VE8h5o16AA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FIUduukPtF0w.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SOFT+HUMMING+%7E+October+Patron+Appreciation%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIUduukPtF0w%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 23985
 likes = 723
 comments = 193

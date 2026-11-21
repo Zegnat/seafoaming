@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFWqE4oJCQiMBgIAQAaCWUAuwAMZgmp9+IM12rT72xIR+mq4AD+9FRZdML7eAJPkeUenFar0SMN093bP3+Q/Wv2hEIfGY+ejwSrnGMHK8pKQuFwAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fj3gqE1TK5jQ.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Apocalypse+ASMR+%F0%9F%8C%90+Alone+in+the+Wastelands%E2%80%A6+Until+I+Found+You+%F0%9F%8C%8C+%28futuristic++rescue%2C+patching+you+up%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj3gqE1TK5jQ%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 66705
 likes = 2551
 comments = 138

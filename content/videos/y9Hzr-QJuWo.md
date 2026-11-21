@@ -9,6 +9,7 @@ length = "15:58"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFan0uoJaKhsBgMAQAaCWUAyNQMYVY7vBvkVpfuRIT0S12+L4AA/vbYXTObaotR6k9oOKtnjlZmMB6rnLtYxvVNqm+I2gpOap/IiCe6ls0qr9yVVek85mIAAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fy9Hzr-QJuWo.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+How+Many+Stick-Shaped+Items+Can+I+Eat%3F+%7C+Pen+Nommin%27+Mouth+Sounds%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy9Hzr-QJuWo%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 29932
 likes = 1231
 comments = 93

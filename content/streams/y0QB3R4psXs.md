@@ -12,6 +12,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASogABIAPsFOn0unqCKht/qoAQAYCWYAnQAha/IgxTlTjrYTBuwv1k7EWIAA/umjkhBdKmRzEUsUNpu+PHO6DXbvieg9sfRSH1PqhzY156dL4N5+ZHuSLeG/E2sxnPmHE32oooo0vv+oAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fy0QB3R4psXs.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%F0%9F%92%80Let%27s+Play%3A+Your+Turn+To+Die%F0%9F%92%80+ft.+Sushi%21+Ep.+3%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy0QB3R4psXs%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 4751
 likes = 297
 comments = 11

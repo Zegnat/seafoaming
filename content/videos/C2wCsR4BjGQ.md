@@ -9,6 +9,7 @@ length = "41:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABQBACdASogABIAPrlMnUunJKMht+gA4BcJZQC7ADC3WrAjjp0zs2+m7iYAAP61i4HCjCThR2EDGGC6s6G8XYJ3MV2hXCVpJjG/w/4TJ+DoaCqgAAAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FC2wCsR4BjGQ.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+PATTERN+BLOCKS+%7E+Playing+with+Wooden+Blocks%21+Tapping%2C+Counting%2C+Organizing+%26+More%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC2wCsR4BjGQ%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 30901
 likes = 706
 comments = 459

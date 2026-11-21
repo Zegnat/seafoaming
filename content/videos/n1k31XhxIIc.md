@@ -9,6 +9,7 @@ length = "20:03"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFUokuoJKMhsAgBABoJYgC7ABnePN91bhZX5xHwb/PAHuAA/nauICCySOQ5IC8aOffw6trhr/ihpP/UiF8c/s5bvNywEfV/+0mNtpTyfC9P1kTv+mUz4BM8/BK3IgxFwAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fn1k31XhxIIc.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%98%B4+OILY+MASSAGE%F0%9F%91%82Silky+Ear+Attention+for+DEEP+Tingles+%26+Deeper+Sleep%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dn1k31XhxIIc%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 67325
 likes = 2020
 comments = 117

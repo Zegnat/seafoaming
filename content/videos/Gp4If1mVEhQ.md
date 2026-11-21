@@ -11,6 +11,7 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPsFMoEunpCMht/qoAPAYCUATpCbAXBpUMs4DgyvEOWgLYeOmwedAAAD+xK453vAR7tgdZv36At2Wgmr4huDeyIeclD+IG4nF7emfpE5glqUfYFHVwYSeg3mOPXQgAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FGp4If1mVEhQ.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FANSERVICE+DRAGON+%7E+Tsundere+Dragon+Girl+Returns%21+Dating+Rituals+%26+Kissing+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGp4If1mVEhQ%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 1188082
 likes = 13589
 comments = 3400

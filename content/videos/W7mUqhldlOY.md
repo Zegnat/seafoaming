@@ -9,6 +9,7 @@ length = "12:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBQCdASogABIAPrVKnUunJKKht+gA4BaJaACxHzRA2D19dw1GQCAKtcMtiIBdgOcyWxAAAP7hiiipV9tmteAQA4ypkn7yWd9+8RBTki1RMlM0bEPScYzSKVabbRbVV8BDhWsWUBiLRN27hHUhXRdYZbBgLzEAAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FW7mUqhldlOY.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+KISSES+FOR+YOU+%7E+November+Patron+Appreciation+%7C+Ear+to+Ear+Kiss+Sounds+%26+Whispering+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DW7mUqhldlOY%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 173811
 likes = 2701
 comments = 372

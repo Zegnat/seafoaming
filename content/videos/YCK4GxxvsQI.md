@@ -9,6 +9,7 @@ length = "24:42"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBQCdASogABIAPtFcqk2oJSQiKAqpABoJYwC1IUFXoAuRuVIpF7b+FAl2Hn9WDnK/qAD+7ctmC32hAMf9Gt1YoqvcmrT95Ckk/oaNqzIaXrA5//30ZWJHpQQAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FYCK4GxxvsQI.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%7E+WOOD+SOUNDS+%7E+%E2%9D%97%EF%B8%8FLife+Update+%7C+March+Patron+Appreciation%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYCK4GxxvsQI%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 56074
 likes = 3559
 comments_off = true

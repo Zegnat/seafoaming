@@ -11,6 +11,7 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPslWn0unpSKhsAwA8BkJYwCdM1XCjiUL8l5V7tM7yjsOMps8YAD+5lu8eETMvJr4B+AfZjfVWCUWjW3wHBXWc/mK5hk5AX1KCheRJjQhA/YwxCrgAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FDk_ibU-4Nik.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+THE+CHURCH+OF+GLOB+%7E+Crazy+Devotee+Converts+You+%7C+Whispers%2C+Breathing%2C+Hand+Movements+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDk_ibU-4Nik%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 248072
 likes = 5859
 comments = 1900

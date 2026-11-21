@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFYpUwoJSOiKA1RABoJYwC/OA0zNWTQA1Q5CW28kK138R6AAP7xf2/HwXPnOPP/WJirQ8/ZFnprYKIgatpycHH0HT2+MFuy13nUb7fguJ+zLsseXzHCKTAAAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FbVw8ePnUS-0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%8E%AA+Unhinged+Clown+Girl+Wants+to+Touch+Your+Face+a%CC%B6n%CC%B6d%CC%B6+%CC%B6e%CC%B6a%CC%B6t%CC%B6+%CC%B6y%CC%B6o%CC%B6u%CC%B6r%CC%B6+%CC%B6f%CC%B6l%CC%B6e%CC%B6s%CC%B6h%CC%B6+++%F0%9F%A4%A1%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbVw8ePnUS-0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 180983
 likes = 5398
 comments = 418

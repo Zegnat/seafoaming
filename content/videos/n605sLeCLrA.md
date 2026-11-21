@@ -9,6 +9,7 @@ length = "30:48"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAt7gPRXArsoBu8WeAZBhgecW1CAD+VtdaZw7FTa/rXPcJkly8Kl9AyTuvagt1EY/GCQhrIeZL9mwqzEDsL4AAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fn605sLeCLrA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMRception%21+%7E+An+ASMR+Video+Within+an+ASMR+Video+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dn605sLeCLrA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 53288
 likes = 1375
 comments = 301

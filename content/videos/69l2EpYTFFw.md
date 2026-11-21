@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPtFepUyoJaOiMBgIAQAaCUAToAIeHcuzYiaK02vb5KeieYAA/u9gYfydVFsT2A/3ePz3pN9OlgPW4q8+mG2BA9ziHRy7HRtZBiaYiwfr/lD2qaAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F69l2EpYTFFw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+GAMER+GIRL+is+already+Tracer+%7C+Soft+Spoken%2C+Button+Mash%2C+Top+Cringe+%F0%9F%91%8C+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D69l2EpYTFFw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 131686
 likes = 3946
 comments = 1600

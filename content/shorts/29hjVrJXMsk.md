@@ -9,6 +9,7 @@ length = "0:56"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPtFUokuoJKMhsAgBABoJYwCzgCG7m1o3eWWRXTAMKcYHq7oOmnAA/vaJQlbesPXjBnNH9WXxTmPybVcDpocI24huBnuPLW8/huvELPgNJCro7k+jQ9AAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F29hjVrJXMsk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Smug+Alien+is+NOT+flirting+with+you++%23asmrroleplay+%23shorts%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D29hjVrJXMsk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 32495
 likes = 1824
 comments = 45

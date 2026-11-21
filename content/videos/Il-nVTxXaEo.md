@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFQpUwoJC+iMBgMAfAaCUAXYAZoJ7HHVj8mI+KPRf31x5aYgAD+SHEO56kEiffrKBn1Ws01qZWSAzlqhdDPHyh9PUx8gEgvn8EekVEq6TbKDC28x4lI59SD6lpAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FIl-nVTxXaEo.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FRIENDLY+DRAGON+%7E+Fascination+with+You%21+%7C+Personal+Attention%2C+Soft+Spoken+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIl-nVTxXaEo%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 1860912
 likes = 26633
 comments = 6300

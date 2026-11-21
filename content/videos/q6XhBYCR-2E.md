@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPsFMn0unpCKht/qoAPAYCWUAuwAYxTdwytEQPQIROZTfoAD+3C3Gk+Zung1hpBqIWbxF0Dvss/rxCi7Z7zwQhCwkDniwmTFGRD90tv5VeKUcgmJbAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fq6XhBYCR-2E.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%E2%9D%A4+1K+SUB+SPECIAL%21+%E2%9D%A4+ASMR+Q%26A+%E2%9D%A4+Answering+Your+Questions%21+%E2%9D%A4%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq6XhBYCR-2E%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 21298
 likes = 491
 comments = 188

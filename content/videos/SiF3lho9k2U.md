@@ -12,6 +12,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPsFMnkunpCKht/qoAPAYCWMAnQAh8EMpqKhNaWOBNKOK7OwAAP7AzSsXNA/lG0UjFTM2VEos7q66rxodjp9IET0iZ+VVbF2D6zagMp6TNpFvQUmLCAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FSiF3lho9k2U.md&value=%2B%2B%2B%0A%23+Community+data+for+%22SeXXy+chiCK+DANCES+4+u%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSiF3lho9k2U%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 66977
 likes = 3684
 comments_off = true

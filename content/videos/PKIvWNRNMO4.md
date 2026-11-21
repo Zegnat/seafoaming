@@ -11,6 +11,7 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgCsL68Bz6osJi+0ujMMrYWYPUH3AAD+0dY7ACx2XBSBKpE+C32JuuaWvfpyw10NhvIlzuFhRQxmI3IeUhxSvKvDfMKUPv+kqw4AAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FPKIvWNRNMO4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+BABY+BEAR+%7E+Catching+Fish+w%2F+Your+Bear+Friend%21+%7C+Water+Sounds+%7C+Tapping+%7C+Mouth+Sounds+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPKIvWNRNMO4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 84380
 likes = 2163
 comments = 627

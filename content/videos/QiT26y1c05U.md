@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUATplCPwAHsGZSweJXqaKGIdm55YsAA/vSPVMsXR3cRobbu0PfKtdLGDVxP+5bOA/4rIV/R/Pd1R+x3cdZ8JvZAm5/EgOWGs3IYC9XroYAXf2v30dXTX20EcnYUgAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FQiT26y1c05U.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%9B%B8+SUPREME+OVERLORD+%F0%9F%9B%B8+Smug+Alien+M%CC%B6i%CC%B6l%CC%B6d%CC%B6l%CC%B6y%CC%B6+%CC%B6A%CC%B6n%CC%B6n%CC%B6o%CC%B6y%CC%B6s%CC%B6++TORTURES+You+%2B+Eats+Your+Yana%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQiT26y1c05U%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 325425
 likes = 5793
 comments = 387

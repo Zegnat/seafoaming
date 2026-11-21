@@ -9,6 +9,7 @@ length = "4:01:14"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBACdASogABIAPtFapE0oJSMiKA1RABoJQBBcoj0o4f8vKZInWkjo0rgLTAAA/vlSfAz9CCc/DohzW3nCxPCfwV0D9fpuS/I6whLBHiCLAVFogNpRLsbHQ/HiZ6DTv8csF9Mbg/3LskCn2CwAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FYcOiTiCTekU.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SLEEPY+EAR+BLOWING+%7E+Ear+to+Ear+Breathing+%26+Mic+Blowing+Sounds+%7C+4+HOURS+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYcOiTiCTekU%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 289396
 likes = 5943
 comments = 264

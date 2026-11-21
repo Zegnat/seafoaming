@@ -11,6 +11,7 @@ age_restricted = true
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASogABIAPtFao0uoJaMhsAgBABoJYwDE2Baj3o7/yGwn8AOTlkylwoAAzDYLYujSFO3oxrUKHsH0+qwOSkJ1i2YvWOIXsB5Mp5/dS1KMtWfoamWsHrYzgIF2pA/1cQN9vtlZp3H9DaLNO8HmH6KyCAAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FKmttJ6fHArs.md&value=%2B%2B%2B%0A%23+Community+data+for+%22I+wrote+a+lullaby+using+your+kind+and+supportive+comments+%7C+100k+Subscribers+%E2%9D%A4%EF%B8%8F+THANK+YOU%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKmttJ6fHArs%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 28154
 likes = 2617
 comments = 974

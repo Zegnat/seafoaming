@@ -9,6 +9,7 @@ length = "12:07"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASogABIAPs1Yo0unpaMhsBgMAPAZiUAVhlAAnk2BtL4LQMwg47UvkV+wAP7tGl2T5DJPLY6chvC3kR5RRi7fLQWfk8j79IZGLgu0lX3dQOofSFa2rZi3rLtYoDwZ7K0MTWE16lCjVw7QkW/I05iA9CB7fIEkBwAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FgCr1prPNLI0.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Oh%2C+you%27re+kind+of+stupid...+%3A%5C++ASMR+Intelligence+Test%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgCr1prPNLI0%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 37338
 likes = 1594
 comments = 142

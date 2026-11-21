@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASogABIAPsVSoUunpKMhsAwA8BiJQBadA3QSWEZ99Ojex7iYCVce54AA/ubJEZDNWWSZYmvFKlCPUkIHrPYx+rLUQ8prkuInxxUMaD6Nq3Wyx0WY0ERU0tSu/CjfSOj413pvVh5sa2oLJ7wA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FahsRn1uQEDE.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%E2%AD%90+POP+STAR+%E2%AD%90You%27re+My+%231+Fan%21+%F0%9F%92%96VIP+Hangout+by+the+Pool%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DahsRn1uQEDE%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 95654
 likes = 2803
 comments = 166

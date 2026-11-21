@@ -9,6 +9,7 @@ length = "25:17"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogABIAPtFcpk4oJSOiKAqpABoJQBUehgyJCN8BQIs2oJvtFz0YAP7rVuGHvWlMmmP3U1BI0igPV/rW7yT4NaLvxc+pCTp0J5GOW2AJ4jHbGou04TnTvzbJl7mxdJ69RBUJu0COmlhAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F87FwjWj58V8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+TAP+TAP+TINGLE+%7E+LONG+NAILS+Tapping+on+Assorted+Objects%21+Binaural+Ear-to-Ear+Triggers%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D87FwjWj58V8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 72986
 likes = 1481
 comments = 517

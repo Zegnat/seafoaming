@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPtFWo0uoJKMhsAgBABoJQBOgAxigUSonJcGBWs+8sPZEgAD+70mVLccrFoWigaxjQiq/rXK2zz5HrpZmogqhQVEyZUe/EPRdMh0/N86A039HkR9cAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FAFz4XNrDQ0Y.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SENSORY+TEST+%7E+How+Are+Your+Five+Senses%3F+Do+You+Even+HAVE+Ears%3F+Why+you+got+so+many+fingers%3F%3F%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAFz4XNrDQ0Y%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 160467
 likes = 4728
 comments = 244

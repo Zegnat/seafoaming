@@ -9,6 +9,7 @@ length = "1:30:54"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPtFYo0uoJSMhsAgBABoJQBadBDeR9UNuv1ecZEbQKPE5/gAA/uWRtMOj96/Khac00om2SZ0xfgow7405o1L+vDUCo8roaInEWZ/t2CFAqb4YaCuiQfSaL98coAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F__IHNG_uxdg.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%E3%80%90+ASMR+Live+RP+%E3%80%91%F0%9F%92%96+I%27m+Obsessed+with+You%21+Come+Here+Pookie+%7E%E3%80%90+Interactive+%E3%80%91%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D__IHNG_uxdg%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 33667
 likes = 1113
 comments = 77

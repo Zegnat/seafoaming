@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPs1QpUunpKOhsBgMAPAZiWMAnQAQ75gngjc/q9I6h8QjtsvtgA4AAP7zIuZKKTjBe1gxgn32LQm7DVvj8cWENpo/xYdK5azj3jxwadeuvJM6HKEUFY3TKODq2WsyQgAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fi46byCCASpA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR%F0%9F%92%B2BACKSTREET+FIDGET+DEALER%F0%9F%92%B2The+Best+Tingles+You+Can+Buy+%28Real%29+%28Legitimate%29+%28Totally+not+a+scam%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di46byCCASpA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 49650
 likes = 1873
 comments = 195

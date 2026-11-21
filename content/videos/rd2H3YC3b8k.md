@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFWoEwoJKMiMBgMAQAaCUAAAc8LIdwCzWkx6xyOMdmMAPcmxptjmFPHaJKseGuDtaP/Dty3LXVr8JQOu1vZbhIQwKzzoMr/FVmX1svlaFqg440GYkGAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Frd2H3YC3b8k.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+EARBUG+%7E+Caring+Friend+Gone+Wrong+%7C+Invaded+by+Alien+Ear+Bugs%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Drd2H3YC3b8k%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 531368
 likes = 7461
 comments = 1400

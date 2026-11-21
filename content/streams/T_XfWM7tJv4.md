@@ -12,6 +12,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBQCdASogABIAPtFYpk0oJSOiMBgIAQAaCWUACi/gchFuwmQiW0fk13A01QAh0YkQAP63ectbYR5FSKqjTslOsanCbnkCu/4A0FkyNx17PVjQtkXxxQRbyNgj9gAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FT_XfWM7tJv4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Jammies+%26+Bideo+Games+-+SOUTH+PARK+Stick+of+Truth+%5BPART+1%5D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT_XfWM7tJv4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 2735
 likes = 127
 comments = 11

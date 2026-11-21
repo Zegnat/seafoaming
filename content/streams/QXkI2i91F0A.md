@@ -12,6 +12,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFQokyoJCMisBgMAQAaCUAY3or1I+sdH92tXt8HVtOoGQAA/vdAC4wCPCV9qCN4iLu00rPa1vH41G5gQ3ZgzkU+TdZ/L9BARz3SmHXnvruymNYDKwAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FQXkI2i91F0A.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Opening+Japan+Okashi+Box+%2B+Let%27s+Date+Some+Monsters+%28%EF%BD%A5%60%CF%89%C2%B4%EF%BD%A5%29+Playing+Monster+Prom+%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQXkI2i91F0A%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 8910
 likes = 365
 comments = 9

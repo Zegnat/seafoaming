@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPtFUpk2oJCOiMBgIAQAaCUAYUAIV73xqILFYzdDN9+9x1+gXgAD+7Iug07bwtPwTgAYhMftum+nMuXqOFt++XvBoS3wlpGE+neHxaBl+kQZn+PRUdTo3wAAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FUz7mYCh69P4.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%F0%9F%8C%99%F0%9F%92%A4LIVE+ASMR%F0%9F%92%A4%F0%9F%8C%99+Tingle+%26+Sleep+with+Me+By+Your+Side+%F0%9F%92%96+%241+Triggers%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUz7mYCh69P4%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 45032
 likes = 1383
 comments = 59

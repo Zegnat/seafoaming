@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPtFepU0oJSOiMBgIAQAaCWMAnTNMQP8Fu4E3+SrDG61rzeHvaYAA/tlDkHNyu3iFuPmd3GYsQ54c+dZ1F1wh6s8C9lOK4zGduQvfFNU6Vi895Fa7VMRq3d1EIo3azf3E7Fz0zI/IAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FG0Rraf6ba4c.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%F0%9F%8E%AF+Focus+Games+w%2F+REWARD+%26+Punishment+%28IMPOSSIBLE%29+%F0%9F%98%B1+%28Villainous+Interference%29%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG0Rraf6ba4c%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 44697
 likes = 1629
 comments = 117

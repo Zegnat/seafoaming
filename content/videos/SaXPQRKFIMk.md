@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPslQoUunpKMhsAwA8BkJYwC7My/C+gfhV2k8jSJnTzBf8/+9HwAA/uzXQHDlKxSv9QiL8s0eCdo4XSJqhcxRdSpUOYWF1gVU6hdQpk7f8W4Eqda95OAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FSaXPQRKFIMk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+FRIENDLY+ALIEN+%7E+Spending+Your+Birthday+with+Fay%21+%7C+Ear+Cleaning%2C+Personal+Attention+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSaXPQRKFIMk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 218753
 likes = 6582
 comments = 737

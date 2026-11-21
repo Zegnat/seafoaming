@@ -9,6 +9,7 @@ length = "17:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASogABIAPtFWo0uoJKMhsAgBABoJZACdMoACjgTCtxiqo6zZWWgJO+gAAP7p1u+Vm69Er6llGPsBzughleGH1K0QxmlcQ2Udb2+zChnuliqVLSjDJ2y58O59xT6fdfxhRzF8Y0KjKWu2KqWBhPwOUzTyaN/eAAAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F6LMWd_KO6IA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR%F0%9F%8D%80QUIRKY+GIRL+from+Class+%7E+Saves+You+from+Bullies+%26+Cheers+You+Up+%F0%9F%92%96+Cute+Personal+Attention+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6LMWd_KO6IA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 48343
 likes = 1946
 comments = 126

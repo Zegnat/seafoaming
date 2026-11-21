@@ -9,6 +9,7 @@ length = "9:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASogABIAPsFMn0unpCKht/qoAPAYCUAY3oQ68X5nbsPlwhyIMwRBA5QAAM2Kw7fzW7fYG0IMuqS6TtbCSjaw0dvFr6nr/iuhr5cieW5RMabnaFngAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F81zkUtb-GtU.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+COLLAB+w%2F+PeekASMR+%7E+Hypnotic+Hand+Movements+ft.+Throat+Rolling+%22Predator%22+Sounds+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D81zkUtb-GtU%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 12697
 likes = 256
 comments = 112

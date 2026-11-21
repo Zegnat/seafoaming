@@ -9,6 +9,7 @@ length = "20:07"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBQCdASogABIAPtFWoEuoJKohsBgMAUAaCUAX7igqi8gRAQEuB0r3GPZzp4GlQXuBFBrpkAD+WZws9cntdX8jcMua19Uketa0uOExu/Gd2Bblze7A5phRMQ7uPX5EEEw5zEXgYq6clgAAAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FqmHG7R7GMtA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%E2%98%94%F0%9F%9A%98Guided+Rainy+Car+Ride+%28Eyes+Closed%29+%7C+Lights+Passing+%2B+Soft+Whispers+%7C+Cozy+Vibes+for+Bedtime%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqmHG7R7GMtA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 57658
 likes = 1751
 comments = 100

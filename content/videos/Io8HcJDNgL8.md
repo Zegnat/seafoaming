@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPr1Sn0unJSKht/qoAOAXiWcAvkgYoUkrvvi6lKs2rKmF0SS+AAD+59EP8c/i+995Xm83JieidQWpL+MIBV7E0TR1JcaWFyEXqrdiAjJHG0pxzgAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FIo8HcJDNgL8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+MIC+TEST+%7E+Playing+w%2F+the+Blue+Yeti%21+Mouth+Sounds%2C+Tapping%2C+Sniffing%2C+Page+Turning+%26+More%21+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIo8HcJDNgL8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 14352
 likes = 263
 comments = 100

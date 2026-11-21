@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFcqE4oJSOiKAqpABoJYwAALiLILe4vRAcqFhml7HR6f8AA/uQKJrPpZJvTplx4zrdfgUf3/qtjfVbw2qGoH11pw8ukwCbKjQRxCpee675q+e0QloFSQzJySFAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F0bp_dznw9Nw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22Playing+Kitty+Simulator%3A+STRAY+%5Bw%2F+guest+MasterR3C0RD%5D%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0bp_dznw9Nw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 5075
 likes = 256
 comments = 8

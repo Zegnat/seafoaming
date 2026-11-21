@@ -9,6 +9,7 @@ length = "0:58"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPsVUoUunpSMhsAwA8BiJQAALcel52/XTnmtZ3mt269tmR4AA/vSIleloEF9L68LF4gDc2Ih1iXvTkTNlFdwCAQeDtzJdJPKfTaPj1OvHwRWC0V71Ht9FgAAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F2glTU6DqVQs.md&value=%2B%2B%2B%0A%23+Community+data+for+%22%28Eyes+Closed+ASMR%29+Rainy+Car+Ride+%23asmrvideo+%23shorts%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2glTU6DqVQs%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 11285
 likes = 1055
 comments = 13

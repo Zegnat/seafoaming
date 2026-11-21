@@ -9,6 +9,7 @@ length = "20:27"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFWokuoJKMhsAgBABoJYgCdMxhgfom5xCZFBvL7b4TwrlgPwAD+7pu3MYSFb0D75RCG/i7GcjXrZk1yny9SU8dAVqHrrfyv8zU0CVflOr8ZaQU86AEUmKUrcAAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F_HaVNhFS2dk.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+%E2%9C%A8+X+Marks+the+Spot+%E2%9C%A8Tingles+Going+Up+Your+Back%21+%7C+Sensitive+Breathy+Whispers+%26+Fluffy+Massage%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_HaVNhFS2dk%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 114609
 likes = 2752
 comments = 104

@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPr1SnkunJSKht/qoAOAXiWIAnTM9xvgpAiBCxNUC35F48BwMqADKe0PSbqhsPaheir28YQawI0PwrVaPmacksZQ72JeNU0jSLoYG93Dlao6qC81fRAAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Fmk7H-9vcZHw.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+KINDERGARTEN+-+Meet+Your+Teacher%2C+Miss+Pickles%21+%7C+Soft+Spoken%2C+Counting%2C+Reading+%26+More+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dmk7H-9vcZHw%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 347733
 likes = 8275
 comments = 2400

@@ -9,6 +9,7 @@ length = "22:21"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASogABIAPtFUokuoJKMhsAgBABoJZWfkTuLOwjQJGUXtZNLoCAAA/vBbW38xA1gcOyDIlk0qUbLvNeacSSFQXT8yweePLc7GxgTi1XK63STIY91b1eQoTsujFgAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FoaSx2_Flo6g.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+LIGHT+SHOW+%7E+Twinkling+Rainbow+Lights+w%2F+Binaural+Beats+%26+Soft+Rain+%21%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoaSx2_Flo6g%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 33735
 likes = 987
 comments = 210

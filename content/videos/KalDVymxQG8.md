@@ -9,6 +9,7 @@ length = "19:12"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPsVQokunpKMhsAwA8BiJZACxDSAC8oEHlDGHKZafhI7x+Wg920fAAP7P2+ib0z5inWb8/APzs5GdkSDqqsra2m19IH8dqHFsD+rYPKKHJqtuhm7VWgbwKmsAAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FKalDVymxQG8.md&value=%2B%2B%2B%0A%23+Community+data+for+%22DEEP+Tingles+%F0%9F%A4%A4+Cleaning+Your+Ears+%2B+Scratching+Your+COCHLEA+%7C+ASMR%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKalDVymxQG8%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 163656
 likes = 3268
 comments = 150

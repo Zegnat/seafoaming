@@ -10,6 +10,7 @@ availability = "unlisted"
 status = "unlisted"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPs1aokunpaMhsBgMAPAZiUAABLiIMO4ch+Tk4QjmW3tPHAD+3jh1k7qhhsIGTBM77z/Io9p9NPv24W2EpDpUzdeFgRmgBTY4foZFsY2hGRoHoP1bSGV8l12AAAA="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FXvyu1CmTj54.md&value=%2B%2B%2B%0A%23+Community+data+for+%22WILL+DRAW+4+FOOD+OR+SPARE+CHANGE+%28%C2%B4%2C%2C%E2%80%A2%CF%89%E2%80%A2%2C%2C%29+Drawing+Stream+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXvyu1CmTj54%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 13647
 likes = 570
 comments = 32

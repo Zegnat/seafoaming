@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPs1YokunpSMhsBgMAPAZiUAToAXyTa8DroxWNqA35ksj4AD9igFKB/wu1igXsDdHQYNRiMWaMc85mDKBRq3r62ZUjOTeKTZm5yaG1aAA"
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2Ft5oNXa7X_1s.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+GENIE+IN+A+NYQUIL+BOTTLE+%7E+Ear+Massage%2C+Cupping%2C+%22Shh%22%2C+%26+Tongue+Clicking+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt5oNXa7X_1s%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 214489
 likes = 4560
 comments = 980

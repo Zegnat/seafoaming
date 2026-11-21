@@ -9,6 +9,7 @@ length = "14:43"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFYo0uoJSOhsBgMAQAaCWMAwzQQ0zkFfIQJ+FI+zToNwtmV4wAA/s3l1sMpQUkHoWPNEWt6AYmBW6eblzOChtw8EblVixg+TNxsenATBko+WDbjv1X8CcAXPYAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2F--qvNq6vyBA.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SILVER+PLAY+BUTTON+%7E+Unboxing+My+100k+Creator+Award+%7C+Whisper%2C+Tapping%2C+Crinkles+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D--qvNq6vyBA%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 27266
 likes = 1865
 comments = 338

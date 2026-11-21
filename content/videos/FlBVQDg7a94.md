@@ -11,6 +11,7 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFYpEyoJSOiKA1RABoJQBUegZBTC3mis7qs3RTaX5eG9baXAAD+6pWKno0B+jhtqJJh+MJpJcLxwhE17eNz+qcy1SoBcrO5u3bzk+fgwpqYAY0NbZ2vN0D1zeAAAA=="
+edit_url = "https://github.com/Zegnat/seafoaming/new/main?filename=community%2Fvideos%2FFlBVQDg7a94.md&value=%2B%2B%2B%0A%23+Community+data+for+%22ASMR+-+SKIN+CARE+ROUTINE+%7E+Let%27s+Relax+%26+Revitalize+Our+Skin%21+%7C+Whispers%2C+Tapping%2C+Water+%7E%22%0A%23+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFlBVQDg7a94%0A%23+Links+to+the+same+recording+on+audio+platforms.+Remove+the+lines+that+you+do+not+use.%0Aspotify+%3D+%22%22%0Aapple_music+%3D+%22%22%0A%2B%2B%2B%0A%0A%3C%21--+Write+notes+about+the+video+below%2C+in+Markdown.+To+replace+the+captions+from+YouTube%2C+add+a+section+that+starts+with+the+heading%3A+%23%23+Transcript+--%3E%0A"
 views = 28945
 likes = 1095
 comments = 373
