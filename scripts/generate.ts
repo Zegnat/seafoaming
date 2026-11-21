@@ -357,20 +357,32 @@ if (import.meta.main) {
     // The index does not say if a video was a short or a live stream.
     write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder));
   }
+  const creators = new Set<string>();
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     for (const e of data.entries ?? []) {
       if (!folderOf(e) || placeholders.has(e.id)) continue;
       placeholders.set(e.id, await thumbnail(e.id, folderOf(e)));
-      // REUSE: name the channel as the copyright holder of each image of its video.
-      const dir = `${ROOT}static/thumbs/${folderOf(e)}`;
-      for (const file of [...Deno.readDirSync(dir)].map((f) => f.name)) {
-        if (!file.startsWith(`${e.id}-`) || !file.endsWith(".webp") || !e.channel) continue;
-        write(
-          `${dir}/${file}.license`,
-          `SPDX-FileCopyrightText: ${e.channel.trim()}\n\nSPDX-License-Identifier: LicenseRef-YouTubeCreators\n`,
-        );
-      }
+      if (e.channel) creators.add(e.channel.trim());
     }
     write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data, placeholders));
   }
+  // The license text for thumbnails of other channels names those channels.
+  // Written directly: the folder exists, and the task may only write this one file there.
+  Deno.writeTextFileSync(
+    `${ROOT}LICENSES/LicenseRef-YouTubeCreators.txt`,
+    [
+      "All rights reserved by the creators of the videos.",
+      "",
+      "These are thumbnails and snapshots of videos by other YouTube channels, made",
+      "smaller, with blurred placeholders made from them. The videos appear in",
+      'playlists of Seafoam Kitten ASMR, for example "Favorite ASMR". The repository',
+      "includes them for reference. The rights holders did not give a license for",
+      "them, so the licenses of this repository do not apply to them.",
+      "",
+      "The creators of the videos are these YouTube channels:",
+      "",
+      ...[...creators].sort((a, b) => a.localeCompare(b)).map((name) => `- ${name}`),
+      "",
+    ].join("\n"),
+  );
 }
