@@ -61,9 +61,5 @@
 {{ page.content | safe }}
 {% endblock %}
 {% block page_links %}
-<ul class="other">
-<li class="caption">On GitHub</li>
-<li><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if page.extra.history_url %}Edit information{% else %}Add information{% endif %}<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>
-{% if page.extra.history_url %}<li><a href="{{ page.extra.history_url }}">{{<icon name="history" />}}Page history<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>{% endif %}
-</ul>
+<ul class="other"><li><a href="{{ page.extra.edit_url }}" target="_blank" rel="noopener">{{<icon name="pencil" />}}Edit page<span class="external">{{<icon name="external-link" size={12} />}}</span><span class="sr-only"> (opens in a new tab)</span></a></li></ul>
 {% endblock %}

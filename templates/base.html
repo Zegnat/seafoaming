@@ -24,19 +24,15 @@
 <ul class="other">
 <li><a href="{{ root }}links/">{{<icon name="link" />}}Links</a></li>
 </ul>
-{# Links that edit this page on GitHub. Pages that do not come from a single Markdown file override this block. #}
-{% block page_links %}{% set source = "content/" ~ current.relative_path %}
-<ul class="other">
-<li class="caption">On GitHub</li>
-<li><a href="{{ config.extra.repository }}/edit/main/{{ source }}">{{<icon name="pencil" />}}Edit this page<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>
-<li><a href="{{ config.extra.repository }}/commits/main/{{ source }}">{{<icon name="history" />}}Page history<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>
-</ul>
+{# Edits the source of this page on GitHub. Pages that do not come from a single Markdown file override this block. #}
+{% block page_links %}
+<ul class="other"><li><a href="{{ config.extra.repository }}/edit/main/content/{{ current.relative_path }}" target="_blank" rel="noopener">{{<icon name="pencil" />}}Edit page<span class="external">{{<icon name="external-link" size={12} />}}</span><span class="sr-only"> (opens in a new tab)</span></a></li></ul>
 {% endblock %}
 </nav>
 <main>
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
 {% block content %}{{ section.content | safe }}{% endblock %}
 </main>
-<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">Copyright</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
+<footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">{{<icon name="creative-commons-by" />}}Some rights reserved</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
 </body>
 </html>

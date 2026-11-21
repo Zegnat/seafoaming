@@ -90,7 +90,6 @@ function community(info: Info) {
     notes: "",
     transcript: "",
     edit: `${REPOSITORY}/new/main?${query}`,
-    history: null,
   };
 }
 
@@ -208,7 +207,6 @@ function videoPage(info: Info, placeholder: string | null) {
     `spotify = ${toml(link("spotify"))}`,
     `apple_music = ${toml(link("apple_music"))}`,
     `edit_url = ${toml(extra.edit)}`,
-    `history_url = ${toml(extra.history)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
