@@ -1,5 +1,6 @@
 // Preload the hover snapshots of a thumbnail after the thumbnail itself loaded, on devices that can hover and without Save-Data.
-if (matchMedia("(hover: hover)").matches && !navigator.connection?.saveData) {
+// any-hover, not hover: on devices with a touchscreen and a trackpad or mouse, the touchscreen is the primary input.
+if (matchMedia("(any-hover: hover)").matches && !navigator.connection?.saveData) {
   const preload = (img) => {
     for (const url of img.parentElement.dataset.previews.split(" ")) {
       const image = new Image();
