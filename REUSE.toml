@@ -4,30 +4,31 @@ version = 1
 
 [[annotations]]
 path = "**"
-SPDX-FileCopyrightText = "2026 Seafoaming contributors"
+SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"
 SPDX-License-Identifier = "0BSD"
 
 [[annotations]]
 path = ["content/**", "README.md"]
-SPDX-FileCopyrightText = "2026 Seafoaming contributors"
+SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"
 SPDX-License-Identifier = "CC-BY-4.0"
 
+# Generated pages mix material from YouTube with the work of the community.
 [[annotations]]
-path = ["content/videos/*.md", "content/streams/*.md", "content/playlists/*.md", "static/thumbs/**"]
+path = ["content/videos/*.md", "content/streams/*.md", "content/playlists/*.md"]
+SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "2026 The Seafoam Kitten ASMR Community"]
+SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND CC-BY-4.0"
+
+[[annotations]]
+path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten"
 
 [[annotations]]
 path = ["content/videos/_index.md", "content/streams/_index.md", "content/playlists/_index.md"]
-SPDX-FileCopyrightText = "2026 Seafoaming contributors"
+SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"
 SPDX-License-Identifier = "CC-BY-4.0"
 
 [[annotations]]
 path = "static/vendor/lite-youtube-embed/**"
 SPDX-FileCopyrightText = "2019 Paul Irish"
 SPDX-License-Identifier = "Apache-2.0"
-
-[[annotations]]
-path = "templates/icons.html"
-SPDX-FileCopyrightText = "2020-2026 Paweł Kuna"
-SPDX-License-Identifier = "MIT"
