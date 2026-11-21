@@ -7,8 +7,9 @@ Deno.chdir(ROOT);
 for (const dir of [".cache/videos", ".cache/playlists", "static/thumbs"]) Deno.mkdirSync(dir, { recursive: true });
 
 async function ytDlp(args: string[], inherit = true) {
-  const { stdout } = await new Deno.Command("yt-dlp", { args, stdout: inherit ? "inherit" : "piped" }).output();
-  return inherit ? "" : new TextDecoder().decode(stdout);
+  const output = await new Deno.Command("yt-dlp", { args, stdout: inherit ? "inherit" : "piped" }).output();
+  // Deno throws when a script reads stdout that was not piped.
+  return inherit ? "" : new TextDecoder().decode(output.stdout);
 }
 
 const refresh = Deno.args.includes("--refresh");
