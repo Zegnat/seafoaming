@@ -48,3 +48,13 @@ export async function thumbnail(id: string, folder = ""): Promise<string | null>
     .toBuffer();
   return `data:image/webp;base64,${encodeBase64(blurred)}`;
 }
+
+// Write a 320 pixel square WebP version of a Spotify cover from .cache/spotify/covers.
+export async function cover(id: string) {
+  const source = `${ROOT}.cache/spotify/covers/${id}.jpg`;
+  const out = `${ROOT}static/covers/${id}-320.webp`;
+  if (!exists(source)) return false;
+  Deno.mkdirSync(`${ROOT}static/covers`, { recursive: true });
+  if (!exists(out)) await sharp(source).resize(320, 320, { fit: "cover" }).webp({ quality: 80 }).toFile(out);
+  return true;
+}

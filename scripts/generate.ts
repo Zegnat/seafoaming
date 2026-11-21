@@ -163,7 +163,21 @@ function readStatus(id: string) {
   return result && { ...result, message, checked };
 }
 
-function videoPage(info: Info, placeholder: string | null) {
+// The Spotify release that the community linked to this video, from .cache/spotify, if it is there.
+function spotifyRelease(url: string | null) {
+  const id = url?.match(/open\.spotify\.com\/album\/([A-Za-z0-9]{22})/)?.[1];
+  const path = `${CACHE}/spotify/${id}.json`;
+  return id && exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
+}
+
+// The episode of the podcast that the community linked to this video, from .cache/spotify/episodes.
+function spotifyEpisode(url: string | null) {
+  const id = url?.match(/open\.spotify\.com\/episode\/([A-Za-z0-9]{22})/)?.[1];
+  const path = `${CACHE}/spotify/episodes/${id}.json`;
+  return id && exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
+}
+
+function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set()) {
   const extra = community(info);
   const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
   // For a video from the ASMR Index, the removed mark of the index is the fallback when YouTube gave no reason.
@@ -193,7 +207,45 @@ function videoPage(info: Info, placeholder: string | null) {
     `language_name = ${toml(info.language ? LANGUAGES.of(info.language) : null)}`,
     `placeholder = ${toml(placeholder)}`,
     `spotify = ${toml(link("spotify"))}`,
+    `spotify_podcast = ${toml(link("spotify_podcast"))}`,
     `apple_music = ${toml(link("apple_music"))}`,
+    ...(() => {
+      const release = spotifyRelease(link("spotify"));
+      if (!release) return [];
+      const types: Record<string, string> = { ALBUM: "Album", EP: "EP", SINGLE: "Single" };
+      return [
+        `spotify_release = ${
+          inline({
+            id: release.id,
+            name: release.name,
+            type: types[release.type] ?? release.type,
+            date: release.date,
+            cover: covers.has(release.id),
+          })
+        }`,
+        "spotify_tracks = [",
+        ...release.tracks.map((track: Info) =>
+          `  ${inline({ id: track.id, name: track.name, length: timestamp(track.duration) })},`
+        ),
+        "]",
+      ];
+    })(),
+    ...(() => {
+      const episode = spotifyEpisode(link("spotify_podcast"));
+      return episode
+        ? [
+          `spotify_episode = ${
+            inline({
+              id: episode.id,
+              name: episode.name,
+              date: episode.date,
+              length: timestamp(episode.duration),
+              cover: covers.has(episode.id),
+            })
+          }`,
+        ]
+        : [];
+    })(),
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
@@ -314,7 +366,17 @@ function* jsonFiles(dir: string, suffix: string) {
 
 if (import.meta.main) {
   // Loaded here, so the tests do not need sharp.
-  const { thumbnail } = await import("./images.ts");
+  const { thumbnail, cover } = await import("./images.ts");
+  // Covers of the Spotify releases and podcast episodes that community files link to.
+  const covers = new Set<string>();
+  if (exists(`${ROOT}community/videos`)) {
+    for (const file of Deno.readDirSync(`${ROOT}community/videos`)) {
+      const text = Deno.readTextFileSync(`${ROOT}community/videos/${file.name}`);
+      for (const [, id] of text.matchAll(/open\.spotify\.com\/(?:album|episode)\/([A-Za-z0-9]{22})/g)) {
+        if (await cover(id)) covers.add(id);
+      }
+    }
+  }
   // The playlist stacks reuse the placeholders of their videos.
   const placeholders = new Map<string, string | null>();
   for (const info of jsonFiles(`${CACHE}/videos`, ".info.json")) {
@@ -326,7 +388,7 @@ if (import.meta.main) {
       : "videos";
     const placeholder = await thumbnail(info.id);
     placeholders.set(info.id, placeholder);
-    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder));
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers));
     // A video can move to another section, for example when YouTube marks it as a short later.
     for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
@@ -349,7 +411,7 @@ if (import.meta.main) {
     const placeholder = await thumbnail(info.id);
     placeholders.set(info.id, placeholder);
     // The index does not say if a video was a short or a live stream.
-    write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder));
+    write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder, covers));
   }
   const creators = new Set<string>();
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {

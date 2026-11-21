@@ -82,6 +82,8 @@ lite-youtube { max-width: 640px; }
 .strip img { display: block; border: 1px solid #a2a9b1; }
 .chapters { columns: 2; }
 .infobox .icon { margin-right: 0.3em; }
+.infobox .listen a { display: block; }
+.infobox .listen a + a { margin-top: 0.3em; }
 /* Collapsible sections: the heading stays a heading inside the summary, with a Tabler chevron instead of the marker
    of the browser. A block summary keeps the margins of the heading as they are without the summary. */
 details > summary { display: block; cursor: pointer; }
@@ -91,6 +93,12 @@ details:not([open]) > summary > h2 .icon { transform: rotate(-90deg); }
 .toc { display: inline-block; border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.3em 1em 0.5em; margin: 1em 0 0; font-size: 0.9em; }
 .toc p { margin: 0; }
 .toc ol { margin: 0.3em 0 0; padding-left: 1.5em; }
+/* The release and the podcast episode side by side, like the chapters; one column when there is no room. */
+.spotify { display: grid; grid-template-columns: repeat(auto-fit, minmax(22em, 1fr)); gap: 1em; }
+.release { display: flex; gap: 1em; align-items: flex-start; }
+.release img { display: block; border: 1px solid #a2a9b1; background: #eaecf0; }
+.release p { margin-top: 0; }
+.tracks { margin: 0; padding-left: 1.5em; }
 @media (max-width: 720px) {
   nav { position: static; width: auto; }
   nav ul li { display: inline; margin-right: 1em; }
@@ -99,6 +107,7 @@ details:not([open]) > summary > h2 .icon { transform: rotate(-90deg); }
   main, footer { margin-left: 0; }
   .infobox { float: none; width: 100%; margin: 0 0 1em; }
   .chapters { columns: 1; }
+  .release { flex-direction: column; }
   .wikitable img { width: 80px; height: auto; }
 }
 .thumb { display: inline-block; vertical-align: top; background-size: cover; }

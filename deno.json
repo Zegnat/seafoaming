@@ -10,7 +10,7 @@
   "tasks": {
     "serve": "zola serve --output-dir .cache/serve --force",
     "fetch": "deno run --allow-run=yt-dlp --allow-net=i.ytimg.com --allow-read --allow-write=.cache scripts/fetch.ts",
-    "generate": "deno run --allow-read --allow-write=content,static/thumbs,LICENSES/LicenseRef-YouTubeCreators.txt --allow-env --allow-ffi --allow-sys scripts/generate.ts",
+    "generate": "deno run --allow-read --allow-write=content,static/thumbs,static/covers,LICENSES/LicenseRef-YouTubeCreators.txt --allow-env --allow-ffi --allow-sys scripts/generate.ts",
     "test": "deno test --allow-read scripts/",
     "build": "zola build && deno run --allow-read --allow-write=public --allow-env --allow-run scripts/build.ts",
     "import-asmrindex": "deno run --allow-read --allow-write=.cache scripts/import-asmrindex.ts",

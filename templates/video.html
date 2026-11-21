@@ -30,7 +30,12 @@
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments_off %}<tr><th>Comments</th><td>Turned off</td></tr>{% elif page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
 {% if not gone %}<tr><th>Watch</th><td><a href="{{ url }}">{{<icon name="brands/youtube" />}}YouTube</a></td></tr>{% endif %}
-{% if page.extra.spotify or page.extra.apple_music %}<tr><th>Listen</th><td>{% if page.extra.spotify %}<a href="{{ page.extra.spotify }}">{{<icon name="brands/spotify" />}}Spotify</a>{% endif %}{% if page.extra.spotify and page.extra.apple_music %}, {% endif %}{% if page.extra.apple_music %}<a href="{{ page.extra.apple_music }}">{{<icon name="brands/applemusic" />}}Apple Music</a>{% endif %}</td></tr>{% endif %}
+{% set listen = [l for l in [
+  {"url": page.extra.spotify, "icon": "brands/spotify", "title": "Spotify"},
+  {"url": page.extra.spotify_podcast, "icon": "brands/spotify", "title": "Spotify podcast"},
+  {"url": page.extra.apple_music, "icon": "brands/applemusic", "title": "Apple Music"},
+] if l.url] %}
+{% if listen %}<tr><th>Listen</th><td class="listen">{% for l in listen %}<a href="{{ l.url }}">{{<icon name={l.icon} />}}{{ l.title }}</a>{% endfor %}</td></tr>{% endif %}
 {% if page.extra.source != "asmrindex" %}<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>{% endif %}
 {% if page.extra.source == "asmrindex" %}<tr><th>Source</th><td><a href="{{ page.extra.source_url }}">The ASMR Index</a></td></tr>{% endif %}
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
@@ -42,6 +47,8 @@
 {% if found %}<tr><th>Playlists</th><td>{% for p in found %}<a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>{% endif %}
 {% if page.extra.source != "asmrindex" %}<tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>{% endif %}
 </table>
+{% set release = page.extra.spotify_release or false %}
+{% set episode = page.extra.spotify_episode or false %}
 {% if not gone %}
 {# Our own thumbnail as the poster, over the blurred placeholder. With a background set, lite-youtube-embed loads no poster from YouTube. #}
 {% set poster = "url('" ~ root ~ "thumbs/" ~ page.extra.id ~ "-640.webp')" if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-640.webp", allow_missing=true) else "" %}
@@ -61,7 +68,8 @@
   {"id": "chapters", "title": "Chapters", "on": (page.extra.chapters | length) > 0},
   {"id": "description", "title": "Description", "on": page.extra.description != ""},
 ] if s.on] %}
-{% set toc = [...before, ...[{"id": h.id, "title": h.title} for h in page.toc]] %}
+{% set after = [{"id": "spotify", "title": "Spotify"}] if release or episode else [] %}
+{% set toc = [...before, ...[{"id": h.id, "title": h.title} for h in page.toc], ...after] %}
 <div class="toc" role="navigation" aria-labelledby="toc-title">
 <p id="toc-title"><b>Contents</b></p>
 <ol>
@@ -91,6 +99,36 @@
 {% for part in parts[1:] %}{% set bits = part | replace(from="</h2>", to="</h2></summary>") | split(pat=">") %}
 <details open><summary><h2{{ bits[0] | safe }}>{{<icon name="chevron-down" size={20} />}}{{ bits[1:] | join(sep=">") | safe }}</details>
 {% endfor %}
+{% if release or episode %}
+{# The release and the podcast episode of this video on Spotify, from the community file of the video. #}
+<details open>
+<summary><h2 id="spotify">{{<icon name="chevron-down" size={20} />}}Spotify</h2></summary>
+<div class="spotify">
+{% if release %}
+{% set album = "https://open.spotify.com/album/" ~ release.id %}
+<div class="release">
+{% if release.cover %}<a href="{{ album }}"><img src="{{ root }}covers/{{ release.id }}-320.webp" alt="Cover of {{ release.name }}" width="160" height="160" loading="lazy" decoding="async"></a>{% endif %}
+<div>
+<p><a href="{{ album }}"><b>{{ release.name }}</b></a><br><span class="small">{{ release.type }} · {{ release.date }}</span></p>
+<ol class="tracks">
+{% for track in page.extra.spotify_tracks %}<li><a href="https://open.spotify.com/track/{{ track.id }}">{{ track.name }}</a> <span class="small">{{ track.length }}</span></li>
+{% endfor %}
+</ol>
+</div>
+</div>
+{% endif %}
+{% if episode %}
+{% set link = "https://open.spotify.com/episode/" ~ episode.id %}
+<div class="release">
+{% if episode.cover %}<a href="{{ link }}"><img src="{{ root }}covers/{{ episode.id }}-320.webp" alt="Cover of {{ episode.name }}" width="160" height="160" loading="lazy" decoding="async"></a>{% endif %}
+<div>
+<p><a href="{{ link }}"><b>{{ episode.name }}</b></a><br><span class="small">Podcast episode · {{ episode.date }} · {{ episode.length }}</span></p>
+</div>
+</div>
+{% endif %}
+</div>
+</details>
+{% endif %}
 {% endblock %}
 {% block page_links %}
 {# The community file of the video on GitHub: the file itself, or a new file with this starting text. #}
@@ -104,6 +142,7 @@
   "# https://www.youtube.com/watch?v=" ~ page.extra.id,
   "# Links to the same recording on audio platforms. Remove the lines that you do not use.",
   "spotify = \"\"",
+  "spotify_podcast = \"\"",
   "apple_music = \"\"",
   "+++",
   "",
