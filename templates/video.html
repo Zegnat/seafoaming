@@ -24,6 +24,7 @@
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments_off %}<tr><th>Comments</th><td>Turned off</td></tr>{% elif page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
+<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
 {% set characters = get_section(path="characters/_index.md") %}
 {% set found = [c for c in characters.pages if page.extra.id in (c.extra.videos or [])] %}

@@ -77,6 +77,8 @@ lite-youtube { max-width: 640px; }
 }
 .thumb { display: inline-block; vertical-align: top; background-size: cover; }
 .thumb img { display: block; }
+/* Hide the alt text that some browsers draw over the placeholder while the image loads; screen readers still read it. */
+.thumb img, .stack img, .strip img { color: transparent; }
 .thumb[style]:hover img, .thumb[style]:focus img { opacity: 0; }
 .thumb[style]:hover, .thumb[style]:focus { animation: preview 2.4s steps(1) infinite; }
 @keyframes preview {

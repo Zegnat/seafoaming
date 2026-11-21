@@ -5,6 +5,7 @@ const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
 const PARAGRAPH_SECONDS = 60;
 const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
+const LANGUAGES = new Intl.DisplayNames(["en"], { type: "language" });
 
 // deno-lint-ignore no-explicit-any
 type Info = Record<string, any>;
@@ -149,6 +150,8 @@ function videoPage(info: Info, placeholder: string | null) {
     `status_message = ${toml(gone?.message)}`,
     `status_checked = ${gone?.checked ?? "null"}`,
     `age_restricted = ${toml(info.age_limit >= 18)}`,
+    `language = ${toml(info.language)}`,
+    `language_name = ${toml(info.language ? LANGUAGES.of(info.language) : null)}`,
     `placeholder = ${toml(placeholder)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
@@ -171,7 +174,7 @@ function videoPage(info: Info, placeholder: string | null) {
   return front.filter((line) => !line.endsWith("= null")).join("\n") + transcript(info);
 }
 
-function playlistPage(data: Info) {
+function playlistPage(data: Info, placeholders: Map<string, string | null>) {
   const entries: Info[] = data.entries ?? [];
   // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
   const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1];
@@ -183,7 +186,11 @@ function playlistPage(data: Info) {
     "",
     "[extra]",
     `id = ${toml(data.id)}`,
-    `stack = ${toml(stack)}`,
+    "stack = [",
+    ...stack.map((id) =>
+      `  { id = ${toml(id)}${placeholders.get(id) ? `, placeholder = ${toml(placeholders.get(id))}` : ""} },`
+    ),
+    "]",
     `views = ${toml(data.view_count)}`,
     `updated = ${data.modified_date ? data.modified_date.replace(/(\d{4})(\d\d)(\d\d)/, "$1-$2-$3") : "null"}`,
     `fetched = ${new Date(data.epoch * 1000).toISOString().slice(0, 10)}`,
@@ -213,6 +220,8 @@ function* jsonFiles(dir: string, suffix: string) {
 if (import.meta.main) {
   // Loaded here, so the tests do not need sharp.
   const { thumbnail } = await import("./images.ts");
+  // The playlist stacks reuse the placeholders of their videos.
+  const placeholders = new Map<string, string | null>();
   for (const info of jsonFiles(`${CACHE}/videos`, ".info.json")) {
     if (["is_live", "is_upcoming"].includes(info.live_status)) continue;
     const section = info.live_status === "was_live" || info.was_live
@@ -220,13 +229,15 @@ if (import.meta.main) {
       : info.media_type === "short"
       ? "shorts"
       : "videos";
-    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, await thumbnail(info.id)));
+    const placeholder = await thumbnail(info.id);
+    placeholders.set(info.id, placeholder);
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder));
     // A video can move to another section, for example when YouTube marks it as a short later.
     for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
     }
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
-    write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data));
+    write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data, placeholders));
   }
 }

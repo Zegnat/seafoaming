@@ -9,7 +9,7 @@
 {% set found = [c for c in characters.pages if [v for v in (c.extra.videos or []) if v in ids]] %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
-{% if page.extra.stack %}<tr><td colspan="2">{{<stack root={root} ids={page.extra.stack} href={url} title={page.title} width={288} />}}</td></tr>{% endif %}
+{% if page.extra.stack %}<tr><td colspan="2">{{<stack root={root} cards={page.extra.stack} href={url} title={page.title} width={288} />}}</td></tr>{% endif %}
 <tr><th>Videos</th><td>{{ ids | length }}</td></tr>
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
 {% if page.extra.updated %}<tr><th>Last updated</th><td>{{ page.extra.updated }}</td></tr>{% endif %}
