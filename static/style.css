@@ -26,6 +26,11 @@ lite-youtube { max-width: 640px; }
 .strip { display: flex; flex-wrap: wrap; gap: 4px; margin: 0.5em 0; }
 .strip img { display: block; border: 1px solid #a2a9b1; }
 .chapters { columns: 2; }
+.grid { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(12em, 1fr)); gap: 1em; max-width: 52em; }
+.grid li { border: 1px solid #a2a9b1; background: #f8f9fa; text-align: center; padding: 1em; }
+.grid a { display: block; font-size: 1.2em; }
+.grid svg { display: block; margin: 0 auto 0.4em; }
+.grid small { color: #54595d; }
 @media (max-width: 720px) {
   nav { position: static; width: auto; }
   nav ul li { display: inline; margin-right: 1em; }
