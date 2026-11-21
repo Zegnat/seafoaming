@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {% if page.extra.species %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
@@ -11,6 +12,6 @@
 {% set videos = get_section(path="videos/_index.md") %}{% set shorts = get_section(path="shorts/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
 {% set local = [p for p in [...videos.pages, ...shorts.pages, ...streams.pages] | sort(attribute="date") if p.extra.id in page.extra.videos] %}
 <h2>Appearances</h2>
-{{<video_table entries={[{"id": p.extra.id, "title": p.title} for p in local]} pages={local} caption={"Appearances of " ~ page.title} order="ascending" />}}
+{{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in local]} pages={local} caption={"Appearances of " ~ page.title} order="ascending" />}}
 {% endif %}
 {% endblock %}

@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {{ section.content | safe }}
-{{<video_table entries={[{"id": p.extra.id, "title": p.title} for p in section.pages]} pages={section.pages} caption={section.title} order="descending" />}}
+{{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in section.pages]} pages={section.pages} caption={section.title} order="descending" />}}
 {% endblock %}

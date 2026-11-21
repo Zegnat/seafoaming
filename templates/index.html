@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {{ section.content | safe }}
 <ul class="grid">
 {% for item in [
@@ -10,7 +11,7 @@
   {"path": "characters/_index.md", "icon": "users"},
 ] %}
 {% set s = get_section(path=item.path) %}
-<li><a href="{{ s.permalink }}">{{<icon name={item.icon} size={48} />}}<span>{{ s.title }}</span></a><small>{{ s.pages | length }} pages</small></li>
+<li><a href="{{ root }}{{ s.path | trim_start(pat="/") }}">{{<icon name={item.icon} size={48} />}}<span>{{ s.title }}</span></a><small>{{ s.pages | length }} pages</small></li>
 {% endfor %}
 </ul>
 {% endblock %}

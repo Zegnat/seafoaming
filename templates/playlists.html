@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {{ section.content | safe }}
 <table class="wikitable sortable">
 <caption>Playlists<span class="sr-only">, column headers with buttons are sortable</span></caption>
@@ -15,8 +16,8 @@
 <tbody>
 {% for p in section.pages %}
 <tr>
-<td>{% if p.extra.stack %}{{<stack ids={p.extra.stack} href={p.permalink} title={p.title} />}}{% endif %}</td>
-<td><a href="{{ p.permalink }}">{{ p.title }}</a></td>
+<td>{% if p.extra.stack %}{{<stack root={root} ids={p.extra.stack} href={root ~ (p.path | trim_start(pat="/"))} title={p.title} />}}{% endif %}</td>
+<td><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a></td>
 <td class="num">{{ p.extra.videos | length }}</td>
 <td class="num"><span hidden>{{ p.extra.views or -1 }} </span>{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
 <td>{% if p.extra.updated %}{{ p.extra.updated }}{% endif %}</td>

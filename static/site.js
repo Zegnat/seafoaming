@@ -15,7 +15,9 @@ if (matchMedia("(hover: hover)").matches && !navigator.connection?.saveData) {
   });
 }
 // The infobox thumbnail is named "thumb" in CSS. Give the thumbnail that links to the other page the same name, so it moves between the pages.
-const thumbFor = (url) => url && document.querySelector(`a.thumb[href="${CSS.escape(url)}"] img`);
+// Compare the resolved href, because the attribute holds a relative URL.
+const thumbFor = (url) =>
+  url && [...document.querySelectorAll("a.thumb")].find((a) => a.href === url)?.querySelector("img");
 const nameDuring = (img, transition, done) => {
   if (!img) return;
   img.style.viewTransitionName = "thumb";
