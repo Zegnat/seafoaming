@@ -59,7 +59,9 @@ function exists(path: string) {
 
 function subtitleFile(info: Info): [string | null, boolean] {
   const manual = Object.keys(info.subtitles ?? {}).filter((lang) => lang === "en" || lang.startsWith("en-"));
-  for (const lang of [...manual, "en-orig", "en"]) {
+  // The automatic "en" track is a machine translation when YouTube recognized the speech in another language.
+  const automatic = info.language?.startsWith("en") ? ["en-orig", "en"] : ["en-orig"];
+  for (const lang of [...manual, ...automatic]) {
     const path = `${CACHE}/videos/${info.id}.${lang}.vtt`;
     if (exists(path)) return [path, manual.includes(lang)];
   }
@@ -68,7 +70,18 @@ function subtitleFile(info: Info): [string | null, boolean] {
 
 function transcript(info: Info) {
   const [path, manual] = subtitleFile(info);
-  if (!path) return "";
+  if (!path) {
+    const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
+    return [
+      "## Transcript",
+      "",
+      other
+        ? `YouTube only has automatic captions in another language (${other.slice(0, -5)}) for this video. ` +
+          "They are a machine translation of wrongly recognized speech, so the wiki does not show them."
+        : "YouTube has no captions for this video, so the wiki has no transcript of it yet.",
+      "",
+    ].join("\n");
+  }
   const chapters = info.chapters ?? [];
   const out = ["## Transcript", ""];
   if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
