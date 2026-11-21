@@ -9,11 +9,8 @@
 {{ page.content | safe }}
 {% if page.extra.videos %}
 {% set videos = get_section(path="videos/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
-{% set all = [...videos.pages, ...streams.pages] %}
+{% set local = [p for p in [...videos.pages, ...streams.pages] | sort(attribute="date") if p.extra.id in page.extra.videos] %}
 <h2>Appearances</h2>
-<ul>
-{% for v in all | reverse %}{% if v.extra.id in page.extra.videos %}<li><a href="{{ v.permalink }}">{{ v.title }}</a> ({{ v.date | date(format="%Y-%m-%d") }})</li>
-{% endif %}{% endfor %}
-</ul>
+{{<video_table entries={[{"id": p.extra.id, "title": p.title} for p in local]} pages={local} />}}
 {% endif %}
 {% endblock %}

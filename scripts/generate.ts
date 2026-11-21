@@ -130,19 +130,22 @@ function videoPage(info: Info) {
 
 function playlistPage(data: Info) {
   const entries: Info[] = data.entries ?? [];
+  // The playlist thumbnail is the thumbnail of one of its videos.
+  const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1] ?? null;
   return [
     "+++",
     `title = ${toml(data.title)}`,
     "",
     "[extra]",
     `id = ${toml(data.id)}`,
+    `thumbnail = ${toml(thumbnail)}`,
     `description = ${toml(data.description || "")}`,
     "videos = [",
     ...entries.map((e) => `  { id = ${toml(e.id)}, title = ${toml(e.title || e.id)} },`),
     "]",
     "+++",
     "",
-  ].join("\n");
+  ].filter((line) => !line.endsWith("= null")).join("\n");
 }
 
 function write(path: string, text: string) {

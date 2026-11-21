@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 {% block content %}
 {{ section.content | safe }}
-<ul>
-{% for p in section.pages %}<li><a href="{{ p.permalink }}">{{ p.title }}</a> ({{ p.extra.videos | length }} videos)</li>
+<table class="wikitable">
+<tr><th></th><th>Title</th><th>Videos</th></tr>
+{% for p in section.pages %}
+<tr>
+<td>{% if p.extra.thumbnail and get_image_metadata(path="thumbs/" ~ p.extra.thumbnail ~ ".jpg", allow_missing=true) %}{{<thumb id={p.extra.thumbnail} href={p.permalink} title={p.title} />}}{% endif %}</td>
+<td><a href="{{ p.permalink }}">{{ p.title }}</a></td>
+<td class="num">{{ p.extra.videos | length }}</td>
+</tr>
 {% endfor %}
-</ul>
+</table>
 {% endblock %}
