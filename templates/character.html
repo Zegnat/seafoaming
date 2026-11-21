@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<table class="infobox">
+<tr><th colspan="2">{{ page.title }}</th></tr>
+{% if page.extra.species %}<tr><th>Species</th><td>{{ page.extra.species }}</td></tr>{% endif %}
+{% if page.extra.age %}<tr><th>Age</th><td>{{ page.extra.age }}</td></tr>{% endif %}
+{% if page.extra.relation %}<tr><th>Relation to Povy</th><td>{{ page.extra.relation }}</td></tr>{% endif %}
+</table>
+{{ page.content | safe }}
+{% if page.extra.videos %}
+{% set videos = get_section(path="videos/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
+{% set all = [...videos.pages, ...streams.pages] %}
+<h2>Appearances</h2>
+<ul>
+{% for v in all | reverse %}{% if v.extra.id in page.extra.videos %}<li><a href="{{ v.permalink }}">{{ v.title }}</a> ({{ v.date | date(format="%Y-%m-%d") }})</li>
+{% endif %}{% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

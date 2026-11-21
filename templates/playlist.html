@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+{% set videos = get_section(path="videos/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
+{% set all = [...videos.pages, ...streams.pages] %}
+<p><a href="https://www.youtube.com/playlist?list={{ page.extra.id }}">View on YouTube</a></p>
+{% if page.extra.description %}<p class="description">{{ page.extra.description | escape_html | newlines_to_br | safe }}</p>{% endif %}
+{{ page.content | safe }}
+<ol>
+{% for v in page.extra.videos %}
+{% set local = [p for p in all if p.extra.id == v.id] %}
+<li>{% if local %}<a href="{{ local[0].permalink }}">{{ local[0].title }}</a>{% else %}<a href="https://www.youtube.com/watch?v={{ v.id }}">{{ v.title }}</a> (no wiki page){% endif %}</li>
+{% endfor %}
+</ol>
+{% endblock %}
