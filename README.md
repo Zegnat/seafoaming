@@ -17,7 +17,7 @@ A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.
 | `content/streams/`    | One page for each live stream recording | Generated            |
 | `content/playlists/`  | One page for each playlist             | Generated            |
 | `content/characters/` | One page for each character            | Written by hand      |
-| `static/thumbs/`      | Video thumbnails                       | Downloaded           |
+| `static/thumbs/`      | Video thumbnails as WebP               | Generated            |
 
 Do not edit the generated pages, because the next update overwrites them. Put all knowledge about characters on the character pages.
 
@@ -25,13 +25,13 @@ To link a character to a video, add the video ID to the `videos` list in the fro
 
 ## Update the YouTube data
 
-1. Download the metadata, captions, playlists and thumbnails. The videos are not downloaded.
+1. Download the metadata, captions, playlists and the best available thumbnails into `.cache/`. The videos are not downloaded. The script also checks again the videos that YouTube no longer lists, and saves why they are gone in `.cache/status/`.
 
    ```sh
    mise exec -- deno task fetch
    ```
 
-2. Generate the pages from the downloaded data in `.cache/`.
+2. Generate the pages from the downloaded data in `.cache/`. This step also makes the WebP thumbnails in `static/thumbs/` and a small blurred placeholder for each video.
 
    ```sh
    mise exec -- deno task generate

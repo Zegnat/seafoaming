@@ -5,15 +5,22 @@
 {% endblock %}
 {% block content %}
 {% set url = "https://www.youtube.com/watch?v=" ~ page.extra.id %}
+{% set gone = page.extra.status in ["private", "removed", "unavailable"] %}
+{% if gone %}
+<div class="notice" role="note">
+<p><strong>This video is no longer available on YouTube.</strong> {% if page.extra.status == "private" %}The uploader made it private.{% elif page.extra.removed_by == "uploader" %}The uploader removed it.{% elif page.extra.removed_by == "YouTube" %}YouTube removed it.{% endif %} The wiki keeps this page as a record of the video.</p>
+<p class="small">YouTube says: “{{ page.extra.status_message }}” Checked on {{ page.extra.status_checked }}.</p>
+</div>
+{% endif %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
-<tr><td colspan="2">{{<thumb id={page.extra.id} href={url} title={page.title} width={320} eager={true} />}}</td></tr>
+<tr><td colspan="2">{{<thumb id={page.extra.id} href={url} title={page.title} width={320} eager={true} placeholder={page.extra.placeholder or ""} />}}</td></tr>
 <tr><th>Published</th><td>{{ page.date | date(format="%Y-%m-%d") }}</td></tr>
 {% if page.extra.length %}<tr><th>Length</th><td>{{ page.extra.length }}</td></tr>{% endif %}
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
 {% if page.extra.likes %}<tr><th>Likes</th><td>{{ page.extra.likes | num_format }}</td></tr>{% endif %}
 {% if page.extra.comments %}<tr><th>Comments</th><td>{{ page.extra.comments | num_format }}</td></tr>{% endif %}
-{% if page.extra.availability and page.extra.availability != "public" %}<tr><th>Availability</th><td>{{ page.extra.availability }}</td></tr>{% endif %}
+{% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
 {% set characters = get_section(path="characters/_index.md") %}
 {% set found = [c for c in characters.pages if page.extra.id in (c.extra.videos or [])] %}
 {% if found %}<tr><th>Characters</th><td>{% for c in found %}<a href="{{ c.permalink }}">{{ c.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>{% endif %}
@@ -22,11 +29,13 @@
 {% if found %}<tr><th>Playlists</th><td>{% for p in found %}<a href="{{ p.permalink }}">{{ p.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>{% endif %}
 <tr><td colspan="2" class="small">Statistics from {{ page.extra.fetched }}.</td></tr>
 </table>
+{% if not gone %}
 <p><a href="{{ url }}">Watch on YouTube</a></p>
 <lite-youtube videoid="{{ page.extra.id }}" title="{{ page.title }}" playlabel="Play: {{ page.title }}"></lite-youtube>
-{% if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-1.jpg", allow_missing=true) %}
+{% endif %}
+{% if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-1-320.webp", allow_missing=true) %}
 <div class="strip">
-{% for suffix in ["", "-1", "-2", "-3"] %}{% set src = get_url(path="thumbs/" ~ page.extra.id ~ suffix ~ ".jpg") %}<a href="{{ src }}"><img src="{{ src }}" alt="{{ 'Thumbnail' if suffix == '' else 'Snapshot ' ~ suffix[1:] }}" width="160" height="90" loading="lazy"></a>
+{% for suffix in ["", "-1", "-2", "-3"] %}{% set src = get_url(path="thumbs/" ~ page.extra.id ~ suffix ~ "-320.webp") %}<a href="{{ src }}"><img src="{{ src }}" alt="{{ 'Thumbnail' if suffix == '' else 'Snapshot ' ~ suffix[1:] }}" width="160" height="90" loading="lazy"></a>
 {% endfor %}
 </div>
 {% endif %}

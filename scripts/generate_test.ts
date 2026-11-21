@@ -1,4 +1,4 @@
-import { parseVtt, timestamp } from "./generate.ts";
+import { classify, parseVtt, timestamp } from "./generate.ts";
 
 function equal(actual: unknown, expected: unknown) {
   if (JSON.stringify(actual) !== JSON.stringify(expected)) {
@@ -25,4 +25,25 @@ you&#39;re<00:00:04.240><c> here &amp; there</c>
 
 Deno.test("timestamp adds hours only when needed", () => {
   equal([timestamp(42), timestamp(754.9), timestamp(3725)], ["0:42", "12:34", "1:02:05"]);
+});
+
+Deno.test("classify turns YouTube errors into statuses", () => {
+  equal(
+    [
+      "Video unavailable. This video is private",
+      "Video unavailable. This video has been removed by the uploader",
+      "This video has been removed for violating YouTube's Terms of Service",
+      "Sign in to confirm your age. This video may be inappropriate for some users.",
+      "Join this channel to get access to members-only content like this video, and other exclusive perks.",
+      "Video unavailable",
+    ].map(classify),
+    [
+      { status: "private", by: null },
+      { status: "removed", by: "uploader" },
+      { status: "removed", by: "YouTube" },
+      null,
+      { status: "members-only", by: null },
+      { status: "unavailable", by: null },
+    ],
+  );
 });

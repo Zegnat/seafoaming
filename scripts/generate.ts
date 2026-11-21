@@ -96,7 +96,28 @@ function transcript(info: Info) {
   return out.join("\n");
 }
 
-function videoPage(info: Info) {
+// Turn the error message of YouTube into a status. Age checks are not errors: the video is still there.
+export function classify(message: string) {
+  if (/confirm your age/i.test(message)) return null;
+  if (/members|join this channel/i.test(message)) return { status: "members-only", by: null };
+  if (/private/i.test(message)) return { status: "private", by: null };
+  if (/removed by the uploader/i.test(message)) return { status: "removed", by: "uploader" };
+  if (/violating|terms of service|copyright|terminated/i.test(message)) return { status: "removed", by: "YouTube" };
+  return { status: "unavailable", by: null };
+}
+
+function readStatus(id: string) {
+  const file = `${CACHE}/status/${id}.json`;
+  if (!exists(file)) return null;
+  const { message, checked } = JSON.parse(Deno.readTextFileSync(file));
+  const result = classify(message);
+  return result && { ...result, message, checked };
+}
+
+function videoPage(info: Info, placeholder: string | null) {
+  const gone = readStatus(info.id);
+  const status = gone?.status ??
+    ({ unlisted: "unlisted", subscriber_only: "members-only" } as Record<string, string>)[info.availability] ?? null;
   const date = new Date(info.timestamp * 1000).toISOString().replace(/\.\d+Z$/, "Z");
   const fetched = new Date(info.epoch * 1000).toISOString().slice(0, 10);
   const chapters: Info[] = info.chapters ?? [];
@@ -110,6 +131,12 @@ function videoPage(info: Info) {
     `duration = ${toml(info.duration)}`,
     `length = ${toml(info.duration ? timestamp(info.duration) : null)}`,
     `availability = ${toml(info.availability)}`,
+    `status = ${toml(status)}`,
+    `removed_by = ${toml(gone?.by)}`,
+    `status_message = ${toml(gone?.message)}`,
+    `status_checked = ${gone?.checked ?? "null"}`,
+    `age_restricted = ${toml(info.age_limit >= 18)}`,
+    `placeholder = ${toml(placeholder)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
@@ -134,7 +161,7 @@ function playlistPage(data: Info) {
   // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
   const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1];
   const stack = [...new Set([thumbnail, ...entries.map((e) => e.id)])]
-    .filter((id) => id && exists(`${ROOT}static/thumbs/${id}.jpg`)).slice(0, 3);
+    .filter((id) => id && exists(`${ROOT}static/thumbs/${id}-320.webp`)).slice(0, 3);
   return [
     "+++",
     `title = ${toml(data.title)}`,
@@ -147,7 +174,10 @@ function playlistPage(data: Info) {
     `fetched = ${new Date(data.epoch * 1000).toISOString().slice(0, 10)}`,
     `description = ${toml(data.description || "")}`,
     "videos = [",
-    ...entries.map((e) => `  { id = ${toml(e.id)}, title = ${toml(e.title || e.id)} },`),
+    ...entries.map((e) => {
+      const status = readStatus(e.id)?.status;
+      return `  { id = ${toml(e.id)}, title = ${toml(e.title || e.id)}${status ? `, status = ${toml(status)}` : ""} },`;
+    }),
     "]",
     "+++",
     "",
@@ -166,6 +196,8 @@ function* jsonFiles(dir: string, suffix: string) {
 }
 
 if (import.meta.main) {
+  // Loaded here, so the tests do not need sharp.
+  const { thumbnail } = await import("./images.ts");
   for (const info of jsonFiles(`${CACHE}/videos`, ".info.json")) {
     if (["is_live", "is_upcoming"].includes(info.live_status)) continue;
     const section = info.live_status === "was_live" || info.was_live
@@ -173,7 +205,7 @@ if (import.meta.main) {
       : info.media_type === "short"
       ? "shorts"
       : "videos";
-    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info));
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, await thumbnail(info.id)));
     // A video can move to another section, for example when YouTube marks it as a short later.
     for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
