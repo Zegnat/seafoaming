@@ -1,2 +1,5 @@
 [tools]
+prek = "0.5.11"
+# YouTube changes often, so always use the newest yt-dlp.
+yt-dlp = { version = "latest", rename_exe = "yt-dlp" }
 zola = "0.23.6"
