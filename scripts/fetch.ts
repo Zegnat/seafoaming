@@ -115,7 +115,14 @@ if (todo.length) {
 const qualities = ["maxres", "sd", "hq", "mq"];
 const variants = { "": "default", "-1": "1", "-2": "2", "-3": "3" };
 const originals = ids(".cache/thumbs", ".jpg");
-for (const id of ids(".cache/videos", ".info.json")) {
+// Playlists also hold videos of other channels; their thumbnails come from the playlist data, without more requests.
+const others = new Set<string>();
+for (const id of ids(".cache/playlists", ".json")) {
+  for (const e of JSON.parse(Deno.readTextFileSync(`.cache/playlists/${id}.json`)).entries ?? []) {
+    if (e.channel_id && e.channel_id !== CHANNEL_ID) others.add(e.id);
+  }
+}
+for (const id of [...ids(".cache/videos", ".info.json"), ...others]) {
   for (const [suffix, name] of Object.entries(variants)) {
     if (originals.has(id + suffix)) continue;
     for (const quality of qualities) {

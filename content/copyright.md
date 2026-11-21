@@ -17,6 +17,7 @@ The videos belong to [Seafoam Kitten ASMR](https://www.youtube.com/@SeafoamKitte
 - The transcripts come from the captions on YouTube. Most of them are automatic captions that YouTube made with speech recognition, so they contain errors.
 - The site shows the thumbnails and snapshots in smaller WebP versions. The blurred placeholders are made from the thumbnails too.
 - The reasons why a video is unavailable are quoted from YouTube.
+- Some playlists, such as Favorite ASMR, also hold videos of other channels. Their titles and thumbnails belong to the creators of those videos.
 - Some videos were removed before the wiki started. Their pages use the titles, descriptions and thumbnails that [The ASMR Index](https://www.theasmrindex.com/) kept. These pages say so at the top.
 
 ## Software

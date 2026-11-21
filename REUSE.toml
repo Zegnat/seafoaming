@@ -23,6 +23,12 @@ path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten"
 
+# Thumbnails of videos by other channels, from playlists such as Favorite ASMR.
+[[annotations]]
+path = "static/thumbs/others/**"
+SPDX-FileCopyrightText = "The creators of the videos"
+SPDX-License-Identifier = "LicenseRef-YouTubeCreators"
+
 [[annotations]]
 path = ["content/videos/_index.md", "content/shorts/_index.md", "content/streams/_index.md", "content/playlists/_index.md"]
 SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"

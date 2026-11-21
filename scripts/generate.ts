@@ -245,16 +245,30 @@ function videoPage(info: Info, placeholder: string | null) {
   return front.filter((line) => !line.endsWith("= null")).join("\n") + notes + transcript(info, extra.transcript);
 }
 
+// The thumbnails of videos by other channels live in static/thumbs/others.
+const folderOf = (e: Info) => e.channel_id && e.channel_id !== CHANNEL_ID ? "others" : "";
+const thumbExists = (id: string, folder: string) =>
+  exists(`${ROOT}static/thumbs/${folder ? `${folder}/` : ""}${id}-320.webp`);
+
+// Write an inline TOML table of the keys that have a value.
+const inline = (fields: Record<string, unknown>) =>
+  `{ ${
+    Object.entries(fields).filter(([, value]) => value !== null && value !== undefined && value !== "")
+      .map(([key, value]) => `${key} = ${toml(value)}`).join(", ")
+  } }`;
+
 function playlistPage(data: Info, placeholders: Map<string, string | null>) {
   const entries: Info[] = data.entries ?? [];
-  // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
   // A playlist of mostly other channels, such as Favorite ASMR, keeps its page but is hidden from the playlist list.
   const known = entries.filter((e) => e.channel_id);
   const own = known.filter((e) => e.channel_id === CHANNEL_ID).length;
   const hidden = known.length > 0 && own / known.length < 0.5;
+  // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
   const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1];
+  const byId = new Map(entries.map((e) => [e.id, e]));
   const stack = [...new Set([thumbnail, ...entries.map((e) => e.id)])]
-    .filter((id) => id && exists(`${ROOT}static/thumbs/${id}-320.webp`)).slice(0, 3);
+    .map((id) => ({ id, folder: byId.has(id) ? folderOf(byId.get(id)!) : "" }))
+    .filter(({ id, folder }) => id && thumbExists(id, folder)).slice(0, 3);
   return [
     "+++",
     `title = ${toml(data.title)}`,
@@ -263,18 +277,31 @@ function playlistPage(data: Info, placeholders: Map<string, string | null>) {
     "[extra]",
     `id = ${toml(data.id)}`,
     "stack = [",
-    ...stack.map((id) =>
-      `  { id = ${toml(id)}${placeholders.get(id) ? `, placeholder = ${toml(placeholders.get(id))}` : ""} },`
-    ),
+    ...stack.map(({ id, folder }) => `  ${inline({ id, folder, placeholder: placeholders.get(id) })},`),
     "]",
     `views = ${toml(data.view_count)}`,
     `updated = ${data.modified_date ? data.modified_date.replace(/(\d{4})(\d\d)(\d\d)/, "$1-$2-$3") : "null"}`,
     `fetched = ${new Date(data.epoch * 1000).toISOString().slice(0, 10)}`,
     `description = ${toml(data.description || "")}`,
     "videos = [",
+    // Videos of other channels get no page of their own, so the playlist keeps what the table needs to show them.
     ...entries.map((e) => {
-      const status = readStatus(e.id)?.status;
-      return `  { id = ${toml(e.id)}, title = ${toml(e.title || e.id)}${status ? `, status = ${toml(status)}` : ""} },`;
+      const folder = folderOf(e);
+      const other = folder && thumbExists(e.id, folder);
+      return `  ${
+        inline({
+          id: e.id,
+          title: e.title || e.id,
+          status: readStatus(e.id)?.status,
+          channel: folder ? e.channel : null,
+          channel_url: folder ? e.channel_url : null,
+          length: folder && e.duration ? timestamp(e.duration) : null,
+          duration: folder ? e.duration : null,
+          views: folder ? e.view_count : null,
+          folder: other ? folder : null,
+          placeholder: other ? placeholders.get(e.id) : null,
+        })
+      },`;
     }),
     "]",
     "+++",
@@ -331,6 +358,9 @@ if (import.meta.main) {
     write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder));
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
+    for (const e of data.entries ?? []) {
+      if (folderOf(e) && !placeholders.has(e.id)) placeholders.set(e.id, await thumbnail(e.id, folderOf(e)));
+    }
     write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data, placeholders));
   }
 }

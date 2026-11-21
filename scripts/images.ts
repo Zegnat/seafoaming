@@ -25,17 +25,19 @@ async function resize(source: string, out: string, width: number) {
 // Write the thumbnail and the snapshots of a video, 320 and 640 pixels wide.
 // Return a blurred placeholder as a data URI. It is a ThumbHash, decoded at build time into a 32x18 WebP image,
 // so the page needs no JavaScript to show it.
-export async function thumbnail(id: string): Promise<string | null> {
+// folder is a subfolder of static/thumbs, for example "others" for videos of other channels.
+export async function thumbnail(id: string, folder = ""): Promise<string | null> {
+  const out = folder ? `${OUT}/${folder}` : OUT;
   const source = `${ORIGINALS}/${id}.jpg`;
   if (!exists(source)) return null;
-  Deno.mkdirSync(OUT, { recursive: true });
-  await resize(source, `${OUT}/${id}-320.webp`, 320);
-  await resize(source, `${OUT}/${id}-640.webp`, 640);
+  Deno.mkdirSync(out, { recursive: true });
+  await resize(source, `${out}/${id}-320.webp`, 320);
+  await resize(source, `${out}/${id}-640.webp`, 640);
   for (const n of [1, 2, 3]) {
     const snapshot = `${ORIGINALS}/${id}-${n}.jpg`;
     if (!exists(snapshot)) continue;
-    await resize(snapshot, `${OUT}/${id}-${n}-320.webp`, 320);
-    await resize(snapshot, `${OUT}/${id}-${n}-640.webp`, 640);
+    await resize(snapshot, `${out}/${id}-${n}-320.webp`, 320);
+    await resize(snapshot, `${out}/${id}-${n}-640.webp`, 640);
   }
   // ThumbHash takes images of at most 100 by 100 pixels.
   const small = await sharp(source).resize(100, 56, { fit: "cover" }).ensureAlpha().raw().toBuffer({
