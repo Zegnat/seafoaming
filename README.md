@@ -47,13 +47,13 @@ mise exec -- deno task fetch --cookies-from-browser firefox
 
 ## Build the site
 
-To preview the site while you edit it, run:
+To preview the site while you edit it, run the command below. The preview keeps its files in `.cache/serve/`. Do not use `public/` for it, because `deno task build` writes the production files there, and the preview would then sometimes show those.
 
 ```sh
-mise exec -- zola serve
+mise exec -- deno task serve
 ```
 
-To build the site for publication, run the command below. Zola builds the site into `public/`, compiles the stylesheet from `sass/` and minifies the HTML. Then `scripts/build.ts` combines all stylesheets into one minified `style.css` and all scripts into one minified `site.js`, with the license notices of the vendored code. `zola serve` loads the separate files, so they stay easy to debug.
+To build the site for publication, run the command below. Zola builds the site into `public/`, compiles the stylesheet from `sass/` and minifies the HTML. Then `scripts/build.ts` combines all stylesheets into one minified `style.css` and all scripts into one minified `site.js`, with the license notices of the vendored code. The preview loads the separate files, so they stay easy to debug.
 
 ```sh
 mise exec -- deno task build

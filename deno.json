@@ -7,6 +7,7 @@
   },
   "nodeModulesDir": "auto",
   "tasks": {
+    "serve": "zola serve --output-dir .cache/serve --force",
     "fetch": "deno run --allow-run=yt-dlp --allow-net=i.ytimg.com --allow-read --allow-write=.cache scripts/fetch.ts",
     "generate": "deno run --allow-read --allow-write=content,static/thumbs --allow-env --allow-ffi --allow-sys scripts/generate.ts",
     "test": "deno test --allow-read scripts/",
