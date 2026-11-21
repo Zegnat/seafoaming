@@ -1,26 +1,31 @@
 +++
 title = "Fay"
-description = "The friendly alien, younger sister of Zelenia."
+description = "A friendly alien who protects humans."
 
 [extra]
-species = "Kitonian alien"
-age = "Classified"
-relation = "Soul Bond Ritual"
-videos = []
+species = "Alien"
+videos = [
+  "BakIoDrM-s8",
+  "LzyR2Xy84fs",
+  "XXlIebL8Adk",
+  "RkN1dNoiY5s",
+  "wktOuyVIvGI",
+  "7KJyur2y4H8",
+  "IH4MecvzqKg",
+  "W4cPyqsNiik",
+  "2RHXPnXqio4",
+  "27lmYjIy0Uw",
+  "SaXPQRKFIMk",
+  "08XT-a99wqM",
+]
 +++
 
-Fay is the younger sister of [Zelenia](@/characters/zelenia.md). She likes humans and started the Earthlings Rights Activists (ERA) to protect them. She does not wear royal clothes when she visits Earth.
-
-Fay is close to [Povy](@/characters/povy.md) and did a Soul Bond Ritual with Povy. She saved [Kiwi](@/characters/kiwi.md) and other humans in a ship rescue.
+Fay is the kind alien of the series and the sister of [Zelenia](@/characters/zelenia.md). She stands up for humans as an Earthling's rights activist. She rescues the listener from an alien ship, treats alien ear infections and mind control bugs, and later celebrates a friend-a-versary and a birthday with the listener.
 
 ## Related characters
 
 - [Zelenia](@/characters/zelenia.md)
-- [Povy](@/characters/povy.md)
-- [Kiwi](@/characters/kiwi.md)
-- [Xak](@/characters/xak.md)
-- [Ember](@/characters/ember.md)
 
-## Sources
+## Playlists
 
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Alien Series](@/playlists/PL1Q2egvxEPqFUBCS26Wf7fPRTAnSjEl6N.md)

@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
+{% if page.extra.species %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
-{% if page.extra.species %}<tr><th>Species</th><td>{{ page.extra.species }}</td></tr>{% endif %}
-{% if page.extra.age %}<tr><th>Age</th><td>{{ page.extra.age }}</td></tr>{% endif %}
-{% if page.extra.relation %}<tr><th>Relation to Povy</th><td>{{ page.extra.relation }}</td></tr>{% endif %}
+<tr><th>Species</th><td>{{ page.extra.species }}</td></tr>
 </table>
+{% endif %}
 {{ page.content | safe }}
 {% if page.extra.videos %}
 {% set videos = get_section(path="videos/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}

@@ -1,21 +1,24 @@
 +++
 title = "Mouse"
-description = "The backstreet dealer."
+description = "A back alley dealer of strange goods."
 
 [extra]
-species = "Human"
-age = "25"
-relation = "Backstreet dealer of goods and services"
-videos = []
+videos = [
+  "XNMxt06Ec4I",
+  "I4jIEvBXLhk",
+  "i46byCCASpA",
+  "HjN60IVp8_0",
+  "SduCuE-PLWc",
+]
 +++
 
-Mouse is a dealer in the underground scene where [Povy](@/characters/povy.md) lives. Povy pays Mouse for items and exclusive services, from pronouns to thingamabobs.
+Mouse is a dealer in the back alleys of the city. Mouse sells cheap pronouns, fidget toys and stick and poke tattoos, and promises that everything is totally legal.
 
 ## Related characters
 
 - [Tingle Dealer](@/characters/tingle-dealer.md)
-- [Povy](@/characters/povy.md)
+- [Bunny](@/characters/bunny.md)
 
-## Sources
+## Playlists
 
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Club ZZZ/Backstreet Series](@/playlists/PL1Q2egvxEPqGmS_tpKFVWPe_GOTPtxJKr.md)

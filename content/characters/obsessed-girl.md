@@ -1,21 +1,17 @@
 +++
 title = "Obsessed Girl"
-description = "A stalker who is obsessed with Povy."
+description = "A girl who is obsessed with the listener."
 
 [extra]
-species = "Human"
-age = "22"
-relation = "Obsessive stalker"
-videos = []
+videos = [
+  "KltB3OwMQoA",
+  "WaVop4Fne5w",
+  "f4J2TlFEAvo",
+]
 +++
 
-The Obsessed Girl stalks and kidnaps [Povy](@/characters/povy.md). She possibly has a better sense of smell than other humans.
+The Obsessed Girl does not respect boundaries. She captures the listener, sniffs them, counts their eyelashes, takes their hoodie and eats their hair.
 
 ## Related characters
 
-- [Povy](@/characters/povy.md)
 - [Insecure Girlfriend](@/characters/insecure-girlfriend.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.

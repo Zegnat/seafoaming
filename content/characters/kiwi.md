@@ -1,21 +1,16 @@
 +++
 title = "Kiwi"
-description = "The caring friend."
+description = "The best friend of the listener in kindergarten."
 
 [extra]
-species = "Human"
-age = "23"
-relation = "Best friend, moral support"
-videos = []
+videos = [
+  "81EV5GZp24M",
+  "mk7H-9vcZHw",
+]
 +++
 
-Kiwi is possibly the first friend of [Povy](@/characters/povy.md). They know each other from kindergarten. The Kitonians wanted to chip Kiwi, but [Fay](@/characters/fay.md) saved her in a ship rescue.
+Kiwi is the best friend of the listener in the class of [Miss Pickles](@/characters/miss-pickles.md). At recess, the two hide together in a secret candyland.
 
 ## Related characters
 
-- [Povy](@/characters/povy.md)
-- [Fay](@/characters/fay.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Miss Pickles](@/characters/miss-pickles.md)

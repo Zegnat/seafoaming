@@ -1,22 +1,24 @@
 +++
 title = "Bubblemint"
-description = "The friendly dragon."
+description = "The friendly dragon girl."
 
 [extra]
 species = "Dragon"
-age = "23 (human form)"
-relation = "Friendly dragon"
-videos = []
+videos = [
+  "Il-nVTxXaEo",
+  "ngUO6Btvj-o",
+  "8DqY949Xh2Y",
+  "mn2sSn6etCY",
+]
 +++
 
-Bubblemint is a dragon who is very friendly to [Povy](@/characters/povy.md). Her relation with Povy is different from that of [Ember](@/characters/ember.md). Because Ember is territorial, the [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon) expect conflict between the two dragons.
+Bubblemint is a second dragon girl, and she is very curious about humans. She examines the listener with her gadgets, fixes a dangerous level of badness, and gives the listener a dragon makeover as a best friend.
 
 ## Related characters
 
 - [Ember](@/characters/ember.md)
 - [Obsidian](@/characters/obsidian.md)
-- [Povy](@/characters/povy.md)
 
-## Sources
+## Playlists
 
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Bubblemint the Friendly Dragon](@/playlists/PL1Q2egvxEPqH8cEWAM8VCiFRUDfMIRiFO.md)

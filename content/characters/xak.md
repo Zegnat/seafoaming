@@ -1,22 +1,16 @@
 +++
 title = "Xak"
-description = "The smug alien and arch-nemesis of Povy."
+description = "A smug alien who calls himself an overlord."
 
 [extra]
-species = "Kitonian alien"
-age = "Classified"
-relation = "Roommate"
-videos = []
+species = "Alien"
+videos = [
+  "QiT26y1c05U",
+]
 +++
 
-Xak calls himself the arch-nemesis of [Povy](@/characters/povy.md), and he is now the roommate of Povy. He is obsessed with something that he calls "Yana". The [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon) wonder what will happen if Xak meets [Fay](@/characters/fay.md).
+Xak says that he is the Supreme Overlord of the planet Kitonia, and he expects the listener to worship him. His plans to torture the listener do not go very far, and he takes something called a Yana from the listener.
 
-## Related characters
+## Playlists
 
-- [Povy](@/characters/povy.md)
-- [Fay](@/characters/fay.md)
-- [Zelenia](@/characters/zelenia.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Alien Series](@/playlists/PL1Q2egvxEPqFUBCS26Wf7fPRTAnSjEl6N.md)

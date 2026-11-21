@@ -1,22 +1,16 @@
 +++
 title = "Becky"
-description = "A past roommate of Povy."
+description = "One half of the twins Stacy and Becky."
 
 [extra]
-species = "Human"
-age = "23"
-relation = "Past roommate"
-videos = []
+videos = [
+  "ocVbDKSAMLw",
+  "o06gIyE6Bag",
+]
 +++
 
-Becky is a past roommate of [Povy](@/characters/povy.md), together with [Stacy](@/characters/stacy.md). She is very intelligent. The [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon) say that Becky must not meet [Fay](@/characters/fay.md).
+Becky and [Stacy](@/characters/stacy.md) give the listener twin attention together. The two have opposite personalities.
 
 ## Related characters
 
 - [Stacy](@/characters/stacy.md)
-- [Haley](@/characters/haley.md)
-- [Povy](@/characters/povy.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.

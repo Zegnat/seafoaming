@@ -1,22 +1,16 @@
 +++
 title = "Stacy"
-description = "A past roommate of Povy."
+description = "One half of the twins Stacy and Becky."
 
 [extra]
-species = "Human"
-age = "23"
-relation = "Past roommate"
-videos = []
+videos = [
+  "ocVbDKSAMLw",
+  "o06gIyE6Bag",
+]
 +++
 
-Stacy is a past roommate of [Povy](@/characters/povy.md), together with [Becky](@/characters/becky.md). Stacy and Povy do not talk much now. Stacy recently got a following, and she and Becky are always together.
+Stacy and [Becky](@/characters/becky.md) give the listener twin attention together. The two have opposite personalities.
 
 ## Related characters
 
 - [Becky](@/characters/becky.md)
-- [Haley](@/characters/haley.md)
-- [Povy](@/characters/povy.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.

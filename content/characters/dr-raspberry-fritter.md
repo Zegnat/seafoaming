@@ -1,21 +1,19 @@
 +++
 title = "Dr. Raspberry Fritter"
-description = "A doctor who takes organs."
+description = "A cute doctor who harvests organs."
 
 [extra]
-species = "Unknown"
-age = "36 or more"
-relation = "Murderer, organ taker, doctor"
-videos = []
+videos = [
+  "7bSdXgXZQa4",
+  "9d0noRb4ANM",
+  "M0FC2UPXrkA",
+  "sbxqdOcOlXI",
+  "Y0scvYlLSKc",
+]
 +++
 
-Dr. Raspberry Fritter is possibly not human. When [Povy](@/characters/povy.md) meets her, Povy loses organs or dies. She likes the taste of human organs. She possibly knows that Povy cannot die, so Povy is her favorite victim. She is possibly related to the vampires.
+Dr. Raspberry Fritter works at Sweet Berry Clinic. She speaks in a very cute way while she takes organs from her patients. Later she works as a dentist, where she must not kill anyone, and she also does surgery against brain rot.
 
-## Related characters
+## Playlists
 
-- [Povy](@/characters/povy.md)
-- [Smol](@/characters/smol.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Hewwo? Raspberry Fritter](@/playlists/PL1Q2egvxEPqHETMSGCAgA8RVXAtTmObk3.md)

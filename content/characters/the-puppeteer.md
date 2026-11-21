@@ -1,20 +1,17 @@
 +++
 title = "The Puppeteer"
-description = "A goddess-like being."
+description = "A woman who turns the listener into a puppet."
 
 [extra]
-species = "Goddess"
-age = "Unknown"
-relation = "Goddess (one of many)"
-videos = []
+videos = [
+  "1Wpk38KDrb0",
+  "Ptg59LkfBBA",
+  "6OohQXtspwc",
+]
 +++
 
-The Puppeteer is a god-like being. It is possibly only a dream of [Povy](@/characters/povy.md). The [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon) think that The Puppeteer made the cat-human hybrids.
+The Puppeteer turns the listener into her puppet and then brushes their hair and does their makeup. She is also a crazy cat lady who takes care of tired travelers.
 
-## Related characters
+## Playlists
 
-- [Povy](@/characters/povy.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [The Puppeteer](@/playlists/PL1Q2egvxEPqGijCBooVb7RFs6Zqnop_sD.md)

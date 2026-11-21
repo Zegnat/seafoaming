@@ -1,22 +1,28 @@
 +++
 title = "Smol"
-description = "The idiot vampire."
+description = "The small and not very smart vampire, also called Smolpire."
 
 [extra]
 species = "Vampire"
-age = "21"
-relation = "Business partner, buddy"
-videos = []
+videos = [
+  "MTlBDXbzD-c",
+  "9tcHUwEiPjY",
+  "DiCx5SJ3xug",
+  "epiu7zJ6EsM",
+  "hCg9Rjqeoik",
+  "Rq_s60SrXPU",
+  "J4mHqmXHhNQ",
+  "i5WJ1GOfXm4",
+  "NRddFPh4wUw",
+  "qdXaLW50HjU",
+  "nKHO1IJ3w0I",
+  "zBiLOgxsT-k",
+  "EcBsY9d_HkI",
+]
 +++
 
-Smol is one of the earliest friends of [Povy](@/characters/povy.md). They met when Povy caught her drinking the blood of a weasel. She wants money and the approval of the Vampire Queen.
+Smol is a small vampire who wants to drink blood but is not good at it. She practices feeding, cuts hair, tends a bar, does a cranial nerve exam, works as a personal trainer and runs a dispensary for magic herbs.
 
-## Related characters
+## Playlists
 
-- [Povy](@/characters/povy.md)
-- [Kiki](@/characters/kiki.md)
-- [Dr. Raspberry Fritter](@/characters/dr-raspberry-fritter.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Smol Idiot Vampire](@/playlists/PL1Q2egvxEPqHSBUtxbeZBXMyJ8ExR66QN.md)

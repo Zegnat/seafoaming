@@ -1,20 +1,12 @@
 +++
 title = "Bitchy Mom"
-description = "The unsympathetic mother of Povy."
+description = "A disappointed and hurtful mother."
 
 [extra]
-species = "Human"
-age = "45"
-relation = "Mother"
-videos = []
+videos = [
+  "Mliso7vtBBw",
+  "QIDws-KFhHw",
+]
 +++
 
-Bitchy Mom is the mother of [Povy](@/characters/povy.md). She always compared Povy with a more successful brother. She says that Povy was a loner who dropped out of college.
-
-## Related characters
-
-- [Povy](@/characters/povy.md)
-
-## Sources
-
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+Bitchy Mom is a mother who is always disappointed in the listener. She insults the listener and says that she only wants the best.

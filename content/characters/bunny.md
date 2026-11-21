@@ -1,16 +1,19 @@
 +++
 title = "Bunny"
-description = "The Pretty Critter Luvpet, hostess at Club ZZZ."
+description = "A host at Club ZZZ."
 
 [extra]
-species = "Human"
-age = "29"
-relation = "Hostess"
-videos = []
+videos = [
+  "Fp9iQSEvA3k",
+]
 +++
 
-Bunny works as a hostess at Club ZZZ, a club for tingles and relaxation that costs money.
+Bunny works at Club ZZZ, where the hosts are called Pretty Critter LuvPets. When the listener gets a job there, Bunny shows them around.
 
-## Sources
+## Related characters
 
-- [SempAi biographies](https://supercabezon4288.wixsite.com/seafoam-kitten/sempai-bios-canon), a fan site.
+- [Mouse](@/characters/mouse.md)
+
+## Playlists
+
+- [Club ZZZ/Backstreet Series](@/playlists/PL1Q2egvxEPqGmS_tpKFVWPe_GOTPtxJKr.md)
