@@ -23,6 +23,10 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable th { background: #eaecf0; }
 .icon svg { width: var(--size); height: var(--size); vertical-align: -3px; }
 .grid .icon svg { display: block; margin: auto; }
+.stack { display: inline-grid; padding: 8px 8px 0 0; vertical-align: top; }
+.stack img { grid-area: 1 / 1; display: block; max-width: 100%; height: auto; border: 1px solid #a2a9b1; background: #fff; }
+.stack img:nth-last-child(2) { transform: translate(4px, -4px); }
+.stack img:nth-last-child(3) { transform: translate(8px, -8px); }
 .num { text-align: right; }
 .small { font-size: 0.85em; color: #54595d; }
 lite-youtube { max-width: 640px; }

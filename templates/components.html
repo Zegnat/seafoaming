@@ -29,3 +29,8 @@
 {% endfor %}
 </table>
 {% endcomponent video_table %}
+
+{# A pile of up to three thumbnails; the first id lies on top. #}
+{% component stack(ids: array, href: string, title: string, width: integer = 160) %}
+<a class="stack" href="{{ href }}">{% for id in ids | reverse %}<img src="{{ get_url(path='thumbs/' ~ id ~ '.jpg') }}" alt="{{ title if loop.last else '' }}" width="{{ width }}" height="{{ width * 9 // 16 }}" loading="lazy">{% endfor %}</a>
+{% endcomponent stack %}

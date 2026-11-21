@@ -130,15 +130,20 @@ function videoPage(info: Info) {
 
 function playlistPage(data: Info) {
   const entries: Info[] = data.entries ?? [];
-  // The playlist thumbnail is the thumbnail of one of its videos.
-  const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1] ?? null;
+  // The playlist thumbnail is the thumbnail of one of its videos. The stack puts it on top of the next two.
+  const thumbnail = data.thumbnails?.[0]?.url?.match(/\/vi\/([^/]+)\//)?.[1];
+  const stack = [...new Set([thumbnail, ...entries.map((e) => e.id)])]
+    .filter((id) => id && exists(`${ROOT}static/thumbs/${id}.jpg`)).slice(0, 3);
   return [
     "+++",
     `title = ${toml(data.title)}`,
     "",
     "[extra]",
     `id = ${toml(data.id)}`,
-    `thumbnail = ${toml(thumbnail)}`,
+    `stack = ${toml(stack)}`,
+    `views = ${toml(data.view_count)}`,
+    `updated = ${data.modified_date ? data.modified_date.replace(/(\d{4})(\d\d)(\d\d)/, "$1-$2-$3") : "null"}`,
+    `fetched = ${new Date(data.epoch * 1000).toISOString().slice(0, 10)}`,
     `description = ${toml(data.description || "")}`,
     "videos = [",
     ...entries.map((e) => `  { id = ${toml(e.id)}, title = ${toml(e.title || e.id)} },`),
