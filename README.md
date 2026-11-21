@@ -44,6 +44,13 @@ Some videos were removed from YouTube before the first download. [The ASMR Index
 mise exec -- deno task import-asmrindex <pages.warc.gz> <images.warc.gz>
 ```
 
+Some playlists also hold private or deleted videos, and YouTube gives no title for them. The ASMR Index may still know them. Its pages are behind a bot check, so the lookup needs a real browser: start Firefox with `--remote-debugging-port=9223`, or save the pages from your own browser into a folder, then run one of these commands:
+
+```sh
+mise exec -- deno task lookup-asmrindex ws://127.0.0.1:9223/session
+mise exec -- deno task lookup-asmrindex <folder with saved pages>
+```
+
 The import writes the data to `.cache/asmrindex/`. The fetch script then also tries to download the videos that the index knows, and the generator makes pages from the index data for the videos that YouTube no longer has. These pages show that their data comes from the index.
 
 The fetch script only downloads videos that are not in `.cache/` yet. To download all videos again, for example for new view counts, run `deno task fetch --refresh`. The fetch script waits between requests, so a refresh of the full channel needs some hours. If YouTube reports a rate limit, wait one hour and run the fetch script again.

@@ -59,8 +59,11 @@ for (const id of await lines(["--flat-playlist", "--print", "id", `${CHANNEL}/pl
 // The ASMR Index (see scripts/import-asmrindex.ts) knows videos that no list on the channel shows,
 // for example old unlisted videos. Videos that it does not mark as removed count as listed.
 for (const id of ids(".cache/asmrindex", ".json")) {
+  const entry = JSON.parse(Deno.readTextFileSync(`.cache/asmrindex/${id}.json`));
+  // Lookups for playlists also store videos of other channels; those are not videos of this channel.
+  if (entry.channel_id && entry.channel_id !== CHANNEL_ID) continue;
   wanted.add(id);
-  if (!JSON.parse(Deno.readTextFileSync(`.cache/asmrindex/${id}.json`)).removed) listed.add(id);
+  if (!entry.removed) listed.add(id);
 }
 
 // Without --refresh, only download videos that are not in the cache yet, and check again the cached videos

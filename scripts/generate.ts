@@ -246,6 +246,22 @@ function videoPage(info: Info, placeholder: string | null) {
 }
 
 // The thumbnails of videos by other channels live in static/thumbs/others.
+// YouTube gives no title or channel for private and deleted videos in a playlist. The ASMR Index may still know them.
+function fromIndex(e: Info): Info {
+  const path = `${CACHE}/asmrindex/${e.id}.json`;
+  if (e.title || !exists(path)) return e;
+  const index = JSON.parse(Deno.readTextFileSync(path));
+  return {
+    ...e,
+    title: index.title,
+    duration: e.duration ?? index.duration,
+    channel: index.channel,
+    channel_id: index.channel_id,
+    channel_url: index.channel_id ? `https://www.youtube.com/channel/${index.channel_id}` : null,
+    source: "asmrindex",
+  };
+}
+
 const folderOf = (e: Info) => e.channel_id && e.channel_id !== CHANNEL_ID ? "others" : "";
 const thumbExists = (id: string, folder: string) =>
   exists(`${ROOT}static/thumbs/${folder ? `${folder}/` : ""}${id}-320.webp`);
@@ -258,7 +274,7 @@ const inline = (fields: Record<string, unknown>) =>
   } }`;
 
 function playlistPage(data: Info, placeholders: Map<string, string | null>) {
-  const entries: Info[] = data.entries ?? [];
+  const entries: Info[] = (data.entries ?? []).map(fromIndex);
   // A playlist of mostly other channels, such as Favorite ASMR, keeps its page but is hidden from the playlist list.
   const known = entries.filter((e) => e.channel_id);
   const own = known.filter((e) => e.channel_id === CHANNEL_ID).length;
@@ -293,6 +309,7 @@ function playlistPage(data: Info, placeholders: Map<string, string | null>) {
           id: e.id,
           title: e.title || e.id,
           status: readStatus(e.id)?.status,
+          source: e.source,
           channel: folder ? e.channel : null,
           channel_url: folder ? e.channel_url : null,
           length: folder && e.duration ? timestamp(e.duration) : null,
@@ -343,6 +360,8 @@ if (import.meta.main) {
   // Videos that only The ASMR Index knows, because they were gone before the first download of the wiki.
   for (const entry of jsonFiles(`${CACHE}/asmrindex`, ".json")) {
     if (exists(`${CACHE}/videos/${entry.id}.info.json`)) continue;
+    // Videos of other channels only appear in playlists; they get no page of their own.
+    if (entry.channel_id && entry.channel_id !== CHANNEL_ID) continue;
     const info: Info = {
       id: entry.id,
       title: entry.title,
@@ -359,7 +378,7 @@ if (import.meta.main) {
   }
   const creators = new Set<string>();
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
-    for (const e of data.entries ?? []) {
+    for (const e of (data.entries ?? []).map(fromIndex)) {
       if (!folderOf(e) || placeholders.has(e.id)) continue;
       placeholders.set(e.id, await thumbnail(e.id, folderOf(e)));
       if (e.channel) creators.add(e.channel.trim());

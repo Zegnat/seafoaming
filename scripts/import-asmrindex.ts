@@ -81,12 +81,16 @@ export function parseVideoPage(html: string) {
   const description = html.match(/<p id="description">([\s\S]*?)<\/p>/)?.[1] ?? "";
   const tags = [...(html.match(/>\s*Tags\s*(<[\s\S]*?)<\/div>/)?.[1] ?? "").matchAll(/<span[^>]*>([^<]+)<\/span>/g)]
     .map((match) => decodeEntities(match[1].trim()));
+  // The first link to a channel page is the channel of the video.
+  const channel = html.match(/href="https:\/\/www\.theasmrindex\.com\/channel\/(UC[\w-]+)"[^>]*title="View ([^"]*)"/);
   return {
     title: ld.name ?? null,
     description: decodeEntities(description.replace(/<br\s*\/?>\n?/g, "\n").replace(/<[^>]+>/g, "")).trim(),
     upload_date: ld.uploadDate ?? null,
     duration: ld.duration ? seconds(ld.duration) : null,
     tags,
+    channel: channel ? decodeEntities(channel[2]) : null,
+    channel_id: channel?.[1] ?? null,
   };
 }
 
