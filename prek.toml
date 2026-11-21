@@ -1,3 +1,6 @@
+# Vendored files stay as their authors wrote them.
+exclude = "^static/vendor/"
+
 [[repos]]
 repo = "builtin"
 hooks = [
