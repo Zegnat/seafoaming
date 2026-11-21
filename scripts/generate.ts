@@ -37,7 +37,7 @@ export function parseVtt(text: string) {
     }
     const line = raw.replace(/<[^>]+>/g, "").trim()
       .replaceAll("&amp;", "&").replaceAll("&#39;", "'").replaceAll("&quot;", '"')
-      .replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&nbsp;", " ");
+      .replaceAll("&lt;", "<").replaceAll("&gt;", ">").replaceAll("&nbsp;", " ").replace(/\s+/g, " ");
     if (start !== null && line && !recent.includes(line)) {
       lines.push([start, line]);
       recent = [...recent, line].slice(-3);
@@ -86,7 +86,7 @@ function transcript(info: Info) {
     if (chapter < chapters.length && t >= chapters[chapter].start_time) {
       flush();
       while (chapter < chapters.length && t >= chapters[chapter].start_time) chapter++;
-      out.push(`### ${escapeMarkdown(chapters[chapter - 1].title)}`, "");
+      out.push(`### ${escapeMarkdown(chapters[chapter - 1].title.replace(/\s+/g, " ").trim())}`, "");
     }
     if (paragraph.length && t - start >= PARAGRAPH_SECONDS) flush();
     if (!paragraph.length) start = t;
