@@ -5,19 +5,15 @@ a:hover { text-decoration: underline; }
 nav { position: absolute; top: 0; left: 0; width: 160px; padding: 1em; }
 nav ul { list-style: none; padding: 0; margin: 0.5em 0; }
 nav li { margin: 0.2em 0; }
+/* Links that leave the site get a small external-link icon after the label. */
+nav .external { color: #72777d; }
+nav .caption { font-size: 0.85em; color: #54595d; white-space: nowrap; }
 nav .other { border-top: 1px solid #c8ccd1; padding-top: 0.5em; }
 /* Flex drops the whitespace around the icon, so the hover underline only covers the label. */
 nav a { display: inline-flex; align-items: center; gap: 0.4em; }
 .links a { display: flex; align-items: center; gap: 0.7em; }
 main { margin-left: 192px; padding: 1em 1.5em; background: #fff; border: 1px solid #a7d7f9; border-right: 0; min-height: 80vh; }
 footer .icon { margin-right: 0.3em; }
-/* The tabs hang on the top border of main; the selected tab covers that border, like in MediaWiki. */
-.tabs { list-style: none; display: flex; justify-content: flex-end; gap: 0.2em; margin: 0.6em 0 0 192px; padding: 0 1em 0 0; font-size: 0.85em; }
-.tabs li { border: 1px solid #a7d7f9; border-bottom: 0; background: #f8f9fa; }
-.tabs li.selected { background: #fff; position: relative; top: 1px; }
-.tabs a, .tabs > li > span { display: block; padding: 0.3em 0.8em; white-space: nowrap; }
-.tabs > li > span { color: #202122; }
-.tabs .icon { margin-right: 0.3em; }
 footer { margin-left: 192px; padding: 1em 1.5em; font-size: 0.85em; color: #54595d; }
 h1, h2 { font-family: "Linux Libertine", Georgia, Times, serif; font-weight: normal; border-bottom: 1px solid #a2a9b1; }
 h1 { font-size: 1.8em; margin-top: 0; }
@@ -42,8 +38,9 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .sortable th[aria-sort="descending"] button .sort .icon:nth-child(3) { display: inline-block; }
 .sortable th:not([aria-sort]) button .sort .icon { color: #72777d; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-/* Inline icons sit on the middle of the lowercase letters, and an inline-block never gets the link underline. */
-.icon { display: inline-block; vertical-align: middle; line-height: 0; }
+/* The bottom of an inline icon sits on the bottom of the text, so a larger icon grows upward and stays centered on the letters.
+   An inline-block never gets the link underline. */
+.icon { display: inline-block; vertical-align: text-bottom; line-height: 0; }
 .icon svg { display: block; width: var(--size); height: var(--size); }
 .stack { display: inline-grid; padding: 8px 8px 0 0; vertical-align: top; }
 .stack img { grid-area: 1 / 1; display: block; max-width: 100%; height: auto; border: 1px solid #a2a9b1; background: #fff; }
@@ -88,7 +85,7 @@ lite-youtube { max-width: 640px; }
   nav ul li { display: inline; margin-right: 1em; }
   nav ul { display: inline; }
   nav .other { border-top: 0; border-left: 1px solid #c8ccd1; padding: 0 0 0 1em; }
-  main, footer, .tabs { margin-left: 0; }
+  main, footer { margin-left: 0; }
   .infobox { float: none; width: 100%; margin: 0 0 1em; }
   .chapters { columns: 1; }
   .wikitable img { width: 80px; height: auto; }

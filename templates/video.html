@@ -60,10 +60,10 @@
 {% endif %}
 {{ page.content | safe }}
 {% endblock %}
-{% block tabs %}
-<ul class="tabs">
-<li class="selected"><span>Read</span></li>
-<li><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if page.extra.history_url %}Edit on GitHub{% else %}Add information on GitHub{% endif %}</a></li>
-{% if page.extra.history_url %}<li><a href="{{ page.extra.history_url }}">{{<icon name="history" />}}History</a></li>{% endif %}
+{% block page_links %}
+<ul class="other">
+<li class="caption">On GitHub</li>
+<li><a href="{{ page.extra.edit_url }}">{{<icon name="pencil" />}}{% if page.extra.history_url %}Edit information{% else %}Add information{% endif %}<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>
+{% if page.extra.history_url %}<li><a href="{{ page.extra.history_url }}">{{<icon name="history" />}}Page history<span class="external">{{<icon name="external-link" size={12} />}}</span></a></li>{% endif %}
 </ul>
 {% endblock %}
