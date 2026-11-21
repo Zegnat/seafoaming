@@ -82,6 +82,15 @@ lite-youtube { max-width: 640px; }
 .strip img { display: block; border: 1px solid #a2a9b1; }
 .chapters { columns: 2; }
 .infobox .icon { margin-right: 0.3em; }
+/* Collapsible sections: the heading stays a heading inside the summary, with a Tabler chevron instead of the marker
+   of the browser. A block summary keeps the margins of the heading as they are without the summary. */
+details > summary { display: block; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+details > summary > h2 .icon { vertical-align: middle; margin-right: 0.2em; color: #72777d; }
+details:not([open]) > summary > h2 .icon { transform: rotate(-90deg); }
+.toc { display: inline-block; border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.3em 1em 0.5em; margin: 1em 0 0; font-size: 0.9em; }
+.toc p { margin: 0; }
+.toc ol { margin: 0.3em 0 0; padding-left: 1.5em; }
 @media (max-width: 720px) {
   nav { position: static; width: auto; }
   nav ul li { display: inline; margin-right: 1em; }

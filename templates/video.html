@@ -55,18 +55,42 @@
 {% endfor %}
 </div>
 {% endif %}
+{# Contents of this page, like the box on Wikipedia: the sections of this template, and the "##" headings
+   of the Markdown, such as Notes and Transcript, which Zola lists in page.toc. #}
+{% set before = [s for s in [
+  {"id": "chapters", "title": "Chapters", "on": (page.extra.chapters | length) > 0},
+  {"id": "description", "title": "Description", "on": page.extra.description != ""},
+] if s.on] %}
+{% set toc = [...before, ...[{"id": h.id, "title": h.title} for h in page.toc]] %}
+<div class="toc" role="navigation" aria-labelledby="toc-title">
+<p id="toc-title"><b>Contents</b></p>
+<ol>
+{% for s in toc %}<li><a href="#{{ s.id }}">{{ s.title }}</a></li>
+{% endfor %}
+</ol>
+</div>
 {% if page.extra.chapters %}
-<h2>Chapters</h2>
+<details open>
+<summary><h2 id="chapters">{{<icon name="chevron-down" size={20} />}}Chapters</h2></summary>
 <ol class="chapters">
 {% for c in page.extra.chapters %}<li><a href="{{ url }}&amp;t={{ c.start }}s">{{ c.time }}</a> {{ c.title }}</li>
 {% endfor %}
 </ol>
+</details>
 {% endif %}
 {% if page.extra.description %}
-<h2>Description</h2>
+<details open>
+<summary><h2 id="description">{{<icon name="chevron-down" size={20} />}}Description</h2></summary>
 <p class="description">{{ page.extra.description | escape_html | newlines_to_br | safe }}</p>
+</details>
 {% endif %}
-{{ page.content | safe }}
+{# Every "##" section of the Markdown becomes a section that readers can collapse, like the sections above. #}
+{% set parts = page.content | split(pat="<h2") %}
+{{ parts[0] | safe }}
+{# Each part starts with the attributes of its heading: put the icon right after them. #}
+{% for part in parts[1:] %}{% set bits = part | replace(from="</h2>", to="</h2></summary>") | split(pat=">") %}
+<details open><summary><h2{{ bits[0] | safe }}>{{<icon name="chevron-down" size={20} />}}{{ bits[1:] | join(sep=">") | safe }}</details>
+{% endfor %}
 {% endblock %}
 {% block page_links %}
 {# The community file of the video on GitHub: the file itself, or a new file with this starting text. #}

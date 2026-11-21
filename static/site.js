@@ -111,3 +111,14 @@ addEventListener("click", (event) => {
   player.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "nearest" });
   seek(player, parseInt(url.searchParams.get("t")));
 });
+
+// Open a collapsed section when a link leads into it, for example from the table of contents.
+const openTarget = (hash) => {
+  const target = hash.length > 1 && document.getElementById(decodeURIComponent(hash.slice(1)));
+  if (target) target.closest("details")?.setAttribute("open", "");
+};
+addEventListener("click", (event) => {
+  const link = event.target.closest?.('a[href^="#"]');
+  if (link) openTarget(link.hash);
+});
+addEventListener("DOMContentLoaded", () => openTarget(location.hash));
