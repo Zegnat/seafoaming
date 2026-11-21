@@ -79,6 +79,13 @@ mise exec -- deno task build
 
 On every push to `main`, the workflow in `.github/workflows/pages.yml` runs `deno task build` and publishes `public/` to GitHub Pages. You can also start it by hand on the Actions page of the repository.
 
+The actions in the workflow are pinned to full commits. The prek hooks check that with zizmor and pinact. To update the actions to their newest releases that are at least two weeks old, and to run all checks of zizmor, run:
+
+```sh
+GITHUB_TOKEN=$(gh auth token) mise exec -- pinact run --update --min-age 14
+GH_TOKEN=$(gh auth token) uvx zizmor --persona=auditor .github/workflows/
+```
+
 ## Check the files
 
 The prek hooks format and lint the Markdown and the TypeScript.

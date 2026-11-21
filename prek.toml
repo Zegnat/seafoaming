@@ -23,8 +23,15 @@ rev = "v6.2.0"
 hooks = [{ id = "reuse" }]
 
 [[repos]]
+repo = "https://github.com/zizmorcore/zizmor-pre-commit"
+rev = "v1.32.0"
+hooks = [{ id = "zizmor", args = ["--offline"] }]
+
+[[repos]]
 repo = "local"
 hooks = [
+  # Every action in a workflow must be pinned to a full commit; --no-api checks that without the network.
+  { id = "pinact", name = "pinact", entry = "pinact run --fix=false --no-api", language = "system", files = "^\\.github/workflows/" },
   { id = "deno-fmt", name = "deno fmt", entry = "deno fmt", language = "system", types = ["ts"] },
   { id = "deno-lint", name = "deno lint", entry = "deno lint", language = "system", types = ["ts"] },
 ]
