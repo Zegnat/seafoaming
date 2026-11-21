@@ -5,4 +5,4 @@ template = "videos.html"
 page_template = "video.html"
 +++
 
-All uploaded videos and shorts, newest first.
+All uploaded videos, newest first.

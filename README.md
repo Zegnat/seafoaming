@@ -12,7 +12,8 @@ A fan wiki about the videos and characters of [Seafoam Kitten ASMR](https://www.
 
 | Folder                | Contents                               | Source               |
 | --------------------- | -------------------------------------- | -------------------- |
-| `content/videos/`     | One page for each video and short      | Generated            |
+| `content/videos/`     | One page for each video                | Generated            |
+| `content/shorts/`     | One page for each short                | Generated            |
 | `content/streams/`    | One page for each live stream recording | Generated            |
 | `content/playlists/`  | One page for each playlist             | Generated            |
 | `content/characters/` | One page for each character            | Written by hand      |

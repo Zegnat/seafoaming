@@ -4,6 +4,7 @@ const ROOT = new URL("..", import.meta.url).pathname;
 const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
 const PARAGRAPH_SECONDS = 60;
+const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
 
 // deno-lint-ignore no-explicit-any
 type Info = Record<string, any>;
@@ -106,8 +107,8 @@ function videoPage(info: Info) {
     "",
     "[extra]",
     `id = ${toml(info.id)}`,
+    `duration = ${toml(info.duration)}`,
     `length = ${toml(info.duration ? timestamp(info.duration) : null)}`,
-    `short = ${toml(info.media_type === "short")}`,
     `availability = ${toml(info.availability)}`,
     `views = ${toml(info.view_count)}`,
     `likes = ${toml(info.like_count)}`,
@@ -167,8 +168,16 @@ function* jsonFiles(dir: string, suffix: string) {
 if (import.meta.main) {
   for (const info of jsonFiles(`${CACHE}/videos`, ".info.json")) {
     if (["is_live", "is_upcoming"].includes(info.live_status)) continue;
-    const section = info.live_status === "was_live" || info.was_live ? "streams" : "videos";
+    const section = info.live_status === "was_live" || info.was_live
+      ? "streams"
+      : info.media_type === "short"
+      ? "shorts"
+      : "videos";
     write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info));
+    // A video can move to another section, for example when YouTube marks it as a short later.
+    for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
+      if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
+    }
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     write(`${CONTENT}/playlists/${data.id}.md`, playlistPage(data));

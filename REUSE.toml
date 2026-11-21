@@ -14,7 +14,7 @@ SPDX-License-Identifier = "CC-BY-4.0"
 
 # Generated pages mix material from YouTube with the work of the community.
 [[annotations]]
-path = ["content/videos/*.md", "content/streams/*.md", "content/playlists/*.md"]
+path = ["content/videos/*.md", "content/shorts/*.md", "content/streams/*.md", "content/playlists/*.md"]
 SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "2026 The Seafoam Kitten ASMR Community"]
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND CC-BY-4.0"
 
@@ -24,7 +24,7 @@ SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten"
 
 [[annotations]]
-path = ["content/videos/_index.md", "content/streams/_index.md", "content/playlists/_index.md"]
+path = ["content/videos/_index.md", "content/shorts/_index.md", "content/streams/_index.md", "content/playlists/_index.md"]
 SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"
 SPDX-License-Identifier = "CC-BY-4.0"
 
