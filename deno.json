@@ -1,15 +1,26 @@
 {
+  "imports": {
+    "@std/encoding": "jsr:@std/encoding@1",
+    "sharp": "npm:sharp@0.34.5"
+  },
+  "nodeModulesDir": "auto",
   "tasks": {
-    "fetch": "deno run --allow-run=yt-dlp --allow-net=i.ytimg.com --allow-read --allow-write=.cache,static/thumbs scripts/fetch.ts",
-    "generate": "deno run --allow-read --allow-write=content scripts/generate.ts",
+    "fetch": "deno run --allow-run=yt-dlp --allow-net=i.ytimg.com --allow-read --allow-write=.cache scripts/fetch.ts",
+    "generate": "deno run --allow-read --allow-write=content,static/thumbs --allow-env --allow-ffi --allow-sys scripts/generate.ts",
     "test": "deno test --allow-read scripts/",
     "build": "zola build && deno bundle --minify --platform browser --output public/site.js static/site.js"
   },
   "fmt": {
     "lineWidth": 120,
-    "include": ["scripts/", "static/site.js"]
+    "include": [
+      "scripts/",
+      "static/site.js"
+    ]
   },
   "lint": {
-    "include": ["scripts/", "static/site.js"]
+    "include": [
+      "scripts/",
+      "static/site.js"
+    ]
   }
 }
