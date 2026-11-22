@@ -27,6 +27,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one half of a collab trade. The other video is [on the main channel](@/videos/gl_No6rA-LA.md).
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=dqzECUYOpvM&t=0s) left side side don't forget to check out Zeefum Kitten's channel to see her as Little Red Riding Hood and me as the wolf enjoy Nom, nom, nom, nom, nom, nom, nom.

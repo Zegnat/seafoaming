@@ -27,6 +27,15 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one part of a group collab trade, filmed on the same trip. The other videos are:
+
+- [Questions](@/videos/qUXpMHoWZoo.md) on the main channel
+- [ASMR Squad Sounds](@/collabs/YEAkyq3WUTo.md) on the channel of Matty Tingles
+- [ASMR with Friends!](@/collabs/wbASsv7ShT4.md) on the channel of ALB in whisperland ASMR
+- [ASMR Pampering Other ASMRtists](@/collabs/I-uow6TyUBM.md) on the channel of ASMR Darling
+
 ## Transcript
 
 [0:01](https://www.youtube.com/watch?v=D4YJGns7yEU&t=1s) Hi! Welcome! My name is Gibi. Is this your first cranial nerve exam? Okay. Well, we actually have multiple doctors on-call today. Is it alright if we all take a look at you? Well that's perfect! Can I call another doctor in now? Hi there! I'm ALB. I'm gonna be taking notes today about everything that we're testing on you, just to make sure that it's well documented so you can look back on this later and make sure everything's in order. Reflected to match all of your records, as well. GIBI: Yeah. We do do all of our records online, so we can give you a portal login. If you have any questions at all, you can send us messages through there. But we do need to get just some basic information. I know that you are a walk-in, so we didn't get any of your sort of, crucial info.

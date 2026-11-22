@@ -22,4 +22,8 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one half of a collab trade. The other video is [on the channel of softlygaloshes ASMR](@/collabs/dqzECUYOpvM.md).
+
 ## Transcript

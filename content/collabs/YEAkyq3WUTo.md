@@ -27,6 +27,15 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one part of a group collab trade, filmed on the same trip. The other videos are:
+
+- [Questions](@/videos/qUXpMHoWZoo.md) on the main channel
+- [ASMR with Friends!](@/collabs/wbASsv7ShT4.md) on the channel of ALB in whisperland ASMR
+- [The Ultimate Cranial Nerve Exam](@/collabs/D4YJGns7yEU.md) on the channel of Gibi ASMR
+- [ASMR Pampering Other ASMRtists](@/collabs/I-uow6TyUBM.md) on the channel of ASMR Darling
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=YEAkyq3WUTo&t=0s) how's it going guys Maddy Tingles here thank you so much for being here I'm happy to be here as well as you can tell have some special guests everybody say hello and so today's video we're just going to do some triggers, and I thought a cool way to do that would be to just, I'll start with something, and then we're going to pass it, and then it'll just be kind of a trigger fest. All the way down the line? All the way down the line. Let's do it. Nice. So, here, let's start with us. Should we introduce ourselves? Oh, so I am Maddie Tingles, of course. I'm GBA-SMI. I'm Seafoam Kittens-ASMR. ASMR. And ALB in Whisperland

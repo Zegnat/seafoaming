@@ -30,6 +30,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the channel of ASMR Weekly](@/collabs/vklqEmDfJng.md).
+
 ## Transcript
 
 ### The fugitive arrives

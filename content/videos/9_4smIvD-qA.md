@@ -27,4 +27,8 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the channel of stolentoilet ASMR](@/collabs/ARP7kvtn7lw.md).
+
 ## Transcript

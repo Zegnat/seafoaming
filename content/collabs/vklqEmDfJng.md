@@ -29,6 +29,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the main channel](@/videos/JJLWVqzpDYQ.md).
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=vklqEmDfJng&t=0s) I'm sorry. I don't know if I'm going to go back. I don't know if I'm going back. I'm sorry to disturb you.

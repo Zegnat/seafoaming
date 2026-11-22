@@ -24,4 +24,8 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is probably one half of a collab trade. The other video is [on the main channel](@/videos/rwDsyZzK08Y.md).
+
 ## Transcript

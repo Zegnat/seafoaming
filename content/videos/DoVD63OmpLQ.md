@@ -33,6 +33,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is only the part of Seafoam. The full collab is [on the channel of ASMR Weekly](@/collabs/W9bUYNBMEJE.md).
+
 ## Transcript
 
 ### Intro!

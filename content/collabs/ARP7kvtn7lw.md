@@ -26,6 +26,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the main channel](@/videos/9_4smIvD-qA.md).
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=ARP7kvtn7lw&t=0s) Today I have a special friend. His name is Bentley, and Bentley is going to be nibbling and licking your ears. Hi, this is Susie. she's very sleepy I have his favorite treat here it is ferritone which is just a type of oil mixture thing and he loves it so much I'm going to put this in the back of my life.

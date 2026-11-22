@@ -27,6 +27,15 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one part of a group collab trade, filmed on the same trip. The other videos are:
+
+- [Questions](@/videos/qUXpMHoWZoo.md) on the main channel
+- [ASMR Squad Sounds](@/collabs/YEAkyq3WUTo.md) on the channel of Matty Tingles
+- [ASMR with Friends!](@/collabs/wbASsv7ShT4.md) on the channel of ALB in whisperland ASMR
+- [The Ultimate Cranial Nerve Exam](@/collabs/D4YJGns7yEU.md) on the channel of Gibi ASMR
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=I-uow6TyUBM&t=0s) Hey guys, it's me ASMR, and this is JV ASMR, I'm sure you know this, we're just doing a little collab video today with her and some other wonderful ASMRtists, I'm going to be pampering them, so, you ready? This is the best day of my life. So we're just going to get started, JV I want you to relax as much as possible. as possible. Just enjoy yourself. So I'm just going to start off with just like rubbing your shoulders, just getting a feel for her energy and her vibes. I sing some very good So, I do. Really good energy. Positive. We're going to do some expressions. It's going to be very visual.

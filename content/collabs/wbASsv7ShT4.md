@@ -27,6 +27,15 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This video is one part of a group collab trade, filmed on the same trip. The other videos are:
+
+- [Questions](@/videos/qUXpMHoWZoo.md) on the main channel
+- [ASMR Squad Sounds](@/collabs/YEAkyq3WUTo.md) on the channel of Matty Tingles
+- [The Ultimate Cranial Nerve Exam](@/collabs/D4YJGns7yEU.md) on the channel of Gibi ASMR
+- [ASMR Pampering Other ASMRtists](@/collabs/I-uow6TyUBM.md) on the channel of ASMR Darling
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=wbASsv7ShT4&t=0s) Hello, my darlings. It's ALB in Whisperland here. Today, I'm going to be sharing with you one of my favorite triggers. Triggers are such a fun element to the ASMR community because they help you find your favorite sorts of sounds. Today, I have some wonderful friends who are going to be sharing some of their favorite triggers. Now, we are at a hotel right now, so there may be some background noise, and I do apologize for that. But we're so excited and ready to share with you, so let's just get going. For myself today, as a lot of you know, one of my favorite, favorite ASMR triggers is books and magazines and page turning. It's such a good sound.
