@@ -170,6 +170,15 @@ function spotifyRelease(url: string | null) {
   return id && exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
 }
 
+const RELEASE_TYPES: Record<string, string> = { ALBUM: "Album", EP: "EP", SINGLE: "Single" };
+
+// The Apple Music release behind a link, from .cache/apple, if it is there.
+function appleRelease(url: string) {
+  const id = url.match(/music\.apple\.com\/.*?(\d+)(?:[?#]|$)/)?.[1];
+  const path = `${CACHE}/apple/${id}.json`;
+  return id && exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
+}
+
 // The episode of the podcast that the community linked to this video, from .cache/spotify/episodes.
 function spotifyEpisode(url: string | null) {
   const id = url?.match(/open\.spotify\.com\/episode\/([A-Za-z0-9]{22})/)?.[1];
@@ -180,6 +189,10 @@ function spotifyEpisode(url: string | null) {
 function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set()) {
   const extra = community(info);
   const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
+  // apple_music holds one link or a list, because Apple Music has some recordings twice.
+  const appleLinks = [extra.data.apple_music].flat().filter((url): url is string =>
+    typeof url === "string" && url !== ""
+  );
   // For a video from the ASMR Index, the removed mark of the index is the fallback when YouTube gave no reason.
   const fromIndex = info.asmrindex?.removed ? { status: "removed", by: null, message: null, checked: null } : null;
   const gone = readStatus(info.id) ?? fromIndex;
@@ -208,17 +221,40 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     `placeholder = ${toml(placeholder)}`,
     `spotify = ${toml(link("spotify"))}`,
     `spotify_podcast = ${toml(link("spotify_podcast"))}`,
-    `apple_music = ${toml(link("apple_music"))}`,
+    ...(() => {
+      // Each release with its details and tracks, oldest first. A link without data in the cache keeps its URL.
+      const releases = appleLinks.map((url) => ({ url, release: appleRelease(url) }))
+        .sort((a, b) => (a.release?.date ?? "").localeCompare(b.release?.date ?? ""));
+      if (!releases.length) return [];
+      return [
+        "apple_music = [",
+        ...releases.map(({ url, release }) => {
+          const fields = inline({
+            url,
+            year: release?.date?.slice(0, 4),
+            id: release?.id,
+            name: release?.name,
+            type: release ? RELEASE_TYPES[release.type] ?? release.type : null,
+            date: release?.date,
+            cover: release ? covers.has(release.id) : null,
+          });
+          const tracks = (release?.tracks ?? []).map((track: Info) =>
+            inline({ id: track.id, name: track.name, length: timestamp(track.duration) })
+          );
+          return `  ${tracks.length ? fields.replace(/ }$/, `, tracks = [${tracks.join(", ")}] }`) : fields},`;
+        }),
+        "]",
+      ];
+    })(),
     ...(() => {
       const release = spotifyRelease(link("spotify"));
       if (!release) return [];
-      const types: Record<string, string> = { ALBUM: "Album", EP: "EP", SINGLE: "Single" };
       return [
         `spotify_release = ${
           inline({
             id: release.id,
             name: release.name,
-            type: types[release.type] ?? release.type,
+            type: RELEASE_TYPES[release.type] ?? release.type,
             date: release.date,
             cover: covers.has(release.id),
           })
@@ -367,13 +403,16 @@ function* jsonFiles(dir: string, suffix: string) {
 if (import.meta.main) {
   // Loaded here, so the tests do not need sharp.
   const { thumbnail, cover } = await import("./images.ts");
-  // Covers of the Spotify releases and podcast episodes that community files link to.
+  // Covers of the Spotify releases, podcast episodes and Apple Music releases that community files link to.
   const covers = new Set<string>();
   if (exists(`${ROOT}community/videos`)) {
     for (const file of Deno.readDirSync(`${ROOT}community/videos`)) {
       const text = Deno.readTextFileSync(`${ROOT}community/videos/${file.name}`);
       for (const [, id] of text.matchAll(/open\.spotify\.com\/(?:album|episode)\/([A-Za-z0-9]{22})/g)) {
         if (await cover(id)) covers.add(id);
+      }
+      for (const [, id] of text.matchAll(/music\.apple\.com\/[^"\s]*?(\d+)(?=["?#\s]|$)/g)) {
+        if (await cover(id, "apple")) covers.add(id);
       }
     }
   }

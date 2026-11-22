@@ -23,7 +23,7 @@ path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten"
 
-# Covers of the releases and podcast episodes of Seafoam Kitten ASMR on Spotify.
+# Covers of the releases of Seafoam Kitten ASMR on Spotify and Apple Music, and of the podcast episodes.
 [[annotations]]
 path = "static/covers/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"

@@ -10,7 +10,7 @@ To add information about a video, make a file `videos/<id>.md`, where `<id>` is 
 +++
 spotify = "https://open.spotify.com/album/..."
 spotify_podcast = "https://open.spotify.com/episode/..."
-apple_music = "https://music.apple.com/..."
+apple_music = ["https://music.apple.com/...", "https://music.apple.com/..."]
 +++
 
 Notes about the video, in Markdown.
@@ -22,7 +22,7 @@ A transcript that the community wrote.
 
 All parts are optional:
 
-- `spotify` and `apple_music` link to the same recording on those platforms. `spotify_podcast` links to the episode of the podcast of the channel. The video page shows them in the infobox.
+- `spotify` and `apple_music` link to the same recording on those platforms. `spotify_podcast` links to the episode of the podcast of the channel. Apple Music has some recordings twice, so `apple_music` can be one link or a list of links. The video page shows them in the infobox.
 - The text below the front matter appears on the video page as notes, after the description.
 - A section that starts with `## Transcript` replaces the captions from YouTube on the video page.
 

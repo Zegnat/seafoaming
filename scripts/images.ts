@@ -49,9 +49,9 @@ export async function thumbnail(id: string, folder = ""): Promise<string | null>
   return `data:image/webp;base64,${encodeBase64(blurred)}`;
 }
 
-// Write a 320 pixel square WebP version of a Spotify cover from .cache/spotify/covers.
-export async function cover(id: string) {
-  const source = `${ROOT}.cache/spotify/covers/${id}.jpg`;
+// Write a 320 pixel square WebP version of a release cover from .cache/<store>/covers, for "spotify" or "apple".
+export async function cover(id: string, store = "spotify") {
+  const source = `${ROOT}.cache/${store}/covers/${id}.jpg`;
   const out = `${ROOT}static/covers/${id}-320.webp`;
   if (!exists(source)) return false;
   Deno.mkdirSync(`${ROOT}static/covers`, { recursive: true });

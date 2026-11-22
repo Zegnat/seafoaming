@@ -33,8 +33,10 @@
 {% set listen = [l for l in [
   {"url": page.extra.spotify, "icon": "brands/spotify", "title": "Spotify"},
   {"url": page.extra.spotify_podcast, "icon": "brands/spotify", "title": "Spotify podcast"},
-  {"url": page.extra.apple_music, "icon": "brands/applemusic", "title": "Apple Music"},
 ] if l.url] %}
+{# Apple Music has some recordings twice; then the year tells the releases apart. #}
+{% set apple = page.extra.apple_music or [] %}
+{% set listen = [...listen, ...[{"url": a.url, "icon": "brands/applemusic", "title": "Apple Music (" ~ a.year ~ ")" if (apple | length) > 1 and a.year else "Apple Music"} for a in apple]] %}
 {% if listen %}<tr><th>Listen</th><td class="listen">{% for l in listen %}<a href="{{ l.url }}">{{<icon name={l.icon} />}}{{ l.title }}</a>{% endfor %}</td></tr>{% endif %}
 {% if page.extra.source != "asmrindex" %}<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>{% endif %}
 {% if page.extra.source == "asmrindex" %}<tr><th>Source</th><td><a href="{{ page.extra.source_url }}">The ASMR Index</a></td></tr>{% endif %}
@@ -69,6 +71,7 @@
   {"id": "description", "title": "Description", "on": page.extra.description != ""},
 ] if s.on] %}
 {% set after = [{"id": "spotify", "title": "Spotify"}] if release or episode else [] %}
+{% if apple %}{% set after = [...after, {"id": "apple-music", "title": "Apple Music"}] %}{% endif %}
 {% set toc = [...before, ...[{"id": h.id, "title": h.title} for h in page.toc], ...after] %}
 <div class="toc" role="navigation" aria-labelledby="toc-title">
 <p id="toc-title"><b>Contents</b></p>
@@ -103,7 +106,7 @@
 {# The release and the podcast episode of this video on Spotify, from the community file of the video. #}
 <details open>
 <summary><h2 id="spotify">{{<icon name="chevron-down" size={20} />}}Spotify</h2></summary>
-<div class="spotify">
+<div class="releases">
 {% if release %}
 {% set album = "https://open.spotify.com/album/" ~ release.id %}
 <div class="release">
@@ -126,6 +129,26 @@
 </div>
 </div>
 {% endif %}
+</div>
+</details>
+{% endif %}
+{% if apple %}
+{# The releases of this video on Apple Music, from the community file of the video: some recordings are there twice. #}
+<details open>
+<summary><h2 id="apple-music">{{<icon name="chevron-down" size={20} />}}Apple Music</h2></summary>
+<div class="releases">
+{% for a in apple %}
+<div class="release">
+{% if a.cover %}<a href="{{ a.url }}"><img src="{{ root }}covers/{{ a.id }}-320.webp" alt="Cover of {{ a.name }}" width="160" height="160" loading="lazy" decoding="async"></a>{% endif %}
+<div>
+<p><a href="{{ a.url }}"><b>{{ a.name or "Apple Music" }}</b></a>{% if a.type %}<br><span class="small">{{ a.type }} · {{ a.date }}</span>{% endif %}</p>
+{% if a.tracks %}<ol class="tracks">
+{% for track in a.tracks %}<li><a href="{{ a.url }}?i={{ track.id }}">{{ track.name }}</a> <span class="small">{{ track.length }}</span></li>
+{% endfor %}
+</ol>{% endif %}
+</div>
+</div>
+{% endfor %}
 </div>
 </details>
 {% endif %}

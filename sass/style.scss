@@ -98,8 +98,9 @@ details:not([open]) > summary > h2 .icon { transform: rotate(-90deg); }
 .toc { display: inline-block; border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.3em 1em 0.5em; margin: 1em 0 0; font-size: 0.9em; }
 .toc p { margin: 0; }
 .toc ol { margin: 0.3em 0 0; padding-left: 1.5em; }
-/* The release and the podcast episode side by side, like the chapters; one column when there is no room. */
-.spotify { display: grid; grid-template-columns: repeat(auto-fit, minmax(22em, 1fr)); gap: 1em; }
+/* Releases side by side, like the chapters: on Spotify the album and the podcast episode, on Apple Music the
+   releases of the same recording. One column when there is no room. */
+.releases { display: grid; grid-template-columns: repeat(auto-fit, minmax(22em, 1fr)); gap: 1em; }
 .release { display: flex; gap: 1em; align-items: flex-start; }
 .release img { display: block; border: 1px solid #a2a9b1; background: #eaecf0; }
 .release p { margin-top: 0; }
