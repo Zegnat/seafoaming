@@ -1,6 +1,8 @@
 +++
 title = "POV popular girl ignores you at a party"
 date = 2023-11-22T20:43:06Z
+path = "videos/FHUQc2dV5Uk/"
+aliases = ["shorts/FHUQc2dV5Uk/"]
 
 [extra]
 id = "FHUQc2dV5Uk"

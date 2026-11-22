@@ -1,6 +1,8 @@
 +++
 title = "🍷 Let's Play VA-11 HALL-A 🍸 Chill Vibes Only Pt. 2"
 date = 2020-05-02T00:43:05Z
+path = "videos/UwELNmBMvCw/"
+aliases = ["streams/UwELNmBMvCw/"]
 
 [extra]
 id = "UwELNmBMvCw"

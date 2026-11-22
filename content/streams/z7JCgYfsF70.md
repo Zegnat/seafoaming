@@ -1,6 +1,8 @@
 +++
 title = "ASMR STREAM 💖Doing YOUR Triggers | Seafoam Merch Available Now!! [Read Description]"
 date = 2022-11-21T04:58:14Z
+path = "videos/z7JCgYfsF70/"
+aliases = ["streams/z7JCgYfsF70/"]
 
 [extra]
 id = "z7JCgYfsF70"

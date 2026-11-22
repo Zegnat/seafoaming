@@ -1,6 +1,8 @@
 +++
 title = "Playing Kitty Simulator: STRAY [w/ guest MasterR3C0RD]"
 date = 2022-11-22T06:45:23Z
+path = "videos/0bp_dznw9Nw/"
+aliases = ["streams/0bp_dznw9Nw/"]
 
 [extra]
 id = "0bp_dznw9Nw"

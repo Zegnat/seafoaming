@@ -1,6 +1,8 @@
 +++
 title = "DREAM DADDY & CHILL"
 date = 2017-08-09T16:09:16Z
+path = "videos/oBq5WiP5Ggg/"
+aliases = ["streams/oBq5WiP5Ggg/"]
 
 [extra]
 id = "oBq5WiP5Ggg"

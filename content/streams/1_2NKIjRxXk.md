@@ -1,6 +1,8 @@
 +++
 title = "🌙💤LIVE ASMR💤🌙 Come Tingle With Me 💖 $1 Triggers"
 date = 2023-11-25T16:45:40Z
+path = "videos/1_2NKIjRxXk/"
+aliases = ["streams/1_2NKIjRxXk/"]
 
 [extra]
 id = "1_2NKIjRxXk"

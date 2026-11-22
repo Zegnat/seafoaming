@@ -1,6 +1,8 @@
 +++
 title = "WILL DRAW 4 FOOD OR SPARE CHANGE (´,,•ω•,,) Drawing Stream ~"
 date = 2019-03-13T19:50:17Z
+path = "videos/Xvyu1CmTj54/"
+aliases = ["streams/Xvyu1CmTj54/"]
 
 [extra]
 id = "Xvyu1CmTj54"

@@ -1,6 +1,8 @@
 +++
 title = "BIDEOGAMES & CHILL - South Park: Stick of Truth [Part 3]"
 date = 2017-09-27T20:10:26Z
+path = "videos/1iv8oTOj9LE/"
+aliases = ["streams/1iv8oTOj9LE/"]
 
 [extra]
 id = "1iv8oTOj9LE"

@@ -1,6 +1,8 @@
 +++
 title = "Hanging Out, Chat & Noms"
 date = 2017-05-18T16:52:45Z
+path = "videos/MHAAocJuo_4/"
+aliases = ["streams/MHAAocJuo_4/"]
 
 [extra]
 id = "MHAAocJuo_4"

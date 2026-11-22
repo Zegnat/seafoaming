@@ -1,6 +1,8 @@
 +++
 title = "ASMR ❤ Valentines Just For You ❤ Collaboration with SeaFoam Kitten ASMR"
 date = 2017-02-10T13:11:16Z
+path = "videos/KtihehqcV-c/"
+aliases = ["collabs/KtihehqcV-c/"]
 
 [extra]
 id = "KtihehqcV-c"

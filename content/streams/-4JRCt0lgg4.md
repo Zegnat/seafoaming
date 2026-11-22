@@ -1,6 +1,8 @@
 +++
 title = "CHAT WIF ME"
 date = 2019-07-24T16:31:21Z
+path = "videos/-4JRCt0lgg4/"
+aliases = ["streams/-4JRCt0lgg4/"]
 
 [extra]
 id = "-4JRCt0lgg4"

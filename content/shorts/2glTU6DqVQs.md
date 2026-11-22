@@ -1,6 +1,8 @@
 +++
 title = "(Eyes Closed ASMR) Rainy Car Ride #asmrvideo #shorts"
 date = 2024-09-03T20:00:00Z
+path = "videos/2glTU6DqVQs/"
+aliases = ["shorts/2glTU6DqVQs/"]
 
 [extra]
 id = "2glTU6DqVQs"

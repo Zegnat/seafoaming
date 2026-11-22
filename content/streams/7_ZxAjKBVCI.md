@@ -1,6 +1,8 @@
 +++
 title = "Let's Play MAD FATHER ~ Daddy is a Mad Scientist?😳w/ Guest SUSHI | [⚠️CW in Description]"
 date = 2022-11-22T06:53:09Z
+path = "videos/7_ZxAjKBVCI/"
+aliases = ["streams/7_ZxAjKBVCI/"]
 
 [extra]
 id = "7_ZxAjKBVCI"

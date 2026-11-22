@@ -1,6 +1,8 @@
 +++
 title = "Drunk Stream w/ Seafoam Daddy & IndigoMom"
 date = 2016-11-09T19:54:21Z
+path = "videos/1TWLSZbdkM8/"
+aliases = ["collabs/1TWLSZbdkM8/"]
 
 [extra]
 id = "1TWLSZbdkM8"

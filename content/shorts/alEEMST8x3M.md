@@ -1,6 +1,8 @@
 +++
 title = "Uguuuu"
 date = 2017-05-16T19:48:17Z
+path = "videos/alEEMST8x3M/"
+aliases = ["shorts/alEEMST8x3M/"]
 
 [extra]
 id = "alEEMST8x3M"

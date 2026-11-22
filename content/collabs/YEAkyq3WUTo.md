@@ -1,6 +1,8 @@
 +++
 title = "ASMR Squad Sounds (ft. Gibi, ASMR Darling, ALBinWhisperland and Seafoam Kitten's)"
 date = 2019-06-11T23:11:18Z
+path = "videos/YEAkyq3WUTo/"
+aliases = ["collabs/YEAkyq3WUTo/"]
 
 [extra]
 id = "YEAkyq3WUTo"

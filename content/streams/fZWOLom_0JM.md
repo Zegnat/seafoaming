@@ -1,6 +1,8 @@
 +++
 title = "Hangout, Bideo Gaymz"
 date = 2017-05-18T16:15:13Z
+path = "videos/fZWOLom_0JM/"
+aliases = ["streams/fZWOLom_0JM/"]
 
 [extra]
 id = "fZWOLom_0JM"

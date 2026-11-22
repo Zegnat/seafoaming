@@ -1,6 +1,8 @@
 +++
 title = "Pusheenicorn.... ITS MAGNIFICENT"
 date = 2017-12-21T00:09:08Z
+path = "videos/d2RXBlOJsX0/"
+aliases = ["shorts/d2RXBlOJsX0/"]
 
 [extra]
 id = "d2RXBlOJsX0"

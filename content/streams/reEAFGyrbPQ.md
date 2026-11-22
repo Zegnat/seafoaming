@@ -1,6 +1,8 @@
 +++
 title = "PO Box Opening & Playing STRAY [w/ guest MasterR3C0RD]"
 date = 2022-11-22T06:44:50Z
+path = "videos/reEAFGyrbPQ/"
+aliases = ["streams/reEAFGyrbPQ/"]
 
 [extra]
 id = "reEAFGyrbPQ"

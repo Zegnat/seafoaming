@@ -1,6 +1,8 @@
 +++
 title = "Unboxing a MunchPak & Playing Dream Daddy"
 date = 2017-09-14T19:02:52Z
+path = "videos/kBnky2KrQpo/"
+aliases = ["streams/kBnky2KrQpo/"]
 
 [extra]
 id = "kBnky2KrQpo"

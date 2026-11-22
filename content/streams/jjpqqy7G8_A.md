@@ -1,6 +1,8 @@
 +++
 title = "Bideo Games & Chill"
 date = 2017-07-27T20:25:04Z
+path = "videos/jjpqqy7G8_A/"
+aliases = ["streams/jjpqqy7G8_A/"]
 
 [extra]
 id = "jjpqqy7G8_A"

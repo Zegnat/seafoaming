@@ -1,6 +1,8 @@
 +++
 title = "PO BOX & PUTTING UP FANART ✨Chat with me while I horribly attempt to decorate :}"
 date = 2023-11-15T23:31:38Z
+path = "videos/pZ9-Qz4pclQ/"
+aliases = ["streams/pZ9-Qz4pclQ/"]
 
 [extra]
 id = "pZ9-Qz4pclQ"

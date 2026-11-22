@@ -1,6 +1,8 @@
 +++
 title = "Flutershy sings you a lullaby"
 date = 2023-11-22T19:31:14Z
+path = "videos/hTy9RGYwtLA/"
+aliases = ["shorts/hTy9RGYwtLA/"]
 
 [extra]
 id = "hTy9RGYwtLA"

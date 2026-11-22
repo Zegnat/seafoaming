@@ -1,6 +1,8 @@
 +++
 title = "Drunk Hangout w/ Seafoam Kitten & SubstanceASMR!"
 date = 2017-08-16T04:16:19Z
+path = "videos/KUoTtYO-U60/"
+aliases = ["collabs/KUoTtYO-U60/"]
 
 [extra]
 id = "KUoTtYO-U60"

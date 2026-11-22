@@ -1,6 +1,8 @@
 +++
 title = "Jammies & Bideo Games - SOUTH PARK Stick of Truth [PART 1]"
 date = 2017-05-23T16:22:52Z
+path = "videos/T_XfWM7tJv4/"
+aliases = ["streams/T_XfWM7tJv4/"]
 
 [extra]
 id = "T_XfWM7tJv4"

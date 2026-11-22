@@ -1,6 +1,8 @@
 +++
 title = "🎈🎊BIRTHDAY STREAM🎉[NOT ASMR]🎶Drinks, Showing Off Bday Outfit & Answering Personal Questions :}"
 date = 2023-04-11T03:42:18Z
+path = "videos/NJHEbvHLLfY/"
+aliases = ["streams/NJHEbvHLLfY/"]
 
 [extra]
 id = "NJHEbvHLLfY"

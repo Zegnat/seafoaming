@@ -1,6 +1,8 @@
 +++
 title = "I DIDNT MEAN TO PEE ON THE FLOOR NYOOO"
 date = 2022-11-02T17:14:40Z
+path = "videos/cSxHjTUD4ak/"
+aliases = ["shorts/cSxHjTUD4ak/"]
 
 [extra]
 id = "cSxHjTUD4ak"

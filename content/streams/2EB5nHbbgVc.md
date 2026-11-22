@@ -1,6 +1,8 @@
 +++
 title = "🍻SPENDING MY BIRTHDAY WITH U BECAUSE I HAVE NO FRENS"
 date = 2019-03-25T20:10:05Z
+path = "videos/2EB5nHbbgVc/"
+aliases = ["streams/2EB5nHbbgVc/"]
 
 [extra]
 id = "2EB5nHbbgVc"

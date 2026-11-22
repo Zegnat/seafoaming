@@ -1,6 +1,8 @@
 +++
 title = "NEKO MAID STREAM 😳 Playing Jenga TRUTH or DARE w/ guests MasterR3C0RD, Ember & CaramelKiwi!"
 date = 2022-11-22T06:40:46Z
+path = "videos/indMvwTPMT4/"
+aliases = ["streams/indMvwTPMT4/"]
 
 [extra]
 id = "indMvwTPMT4"

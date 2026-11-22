@@ -1,6 +1,8 @@
 +++
 title = "ASMR ~ Viewer Trigger Requests"
 date = 2018-02-15T20:44:06Z
+path = "videos/95z2OOqthfk/"
+aliases = ["streams/95z2OOqthfk/"]
 
 [extra]
 id = "95z2OOqthfk"

@@ -198,7 +198,7 @@ function spotifyEpisode(url: string | null) {
   return id && exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
 }
 
-function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set()) {
+function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set(), section = "videos") {
   const extra = community(info);
   // A collab is on another channel: its page names that channel, and its thumbnails are with the other channels.
   const collab = Boolean(info.channel_id && info.channel_id !== CHANNEL_ID);
@@ -219,6 +219,10 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     "+++",
     `title = ${toml(info.title)}`,
     `date = ${date}`,
+    // Every video has its page at videos/<id>/, whatever list it is in. The alias keeps the old URL of the list working,
+    // which hidden pages never had.
+    ...(section !== "videos" ? [`path = "videos/${info.id}/"`] : []),
+    ...(section !== "videos" && extra.data.hidden !== true ? [`aliases = ["${section}/${info.id}/"]`] : []),
     // A hidden page exists, but no list shows it, for example a video about Seafoam Kitten on another channel.
     ...(extra.data.hidden === true ? ["hidden = true"] : []),
     "",
@@ -472,7 +476,7 @@ if (import.meta.main) {
       : "videos";
     const placeholder = await thumbnail(info.id, collab ? "others" : "");
     placeholders.set(info.id, placeholder);
-    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers));
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
     // A video can move to another section, for example when YouTube marks it as a short later.
     for (const other of VIDEO_SECTIONS.filter((s) => s !== section)) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
@@ -499,7 +503,8 @@ if (import.meta.main) {
     const placeholder = await thumbnail(info.id, collab ? "others" : "");
     placeholders.set(info.id, placeholder);
     // The index does not say if a video was a short or a live stream.
-    write(`${CONTENT}/${collab ? "collabs" : "videos"}/${info.id}.md`, videoPage(info, placeholder, covers));
+    const section = collab ? "collabs" : "videos";
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     for (const e of (data.entries ?? []).map(fromIndex)) {

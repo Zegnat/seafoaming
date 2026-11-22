@@ -1,6 +1,8 @@
 +++
 title = "Bideo Games & Chill - Doki Doki Literature Club!"
 date = 2017-12-13T22:38:40Z
+path = "videos/eRaCqTCg8N8/"
+aliases = ["streams/eRaCqTCg8N8/"]
 
 [extra]
 id = "eRaCqTCg8N8"

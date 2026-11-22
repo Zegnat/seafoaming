@@ -1,6 +1,8 @@
 +++
 title = "Katawa Shoujo [Part 1]"
 date = 2018-01-17T21:23:05Z
+path = "videos/iEobdGv7L3o/"
+aliases = ["streams/iEobdGv7L3o/"]
 
 [extra]
 id = "iEobdGv7L3o"

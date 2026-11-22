@@ -1,6 +1,8 @@
 +++
 title = "Inaudible Whispering & Mouth Sounds w/ Hand Movements (Feat. Seafoam Kitten ASMR)"
 date = 2016-09-27T19:40:47Z
+path = "videos/2uJlMOth4zg/"
+aliases = ["collabs/2uJlMOth4zg/"]
 
 [extra]
 id = "2uJlMOth4zg"

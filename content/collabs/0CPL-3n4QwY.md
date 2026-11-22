@@ -1,6 +1,8 @@
 +++
 title = "Tizu ASMR & Seafoam Kitten's ASMR"
 date = 2018-11-23T18:34:19Z
+path = "videos/0CPL-3n4QwY/"
+aliases = ["collabs/0CPL-3n4QwY/"]
 
 [extra]
 id = "0CPL-3n4QwY"

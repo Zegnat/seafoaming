@@ -1,6 +1,8 @@
 +++
 title = "😌 VIBE SESSION ☕️ Let's Relax & Play Coffee Talk ☕️ Pt. 2"
 date = 2020-04-16T23:43:37Z
+path = "videos/vVg7zgddRHY/"
+aliases = ["streams/vVg7zgddRHY/"]
 
 [extra]
 id = "vVg7zgddRHY"

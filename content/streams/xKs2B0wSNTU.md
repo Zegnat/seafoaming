@@ -1,6 +1,8 @@
 +++
 title = "Chat & Noms"
 date = 2017-07-05T16:42:23Z
+path = "videos/xKs2B0wSNTU/"
+aliases = ["streams/xKs2B0wSNTU/"]
 
 [extra]
 id = "xKs2B0wSNTU"

@@ -1,6 +1,8 @@
 +++
 title = "Let's Play BOYFRIEND DUNGEON ~ Date Your Own Weapons?😳[Pt.2]"
 date = 2022-11-22T06:54:52Z
+path = "videos/-PC8J6T6_Ug/"
+aliases = ["streams/-PC8J6T6_Ug/"]
 
 [extra]
 id = "-PC8J6T6_Ug"

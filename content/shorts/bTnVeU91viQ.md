@@ -1,6 +1,8 @@
 +++
 title = "NORA STOP"
 date = 2018-05-02T00:03:51Z
+path = "videos/bTnVeU91viQ/"
+aliases = ["shorts/bTnVeU91viQ/"]
 
 [extra]
 id = "bTnVeU91viQ"

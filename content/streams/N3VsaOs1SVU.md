@@ -1,6 +1,8 @@
 +++
 title = "I HAVE NO IDEA WHAT IM DOING [Trying to Make an Animation Meme]"
 date = 2022-11-22T06:35:44Z
+path = "videos/N3VsaOs1SVU/"
+aliases = ["streams/N3VsaOs1SVU/"]
 
 [extra]
 id = "N3VsaOs1SVU"

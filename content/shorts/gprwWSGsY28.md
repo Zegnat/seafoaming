@@ -1,6 +1,8 @@
 +++
 title = "You're MINE Now~ | Sadistic Dragon Queen #asmrroleplay #shorts"
 date = 2024-09-02T20:00:12Z
+path = "videos/gprwWSGsY28/"
+aliases = ["shorts/gprwWSGsY28/"]
 
 [extra]
 id = "gprwWSGsY28"

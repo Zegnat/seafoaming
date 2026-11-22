@@ -1,6 +1,8 @@
 +++
 title = "Night In The Woods! [PART 3: ENDING]"
 date = 2018-03-21T21:15:11Z
+path = "videos/WfeaNZYMmRw/"
+aliases = ["streams/WfeaNZYMmRw/"]
 
 [extra]
 id = "WfeaNZYMmRw"

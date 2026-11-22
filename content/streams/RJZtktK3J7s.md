@@ -1,6 +1,8 @@
 +++
 title = "[LIVE RP ASMR] 💖Relax by the Pool w/ Stardust | Last Day for Seafoam Merch!! [Read Description]"
 date = 2022-11-27T06:01:47Z
+path = "videos/RJZtktK3J7s/"
+aliases = ["streams/RJZtktK3J7s/"]
 
 [extra]
 id = "RJZtktK3J7s"

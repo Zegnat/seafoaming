@@ -1,6 +1,8 @@
 +++
 title = "PO Box Mailtime & Playing Kitty Simulator: STRAY [w/ guest MasterR3C0RD]"
 date = 2022-11-22T06:47:22Z
+path = "videos/47NCT-szZbQ/"
+aliases = ["streams/47NCT-szZbQ/"]
 
 [extra]
 id = "47NCT-szZbQ"

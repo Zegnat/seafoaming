@@ -1,6 +1,8 @@
 +++
 title = "(I cry like a dumb lil baby at the end) Secret Little Haven! w/ Guest MasterR3C0RD [Part 2]"
 date = 2022-11-22T06:50:06Z
+path = "videos/bknHm3TbzBs/"
+aliases = ["streams/bknHm3TbzBs/"]
 
 [extra]
 id = "bknHm3TbzBs"

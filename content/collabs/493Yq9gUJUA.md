@@ -1,6 +1,8 @@
 +++
 title = "☆★ASMR★☆ Indigo & Seafoam Eating Your Ears! Twin Tingles~"
 date = 2017-08-22T00:37:40Z
+path = "videos/493Yq9gUJUA/"
+aliases = ["collabs/493Yq9gUJUA/"]
 
 [extra]
 id = "493Yq9gUJUA"

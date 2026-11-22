@@ -1,6 +1,8 @@
 +++
 title = "ASMR COLLAB! Ferret Kisses | Whispered | Kissing | Licking | Cute"
 date = 2017-09-14T00:00:00Z
+path = "videos/ARP7kvtn7lw/"
+aliases = ["collabs/ARP7kvtn7lw/"]
 
 [extra]
 id = "ARP7kvtn7lw"

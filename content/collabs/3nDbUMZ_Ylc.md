@@ -1,6 +1,8 @@
 +++
 title = "Ogre ASMR"
 date = 2025-02-14T23:00:03Z
+path = "videos/3nDbUMZ_Ylc/"
+aliases = ["collabs/3nDbUMZ_Ylc/"]
 
 [extra]
 id = "3nDbUMZ_Ylc"

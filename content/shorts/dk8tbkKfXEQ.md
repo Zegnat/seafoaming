@@ -1,6 +1,8 @@
 +++
 title = "Your Ears Are So Tasty 👅"
 date = 2023-11-22T19:13:32Z
+path = "videos/dk8tbkKfXEQ/"
+aliases = ["shorts/dk8tbkKfXEQ/"]
 
 [extra]
 id = "dk8tbkKfXEQ"

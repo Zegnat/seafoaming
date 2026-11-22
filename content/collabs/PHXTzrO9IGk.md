@@ -1,6 +1,8 @@
 +++
 title = "Reese: The Movie A Movie About Reese - An ASMR Experience"
 date = 2020-08-13T19:18:18Z
+path = "videos/PHXTzrO9IGk/"
+aliases = ["collabs/PHXTzrO9IGk/"]
 
 [extra]
 id = "PHXTzrO9IGk"

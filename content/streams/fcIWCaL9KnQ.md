@@ -1,6 +1,8 @@
 +++
 title = "First ASMR Stream! (mostly)"
 date = 2017-02-06T21:51:33Z
+path = "videos/fcIWCaL9KnQ/"
+aliases = ["streams/fcIWCaL9KnQ/"]
 
 [extra]
 id = "fcIWCaL9KnQ"

@@ -1,6 +1,8 @@
 +++
 title = "Doodle Stream! Come Watch Me Draw~"
 date = 2017-10-04T19:09:34Z
+path = "videos/IZrIJG4Gny8/"
+aliases = ["streams/IZrIJG4Gny8/"]
 
 [extra]
 id = "IZrIJG4Gny8"

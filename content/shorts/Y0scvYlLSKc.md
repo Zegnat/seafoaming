@@ -1,6 +1,8 @@
 +++
 title = "OwOrgan Harvester"
 date = 2023-11-22T19:31:45Z
+path = "videos/Y0scvYlLSKc/"
+aliases = ["shorts/Y0scvYlLSKc/"]
 
 [extra]
 id = "Y0scvYlLSKc"

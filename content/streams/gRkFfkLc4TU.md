@@ -1,6 +1,8 @@
 +++
 title = "❄️🎄ASMR STREAM🎄❄️ Cozy Christmas Eve with Seafoam 💖"
 date = 2022-12-25T01:35:25Z
+path = "videos/gRkFfkLc4TU/"
+aliases = ["streams/gRkFfkLc4TU/"]
 
 [extra]
 id = "gRkFfkLc4TU"

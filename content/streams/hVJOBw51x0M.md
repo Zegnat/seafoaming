@@ -1,6 +1,8 @@
 +++
 title = "MA, THERES A WEIRD FUGGIN CAT AGAIN [PO Box Opening & Ask Me Anything]"
 date = 2022-11-22T06:38:11Z
+path = "videos/hVJOBw51x0M/"
+aliases = ["streams/hVJOBw51x0M/"]
 
 [extra]
 id = "hVJOBw51x0M"

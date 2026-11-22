@@ -1,6 +1,8 @@
 +++
 title = "TRAILER - The portraits of Hogwarts [ASMR] Harry Potter Collaboration Special"
 date = 2018-10-11T21:04:22Z
+path = "videos/opxSDeYrKvM/"
+aliases = ["collabs/opxSDeYrKvM/"]
 
 [extra]
 id = "opxSDeYrKvM"

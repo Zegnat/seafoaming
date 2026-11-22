@@ -1,6 +1,8 @@
 +++
 title = "【 ASMR Live RP 】💖 I'm Obsessed with You! Come Here Pookie ~【 Interactive 】"
 date = 2024-08-11T19:16:57Z
+path = "videos/__IHNG_uxdg/"
+aliases = ["streams/__IHNG_uxdg/"]
 
 [extra]
 id = "__IHNG_uxdg"

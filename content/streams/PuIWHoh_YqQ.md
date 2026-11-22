@@ -1,6 +1,8 @@
 +++
 title = "PO Box Mail Time!! THERE ARE MANY BOXES"
 date = 2022-11-22T06:49:23Z
+path = "videos/PuIWHoh_YqQ/"
+aliases = ["streams/PuIWHoh_YqQ/"]
 
 [extra]
 id = "PuIWHoh_YqQ"

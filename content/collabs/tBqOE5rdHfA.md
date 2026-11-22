@@ -1,6 +1,8 @@
 +++
 title = "☆★ASMR★☆ Tentacle Summoning Ritual with Callidora & Seafoam Kitten"
 date = 2016-11-17T22:44:33Z
+path = "videos/tBqOE5rdHfA/"
+aliases = ["collabs/tBqOE5rdHfA/"]
 
 [extra]
 id = "tBqOE5rdHfA"

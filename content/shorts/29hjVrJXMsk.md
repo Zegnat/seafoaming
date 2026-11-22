@@ -1,6 +1,8 @@
 +++
 title = "Smug Alien is NOT flirting with you  #asmrroleplay #shorts"
 date = 2024-09-05T20:00:00Z
+path = "videos/29hjVrJXMsk/"
+aliases = ["shorts/29hjVrJXMsk/"]
 
 [extra]
 id = "29hjVrJXMsk"

@@ -1,6 +1,8 @@
 +++
 title = "ASMR Pampering Other ASMRtists"
 date = 2019-06-11T23:22:48Z
+path = "videos/I-uow6TyUBM/"
+aliases = ["collabs/I-uow6TyUBM/"]
 
 [extra]
 id = "I-uow6TyUBM"

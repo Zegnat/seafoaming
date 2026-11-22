@@ -1,6 +1,8 @@
 +++
 title = "🌙💤LIVE ASMR💤🌙 Come Tingle & Relax With Me 💖"
 date = 2026-01-24T02:34:33Z
+path = "videos/fSOw8jZpJes/"
+aliases = ["streams/fSOw8jZpJes/"]
 
 [extra]
 id = "fSOw8jZpJes"

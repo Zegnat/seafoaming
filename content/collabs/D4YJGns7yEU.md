@@ -1,6 +1,8 @@
 +++
 title = "ASMR | The Ultimate Cranial Nerve Exam | Ft. ASMR Darling, Matty Tingles, ALBinWhisperland, Seafoam!"
 date = 2019-06-11T23:11:54Z
+path = "videos/D4YJGns7yEU/"
+aliases = ["collabs/D4YJGns7yEU/"]
 
 [extra]
 id = "D4YJGns7yEU"

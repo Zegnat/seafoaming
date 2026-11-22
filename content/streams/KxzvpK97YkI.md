@@ -1,6 +1,8 @@
 +++
 title = "ASMR - Chat, Noms & Triggers"
 date = 2017-07-19T19:25:24Z
+path = "videos/KxzvpK97YkI/"
+aliases = ["streams/KxzvpK97YkI/"]
 
 [extra]
 id = "KxzvpK97YkI"

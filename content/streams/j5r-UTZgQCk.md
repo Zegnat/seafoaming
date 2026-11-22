@@ -1,6 +1,8 @@
 +++
 title = "PO Box Mail Time & Playing Darkwood!"
 date = 2022-11-22T06:49:40Z
+path = "videos/j5r-UTZgQCk/"
+aliases = ["streams/j5r-UTZgQCk/"]
 
 [extra]
 id = "j5r-UTZgQCk"

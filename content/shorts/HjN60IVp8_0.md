@@ -1,6 +1,8 @@
 +++
 title = "Buying illegal pronouns 😳"
 date = 2022-11-12T19:48:33Z
+path = "videos/HjN60IVp8_0/"
+aliases = ["shorts/HjN60IVp8_0/"]
 
 [extra]
 id = "HjN60IVp8_0"

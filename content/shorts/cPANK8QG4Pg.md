@@ -1,6 +1,8 @@
 +++
 title = "MEAN CAT AAAAAAA"
 date = 2018-05-30T14:51:14Z
+path = "videos/cPANK8QG4Pg/"
+aliases = ["shorts/cPANK8QG4Pg/"]
 
 [extra]
 id = "cPANK8QG4Pg"

@@ -1,6 +1,8 @@
 +++
 title = "WHAT THE FUK"
 date = 2018-08-12T15:17:27Z
+path = "videos/pRfepng9q-M/"
+aliases = ["shorts/pRfepng9q-M/"]
 
 [extra]
 id = "pRfepng9q-M"

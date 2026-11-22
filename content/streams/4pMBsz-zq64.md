@@ -1,6 +1,8 @@
 +++
 title = "🎉 Birthday Stream! 🎉 I'm an Easter Baby :3"
 date = 2020-10-26T04:24:57Z
+path = "videos/4pMBsz-zq64/"
+aliases = ["streams/4pMBsz-zq64/"]
 
 [extra]
 id = "4pMBsz-zq64"

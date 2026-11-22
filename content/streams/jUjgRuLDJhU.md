@@ -1,6 +1,8 @@
 +++
 title = "Playing Coffee Talk [2: Hibiscus & Butterfly] w/ Guest CrispyToast!"
 date = 2023-06-02T19:51:59Z
+path = "videos/jUjgRuLDJhU/"
+aliases = ["streams/jUjgRuLDJhU/"]
 
 [extra]
 id = "jUjgRuLDJhU"

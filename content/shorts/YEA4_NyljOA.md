@@ -1,6 +1,8 @@
 +++
 title = "The Floofing Will Be Pleasurable"
 date = 2023-12-01T07:59:34Z
+path = "videos/YEA4_NyljOA/"
+aliases = ["shorts/YEA4_NyljOA/"]
 
 [extra]
 id = "YEA4_NyljOA"

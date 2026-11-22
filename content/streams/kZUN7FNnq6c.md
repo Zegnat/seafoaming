@@ -1,6 +1,8 @@
 +++
 title = "🍷 Let's Play VA-11 HALL-A 🍸 Chill Vibes Only Ft. CrispyToast - Pt.1"
 date = 2020-05-01T21:22:05Z
+path = "videos/kZUN7FNnq6c/"
+aliases = ["streams/kZUN7FNnq6c/"]
 
 [extra]
 id = "kZUN7FNnq6c"

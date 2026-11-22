@@ -1,6 +1,8 @@
 +++
 title = "the first thing you see when you enter the gates of hell"
 date = 2018-07-10T18:42:42Z
+path = "videos/zh-2KzOhN0A/"
+aliases = ["shorts/zh-2KzOhN0A/"]
 
 [extra]
 id = "zh-2KzOhN0A"

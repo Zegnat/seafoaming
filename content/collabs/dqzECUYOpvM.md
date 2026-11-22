@@ -1,6 +1,8 @@
 +++
 title = "SEAFOAM KITTEN COLLAB! Lil Red Riding Hood VS The Big Bad Wolf"
 date = 2018-11-23T14:54:11Z
+path = "videos/dqzECUYOpvM/"
+aliases = ["collabs/dqzECUYOpvM/"]
 
 [extra]
 id = "dqzECUYOpvM"

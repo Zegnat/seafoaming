@@ -1,6 +1,8 @@
 +++
 title = "Let's Play Purrfect Date [Part 3] FINAL"
 date = 2018-08-08T18:40:45Z
+path = "videos/7ruaIa2WhxY/"
+aliases = ["streams/7ruaIa2WhxY/"]
 
 [extra]
 id = "7ruaIa2WhxY"

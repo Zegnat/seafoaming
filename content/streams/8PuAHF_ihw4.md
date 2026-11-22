@@ -1,6 +1,8 @@
 +++
 title = "ASMR FANFIC TIME: WE ARE HOMOSEXUAL HOTTIES"
 date = 2016-11-07T21:35:52Z
+path = "videos/8PuAHF_ihw4/"
+aliases = ["streams/8PuAHF_ihw4/"]
 
 [extra]
 id = "8PuAHF_ihw4"

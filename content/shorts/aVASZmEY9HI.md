@@ -1,6 +1,8 @@
 +++
 title = "Zelenia the Evil Alien!"
 date = 2023-11-22T19:28:58Z
+path = "videos/aVASZmEY9HI/"
+aliases = ["shorts/aVASZmEY9HI/"]
 
 [extra]
 id = "aVASZmEY9HI"

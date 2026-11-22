@@ -1,6 +1,8 @@
 +++
 title = "Your dabloons are safe here, friend! [Teaser]"
 date = 2022-11-24T23:30:24Z
+path = "videos/O5YenK7nY6Y/"
+aliases = ["shorts/O5YenK7nY6Y/"]
 
 [extra]
 id = "O5YenK7nY6Y"

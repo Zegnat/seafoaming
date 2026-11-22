@@ -1,6 +1,8 @@
 +++
 title = "DR PEPPER IS SAVE. Building a ufcking computer [ft. guest MasterR3C0RD]"
 date = 2022-11-22T06:49:01Z
+path = "videos/mLvEa4HFlOg/"
+aliases = ["streams/mLvEa4HFlOg/"]
 
 [extra]
 id = "mLvEa4HFlOg"

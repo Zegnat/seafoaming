@@ -1,6 +1,8 @@
 +++
 title = "Your hair is so yummy 💖 #obsessed #asmrroleplay #shorts"
 date = 2024-09-01T20:00:18Z
+path = "videos/f4J2TlFEAvo/"
+aliases = ["shorts/f4J2TlFEAvo/"]
 
 [extra]
 id = "f4J2TlFEAvo"

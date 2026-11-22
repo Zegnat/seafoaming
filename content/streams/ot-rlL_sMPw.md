@@ -1,6 +1,8 @@
 +++
 title = "Bideo Games & Chill 2"
 date = 2017-08-09T18:06:14Z
+path = "videos/ot-rlL_sMPw/"
+aliases = ["streams/ot-rlL_sMPw/"]
 
 [extra]
 id = "ot-rlL_sMPw"

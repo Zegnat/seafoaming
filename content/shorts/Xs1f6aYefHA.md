@@ -1,6 +1,8 @@
 +++
 title = "Popstar Problems... #asmrroleplay #shorts"
 date = 2024-09-04T20:00:12Z
+path = "videos/Xs1f6aYefHA/"
+aliases = ["shorts/Xs1f6aYefHA/"]
 
 [extra]
 id = "Xs1f6aYefHA"

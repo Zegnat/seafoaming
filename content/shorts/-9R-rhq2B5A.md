@@ -1,6 +1,8 @@
 +++
 title = "SEAFOAM MERCH AVAILABLE NOW"
 date = 2022-11-15T00:09:38Z
+path = "videos/-9R-rhq2B5A/"
+aliases = ["shorts/-9R-rhq2B5A/"]
 
 [extra]
 id = "-9R-rhq2B5A"

@@ -1,6 +1,8 @@
 +++
 title = "The portraits of Hogwarts  [ASMR] ⚡ Special Harry Potter Collab ⋄ 10 ASMRtists ⋄"
 date = 2018-10-18T17:08:47Z
+path = "videos/W9bUYNBMEJE/"
+aliases = ["collabs/W9bUYNBMEJE/"]
 
 [extra]
 id = "W9bUYNBMEJE"

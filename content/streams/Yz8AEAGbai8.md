@@ -1,6 +1,8 @@
 +++
 title = "MA, THERES A WEIRD FUGGIN CAT WITH A KNIFE"
 date = 2022-11-22T06:42:28Z
+path = "videos/Yz8AEAGbai8/"
+aliases = ["streams/Yz8AEAGbai8/"]
 
 [extra]
 id = "Yz8AEAGbai8"

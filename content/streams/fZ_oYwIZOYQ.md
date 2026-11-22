@@ -1,6 +1,8 @@
 +++
 title = "ASMR Chatting ~ Come Hang out!"
 date = 2017-11-08T20:23:45Z
+path = "videos/fZ_oYwIZOYQ/"
+aliases = ["streams/fZ_oYwIZOYQ/"]
 
 [extra]
 id = "fZ_oYwIZOYQ"

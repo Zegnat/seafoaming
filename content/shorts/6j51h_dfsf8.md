@@ -1,6 +1,8 @@
 +++
 title = "C-Coo?! 😳"
 date = 2022-10-25T23:50:22Z
+path = "videos/6j51h_dfsf8/"
+aliases = ["shorts/6j51h_dfsf8/"]
 
 [extra]
 id = "6j51h_dfsf8"

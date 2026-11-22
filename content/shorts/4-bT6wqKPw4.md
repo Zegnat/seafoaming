@@ -1,6 +1,8 @@
 +++
 title = "Booping Your Face  #asmr"
 date = 2023-11-22T20:43:23Z
+path = "videos/4-bT6wqKPw4/"
+aliases = ["shorts/4-bT6wqKPw4/"]
 
 [extra]
 id = "4-bT6wqKPw4"

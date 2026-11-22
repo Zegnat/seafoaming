@@ -1,6 +1,8 @@
 +++
 title = "Play League of Legends With Me? :3"
 date = 2017-05-24T17:14:12Z
+path = "videos/lAMSyL1JElQ/"
+aliases = ["streams/lAMSyL1JElQ/"]
 
 [extra]
 id = "lAMSyL1JElQ"

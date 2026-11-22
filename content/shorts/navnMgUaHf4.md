@@ -1,6 +1,8 @@
 +++
 title = "Don't look at James!!! #asmr #shorts"
 date = 2024-08-30T20:00:19Z
+path = "videos/navnMgUaHf4/"
+aliases = ["shorts/navnMgUaHf4/"]
 
 [extra]
 id = "navnMgUaHf4"

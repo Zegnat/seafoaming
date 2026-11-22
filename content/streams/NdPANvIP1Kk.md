@@ -1,6 +1,8 @@
 +++
 title = "WILL DRAW 4 LUNCH MONEY ;-; [Digital Art Stream]"
 date = 2022-11-22T06:40:04Z
+path = "videos/NdPANvIP1Kk/"
+aliases = ["streams/NdPANvIP1Kk/"]
 
 [extra]
 id = "NdPANvIP1Kk"

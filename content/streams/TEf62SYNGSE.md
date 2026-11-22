@@ -1,6 +1,8 @@
 +++
 title = "SNOW DAY Bideo Games & Chill"
 date = 2017-01-25T21:31:16Z
+path = "videos/TEf62SYNGSE/"
+aliases = ["streams/TEf62SYNGSE/"]
 
 [extra]
 id = "TEf62SYNGSE"

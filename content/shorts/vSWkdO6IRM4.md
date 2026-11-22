@@ -1,6 +1,8 @@
 +++
 title = "Error: Missingno"
 date = 2023-11-22T19:29:42Z
+path = "videos/vSWkdO6IRM4/"
+aliases = ["shorts/vSWkdO6IRM4/"]
 
 [extra]
 id = "vSWkdO6IRM4"

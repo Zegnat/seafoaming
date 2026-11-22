@@ -1,6 +1,8 @@
 +++
 title = "ASMR [2 HOURS] ~ Viewer Requested Triggers & Chill"
 date = 2018-01-22T20:46:17Z
+path = "videos/sUheQf3oR5w/"
+aliases = ["streams/sUheQf3oR5w/"]
 
 [extra]
 id = "sUheQf3oR5w"

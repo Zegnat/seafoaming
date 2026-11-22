@@ -1,6 +1,8 @@
 +++
 title = "Let's Play Dead Space [Part 1]"
 date = 2018-04-04T20:01:49Z
+path = "videos/kBbiLNlWnI4/"
+aliases = ["streams/kBbiLNlWnI4/"]
 
 [extra]
 id = "kBbiLNlWnI4"

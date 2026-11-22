@@ -1,6 +1,8 @@
 +++
 title = "X Marks the Spot #asmrtingles #shorts"
 date = 2024-09-06T20:00:18Z
+path = "videos/Szn4yT2ed-Q/"
+aliases = ["shorts/Szn4yT2ed-Q/"]
 
 [extra]
 id = "Szn4yT2ed-Q"

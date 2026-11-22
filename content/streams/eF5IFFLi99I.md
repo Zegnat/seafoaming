@@ -1,6 +1,8 @@
 +++
 title = "🥂🎉🎂SEAFOAM'S BIRTHDAY BASH 🎂🎉🥂"
 date = 2017-04-03T21:23:46Z
+path = "videos/eF5IFFLi99I/"
+aliases = ["streams/eF5IFFLi99I/"]
 
 [extra]
 id = "eF5IFFLi99I"

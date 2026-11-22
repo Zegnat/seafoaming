@@ -1,6 +1,8 @@
 +++
 title = "Let's Hang Out & Play Dream Daddy :3"
 date = 2017-09-06T20:11:39Z
+path = "videos/-zq-qpQ0G7E/"
+aliases = ["streams/-zq-qpQ0G7E/"]
 
 [extra]
 id = "-zq-qpQ0G7E"

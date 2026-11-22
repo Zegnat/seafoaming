@@ -1,6 +1,8 @@
 +++
 title = "💀Let's Play: Your Turn To Die💀 ft. Sushi! Ep. 2"
 date = 2020-08-12T06:18:51Z
+path = "videos/645aS2HMISw/"
+aliases = ["streams/645aS2HMISw/"]
 
 [extra]
 id = "645aS2HMISw"

@@ -1,6 +1,8 @@
 +++
 title = "🎂 🎉  SOCIAL DISTANCING BIRTHDAY STREAM 🎈🥳"
 date = 2019-12-20T20:00:24Z
+path = "videos/Ys13FXHsNrg/"
+aliases = ["streams/Ys13FXHsNrg/"]
 
 [extra]
 id = "Ys13FXHsNrg"

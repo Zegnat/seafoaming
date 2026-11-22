@@ -1,6 +1,8 @@
 +++
 title = "☆★ASMR★☆ Head Scratches for my Pets | Update & Tad #57"
 date = 2017-08-17T03:50:30Z
+path = "videos/sDOEjXXW6FE/"
+aliases = ["collabs/sDOEjXXW6FE/"]
 
 [extra]
 id = "sDOEjXXW6FE"

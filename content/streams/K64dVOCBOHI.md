@@ -1,6 +1,8 @@
 +++
 title = "🌙💤LIVE ASMR💤🌙 I GOT A 3DIO!!! 💖 $1 Triggers"
 date = 2023-12-22T05:56:19Z
+path = "videos/K64dVOCBOHI/"
+aliases = ["streams/K64dVOCBOHI/"]
 
 [extra]
 id = "K64dVOCBOHI"

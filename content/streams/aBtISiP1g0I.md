@@ -1,6 +1,8 @@
 +++
 title = "🎉💯 Seafoam's 100k Drinky Party! 💯🎉 JOIN A CALL WITH ME! (Invite Link in Description)"
 date = 2018-10-12T20:33:32Z
+path = "videos/aBtISiP1g0I/"
+aliases = ["streams/aBtISiP1g0I/"]
 
 [extra]
 id = "aBtISiP1g0I"

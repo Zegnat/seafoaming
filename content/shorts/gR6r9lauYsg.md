@@ -1,6 +1,8 @@
 +++
 title = "Oily Ear Cleaning"
 date = 2023-11-22T20:29:55Z
+path = "videos/gR6r9lauYsg/"
+aliases = ["shorts/gR6r9lauYsg/"]
 
 [extra]
 id = "gR6r9lauYsg"

@@ -1,6 +1,8 @@
 +++
 title = "ASMR & Chill"
 date = 2017-07-12T18:25:51Z
+path = "videos/2vnZpucIiK4/"
+aliases = ["streams/2vnZpucIiK4/"]
 
 [extra]
 id = "2vnZpucIiK4"

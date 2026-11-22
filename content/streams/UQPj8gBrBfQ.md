@@ -1,6 +1,8 @@
 +++
 title = "H-HEWWO I HAVE RETURNED PLS NOTICE ME"
 date = 2019-02-28T22:00:52Z
+path = "videos/UQPj8gBrBfQ/"
+aliases = ["streams/UQPj8gBrBfQ/"]
 
 [extra]
 id = "UQPj8gBrBfQ"

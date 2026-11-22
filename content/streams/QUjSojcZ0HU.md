@@ -1,6 +1,8 @@
 +++
 title = "Playing SPAGHET and then SIMULACRA"
 date = 2018-05-25T19:22:27Z
+path = "videos/QUjSojcZ0HU/"
+aliases = ["streams/QUjSojcZ0HU/"]
 
 [extra]
 id = "QUjSojcZ0HU"

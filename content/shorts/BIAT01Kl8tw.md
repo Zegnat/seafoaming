@@ -1,6 +1,8 @@
 +++
 title = "YouTube-chan PUNISHES you ^_^"
 date = 2022-10-26T00:46:39Z
+path = "videos/BIAT01Kl8tw/"
+aliases = ["shorts/BIAT01Kl8tw/"]
 
 [extra]
 id = "BIAT01Kl8tw"

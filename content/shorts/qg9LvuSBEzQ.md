@@ -1,6 +1,8 @@
 +++
 title = "Sensory Test"
 date = 2023-12-01T07:59:05Z
+path = "videos/qg9LvuSBEzQ/"
+aliases = ["shorts/qg9LvuSBEzQ/"]
 
 [extra]
 id = "qg9LvuSBEzQ"

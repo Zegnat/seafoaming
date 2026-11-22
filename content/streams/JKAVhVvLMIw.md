@@ -1,6 +1,8 @@
 +++
 title = "ASMR LIVE - Tell Me Your Triggers!"
 date = 2017-06-07T16:30:52Z
+path = "videos/JKAVhVvLMIw/"
+aliases = ["streams/JKAVhVvLMIw/"]
 
 [extra]
 id = "JKAVhVvLMIw"

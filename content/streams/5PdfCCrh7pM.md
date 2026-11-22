@@ -1,6 +1,8 @@
 +++
 title = "ASMR Snack Unboxing, Chatting & Doodles~"
 date = 2017-10-31T19:28:58Z
+path = "videos/5PdfCCrh7pM/"
+aliases = ["streams/5PdfCCrh7pM/"]
 
 [extra]
 id = "5PdfCCrh7pM"

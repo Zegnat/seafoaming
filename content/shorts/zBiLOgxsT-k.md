@@ -1,6 +1,8 @@
 +++
 title = "Vampire Bartender"
 date = 2022-11-22T08:59:48Z
+path = "videos/zBiLOgxsT-k/"
+aliases = ["shorts/zBiLOgxsT-k/"]
 
 [extra]
 id = "zBiLOgxsT-k"

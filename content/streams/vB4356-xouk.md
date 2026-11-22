@@ -1,6 +1,8 @@
 +++
 title = "Night In The Woods [PART 1]"
 date = 2018-02-28T20:27:39Z
+path = "videos/vB4356-xouk/"
+aliases = ["streams/vB4356-xouk/"]
 
 [extra]
 id = "vB4356-xouk"

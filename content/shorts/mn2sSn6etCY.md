@@ -1,6 +1,8 @@
 +++
 title = "Bubblemint Smooths Your Face!"
 date = 2023-11-22T19:16:09Z
+path = "videos/mn2sSn6etCY/"
+aliases = ["shorts/mn2sSn6etCY/"]
 
 [extra]
 id = "mn2sSn6etCY"

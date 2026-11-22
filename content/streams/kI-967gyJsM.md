@@ -1,6 +1,8 @@
 +++
 title = "🎈🎊BIRTHDAY STREAM🎉🎶 Ask Me Anything! 🎶 Drinks & Answering Personal Questions :}"
 date = 2022-11-22T06:56:35Z
+path = "videos/kI-967gyJsM/"
+aliases = ["streams/kI-967gyJsM/"]
 
 [extra]
 id = "kI-967gyJsM"

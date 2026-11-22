@@ -1,6 +1,8 @@
 +++
 title = "ASMR with Friends! (ft. Gibi ASMR, ASMR Darling, Seafoam Kitten & Matty Tingles)"
 date = 2019-06-11T23:11:28Z
+path = "videos/wbASsv7ShT4/"
+aliases = ["collabs/wbASsv7ShT4/"]
 
 [extra]
 id = "wbASsv7ShT4"

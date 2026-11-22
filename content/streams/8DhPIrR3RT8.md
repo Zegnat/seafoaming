@@ -1,6 +1,8 @@
 +++
 title = "Playing FLIX & CHILL | Come Chat w/ Me!"
 date = 2022-11-22T06:35:25Z
+path = "videos/8DhPIrR3RT8/"
+aliases = ["streams/8DhPIrR3RT8/"]
 
 [extra]
 id = "8DhPIrR3RT8"

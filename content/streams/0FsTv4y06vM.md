@@ -1,6 +1,8 @@
 +++
 title = "Doodle & Hangout Stream"
 date = 2017-10-12T19:57:25Z
+path = "videos/0FsTv4y06vM/"
+aliases = ["streams/0FsTv4y06vM/"]
 
 [extra]
 id = "0FsTv4y06vM"

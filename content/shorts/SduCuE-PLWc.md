@@ -1,6 +1,8 @@
 +++
 title = "Mouse Lore #asmrroleplay #shorts"
 date = 2024-08-31T20:00:10Z
+path = "videos/SduCuE-PLWc/"
+aliases = ["shorts/SduCuE-PLWc/"]
 
 [extra]
 id = "SduCuE-PLWc"

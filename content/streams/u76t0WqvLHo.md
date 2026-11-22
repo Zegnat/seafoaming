@@ -1,6 +1,8 @@
 +++
 title = "BIDEOGAMES & CHILL - South Park: Stick of Truth [Part 5 - ENDING]"
 date = 2017-11-15T19:33:50Z
+path = "videos/u76t0WqvLHo/"
+aliases = ["streams/u76t0WqvLHo/"]
 
 [extra]
 id = "u76t0WqvLHo"

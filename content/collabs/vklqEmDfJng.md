@@ -1,6 +1,8 @@
 +++
 title = "ASMR special - Star Wars Roleplay (triple collab)"
 date = 2017-05-13T21:07:55Z
+path = "videos/vklqEmDfJng/"
+aliases = ["collabs/vklqEmDfJng/"]
 
 [extra]
 id = "vklqEmDfJng"

@@ -1,6 +1,8 @@
 +++
 title = "KITTY SIMULATOR :3 Let's Play STRAY"
 date = 2022-11-22T06:47:57Z
+path = "videos/f2CRZeESomM/"
+aliases = ["streams/f2CRZeESomM/"]
 
 [extra]
 id = "f2CRZeESomM"

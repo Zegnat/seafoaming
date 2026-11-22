@@ -1,6 +1,8 @@
 +++
 title = "Opening Japan Okashi Box + Let's Date Some Monsters (･`ω´･) Playing Monster Prom !"
 date = 2019-04-04T20:16:58Z
+path = "videos/QXkI2i91F0A/"
+aliases = ["streams/QXkI2i91F0A/"]
 
 [extra]
 id = "QXkI2i91F0A"

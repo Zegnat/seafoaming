@@ -1,6 +1,8 @@
 +++
 title = "Let's Play Secret Little Haven + Mail Time w/ Guest MasterR3C0RD"
 date = 2022-11-22T06:51:40Z
+path = "videos/_Vqt_S7c_Zw/"
+aliases = ["streams/_Vqt_S7c_Zw/"]
 
 [extra]
 id = "_Vqt_S7c_Zw"
