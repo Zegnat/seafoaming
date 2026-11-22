@@ -42,7 +42,8 @@ function characterVideos() {
 
 if (import.meta.main) {
   const long = Deno.args.includes("--long");
-  const given = Deno.args.filter((arg) => arg !== "--long");
+  // A bare "--" can separate options from IDs, because IDs can start with a dash.
+  const given = Deno.args.filter((arg) => arg !== "--long" && arg !== "--");
   const info = (id: string) => {
     const path = `${ROOT}.cache/videos/${id}.info.json`;
     return exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
@@ -74,9 +75,6 @@ if (import.meta.main) {
         "--no-warnings",
         "--preset-alias",
         "sleep",
-        // Parallel parts: YouTube sends a single stream of a long recording very slowly.
-        "--concurrent-fragments",
-        "8",
         "-f",
         "worstaudio",
         "-o",
