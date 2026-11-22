@@ -30,7 +30,9 @@
 {% if gone %}
 <div class="notice" role="note">
 <p><strong>This video is no longer available on YouTube.</strong> {% if page.extra.status == "private" %}The uploader made it private.{% elif page.extra.removed_by == "uploader" %}The uploader removed it.{% elif page.extra.removed_by == "YouTube" %}YouTube removed it.{% endif %} The wiki keeps this page as a record of the video.</p>
-{% if page.extra.status_message %}<p class="small">YouTube says: “{{ page.extra.status_message }}” Checked on {{ page.extra.status_checked }}.</p>{% endif %}
+{# The message of yt-dlp for a private video is about its own cookie options, which say nothing to a reader. #}
+{% if page.extra.status == "private" %}<p class="small">The uploader can still share a private video with specific people. If you can watch this video, please get in touch in the <a href="{{ config.extra.repository }}/discussions">discussions on GitHub</a>.{% if page.extra.status_checked %} Checked on {{ page.extra.status_checked }}.{% endif %}</p>
+{% elif page.extra.status_message %}<p class="small">YouTube says: “{{ page.extra.status_message }}” Checked on {{ page.extra.status_checked }}.</p>{% endif %}
 </div>
 {% endif %}
 <table class="infobox">
