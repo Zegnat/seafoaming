@@ -114,7 +114,7 @@
 {# Where the transcript comes from, and its WebVTT file, which the download attribute saves as <id>.vtt. #}
 {% set kind = page.extra.transcript %}
 {% if kind == "community" %}{% set notice = "The community wrote or corrected this transcript." %}
-{% elif kind == "whisper" %}{% set notice = "This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors." %}
+{% elif kind == "whisper" %}{% set notice = "This transcript comes from speech recognition with Whisper. It contains errors." %}
 {% elif kind == "youtube-automatic" %}{% set notice = "This transcript comes from the automatic captions of YouTube." %}
 {% elif kind %}{% set notice = "" %}
 {# No transcript: the notice says why. #}
