@@ -24,6 +24,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the channel of Tizu ASMR](@/collabs/0CPL-3n4QwY.md).
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=SeaPEdGIzQg&t=0s) I'm going to go to the next episode of the video. What are you doing here? I won't allow disgusting humans into this sacred forest.

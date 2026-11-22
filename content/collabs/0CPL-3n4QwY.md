@@ -27,6 +27,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the main channel](@/videos/SeaPEdGIzQg.md).
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=0CPL-3n4QwY&t=0s) I'm going to go to the next episode of the video. What are you doing here? I won't allow disgusting humans into this sacred forest.
