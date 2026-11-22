@@ -26,3 +26,5 @@ Some links lead to other websites, for example to YouTube, to the social media o
 ## Questions
 
 If you have a question about privacy on this site, ask it in the [Q&A discussions](https://github.com/Zegnat/seafoaming/discussions/categories/q-a) of the source repository.
+
+You can also send an email to [seafoaming@6d617274696a6e.696e626f78.com](mailto:seafoaming@6d617274696a6e.696e626f78.com).
