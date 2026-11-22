@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFep04oJSOiKAqpABoJYwCsL9SA45dTDGhSxs60yhXTh/j4AP70e1eS3bs4J0BebHewCCKNh1j5QdTs4ptK1en9n8778fpYSin5lBguebPO7zQiruDOhFqW6QAAAA=="
 spotify = "https://open.spotify.com/album/4ts5l5BLXthfoEZBgtrhUT"
 spotify_podcast = "https://open.spotify.com/episode/08WQOY74g1emyzeusphfxZ"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-the-hungry-hypnotist-devours-your-mind-body-soul-ep/1829488750", year = "2025", id = "1829488750", name = "ASMR The Hungry Hypnotist Devours Your Mind, Body & Soul", type = "EP", date = "2025-08-15", cover = true, tracks = [{ id = "1829488751", name = "Focus On The Swinging Crystal (Guided Meditation)", length = "5:08" }, { id = "1829488752", name = "Scooping You With A Wooden Spoon (Soft Whispers)", length = "5:50" }, { id = "1829488753", name = "Eating The Badness From Your Mind", length = "4:43" }, { id = "1829488754", name = "Layered & Echoed Mouthsounds With Whispers", length = "5:23" }] },
+]
 spotify_release = { id = "4ts5l5BLXthfoEZBgtrhUT", name = "ASMR The Hungry Hypnotist Devours Your Mind, Body & Soul", type = "EP", date = "2025-08-15", cover = true }
 spotify_tracks = [
   { id = "0oMqFTz8YFnOqmmN6jDOyI", name = "Focus On The Swinging Crystal (Guided Meditation)", length = "5:08" },

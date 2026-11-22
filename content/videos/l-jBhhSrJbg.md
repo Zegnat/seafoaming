@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPr1MnkunJCKht/qoAOAXiUAWI+HQTFfNGEFfd5ZeJxUIGNrqxgAA/sE+0mvnwnv4PJX+T679Nfc7CsMSPrrUe+XszxJdVdbIGyrF/qRMN/nTrc8VObbrQHU5zAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/babysitter-nurturing-and-taking-care-of-little-you-single/1745681321", year = "2022", id = "1745681321", name = "BABYSITTER Nurturing and Taking Care of Little You", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745681326", name = "BABYSITTER Nurturing and Taking Care of Little You Pt.1", length = "4:51" }, { id = "1745681543", name = "BABYSITTER Nurturing and Taking Care of Little You Pt.2", length = "4:54" }, { id = "1745681550", name = "BABYSITTER Nurturing and Taking Care of Little You Pt.3", length = "4:53" }] },
+]
 views = 130574
 likes = 4219
 comments = 419

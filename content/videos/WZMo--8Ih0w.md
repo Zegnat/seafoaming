@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPtFUo0woJKMiMAgBABoJQBbZAxW1CBbgjSOiXrDMX8r9wAD+s44D29Osql87sBEmaWH82OAZIJVYxZReiQfJEm/DyI9M/KwJdVbYjYsY+g1FamMLf68HYqGN/TYAAA=="
 spotify = "https://open.spotify.com/album/7xKwy6kNF3cSw8HM1dRnOV"
+apple_music = [
+  { url = "https://music.apple.com/us/album/101-reasons-to-comfort-you-ep/1761408107", year = "2022", id = "1761408107", name = "101 Reasons To Comfort You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761408357", name = "101 Reasons To Comfort You Pt.1", length = "5:32" }, { id = "1761408375", name = "101 Reasons To Comfort You Pt.2", length = "5:32" }, { id = "1761408471", name = "101 Reasons To Comfort You Pt.3", length = "4:57" }, { id = "1761408480", name = "101 Reasons To Comfort You Pt.4", length = "4:17" }, { id = "1761408481", name = "101 Reasons To Comfort You Pt.5", length = "3:44" }, { id = "1761408485", name = "101 Reasons To Comfort You Pt.6", length = "4:57" }] },
+]
 spotify_release = { id = "7xKwy6kNF3cSw8HM1dRnOV", name = "101 Reasons To Comfort You", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4MZCfZytM2TkFD8qVDtiac", name = "101 Reasons To Comfort You Pt.1", length = "5:32" },

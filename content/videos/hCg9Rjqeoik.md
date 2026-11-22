@@ -9,6 +9,9 @@ length = "10:47"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBQCdASogABIAPs1WpEunpKOhsBgMAPAZiWMAwP0gBEGTaIct66cnJPIus8aWWvXZcAD+6dWElxTlHI1A6f33nwXQYIuhlThprxZQ0fa/J7luI1lo5RnFGQbCpcy09b2aBWAKtv2z21tWgzAhbxAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/idiot-vampire-trying-to-put-gloves-on-for-10-minutes/1761628114", year = "2022", id = "1761628114", name = "Idiot Vampire Trying to Put Gloves on for 10 Minutes Straight", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761628115", name = "Idiot Vampire Trying to Put Gloves on for 10 Minutes Straight Pt.1", length = "5:17" }, { id = "1761628117", name = "Idiot Vampire Trying to Put Gloves on for 10 Minutes Straight Pt.2", length = "5:30" }] },
+]
 views = 145517
 likes = 2723
 comments = 805

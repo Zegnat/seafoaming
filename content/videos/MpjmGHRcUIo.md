@@ -11,6 +11,10 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPs1YokunpSMhsBgMAPAZiWMArDOAgaNsP7rl0LoXtUAA/tsdBzXrG8Mc3HXr4PqgyvfVhtz4bgqF6V1tVa0gZsgwya1sIWrVbMqioHEGtmpro2AA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/lost-cat-inn-you-are-a-cat-come-inside-for-a-drink-chat-ep/1767046730", year = "2019", id = "1767046730", name = "Lost Cat Inn ~ You Are A Cat! Come Inside for a Drink & Chat", type = "EP", date = "2019-01-01", cover = true, tracks = [{ id = "1767046731", name = "You Are A Cat! Come Inside for a Drink & Chat Pt. 1", length = "6:55" }, { id = "1767046733", name = "You Are A Cat! Come Inside for a Drink & Chat Pt. 2", length = "8:48" }, { id = "1767046734", name = "You Are A Cat! Come Inside for a Drink & Chat Pt. 3", length = "3:10" }, { id = "1767046737", name = "You Are A Cat! Come Inside for a Drink & Chat Pt. 4", length = "6:31" }] },
+  { url = "https://music.apple.com/us/album/you-are-a-cat-come-inside-for-a-drink-and-chat-ep/1761647565", year = "2022", id = "1761647565", name = "You Are A Cat! Come Inside for a Drink and Chat", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761647958", name = "You Are A Cat! Come Inside for a Drink and Chat Pt.1", length = "5:03" }, { id = "1761648020", name = "You Are A Cat! Come Inside for a Drink and Chat Pt.2", length = "5:00" }, { id = "1761648028", name = "You Are A Cat! Come Inside for a Drink and Chat Pt.3", length = "5:06" }, { id = "1761648032", name = "You Are A Cat! Come Inside for a Drink and Chat Pt.4", length = "4:59" }, { id = "1761648047", name = "You Are A Cat! Come Inside for a Drink and Chat Pt.5", length = "5:16" }] },
+]
 views = 114747
 likes = 3369
 comments = 660

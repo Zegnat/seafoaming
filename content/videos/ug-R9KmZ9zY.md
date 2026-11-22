@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFWp02oJCOiMBgIAQAaCWMAs4Aur7mv97WY2xBluRaSuNFAAP6e83VeSeGDkZOiLStQQZxKAgPodcj6yN6HD0yyuVuZ1ZG4eKOeR9nuWRpV1ODcgpmfC2bm7UpwAAAA"
 spotify = "https://open.spotify.com/album/099yIg8pTa3qd7meYebviH"
+apple_music = [
+  { url = "https://music.apple.com/us/album/id-love-you-if-you-were-a-worm-ep/1770221996", year = "2022", id = "1770221996", name = "I'd love you if you were a worm", type = "EP", date = "2022-12-14", cover = true, tracks = [{ id = "1770221997", name = "I'd love you if you were a worm Pt.1", length = "4:21" }, { id = "1770221998", name = "I'd love you if you were a worm Pt.2", length = "4:15" }, { id = "1770221999", name = "I'd love you if you were a worm Pt.3", length = "4:25" }, { id = "1770222001", name = "I'd love you if you were a worm Pt.4", length = "4:19" }] },
+]
 spotify_release = { id = "099yIg8pTa3qd7meYebviH", name = "I'd love you if you were a worm", type = "EP", date = "2022-12-14", cover = true }
 spotify_tracks = [
   { id = "2zw5hy7J1ZKhF6BabUXLtc", name = "I'd love you if you were a worm Pt.1", length = "4:21" },

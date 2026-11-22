@@ -9,6 +9,9 @@ length = "14:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPtFYpUyoJSOiKA1RABoJQAAErJZ8HLsyYeh04mtav3rkgAD+8X+AZGTQIdDEMNd+3zzj/rWJDxZhKQG1tgRwnOT66ujICUmvBcDxWgXNpEgAAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/red-riding-hood-vs-big-bad-wolf-single/1761656651", year = "2022", id = "1761656651", name = "Red Riding Hood Vs. Big Bad Wolf", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761656652", name = "Red Riding Hood Vs. Big Bad Wolf Pt.1", length = "4:59" }, { id = "1761656656", name = "Red Riding Hood Vs. Big Bad Wolf Pt.2", length = "4:51" }, { id = "1761657321", name = "Red Riding Hood Vs. Big Bad Wolf Pt.3", length = "4:59" }] },
+]
 views = 71522
 likes = 2213
 comments = 282

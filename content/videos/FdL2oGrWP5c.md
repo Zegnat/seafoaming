@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPr1SnUunJSKht/qoAOAXiWMAqPQhVnsaWJYHz8E9Hfw5eYAA9q5oaKAMJjAr0JLZmJS3v0S9zXUzPtj7ag82Dzdnlk87sQNmrDFxruJOGu+fTaKnJlzwY8rjYAA="
 spotify = "https://open.spotify.com/album/75HL3c7g5stvXhDOExsRPe"
+apple_music = [
+  { url = "https://music.apple.com/us/album/whisper-reading-and-smoochies-ep/1761630624", year = "2022", id = "1761630624", name = "Whisper Reading and Smoochies", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761630633", name = "Whisper Reading and Smoochies Pt.1", length = "4:15" }, { id = "1761630636", name = "Whisper Reading and Smoochies Pt.2", length = "3:46" }, { id = "1761630642", name = "Whisper Reading and Smoochies Pt.3", length = "4:29" }, { id = "1761630648", name = "Whisper Reading and Smoochies Pt.4", length = "4:36" }] },
+]
 spotify_release = { id = "75HL3c7g5stvXhDOExsRPe", name = "Whisper Reading and Smoochies", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "73aBJFggUyvMGjCyzWYVkd", name = "Whisper Reading and Smoochies Pt.1", length = "4:15" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFcpk6oJKOiKAqpABoJYwB5KADC5j3h6Y9zeNlYvmpt7AD+z+pVkix9peSedsrT+7CM9//ig/WMG/upy5A5+6yO/DQJfeToSRvGApzb5VIiFunJkqsB/KNAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/demon-girl-single/1767047831", year = "2022", id = "1767047831", name = "DEMON GIRL", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767047833", name = "DEMON GIRL Pt.1", length = "4:47" }, { id = "1767047835", name = "DEMON GIRL Pt.2", length = "4:32" }, { id = "1767047838", name = "DEMON GIRL Pt.3", length = "4:48" }] },
+]
 views = 296060
 likes = 8660
 comments = 1200

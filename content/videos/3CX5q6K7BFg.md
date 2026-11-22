@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASogABIAPtFQo0uoJCMhsBgMAQAaCWMAnTNkBK+Tt3zC6NHpMDpUgdyd/coAAP7zO05k2nNcr6epjU/la6L9L3PT3ZCyVIvtgG2PxylernOC+uW/Q/pM55fVsEBuK9e7RLG4Vs/88UHpALl4B4YAAA=="
 spotify = "https://open.spotify.com/album/6ikG0RhN7DRxRGpxe0Xuvk"
+apple_music = [
+  { url = "https://music.apple.com/us/album/twitter-picks-my-trigger-words-ep/1761240891", year = "2022", id = "1761240891", name = "Twitter Picks My Trigger Words", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761240894", name = "Twitter Picks My Trigger Words Pt.1", length = "4:42" }, { id = "1761240895", name = "Twitter Picks My Trigger Words Pt.2", length = "4:43" }, { id = "1761240899", name = "Twitter Picks My Trigger Words Pt.3", length = "4:46" }, { id = "1761240915", name = "Twitter Picks My Trigger Words Pt.4", length = "4:47" }, { id = "1761241135", name = "Twitter Picks My Trigger Words Pt.5", length = "4:35" }] },
+]
 spotify_release = { id = "6ikG0RhN7DRxRGpxe0Xuvk", name = "Twitter Picks My Trigger Words", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5ItLO3hm69wdGAGCjAxWda", name = "Twitter Picks My Trigger Words Pt.1", length = "4:42" },

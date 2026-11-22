@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwBACdASogABIAPtFUo0uoJKMhsAgBABoJZwDMWB6RC/GFE9LdtKsjv4AA/vSclkujCAJjOSPp3246Cg4tD4GJXhxHe8fcZTmhF79cm6wAAA=="
 spotify_podcast = "https://open.spotify.com/episode/5LpVLPXDHHCxtJb5ErSWWt"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-your-sleep-demon-is-fascinated-with-you-curious/1797151417", year = "2025", id = "1797151417", name = "ASMR Your Sleep Demon is Fascinated with You, Curious Personal Attention &  SLOOOW Talking", type = "EP", date = "2025-03-07", cover = true, tracks = [{ id = "1797151425", name = "Introducing Itself, A Dream Eater Turned Nightmare Eater", length = "5:53" }, { id = "1797151740", name = "\"May I Touch You?\" Face & Ear Tapping, Scratching, Rubbing & Throat Clicking", length = "6:00" }, { id = "1797151746", name = "You Teach The Visitor How To Sleep. Starting With Deep Breaths", length = "7:16" }, { id = "1797151757", name = "Confession, It Has Lied To You About Something (Very Slow Whispering)", length = "6:01" }] },
+]
 spotify_episode = { id = "5LpVLPXDHHCxtJb5ErSWWt", name = "GB Skip navigation Search    Create   Avatar image ASMR Your Sleep Demon is Fascinated with You! | Curious Personal Attention + SLOOOW Talking", date = "2025-02-07", length = "25:10", cover = true }
 views = 107228
 likes = 3274

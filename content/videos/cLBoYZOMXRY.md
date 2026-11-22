@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwBACdASogABIAPsVSokunpSMhsAwA8BiJYgCxDKnCM/MFMRIhvjCETTLK3gdrkwAA/sPXyf8KxRazBefjBgdgdFyp1JLU7o0spVRSay/mhXCcb+kZwY+aMkvm8WIeVt/YrVB6dXc09viM2njRAAAA"
 spotify = "https://open.spotify.com/album/68adj2dDxGIhCjVkdhmRYc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-eating-and-december-patron-appreciation-single/1745647694", year = "2022", id = "1745647694", name = "EAR EATING and December Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745647697", name = "EAR EATING and December Patron Appreciation Pt.1", length = "4:18" }, { id = "1745648239", name = "EAR EATING and December Patron Appreciation Pt.2", length = "4:24" }, { id = "1745648242", name = "EAR EATING and December Patron Appreciation Pt.3", length = "4:35" }] },
+]
 spotify_release = { id = "68adj2dDxGIhCjVkdhmRYc", name = "EAR EATING and December Patron Appreciation", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5TktKX0iE1tdwnRzgWW5xF", name = "EAR EATING and December Patron Appreciation Pt.1", length = "4:18" },

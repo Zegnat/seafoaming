@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASogABIAPtFaoUuoJaMhsBgMAQAaCUAXZl5AL/NXIJk06gwzKxnr2HAA/vXu55cQCeloQPtFeyB/icbZ9AONsPWGcV8O6FbACtbjJnfV9DRgcIFr+3XJCwFB+oSOLenPk/LiXcO7eQMz5NKRXmyAAA=="
 spotify = "https://open.spotify.com/album/2FVYlvcJsSGEaYQSkbHC7j"
+apple_music = [
+  { url = "https://music.apple.com/us/album/popular-girl-not-listening-ep/1745676545", year = "2022", id = "1745676545", name = "Popular Girl Not Listening", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745676550", name = "Popular Girl Not Listening Pt.1", length = "5:59" }, { id = "1745676552", name = "Popular Girl Not Listening Pt.2", length = "7:06" }, { id = "1745676557", name = "Popular Girl Not Listening Pt.3", length = "5:47" }, { id = "1745676800", name = "Popular Girl Not Listening Pt.4", length = "4:21" }, { id = "1745676802", name = "Popular Girl Not Listening Pt.5", length = "4:36" }] },
+]
 spotify_release = { id = "2FVYlvcJsSGEaYQSkbHC7j", name = "Popular Girl Not Listening", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2KveL0IFlnR1VxvbM1zkBc", name = "Popular Girl Not Listening Pt.1", length = "5:59" },

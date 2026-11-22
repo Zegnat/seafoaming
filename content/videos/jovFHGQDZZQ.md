@@ -9,6 +9,9 @@ length = "17:55"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPsFKn0unpCKht/qoAPAYCUAX5wQqTMB92NkMIMTwSqdHQAD+7ouUxfDVfbAeDo3NFg5H4+h0z973/EP2lE6rcHaiyvKFprWkBeLTI80gPmkMBwAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/your-number-1-subscriber-is-a-stalker-ep/1761631521", year = "2022", id = "1761631521", name = "Your Number 1 Subscriber is a Stalker", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761631525", name = "Your Number 1 Subscriber is a Stalker Pt.1", length = "4:32" }, { id = "1761631763", name = "Your Number 1 Subscriber is a Stalker Pt.2", length = "4:28" }, { id = "1761631769", name = "Your Number 1 Subscriber is a Stalker Pt.3", length = "4:30" }, { id = "1761631787", name = "Your Number 1 Subscriber is a Stalker Pt.4", length = "4:17" }] },
+]
 views = 507150
 likes = 12702
 comments = 3900

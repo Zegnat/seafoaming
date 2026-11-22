@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsVSokunpSMhsAwA8BiJZQC2yBY1Uhi+W1awdkAzSLGCb6AA/unHJkM0qd6n30MOmT7X3th1yyreaMb0djr+KykAKnghndoRkpENiFnpPLraVoAAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/tsundere-dragon-patches-you-up-and-takes-care-of-you-single/1761620219", year = "2022", id = "1761620219", name = "Tsundere Dragon Patches You Up and Takes Care of You", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761620221", name = "Tsundere Dragon Patches You Up and Takes Care of You Pt.1", length = "4:01" }, { id = "1761620227", name = "Tsundere Dragon Patches You Up and Takes Care of You Pt.2", length = "3:59" }, { id = "1761620425", name = "Tsundere Dragon Patches You Up and Takes Care of You Pt.3", length = "4:02" }] },
+]
 views = 501734
 likes = 6541
 comments = 1800

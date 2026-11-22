@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBQCdASogABIAPtFcpU0oJSOiMBgIAQAaCWIArC+wxkASjQq2wbRlScrhKSxKgZDmyWAA/MZWVcx1DLY+3VQwbRlJg056qR1CsweL125gd7vFyeVyf3yaT8poQUMJGwmtNS6BgAA="
 spotify = "https://open.spotify.com/album/20xXRpQGqJGtUz4pRAXUmX"
+apple_music = [
+  { url = "https://music.apple.com/us/album/club-zzz-welcoming-the-newbie-ep/1761655905", year = "2022", id = "1761655905", name = "CLUB ZZZ Welcoming the Newbie", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761656360", name = "CLUB ZZZ Welcoming the Newbie Pt.1", length = "4:49" }, { id = "1761656361", name = "CLUB ZZZ Welcoming the Newbie Pt.3", length = "4:35" }, { id = "1761656364", name = "CLUB ZZZ Welcoming the Newbie Pt.2", length = "4:43" }, { id = "1761656369", name = "CLUB ZZZ Welcoming the Newbie Pt.4", length = "4:45" }, { id = "1761656376", name = "CLUB ZZZ Welcoming the Newbie Pt.5", length = "4:45" }] },
+]
 spotify_release = { id = "20xXRpQGqJGtUz4pRAXUmX", name = "CLUB ZZZ Welcoming the Newbie", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3h4tSni0uwn0J2d3JKurU3", name = "CLUB ZZZ Welcoming the Newbie Pt.1", length = "4:49" },

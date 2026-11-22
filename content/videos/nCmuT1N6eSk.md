@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPs1OokunpCMht/VYAPAZiWMAwoAN0GJWeNXpNoHDc8tnIAD+yDtbdmdMJhea78lRsTlW0vtDpM2yDfdMFxhDRKaFJNsQldYKnk2FAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-possessive-girlfriend-wants-to-become-one-with-you-ep/1735146895", year = "2024", id = "1735146895", name = "ASMR Possessive Girlfriend Wants To Become One With You!", type = "EP", date = "2024-03-08", cover = true, tracks = [{ id = "1735146896", name = "Intro", length = "2:00" }, { id = "1735146897", name = "Love and Kisses Mwah, Also Poking Your Face", length = "2:01" }, { id = "1735146898", name = "Popping the Question!", length = "2:49" }, { id = "1735146901", name = "Scooping Your Face With Wooden Spoon and Eating Your Identity", length = "2:35" }, { id = "1735146903", name = "Drinking Your Soul From Your Ears, Intense Straw Mouth Sounds", length = "3:23" }] },
+]
 views = 105116
 likes = 3213
 comments = 194

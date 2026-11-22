@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwBACdASogABIAPtFgqU+oJSOiKAgBABoJYwCsAAyOw35EwyiB1RU0C26zAAD+3u+0FiDeZJ+X5vvvkhOZhSdwWyNfkCsFHTtUTIqihBo+GDvN3++ehYQ2jko/mF26PxzKZcurqHZ95AubsgA="
 spotify = "https://open.spotify.com/album/5lkABabFFxDP79pL78UzL9"
+apple_music = [
+  { url = "https://music.apple.com/us/album/whisper-reading-my-short-story-ep/1767047601", year = "2022", id = "1767047601", name = "WHISPER READING My Short Story", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047605", name = "WHISPER READING My Short Story Pt.4", length = "4:37" }, { id = "1767047612", name = "WHISPER READING My Short Story Pt.1", length = "4:28" }, { id = "1767047613", name = "WHISPER READING My Short Story Pt.2", length = "4:00" }, { id = "1767047616", name = "WHISPER READING My Short Story Pt.3", length = "3:55" }] },
+]
 spotify_release = { id = "5lkABabFFxDP79pL78UzL9", name = "WHISPER READING My Short Story", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "7hTs6UqTz1Mzb33LcVSSho", name = "WHISPER READING My Short Story Pt.4", length = "4:37" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASogABIAPtFYo0uoJSMhsAgBABoJQBBKp7QKo6UyRPOythZOymDYYAD+3u+W4+ogoAY3wgohk9/uvcp/5x44rNunfWV7BWm7QqQl03mKBuYdacbCaRPgZ8vifWlJyLczreRwAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tasting-nummy-snacks-ep/1761627201", year = "2022", id = "1761627201", name = "TASTING NUMMY SNACKS", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761627220", name = "TASTING NUMMY SNACKS Pt.1", length = "4:42" }, { id = "1761627222", name = "TASTING NUMMY SNACKS Pt.3", length = "4:40" }, { id = "1761627227", name = "TASTING NUMMY SNACKS Pt.2", length = "4:43" }, { id = "1761627417", name = "TASTING NUMMY SNACKS Pt.4", length = "4:40" }, { id = "1761627423", name = "TASTING NUMMY SNACKS Pt.5", length = "4:24" }] },
+]
 views = 12609
 likes = 404
 comments = 169

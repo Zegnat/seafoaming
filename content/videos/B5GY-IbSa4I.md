@@ -9,6 +9,9 @@ length = "19:06"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFepk6oJSMsqAqpkBoJQBOnKCrkAGosfTfQ4JmQlC4SHIMAAPpm6zOoecQ3gGspD2xMcvf4QqP3N9xhwh1oCr9SvEX0YCUaVI1aumt+xM9yVJ/hDmjNeHkoqu5AlcSwAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-my-fish-ep/1761317751", year = "2022", id = "1761317751", name = "YOU ARE MY FISH", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761317753", name = "YOU ARE MY FISH Pt.2", length = "5:01" }, { id = "1761317756", name = "YOU ARE MY FISH Pt.1", length = "4:42" }, { id = "1761317760", name = "YOU ARE MY FISH Pt.3", length = "4:25" }, { id = "1761317762", name = "YOU ARE MY FISH Pt.4", length = "4:59" }] },
+]
 views = 133862
 likes = 4377
 comments = 944

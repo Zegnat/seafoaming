@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBQCdASogABIAPsFKn0unpCKht/qoAPAYCUAWoSQAXoSVi8jfwu1bo7/GADnWv3arb8ZAAP7zG8OMSQ0S+nUtyK82dl72qcDWoo24F+lEcxYLYfYcEgeP8HDDb3P9bawuXH/+19VFgAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/6-items-with-tingly-sounds-for-happy-ears-ep/1761651783", year = "2022", id = "1761651783", name = "6 Items with Tingly Sounds for Happy Ears", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761651784", name = "6 Items with Tingly Sounds for Happy Ears Pt.1", length = "4:40" }, { id = "1761651788", name = "6 Items with Tingly Sounds for Happy Ears Pt.2", length = "4:40" }, { id = "1761651789", name = "6 Items with Tingly Sounds for Happy Ears Pt.3", length = "4:38" }, { id = "1761651795", name = "6 Items with Tingly Sounds for Happy Ears Pt.4", length = "4:50" }, { id = "1761652159", name = "6 Items with Tingly Sounds for Happy Ears Pt.5", length = "4:12" }] },
+]
 views = 25596
 likes = 809
 comments = 242

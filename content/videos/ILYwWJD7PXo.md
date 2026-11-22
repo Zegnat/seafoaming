@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFapE0oJSOiMBgIAQAaCWUAxQeOgOU+/inqsBGMHtoXsNeSKfwA/tE7xKbzfbBmneCtUqFlpC+hRD07B3H3whZX3pmHV9ExWsOCK7RBdbFO3dOYsi+Rvn33AAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/i-am-your-phone-ep/1761637638", year = "2022", id = "1761637638", name = "I AM YOUR PHONE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761637762", name = "I AM YOUR PHONE Pt.1", length = "4:16" }, { id = "1761637764", name = "I AM YOUR PHONE Pt.2", length = "4:21" }, { id = "1761637768", name = "I AM YOUR PHONE Pt.3", length = "4:18" }, { id = "1761637774", name = "I AM YOUR PHONE Pt.4", length = "4:35" }] },
+]
 views = 276837
 likes = 6719
 comments = 2400

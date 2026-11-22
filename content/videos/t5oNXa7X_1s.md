@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPs1YokunpSMhsBgMAPAZiUAToAXyTa8DroxWNqA35ksj4AD9igFKB/wu1igXsDdHQYNRiMWaMc85mDKBRq3r62ZUjOTeKTZm5yaG1aAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/genie-in-a-nyquil-bottle-ep/1740470999", year = "2022", id = "1740470999", name = "Genie In a Nyquil Bottle", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1740471003", name = "GENIE IN a NYQUIL BOTTLE Pt.1", length = "5:17" }, { id = "1740471006", name = "GENIE IN a NYQUIL BOTTLE Pt.2", length = "5:12" }, { id = "1740471008", name = "GENIE IN a NYQUIL BOTTLE Pt.4", length = "5:25" }, { id = "1740471013", name = "GENIE IN a NYQUIL BOTTLE Pt.3", length = "5:16" }] },
+]
 views = 214489
 likes = 4560
 comments = 980

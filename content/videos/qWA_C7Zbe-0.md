@@ -11,6 +11,9 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASogABIAPsVQo0unpKehsAwA8BiJQA8UgH2/o3MyDvck3WAA/oNIhys96J0YJ5GNf7vTW7V+DTLA2b4/2bnfoD5NrHT7+YS2GPu4pj5wu75h/erX+cRTkAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-eating-unaliving-your-tingle-immunity-ep/1770222290", year = "2023", id = "1770222290", name = "EAR EATING, Unaliving Your Tingle Immunity", type = "EP", date = "2023-02-07", cover = true, tracks = [{ id = "1770222292", name = "EAR EATING, Unaliving Your Tingle Immunity Pt.1", length = "4:40" }, { id = "1770222294", name = "EAR EATING, Unaliving Your Tingle Immunity Pt.2", length = "4:54" }, { id = "1770222299", name = "EAR EATING, Unaliving Your Tingle Immunity Pt.3", length = "4:37" }, { id = "1770222300", name = "EAR EATING, Unaliving Your Tingle Immunity Pt.4", length = "4:38" }] },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPsVUokunpKMhsAwA8BiJQBOmcBBGf28fPGkl+5b7+cGMhejMIAD+70Qxc6JGHj+J55fMbdueFjCVZbXE2/nyd0gG+jfpWPLbTsRmHwgQ8G96nxCi3xkUK0FRhM9xDI3bgAA="
 spotify = "https://open.spotify.com/album/1eIMoojtWJdSVIthRg0VEX"
+apple_music = [
+  { url = "https://music.apple.com/us/album/answering-25-popular-questions/1761629913", year = "2022", id = "1761629913", name = "Answering 25 Popular Questions", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761629935", name = "Answering 25 Popular Questions Pt.1", length = "5:00" }, { id = "1761629938", name = "Answering 25 Popular Questions Pt.2", length = "5:08" }, { id = "1761629947", name = "Answering 25 Popular Questions Pt.3", length = "5:03" }, { id = "1761629950", name = "Answering 25 Popular Questions Pt.4", length = "4:51" }, { id = "1761630169", name = "Answering 25 Popular Questions Pt.5", length = "4:59" }, { id = "1761630173", name = "Answering 25 Popular Questions Pt.6", length = "5:09" }, { id = "1761630175", name = "Answering 25 Popular Questions Pt.7", length = "5:13" }] },
+]
 spotify_release = { id = "1eIMoojtWJdSVIthRg0VEX", name = "Answering 25 Popular Questions", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2guQ0NMh0AWtHu8EXqwA9o", name = "Answering 25 Popular Questions Pt.1", length = "5:00" },

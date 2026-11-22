@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPtFepUyoJaOiMBgIAQAaCUAToAIeHcuzYiaK02vb5KeieYAA/u9gYfydVFsT2A/3ePz3pN9OlgPW4q8+mG2BA9ziHRy7HRtZBiaYiwfr/lD2qaAA"
 spotify = "https://open.spotify.com/album/6sTzKDilZTQDSSRwaNDVMG"
+apple_music = [
+  { url = "https://music.apple.com/us/album/gamer-girl-is-already-tracer-single/1761655087", year = "2022", id = "1761655087", name = "GAMER GIRL is already Tracer", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761655097", name = "GAMER GIRL is already Tracer Pt.1", length = "5:00" }, { id = "1761655098", name = "GAMER GIRL is already Tracer Pt.2", length = "4:59" }, { id = "1761655371", name = "GAMER GIRL is already Tracer Pt.3", length = "4:47" }] },
+]
 spotify_release = { id = "6sTzKDilZTQDSSRwaNDVMG", name = "GAMER GIRL is already Tracer", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5VB0XlwhKBZf9oF21bym2V", name = "GAMER GIRL is already Tracer Pt.1", length = "5:00" },

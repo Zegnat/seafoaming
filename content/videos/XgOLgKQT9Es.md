@@ -9,6 +9,9 @@ length = "18:02"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPsFOn0unpCKht/qoAPAYCUAVHoONug4nh6sE2mZUX01iWRpAAP3STDTahreJtHWIFvIshsL71BwwOQug1ff/v6eayguClCvj4tnVtVba0PBnr/wjyVXeX+AA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/scratchy-tingles-ep/1761275038", year = "2022", id = "1761275038", name = "SCRATCHY TINGLES", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761275040", name = "SCRATCHY TINGLES Pt.1", length = "4:30" }, { id = "1761275043", name = "SCRATCHY TINGLES Pt.2", length = "3:34" }, { id = "1761275046", name = "SCRATCHY TINGLES Pt.3", length = "5:29" }, { id = "1761275047", name = "SCRATCHY TINGLES Pt.4", length = "4:29" }] },
+]
 views = 31314
 likes = 1147
 comments = 145

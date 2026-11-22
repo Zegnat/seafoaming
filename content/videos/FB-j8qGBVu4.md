@@ -9,6 +9,9 @@ length = "2:05:41"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPsVSoEunpSMht/VYAPAYiWIAwNw6KtbkGrRxgiFHUWPUuAAA/Z68D2KgdfOrdme11vT0OPipsuc2N7kq9Xp4sUWuG1gKoXsLnchKt32Njw+54u/TrB8ro7x4YCgAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sleepy-ear-blowing/1761632669", year = "2022", id = "1761632669", name = "SLEEPY EAR BLOWING", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761632683", name = "SLEEPY EAR BLOWING Pt.1", length = "10:28" }, { id = "1761633084", name = "SLEEPY EAR BLOWING Pt.2", length = "10:20" }, { id = "1761633087", name = "SLEEPY EAR BLOWING Pt.3", length = "10:20" }, { id = "1761633088", name = "SLEEPY EAR BLOWING Pt.5", length = "10:19" }, { id = "1761633094", name = "SLEEPY EAR BLOWING Pt.4", length = "10:21" }, { id = "1761633095", name = "SLEEPY EAR BLOWING Pt.6", length = "10:21" }, { id = "1761633099", name = "SLEEPY EAR BLOWING Pt.7", length = "10:20" }, { id = "1761633102", name = "SLEEPY EAR BLOWING Pt.8", length = "10:20" }, { id = "1761633104", name = "SLEEPY EAR BLOWING Pt.9", length = "10:21" }, { id = "1761633108", name = "SLEEPY EAR BLOWING Pt.10", length = "10:21" }, { id = "1761633591", name = "SLEEPY EAR BLOWING Pt.11", length = "10:41" }, { id = "1761633595", name = "SLEEPY EAR BLOWING Pt.12", length = "11:28" }] },
+]
 views = 4431214
 likes = 31213
 comments = 1800

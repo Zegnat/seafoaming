@@ -9,6 +9,9 @@ length = "11:08"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPsVUn0unpSKht/VYAPAYiWUArAAMY1qA/qJvgpPDAAD+478JSZaoAxffsMD4LZE3YZB/Sgg7JhAJ39GffrcihEvnfHdJsxFkyVIEdIj/JYtUAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/rough-and-deep-brain-tingles-single/1745656212", year = "2022", id = "1745656212", name = "Rough and Deep Brain Tingles", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745656578", name = "Rough and Deep Brain Tingles Pt.1", length = "5:34" }, { id = "1745656582", name = "Rough and Deep Brain Tingles Pt.2", length = "5:34" }] },
+]
 views = 56715
 likes = 1232
 comments = 298

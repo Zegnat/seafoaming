@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASogABIAPtFSokwoJCMiMBgMAQAaCWMAgnAEpZERWnZMDXAjYJsToAD+8Q1e02xQT4MWzthAaR1/GSR/pGcmfkOdlc7Rq1oqcpkLcvnNn2w+Ph5wGDpYzG7g3zPwaaesCtaeGAAA"
 spotify = "https://open.spotify.com/album/3bUGSd2Jqg06fow6M1kG3q"
 spotify_podcast = "https://open.spotify.com/episode/13GaZ5TjSvyTVG4A8ISk6S"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-helping-you-sleep-goodnight-kisses-slow-breathy/1789221957", year = "2025", id = "1789221957", name = "ASMR HELPING YOU SLEEP - Goodnight Kisses & Slow, Breathy Whispers", type = "EP", date = "2025-01-17", cover = true, tracks = [{ id = "1789221965", name = "Whispering Positive Thoughts & Giving Kisses", length = "3:07" }, { id = "1789221978", name = "Soft Finger Kisses & Breathy Whispers", length = "3:01" }, { id = "1789222190", name = "I'm Gonna Meet Your In Dreamland (Up Close Kisses)", length = "3:02" }, { id = "1789222202", name = "Whispering ‘Sleepy’, Calming You Down", length = "2:53" }, { id = "1789222207", name = "Giving You Finger Kisses Ear To Ear", length = "3:08" }] },
+]
 spotify_release = { id = "3bUGSd2Jqg06fow6M1kG3q", name = "ASMR HELPING YOU SLEEP - Goodnight Kisses & Slow, Breathy Whispers", type = "EP", date = "2025-01-17", cover = true }
 spotify_tracks = [
   { id = "4PBwO6B8CgQaCUrB0D54nr", name = "Whispering Positive Thoughts & Giving Kisses", length = "3:07" },

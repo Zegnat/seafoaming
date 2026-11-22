@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPs1SpkunpKQhsBgMAPAZiUATpmaHwAKgJ+1SFxst+K5sV6GmasAA/u7VMAG+SdlOjoy6sAoYB9nzjvoPh3t0jrNi3P9nnJOPTAhzbr+JfPtYDP7zZlOxJmo4AAA="
 spotify = "https://open.spotify.com/album/1IzZxnzDqvtVnBb6XLtYm2"
 spotify_podcast = "https://open.spotify.com/episode/0EXlZa98yqP9b2cur2J261"
+apple_music = [
+  { url = "https://music.apple.com/us/album/lobotomizing-you-cutely-and-removing-your-brain-rot/1777092643", year = "2024", id = "1777092643", name = "Lobotomizing You Cutely and Removing Your Brain Rot", type = "Album", date = "2024-11-21", cover = true, tracks = [{ id = "1777092644", name = "You Wake Up In A Strange Place", length = "2:45" }, { id = "1777092647", name = "What Motivates Her To Do This", length = "2:27" }, { id = "1777092907", name = "Opening Up Your Brain Thru Your Ears", length = "3:17" }, { id = "1777092912", name = "Layered Ear Rubbing And Cupping", length = "2:49" }, { id = "1777092913", name = "Getting Out The Really Stuck Stuff", length = "2:19" }, { id = "1777092915", name = "Yanking And Snipping The Remainders", length = "2:14" }, { id = "1777092918", name = "Yay Dessert Time", length = "2:50" }] },
+]
 spotify_release = { id = "1IzZxnzDqvtVnBb6XLtYm2", name = "Lobotomizing You Cutely and Removing Your Brain Rot", type = "Album", date = "2024-11-21", cover = true }
 spotify_tracks = [
   { id = "1gsojt2oSmApJOnb4L4aMF", name = "You Wake Up In A Strange Place", length = "2:45" },

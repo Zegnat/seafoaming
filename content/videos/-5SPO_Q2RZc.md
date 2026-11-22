@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFao02oJSsiKA1RYBoJQBOmYAgrltVrkKLsIOzJYAPL+7NAAPrfExLExxuH8z7z7JraHlaujPC0hmKbRR9ScUKlCtH6+o6CtoCM1AZ+/1oBOd8vLy6CoGAAAAA="
 spotify = "https://open.spotify.com/album/4yl7zp9mIMNyuRgu9EINoq"
+apple_music = [
+  { url = "https://music.apple.com/us/album/patronizing-the-heck-out-of-you-ep/1761593761", year = "2022", id = "1761593761", name = "Patronizing The Heck Out Of You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761593764", name = "Patronizing The Heck Out Of You Pt.1", length = "6:27" }, { id = "1761593766", name = "Patronizing The Heck Out Of You Pt.2", length = "7:50" }, { id = "1761593771", name = "Patronizing The Heck Out Of You Pt.4", length = "3:21" }, { id = "1761594002", name = "Patronizing The Heck Out Of You Pt.3", length = "5:02" }] },
+]
 spotify_release = { id = "4yl7zp9mIMNyuRgu9EINoq", name = "Patronizing The Heck Out Of You", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0XoZAaOLT7MIsSWeIq36QH", name = "Patronizing The Heck Out Of You Pt.1", length = "6:27" },

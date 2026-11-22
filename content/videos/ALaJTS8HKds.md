@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPr1Qn0unJSMht/qoAOAXiWUAt7hRRfZnkbP1URGCAAD8WlWNkoVL/CD86BQ+L7weTy85EiqQfWCp6LnmKA/gFR/xM239T75soFPdOTKpRL8dAAAA"
 spotify = "https://open.spotify.com/album/5DjZrUZy6PdSAFMFS5ecNi"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tasting-snacks-from-india-ep/1761613168", year = "2022", id = "1761613168", name = "Tasting Snacks from India", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761613178", name = "Tasting Snacks from India Pt.1", length = "4:42" }, { id = "1761613180", name = "Tasting Snacks from India Pt.2", length = "4:49" }, { id = "1761613310", name = "Tasting Snacks from India Pt.3", length = "4:49" }, { id = "1761613323", name = "Tasting Snacks from India Pt.4", length = "4:49" }, { id = "1761613325", name = "Tasting Snacks from India Pt.5", length = "4:58" }] },
+]
 spotify_release = { id = "5DjZrUZy6PdSAFMFS5ecNi", name = "Tasting Snacks from India", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0EhMQxGXtzwrUruaNKdgJn", name = "Tasting Snacks from India Pt.1", length = "4:42" },

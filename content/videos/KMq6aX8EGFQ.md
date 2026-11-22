@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPsFMoEunpCMht/qoAPAYCWMAqPQSNdv/G14z+jMdaJqNisAA+eeUyJfmaqmQB4RO/bSdkbZr5uDDhxO5AVHP12oLHmkAtatd/+wwg50HKmRTAUAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/intense-ear-cleaning-ep/1745665929", year = "2022", id = "1745665929", name = "Intense Ear Cleaning", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745665935", name = "INTENSE EAR CLEANING Pt.1", length = "4:50" }, { id = "1745666212", name = "INTENSE EAR CLEANING Pt.2", length = "4:52" }, { id = "1745666229", name = "INTENSE EAR CLEANING Pt.3", length = "4:44" }, { id = "1745666232", name = "INTENSE EAR CLEANING Pt.4", length = "4:53" }, { id = "1745666234", name = "INTENSE EAR CLEANING Pt.5", length = "4:50" }] },
+]
 views = 407895
 likes = 7103
 comments = 218

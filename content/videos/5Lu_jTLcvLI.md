@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASogABIAPtFWo0uoJKMhsAgBABoJYwCBKjvAcpVXSt0OokwXzXRT0ADMMqgWr4Lz9rSboO+bnY7OaH+GjRbhHwxlycqjp32mOujhOK5hhRZjxiOEHZgeH/uq5gAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/abducted-and-experimented-on-by-bitchy-alien-ep/1761613007", year = "2022", id = "1761613007", name = "Abducted and Experimented on by Bitchy Alien", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761613069", name = "Abducted and Experimented on by Bitchy Alien Pt.1", length = "5:03" }, { id = "1761613072", name = "Abducted and Experimented on by Bitchy Alien Pt.2", length = "4:58" }, { id = "1761613077", name = "Abducted and Experimented on by Bitchy Alien Pt.3", length = "5:10" }, { id = "1761613080", name = "Abducted and Experimented on by Bitchy Alien Pt.4", length = "5:26" }] },
+]
 views = 294781
 likes = 4066
 comments = 873

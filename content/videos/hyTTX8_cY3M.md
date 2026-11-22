@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBQCdASogABIAPtFOpkuoI6OhsBgMAQAaCUAWI+OQiP7QMryraeEjvmAm1PazxDzAAP2rnMPX6Sel0O2WoEzqEhRxN365IIJ1Ngh+1DTobkVysMlpS/GMuQ9Hv7T6Q4m5Gb/wu93t8zQytHcTiO03NJkAAA=="
 spotify_podcast = "https://open.spotify.com/episode/0KjThTOY9MYAw9mKdVZzo4"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-rp-insecure-girlfriend-do-you-still-love-me-angst/1781466663", year = "2024", id = "1781466663", name = "ASMR RP Insecure Girlfriend - Do you still love me (Angst, Hurt, Comfort, Kisses & Massage)", type = "EP", date = "2024-12-13", cover = true, tracks = [{ id = "1781466671", name = "Whispering & Shaky Breathing", length = "4:55" }, { id = "1781466678", name = "You Touch My Face & Breathing From Ear To Ear", length = "5:07" }, { id = "1781466799", name = "Petting Your Head (Soft Scratching Noises)", length = "5:11" }, { id = "1781466810", name = "Gently Rubbing Your Ears & Whispering", length = "4:15" }, { id = "1781466818", name = "Getting Close To You & Kissing Your Face", length = "4:16" }, { id = "1781466821", name = "More Soft Kisses & Touching Your Face", length = "4:17" }] },
+]
 spotify_episode = { id = "0KjThTOY9MYAw9mKdVZzo4", name = "ASMR 🥺 Insecure Girlfriend 🥺 \"Do you still love me...?\" | Angst, Hurt/Comfort, Kisses + Massage", date = "2024-11-15", length = "28:00", cover = true }
 views = 147197
 likes = 3219

@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBQCdASogABIAPtFYpk2oJKOiMBgIAQAaCWUApxQQpB2gyg1iVh1VQOXOer1c64GAAP5jRXA9GzJyij8zHlGrnHhGAmE3YTlOs2UlE2/xUACk7x3ycsoIeQJ8rVZQ+SO4PTJ0sAAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/crazy-cat-lady-helps-you-recover-from-your-travels-single/1761617773", year = "2022", id = "1761617773", name = "Crazy Cat Lady Helps You Recover from Your Travels", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761618237", name = "Crazy Cat Lady Helps You Recover from Your Travels Pt.1", length = "5:18" }, { id = "1761618240", name = "Crazy Cat Lady Helps You Recover from Your Travels Pt.3", length = "5:01" }, { id = "1761618242", name = "Crazy Cat Lady Helps You Recover from Your Travels Pt.2", length = "5:14" }] },
+]
 views = 139548
 likes = 2432
 comments = 603

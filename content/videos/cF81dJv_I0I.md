@@ -9,6 +9,9 @@ length = "13:33"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFSpk2oJCOiMBgIAQAaCWMAuwANFRNErX0OmSks5e7afk8AAM32u9A9FNpssype3QCAQgt6S/utdWJazze73QdXF+4CTQp5cvWI9jXiiQyMWy2JYNZws/BRRff0Gb/4sAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-scalp-massage-single/1761259604", year = "2022", id = "1761259604", name = "FRIENDLY SCALP MASSAGE", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761259607", name = "FRIENDLY SCALP MASSAGE Pt.1", length = "4:26" }, { id = "1761260126", name = "FRIENDLY SCALP MASSAGE Pt.2", length = "4:24" }, { id = "1761260128", name = "FRIENDLY SCALP MASSAGE Pt.3", length = "4:43" }] },
+]
 views = 964573
 likes = 10763
 comments = 899

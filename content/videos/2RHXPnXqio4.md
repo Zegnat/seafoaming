@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWpEuoJKOhsAgBABoJQBOmZL/AA8BRCOUs2i8j8+j8rbMUIAD+sxgrVDWfbcuCmLMxqTefpMDvORwhkvQViRxKuM9V22EFQeTWphruCLiELKYX/zU5daG+Z2TJcA2zkAA="
 spotify = "https://open.spotify.com/album/3cryUubRSndxsn2WZe6XkF"
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-alien-studying-you-ep/1761629083", year = "2022", id = "1761629083", name = "FRIENDLY ALIEN Studying You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761629420", name = "FRIENDLY ALIEN Studying You Pt.2", length = "4:10" }, { id = "1761629433", name = "FRIENDLY ALIEN Studying You Pt.1", length = "4:08" }, { id = "1761629436", name = "FRIENDLY ALIEN Studying You Pt.3", length = "4:08" }, { id = "1761629573", name = "FRIENDLY ALIEN Studying You Pt.4", length = "4:09" }] },
+]
 spotify_release = { id = "3cryUubRSndxsn2WZe6XkF", name = "FRIENDLY ALIEN Studying You", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "5lZMJNcMETPyiWhBe4Bv4P", name = "FRIENDLY ALIEN Studying You Pt.2", length = "4:10" },

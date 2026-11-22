@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwBACdASogABIAPslQoUunpKMhsAwA8BkJYwC7My/C+gfhV2k8jSJnTzBf8/+9HwAA/uzXQHDlKxSv9QiL8s0eCdo4XSJqhcxRdSpUOYWF1gVU6hdQpk7f8W4Eqda95OAAAA=="
 spotify = "https://open.spotify.com/album/7xRYy1BJ9VP4Qa0hZa30kz"
+apple_music = [
+  { url = "https://music.apple.com/us/album/spending-your-birthday-with-fay-ep/1761645272", year = "2022", id = "1761645272", name = "Spending Your Birthday with Fay", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761645285", name = "Spending Your Birthday with Fay Pt.1", length = "5:01" }, { id = "1761645287", name = "Spending Your Birthday with Fay Pt.2", length = "5:04" }, { id = "1761645471", name = "Spending Your Birthday with Fay Pt.3", length = "5:02" }, { id = "1761645474", name = "Spending Your Birthday with Fay Pt.4", length = "5:17" }] },
+]
 spotify_release = { id = "7xRYy1BJ9VP4Qa0hZa30kz", name = "Spending Your Birthday with Fay", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0AiqI5g5omRyqoqsFkLEvi", name = "Spending Your Birthday with Fay Pt.1", length = "5:01" },

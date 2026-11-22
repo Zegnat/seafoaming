@@ -9,6 +9,9 @@ length = "11:40"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASogABIAPsVSo0unpKOhsAwA8BiJQBUkeBAqqIua2slMG6miw8vjyAgA/oblTZVEA6wEkQXzJrAj0nD0xFuEEF72HKpP7OhL2zGPv8zer1ZydN5eu2d5KYna7GHWobEEbk4cAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/smile-sounds-single/1761645386", year = "2022", id = "1761645386", name = "SMILE SOUNDS", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761645405", name = "SMILE SOUNDS Pt.1", length = "4:00" }, { id = "1761645604", name = "SMILE SOUNDS Pt.2", length = "4:00" }, { id = "1761645607", name = "SMILE SOUNDS Pt.3", length = "3:40" }] },
+]
 views = 58172
 likes = 1944
 comments = 370

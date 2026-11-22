@@ -9,6 +9,9 @@ length = "12:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBQCdASogABIAPrVKnUunJKKht+gA4BaJaACxHzRA2D19dw1GQCAKtcMtiIBdgOcyWxAAAP7hiiipV9tmteAQA4ypkn7yWd9+8RBTki1RMlM0bEPScYzSKVabbRbVV8BDhWsWUBiLRN27hHUhXRdYZbBgLzEAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/kisses-for-you-and-november-patron-appreciation-single/1761415752", year = "2022", id = "1761415752", name = "KISSES FOR YOU and November Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761416183", name = "KISSES FOR YOU and November Patron Appreciation Pt.2", length = "4:02" }, { id = "1761416200", name = "KISSES FOR YOU and November Patron Appreciation Pt.1", length = "4:03" }, { id = "1761416285", name = "KISSES FOR YOU and November Patron Appreciation Pt.3", length = "4:15" }] },
+]
 views = 173811
 likes = 2701
 comments = 372

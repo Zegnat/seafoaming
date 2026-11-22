@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPtFYoUuoJSMhsBgMAQAaCUATpmJgygEUd/R+4OowFWSPCxXsAAD9lotagPi4G8XWgXnyLiJ7/j7EmSI+JPUwW/0oR6W/9f+5tfQusg9KUodk2qh1qUhFU6gAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/evil-alien-ep/1761310158", year = "2022", id = "1761310158", name = "EVIL ALIEN", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761310461", name = "EVIL ALIEN Pt.1", length = "4:53" }, { id = "1761310463", name = "EVIL ALIEN Pt.2", length = "4:55" }, { id = "1761310469", name = "EVIL ALIEN Pt.3", length = "4:49" }, { id = "1761310470", name = "EVIL ALIEN Pt.4", length = "4:51" }, { id = "1761310475", name = "EVIL ALIEN Pt.5", length = "4:51" }, { id = "1761310477", name = "EVIL ALIEN Pt.6", length = "5:05" }] },
+]
 views = 530542
 likes = 9079
 comments = 1400

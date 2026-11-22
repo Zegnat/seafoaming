@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUAVhnHYLyP0LtTm4V2mJ+dLrJSgAPHcIqqqS20gMsrfE6GJ6bEvzEw41gAHtlv9F9VCTKf78EOaTFIzlQ4F8diHiDoJ+0d2gnsdxzNGAAAA"
 spotify = "https://open.spotify.com/album/1eX8C4jT7EjR2NjHbZkO2a"
 spotify_podcast = "https://open.spotify.com/episode/7dbOvAdUUTgzxGOgPWkb94"
+apple_music = [
+  { url = "https://music.apple.com/us/album/classmate-asmr-tingly-study-sesh-with-your-crush-single/1858037883", year = "2025", id = "1858037883", name = "Classmate ASMR Tingly Study Sesh With Your Crush", type = "Single", date = "2025-12-19", cover = true, tracks = [{ id = "1858037886", name = "Chewing Gum & Whisper Chatting", length = "7:32" }, { id = "1858037887", name = "Asking You Questions & Writing", length = "9:33" }, { id = "1858037888", name = "Studying & Super Tingly Gum Chewing", length = "4:14" }] },
+]
 spotify_release = { id = "1eX8C4jT7EjR2NjHbZkO2a", name = "Classmate ASMR Tingly Study Sesh With Your Crush", type = "EP", date = "2025-12-19", cover = true }
 spotify_tracks = [
   { id = "7dhUrJm1z2RJT6dJMkVJvu", name = "Chewing Gum & Whisper Chatting", length = "7:32" },

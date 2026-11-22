@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPslUnkunpSKhsAwA8BkJYwCdABZK048w2JWtmbUxoZNCkgAA/dkaEqUCXkKaJz/ZQEm5eEAfZcMq0Th6YX1AdD1gC9exidxDe8Ge5EqZrCYNrxEbTwtgAA=="
 spotify = "https://open.spotify.com/album/1EhjRDlRvcwhDDQ6ccliNU"
+apple_music = [
+  { url = "https://music.apple.com/us/album/reading-a-viewers-poem-single/1767046873", year = "2022", id = "1767046873", name = "Reading a Viewer's Poem", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767046876", name = "Reading a Viewer's Poem Pt.1", length = "3:36" }, { id = "1767047152", name = "Reading a Viewer's Poem Pt.2", length = "2:57" }, { id = "1767047158", name = "Reading a Viewer's Poem Pt.3", length = "3:28" }] },
+]
 spotify_release = { id = "1EhjRDlRvcwhDDQ6ccliNU", name = "Reading a Viewer's Poem", type = "Single", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "1XQIvgmSK0vRYZ6UP4A77X", name = "Reading a Viewer's Poem Pt.1", length = "3:36" },

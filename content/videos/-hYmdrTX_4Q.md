@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBQCdASogABIAPtFYpEuoJSOhsAgBABoJYgCdMoACbO/toU+a4YmwXK8TIH7ZTS/KwAD+aAolJ4TEgVc9MWp68Ni+kUqrTlKpCUtfhIpDqJnmWZwXPEKvwrHflf8YhlpLTHCZcgkWjNOkMVAAhbOHAAA="
 spotify = "https://open.spotify.com/album/7xla4yg3lVqBD5ropyVw07"
+apple_music = [
+  { url = "https://music.apple.com/us/album/relaxation-for-depression-and-anxiety-ep/1761636363", year = "2022", id = "1761636363", name = "Relaxation for Depression and Anxiety", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761636499", name = "Relaxation for Depression and Anxiety Pt.1", length = "4:28" }, { id = "1761636627", name = "Relaxation for Depression and Anxiety Pt.2", length = "4:30" }, { id = "1761636667", name = "Relaxation for Depression and Anxiety Pt.3", length = "4:28" }, { id = "1761636808", name = "Relaxation for Depression and Anxiety Pt.4", length = "4:30" }, { id = "1761636826", name = "Relaxation for Depression and Anxiety Pt.5", length = "4:33" }, { id = "1761637073", name = "Relaxation for Depression and Anxiety Pt.6", length = "4:55" }] },
+]
 spotify_release = { id = "7xla4yg3lVqBD5ropyVw07", name = "Relaxation for Depression and Anxiety", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5gs7oeUDCFnXTLrk4VZxyP", name = "Relaxation for Depression and Anxiety Pt.1", length = "4:28" },

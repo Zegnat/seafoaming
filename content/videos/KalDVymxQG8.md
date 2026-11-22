@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPsVQokunpKMhsAwA8BiJZACxDSAC8oEHlDGHKZafhI7x+Wg920fAAP7P2+ib0z5inWb8/APzs5GdkSDqqsra2m19IH8dqHFsD+rYPKKHJqtuhm7VWgbwKmsAAAA="
 spotify = "https://open.spotify.com/album/445JWsquBUdxdRdSHh4pWW"
 spotify_podcast = "https://open.spotify.com/episode/6qz2QnSyKmGAoDRk9CPcTx"
+apple_music = [
+  { url = "https://music.apple.com/us/album/deep-tingles-asmr-scratching-your-cochlea-ep/1830736841", year = "2025", id = "1830736841", name = "Deep Tingles ASMR - Scratching Your Cochlea", type = "EP", date = "2025-08-22", cover = true, tracks = [{ id = "1830736842", name = "Ear Cleaning With Different Brushes On Each Side", length = "5:17" }, { id = "1830736843", name = "Illegal Cotton Swab Move With Whispers", length = "4:52" }, { id = "1830736844", name = "DOUBLE SWABBIN’ YOU (Both Ears At Once)", length = "4:08" }, { id = "1830736845", name = "Fluffy Floofer In Your Earholes", length = "4:55" }] },
+]
 spotify_release = { id = "445JWsquBUdxdRdSHh4pWW", name = "Deep Tingles ASMR - Scratching Your Cochlea", type = "EP", date = "2025-08-22", cover = true }
 spotify_tracks = [
   { id = "5uNa8cXDjGcctpGX6iYmFQ", name = "Ear Cleaning With Different Brushes On Each Side", length = "5:17" },

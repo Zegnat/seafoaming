@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAyNQv7oGH9QCjFSPQ1fx/oAD+6czHHJddKLVJHugwYBJ33eSlOn7lUYhYwdwp3nLed9OhkEp9GLQe0AAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/bunchems-intense-crinkly-prickly-sounds-for-your-ears/1761639794", year = "2022", id = "1761639794", name = "BUNCHEMS INTENSE Crinkly, Prickly, Sounds for Your Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761640053", name = "BUNCHEMS INTENSE Crinkly, Prickly, Sounds for Your Ears Pt.1", length = "4:30" }, { id = "1761640061", name = "BUNCHEMS INTENSE Crinkly, Prickly, Sounds for Your Ears Pt.2", length = "4:25" }, { id = "1761640066", name = "BUNCHEMS INTENSE Crinkly, Prickly, Sounds for Your Ears Pt.3", length = "4:31" }] },
+]
 views = 41335
 likes = 1448
 comments = 224

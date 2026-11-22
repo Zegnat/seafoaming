@@ -9,6 +9,9 @@ length = "17:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFcpk6oJSMiKAqpABoJQA7zgDjcA3AfdjWp/eUSnWWlPoAA/ubI/rVy0iu1oDRf193xSs//yGnyDWqPMW0jzQSk4kRQDeMUkfL2YDoDGtGwAKzAAgA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-super-tingle-treatment-let-me-pamper-your-ears/1758808485", year = "2024", id = "1758808485", name = "ASMR - Super Tingle Treatment- Let Me Pamper Your Ears For Maximum Sleepiness! Intense Ear Attention", type = "EP", date = "2024-08-09", cover = true, tracks = [{ id = "1758808670", name = "I Welcome You Softly", length = "3:47" }, { id = "1758808678", name = "Ear Attention", length = "2:57" }, { id = "1758808683", name = "Guiding Your Tingles", length = "3:07" }, { id = "1758808685", name = "Foamy mic", length = "3:13" }, { id = "1758808689", name = "Your Ears Are Sooo Relaxed", length = "4:55" }] },
+]
 views = 27881
 likes = 1070
 comments = 54

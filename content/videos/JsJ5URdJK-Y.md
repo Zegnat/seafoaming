@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPsFMn0unpCKht/qoAPAYCWMApxfP9E3WMnTL2WNTKp/gNTWVMIAA/vMkDMHAeT88Re+kLfCk1Q+yNCqwGurCQck50384j2svQKz8PYY+6LHslakNtdSfcpHMxYPiIpQwAAA="
 spotify = "https://open.spotify.com/album/2CEb1PYVoiXGb52OX4Jy8Z"
 spotify_podcast = "https://open.spotify.com/episode/58af9FDjGdES1lmhHDWL5n"
+apple_music = [
+  { url = "https://music.apple.com/us/album/loving-affectionate-kisses-for-you-gentle-affirmations/1843118997", year = "2025", id = "1843118997", name = "Loving & Affectionate KISSES for You - Gentle Affirmations ASMR", type = "Single", date = "2025-10-17", cover = true, tracks = [{ id = "1843118998", name = "Giving You Gentle Kisses & Loving Whispers", length = "6:30" }, { id = "1843119006", name = "Ear To Ear Care & Kisses", length = "7:34" }, { id = "1843119007", name = "You Are Cute & Precious XO", length = "4:18" }] },
+]
 spotify_release = { id = "2CEb1PYVoiXGb52OX4Jy8Z", name = "Loving & Affectionate KISSES for You - Gentle Affirmations ASMR", type = "EP", date = "2025-10-17", cover = true }
 spotify_tracks = [
   { id = "360BZPlKWfGrvncUO9hsKv", name = "Giving You Gentle Kisses & Loving Whispers", length = "6:30" },

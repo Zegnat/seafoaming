@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFQpUwoJC+iMBgMAfAaCUAXYAZoJ7HHVj8mI+KPRf31x5aYgAD+SHEO56kEiffrKBn1Ws01qZWSAzlqhdDPHyh9PUx8gEgvn8EekVEq6TbKDC28x4lI59SD6lpAAA=="
 spotify = "https://open.spotify.com/album/5qvhjemuSVB2TrXqdBM1ce"
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-dragon-fascination-with-you-ep/1761654006", year = "2022", id = "1761654006", name = "FRIENDLY DRAGON Fascination with You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761654011", name = "FRIENDLY DRAGON Fascination with You Pt.1", length = "5:33" }, { id = "1761654114", name = "FRIENDLY DRAGON Fascination with You Pt.2", length = "5:29" }, { id = "1761654133", name = "FRIENDLY DRAGON Fascination with You Pt.3", length = "5:30" }, { id = "1761654138", name = "FRIENDLY DRAGON Fascination with You Pt.4", length = "5:16" }] },
+]
 spotify_release = { id = "5qvhjemuSVB2TrXqdBM1ce", name = "FRIENDLY DRAGON Fascination with You", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3sP07o0jYdOwysIcGpxsD5", name = "FRIENDLY DRAGON Fascination with You Pt.1", length = "5:33" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQBACdASogABIAPsFQo0unpKOhsAwA8BgJZQAANJYBdhGS7Sn4IlY+yTAAAOskCaJRWdZfyI/6rAEHstPMNbHhCuB0YyEqRgtGaxC6gqWaC+LZEef/GwAAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-my-zombie-ep/1761655424", year = "2022", id = "1761655424", name = "YOU ARE MY ZOMBIE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761655425", name = "YOU ARE MY ZOMBIE Pt.1", length = "5:12" }, { id = "1761656043", name = "YOU ARE MY ZOMBIE Pt.2", length = "5:16" }, { id = "1761656048", name = "YOU ARE MY ZOMBIE Pt.3", length = "5:16" }, { id = "1761656058", name = "YOU ARE MY ZOMBIE Pt.4", length = "5:39" }] },
+]
 views = 126436
 likes = 3613
 comments = 1000

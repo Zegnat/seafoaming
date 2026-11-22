@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPtFUo0uoJKMhsAgBABoJYwCdABZEjnENXblkQBp/i1AA/t6686gaj8vwkNXtfF+W0giFWkgLKkFfHuUenKPSaid0M94F2r+1/MwAnCud1dsSqoblwDJQTVnxAAA="
 spotify = "https://open.spotify.com/album/4ISXcCR2fnxeK32B422ebO"
+apple_music = [
+  { url = "https://music.apple.com/us/album/miss-spooky-needs-your-help-single/1745642301", year = "2022", id = "1745642301", name = "Miss Spooky Needs Your Help", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745642307", name = "Miss Spooky Needs Your Help Pt.2", length = "4:42" }, { id = "1745642310", name = "Miss Spooky Needs Your Help Pt.1", length = "4:40" }, { id = "1745642315", name = "Miss Spooky Needs Your Help Pt.3", length = "4:32" }] },
+]
 spotify_release = { id = "4ISXcCR2fnxeK32B422ebO", name = "Miss Spooky Needs Your Help", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4wpME45cDgzLMxA0aslLw6", name = "Miss Spooky Needs Your Help Pt.2", length = "4:42" },

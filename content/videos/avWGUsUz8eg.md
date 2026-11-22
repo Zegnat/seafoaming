@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBQCdASogABIAPtFYpU2oJKMiMBgIAQAaCWIAtRsy8+RxKVHIZE8bNKtrkQ29d3GN5gAA/u8IW+ZkhyLT9Yvxp6VX9jg5m7ZU7bt6fT3+cJbNFGPFmriGRB7Zj7btLRBUVvpQbSIzan90w9YtjXGk1v4AAA=="
 spotify = "https://open.spotify.com/album/5eJnGxFCT9geuLqIoHgh8r"
+apple_music = [
+  { url = "https://music.apple.com/us/album/top-hacker-in-new-america-ep/1770222654", year = "2023", id = "1770222654", name = "Top Hacker in New America", type = "EP", date = "2023-12-04", cover = true, tracks = [{ id = "1770222663", name = "Top Hacker in New America Pt.1", length = "3:20" }, { id = "1770222667", name = "Top Hacker in New America Pt.2", length = "3:19" }, { id = "1770222668", name = "Top Hacker in New America Pt.3", length = "3:22" }, { id = "1770222669", name = "Top Hacker in New America Pt.4", length = "3:19" }] },
+]
 spotify_release = { id = "5eJnGxFCT9geuLqIoHgh8r", name = "Top Hacker in New America", type = "EP", date = "2023-12-04", cover = true }
 spotify_tracks = [
   { id = "4FtPvFupczNEbQwX4NSuxw", name = "Top Hacker in New America Pt.1", length = "3:20" },

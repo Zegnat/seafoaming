@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFUo0woJKMiMBgMAQAaCWcAwoAyyIyaK/zMXTXKbEYzWF46iAD+99GhkzXBVl08vP2rUeLTjYzvAXa6U+XI97BRAL21maHlmeyd6UZjbFDFuHRqXgPzcMA2OYzBcgAA"
 spotify = "https://open.spotify.com/album/0mVAo0haf5vhvs4nZdr8wj"
+apple_music = [
+  { url = "https://music.apple.com/us/album/best-friend-fighting-your-shadow-self-ep/1761242885", year = "2022", id = "1761242885", name = "BEST FRIEND Fighting Your Shadow Self", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761242887", name = "BEST FRIEND Fighting Your Shadow Self Pt.1", length = "4:56" }, { id = "1761242892", name = "BEST FRIEND Fighting Your Shadow Self Pt.2", length = "4:57" }, { id = "1761242898", name = "BEST FRIEND Fighting Your Shadow Self Pt.3", length = "4:35" }, { id = "1761243118", name = "BEST FRIEND Fighting Your Shadow Self Pt.4", length = "4:58" }, { id = "1761243120", name = "BEST FRIEND Fighting Your Shadow Self Pt.5", length = "5:05" }, { id = "1761243121", name = "BEST FRIEND Fighting Your Shadow Self Pt.6", length = "4:46" }] },
+]
 spotify_release = { id = "0mVAo0haf5vhvs4nZdr8wj", name = "BEST FRIEND Fighting Your Shadow Self", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "6dfw2hvmA33IlBT1qlepOR", name = "BEST FRIEND Fighting Your Shadow Self Pt.1", length = "4:56" },

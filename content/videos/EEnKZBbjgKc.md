@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBACdASogABIAPtFWpEuoJKOhsAgBABoJQBbZBCR7RYgwfCqMuPxX34PIAP7mr0Gm+xD5XT13aeTirgDQMU0iOuyv4W2/hlpXajpQ34FaYj8GQnHk8KOhTujMIPC+9REHI+GeEYVKxh16yHX2Od+wjEyWwAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/i-am-the-microphone-ep/1761651839", year = "2022", id = "1761651839", name = "I AM THE MICROPHONE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761651851", name = "I AM THE MICROPHONE Pt.1", length = "4:19" }, { id = "1761651858", name = "I AM THE MICROPHONE Pt.2", length = "4:22" }, { id = "1761652070", name = "I AM THE MICROPHONE Pt.3", length = "4:15" }, { id = "1761652078", name = "I AM THE MICROPHONE Pt.4", length = "3:45" }] },
+]
 views = 77138
 likes = 2629
 comments = 458

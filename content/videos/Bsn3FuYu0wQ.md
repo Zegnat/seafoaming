@@ -9,6 +9,9 @@ length = "16:03"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABwBACdASogABIAPsFMoEunpCMht/qoAPAYCWMAtOgNKrnDrYT+DQuVwLEyAAD1CeAi9nuT7k/1dW32RZ6YteI5umFZcx6RtdmWa6GQ9NNBZkZZO9cOkjqIAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/water-and-liquid-splashing-sloshing-and-shaking-ep/1761636985", year = "2022", id = "1761636985", name = "Water and Liquid Splashing, Sloshing, and Shaking", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761636990", name = "Water and Liquid Splashing, Sloshing, and Shaking Pt.1", length = "4:01" }, { id = "1761636996", name = "Water and Liquid Splashing, Sloshing, and Shaking Pt.2", length = "4:01" }, { id = "1761636998", name = "Water and Liquid Splashing, Sloshing, and Shaking Pt.3", length = "4:00" }, { id = "1761637000", name = "Water and Liquid Splashing, Sloshing, and Shaking Pt.4", length = "4:01" }] },
+]
 views = 24726
 likes = 799
 comments = 261

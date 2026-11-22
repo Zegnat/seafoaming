@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASogABIAPsVSoEunpKMhsAwA8BiJZQC9WBie+KmVxcj1fR6LI8gP3gAA/tAG/i9yFJ8D0ZaOXzr31iFb/y2760rhuj+epvoN/Gjq9ABypBDJO3I5qZkuAA=="
 spotify = "https://open.spotify.com/album/4AyviFdiaioRl8wKeeHGTU"
+apple_music = [
+  { url = "https://music.apple.com/us/album/booping-ya-face-single/1767046894", year = "2022", id = "1767046894", name = "Booping Ya Face", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767046895", name = "Booping Ya Face Pt.1", length = "3:38" }, { id = "1767046896", name = "Booping Ya Face Pt.2", length = "6:01" }, { id = "1767046898", name = "Booping Ya Face Pt.3", length = "3:46" }] },
+]
 spotify_release = { id = "4AyviFdiaioRl8wKeeHGTU", name = "Booping Ya Face", type = "Single", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "7kg6tYV6DH3FJd01TKy4XK", name = "Booping Ya Face Pt.1", length = "3:38" },

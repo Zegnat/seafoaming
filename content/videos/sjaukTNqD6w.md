@@ -9,6 +9,9 @@ length = "17:08"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABQBQCdASogABIAPsFKn0unpCKht/qoAPAYCWIAnTNHcoAKUfRTb0b2W6+R4+F+vB15ORwA/un1gqRRlluLPY2WdmP8/WYfFHvJSgQnSmOu4ZOZBvoqKsRiV5wGTt9zNjv975+KPq7oAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/lip-smacking-ep/1761632445", year = "2022", id = "1761632445", name = "LIP SMACKING", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761632497", name = "LIP SMACKING Pt.1", length = "4:16" }, { id = "1761632502", name = "LIP SMACKING Pt.2", length = "4:16" }, { id = "1761632506", name = "LIP SMACKING Pt.3", length = "4:17" }, { id = "1761632508", name = "LIP SMACKING Pt.4", length = "4:19" }] },
+]
 views = 139068
 likes = 2533
 comments = 324

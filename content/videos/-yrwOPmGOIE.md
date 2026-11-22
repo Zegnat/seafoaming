@@ -9,6 +9,9 @@ length = "19:42"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASogABIAPtFWokuoJKMhsBgMAQAaCUAVgAGL+mieuWP8ebrBaNOWWA75mQQAAP5rIRQc1yVS7Z9dtYywDYVuNSgLQyn6XyuMAFX8InZgBqQ/sY6CQIw95IJFDFvVaCEPrK2s3P1yQ7gAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sleepy-crinkles-ep/1761639804", year = "2022", id = "1761639804", name = "SLEEPY CRINKLES", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761639809", name = "SLEEPY CRINKLES Pt.1", length = "4:47" }, { id = "1761639812", name = "SLEEPY CRINKLES Pt.2", length = "4:45" }, { id = "1761639816", name = "SLEEPY CRINKLES Pt.3", length = "4:53" }, { id = "1761639818", name = "SLEEPY CRINKLES Pt.4", length = "5:18" }] },
+]
 views = 21210
 likes = 837
 comments = 161

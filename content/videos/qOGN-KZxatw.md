@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFcpE2oJSMiKA1RABoJYwC1GzRCmA3ALqVT0dm9aUy9b/sAAPgOIN7BA0oTcMB44fdcCJHbu8jLnij02NzLXBxG91w6Kxk91xgDjJ0LYy952i+qNJF+EnEaAAA="
 spotify = "https://open.spotify.com/album/1QrzA1YuZcEeEPJSgOiNfZ"
+apple_music = [
+  { url = "https://music.apple.com/us/album/when-im-unsupervised-at-a-convention-ep/1767047619", year = "2022", id = "1767047619", name = "When Im Unsupervised at a Convention", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047821", name = "When Im Unsupervised at a Convention Pt.1", length = "4:32" }, { id = "1767047822", name = "When Im Unsupervised at a Convention Pt.3", length = "5:04" }, { id = "1767047830", name = "When Im Unsupervised at a Convention Pt.2", length = "5:11" }, { id = "1767047834", name = "When Im Unsupervised at a Convention Pt.4", length = "4:46" }, { id = "1767047899", name = "When Im Unsupervised at a Convention Pt.5", length = "4:58" }] },
+]
 spotify_release = { id = "1QrzA1YuZcEeEPJSgOiNfZ", name = "When Im Unsupervised at a Convention", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "5HAiRe07wdpQvaIfURJzs5", name = "When Im Unsupervised at a Convention Pt.1", length = "4:32" },

@@ -9,6 +9,9 @@ length = "16:03"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPr1On0unJKKht/qoAOAXiUAVIpsQSUxmGEIG/xyN6nPDymMkAAD+5lu9CI8uApHpmef5xKdo3w+2Q9v7GU9VqnPPUWI8Vc85b73Trot8nbsiPTrfh9azVU2j1HhTDxn1gAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/tongue-clicking-update-and-august-patron-appreciation-ep/1745649871", year = "2022", id = "1745649871", name = "TONGUE CLICKING, Update, And August Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745649876", name = "TONGUE CLICKING, Update, And August Patron Appreciation Pt.1", length = "4:02" }, { id = "1745649885", name = "TONGUE CLICKING, Update, And August Patron Appreciation Pt.2", length = "3:59" }, { id = "1745649887", name = "TONGUE CLICKING, Update, And August Patron Appreciation Pt.3", length = "4:02" }, { id = "1745650069", name = "TONGUE CLICKING, Update, And August Patron Appreciation Pt.4", length = "3:59" }] },
+]
 views = 45478
 likes = 1048
 comments = 268

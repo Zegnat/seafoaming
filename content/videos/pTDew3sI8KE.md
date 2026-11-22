@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPtFSpEuoJKOhsBgMAQAaCUAY3oFmBoUV+WmP9P4x8gnHp4hQAP6A67mZDNvC9KSpKmGGKjzkXk7Woq7flx4ztbomlC/x+XZ+jSZxbXhQrbEIsajctYQAAA=="
 spotify = "https://open.spotify.com/album/5yS0xnVdrNImnJYycySekF"
 spotify_podcast = "https://open.spotify.com/episode/1hBt8LsUW6JCju9i5PiKFz"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-paw-massage-for-your-sad-ears-catgirl-comfort/6799561797", year = "2026", id = "6799561797", name = "ASMR Paw Massage for Your Sad Ears - Catgirl Comfort & Purrsonal Attention", type = "Single", date = "2026-08-28", cover = true, tracks = [{ id = "6799561798", name = "Paw Ear Massage", length = "4:50" }, { id = "6799561799", name = "Secrets & Deeper Connection", length = "3:43" }, { id = "6799561800", name = "Purrsonal Comfort", length = "4:11" }] },
+]
 spotify_release = { id = "5yS0xnVdrNImnJYycySekF", name = "ASMR Paw Massage for Your Sad Ears - Catgirl Comfort & Purrsonal Attention", type = "EP", date = "2026-08-28", cover = true }
 spotify_tracks = [
   { id = "3zqmfbqAZV6T1nMhpLY3z1", name = "Paw Ear Massage", length = "4:50" },

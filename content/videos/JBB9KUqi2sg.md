@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPtFWokuoJKMhsAgBABoJQBWGZDBdrgGDpJksAYCyO70QLuwAAPewmOsrV5JPcrge8xAPPdQhvgQtuQXgJCa9QZF0pghUGq2guVaNxquy6i7rIX6s/xbAaKNmXsoRF7YNvoAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/rough-ear-cleaning-single/1767048427", year = "2022", id = "1767048427", name = "ROUGH EAR CLEANING", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767048434", name = "ROUGH EAR CLEANING Pt.1", length = "4:14" }, { id = "1767048559", name = "ROUGH EAR CLEANING Pt.2", length = "3:37" }, { id = "1767048562", name = "ROUGH EAR CLEANING Pt.3", length = "4:07" }] },
+]
 views = 233554
 likes = 4317
 comments = 391

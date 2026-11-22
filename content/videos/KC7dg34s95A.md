@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPtFcpk4oJSOiKAqpABoJZQDLpDHQxfVO5qvohu8dbgSfmrSwAP73gme+sOaDeT2zbcmkVQU3aFRqxERLr5BIzm4sv8x95vQJBbpTy3NZkUO9iYHi6NnyeAAA"
 spotify = "https://open.spotify.com/album/5HEYXPRNMDW5oEwy2Ri1ic"
+apple_music = [
+  { url = "https://music.apple.com/us/album/nommin-on-your-ears-single/1761642339", year = "2022", id = "1761642339", name = "Nommin' on Your Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761642342", name = "Nommin' on Your Ears Pt.1", length = "5:43" }, { id = "1761642347", name = "Nommin' on Your Ears Pt.2", length = "5:46" }] },
+]
 spotify_release = { id = "5HEYXPRNMDW5oEwy2Ri1ic", name = "Nommin' on Your Ears", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1rpvNxRWXlAKeqxC7IRVWu", name = "Nommin' on Your Ears Pt.1", length = "5:43" },

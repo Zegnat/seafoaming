@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBQCdASogABIAPsFKnkunpCKht/qoAPAYCWMAuwAi/Mt1da0Yrj1CrOxf9ac/GpYAAP7CPQt/cMp5ws9EUXTMQ7XqWteGyNU//7Vtrn9FsP29ocAT7mE3G/rNfvw34k1HYGd+8bwAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/guided-meditation-ep/1761638365", year = "2022", id = "1761638365", name = "GUIDED MEDITATION", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761638373", name = "GUIDED MEDITATION Pt.1", length = "5:00" }, { id = "1761638379", name = "GUIDED MEDITATION Pt.3", length = "4:58" }, { id = "1761638382", name = "GUIDED MEDITATION Pt.2", length = "5:02" }, { id = "1761638387", name = "GUIDED MEDITATION Pt.4", length = "4:57" }, { id = "1761638728", name = "GUIDED MEDITATION Pt.5", length = "5:11" }] },
+]
 views = 63919
 likes = 1538
 comments = 162

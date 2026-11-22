@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFQpUuoJCOhsBgMAQAaCWIAs6DmREGoKq530AiByKgh840AAOIMrvYfmKy/T87YnjiKt05EUO7FOrARmyS4Ur57iMp9d/lvoeVjJU2OgGgf1AB7AAA="
 spotify = "https://open.spotify.com/album/3Q9afx4TLnfxYqsus5CDPa"
+apple_music = [
+  { url = "https://music.apple.com/us/album/wolf-lost-her-voice-single/1761627067", year = "2022", id = "1761627067", name = "Wolf Lost Her Voice!", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761627075", name = "Wolf Lost Her Voice! Pt.1", length = "5:23" }, { id = "1761627349", name = "Wolf Lost Her Voice! Pt.2", length = "5:22" }] },
+]
 spotify_release = { id = "3Q9afx4TLnfxYqsus5CDPa", name = "Wolf Lost Her Voice!", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "32FpD7K5OO7xCAobiAGHu0", name = "Wolf Lost Her Voice! Pt.1", length = "5:23" },

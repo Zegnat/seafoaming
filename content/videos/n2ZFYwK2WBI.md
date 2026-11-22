@@ -9,6 +9,9 @@ length = "15:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFQokunpKMhsAwA8BgJQBXDhDs4ua2rlFmO5e14bFoHceSVWwAA/s3kiI8OX44RVzcfZ/4uY6cNvq5pjoFsbUK+F8DatjiBQTiu1+V1w6vY/kG5gc0YuKXZvAgAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/pop-rocks-fizzy-and-popping-mouth-sounds-single/1761643501", year = "2022", id = "1761643501", name = "POP ROCKS Fizzy and Popping Mouth Sounds", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761643502", name = "POP ROCKS Fizzy and Popping Mouth Sounds Pt.1", length = "5:08" }, { id = "1761643503", name = "POP ROCKS Fizzy and Popping Mouth Sounds Pt.2", length = "5:07" }, { id = "1761643506", name = "POP ROCKS Fizzy and Popping Mouth Sounds Pt.3", length = "5:05" }] },
+]
 views = 26719
 likes = 1048
 comments = 174

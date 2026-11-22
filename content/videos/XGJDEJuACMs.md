@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFepU6oJSMiKAqpABoJZQCsABIskYIreQnCt2kp2O6VjrAAAP5gY5+IswEu/+okiJkD3jdF6FTPpfHyAxPtbykmQqz2DDOZIjUt3qThhBaqpqqgAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-unusual-eye-exam-eye-doctor-is-fascinated-with/1736702315", year = "2024", id = "1736702315", name = "ASMR Unusual Eye Exam - Eye Doctor Is Fascinated With Your Unique Problem...", type = "EP", date = "2024-03-26", cover = true, tracks = [{ id = "1736702316", name = "Meeting Your Eye Doctor", length = "2:10" }, { id = "1736702322", name = "Giving You Special Eye Drops", length = "2:02" }, { id = "1736702601", name = "Read the Letters On the Chart", length = "3:46" }, { id = "1736702604", name = "Healing Your Ears To Impact Your Eyesight", length = "4:22" }, { id = "1736702612", name = "Diagnosing You", length = "2:11" }, { id = "1736702617", name = "Testing Your Sight With Glasses", length = "2:27" }] },
+]
 views = 136282
 likes = 3290
 comments = 124

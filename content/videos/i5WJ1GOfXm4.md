@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASogABIAPslQoUunpKMht/VYAPAZCWIAvzgus3rKe4dffxrbQg1lwAD4HhIhrdXhOOe0WQp70hurrc/ZoJQ2yAuZ1vNpznDMHKp3J6eqpZZWTn2IZAAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/vampire-dispensary/1761290457", year = "2022", id = "1761290457", name = "VAMPIRE DISPENSARY", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761290461", name = "VAMPIRE DISPENSARY Pt.1", length = "5:01" }, { id = "1761290464", name = "VAMPIRE DISPENSARY Pt.2", length = "4:58" }, { id = "1761290471", name = "VAMPIRE DISPENSARY Pt.3", length = "5:00" }, { id = "1761290661", name = "VAMPIRE DISPENSARY Pt.4", length = "5:00" }, { id = "1761290669", name = "VAMPIRE DISPENSARY Pt.5", length = "4:51" }, { id = "1761290681", name = "VAMPIRE DISPENSARY Pt.6", length = "5:44" }] },
+]
 views = 311271
 likes = 6038
 comments = 1100

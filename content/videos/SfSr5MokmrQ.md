@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwBACdASogABIAPtFapk0oJSOosBgIARAaCWMAuwAKV0HeaGP/2FMe24ZpTAD97NNxswkhwFKfvbTeBvo7FG0Gu79Oxo/2uUdXaE8jGUZXwflANs6/BFVq2/7kAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sounds-for-when-everything-is-awful-and-youre-not-okay-ep/1761654759", year = "2022", id = "1761654759", name = "Sounds for When Everything is Awful and You're Not Okay", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761654767", name = "Sounds for When Everything is Awful and You're Not Okay Pt.1", length = "3:53" }, { id = "1761654980", name = "Sounds for When Everything is Awful and You're Not Okay Pt.2", length = "3:54" }, { id = "1761654982", name = "Sounds for When Everything is Awful and You're Not Okay Pt.3", length = "3:56" }, { id = "1761654986", name = "Sounds for When Everything is Awful and You're Not Okay Pt.4", length = "4:06" }] },
+]
 views = 83468
 likes = 2886
 comments = 565

@@ -9,6 +9,9 @@ length = "11:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBQCdASogABIAPsVQokunpKMhsAwA8BiJQBYj4wBoN2OV09lB7ZsU6dFHLyPxpwlfUAD+4QwkiZN978jurth6U0LKotmZUo7v6aGmUsQI7rb1KK1i6s6uPoPD8f3x04AAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/hugs-and-kisses-to-comfort-and-relax-you-ep/1767047525", year = "2022", id = "1767047525", name = "Hugs And Kisses To Comfort And Relax You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047526", name = "Hugs And Kisses To Comfort And Relax You Pt.2", length = "3:58" }, { id = "1767047531", name = "Hugs And Kisses To Comfort And Relax You Pt.3", length = "2:25" }, { id = "1767047534", name = "Hugs And Kisses To Comfort And Relax You Pt.4", length = "2:45" }, { id = "1767047839", name = "Hugs And Kisses To Comfort And Relax You Pt.1", length = "2:24" }] },
+]
 views = 221695
 likes = 6062
 comments = 545

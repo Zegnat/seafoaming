@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASogABIAPtFcpk0oJSOiMBgIAQAaCWUAtuj2B/gSoE7XM1Y20gLC38WbriAA/vcG5k+Ecls99dQ6Pc+u92cHcwaCnizc8h9quP+2WJlTx2pg9jsz97m9WOg/v7+ySgTDWfYw6lyU6TFJAn3p6PfJyKSv5Nkr1oAA"
 spotify = "https://open.spotify.com/album/1F97qU1iXav5yf2HtqLl3w"
+apple_music = [
+  { url = "https://music.apple.com/us/album/exam-ep/1761270425", year = "2022", id = "1761270425", name = "EXAM", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761270429", name = "EXAM Pt.1", length = "4:40" }, { id = "1761270433", name = "EXAM Pt.2", length = "4:52" }, { id = "1761270435", name = "EXAM Pt.3", length = "4:39" }, { id = "1761270436", name = "EXAM Pt.4", length = "5:07" }] },
+]
 spotify_release = { id = "1F97qU1iXav5yf2HtqLl3w", name = "EXAM", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "2DloQqYgSrg8aAc0l3RSb0", name = "EXAM Pt.1", length = "4:40" },

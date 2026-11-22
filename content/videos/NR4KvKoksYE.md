@@ -9,6 +9,9 @@ length = "12:25"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwBACdASogABIAPslSoUunpKMht/VYAPAZCWUArAAQyJqd58geEhLWVU4nX5bgAPCGL0E64438bLhEbWkScoDV9MIbL07xW6K8P7jdBSZ76cxZO6z7mL8xu9dA3fAKNEAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/creepy-soundscape-whispering-sand-sounds-for-tingles/1761620262", year = "2022", id = "1761620262", name = "Creepy Soundscape, Whispering, Sand Sounds for Tingles and Sleep", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761620468", name = "Creepy Soundscape, Whispering, Sand Sounds for Tingles and Sleep Pt.1", length = "4:06" }, { id = "1761620608", name = "Creepy Soundscape, Whispering, Sand Sounds for Tingles and Sleep Pt.2", length = "4:08" }, { id = "1761620612", name = "Creepy Soundscape, Whispering, Sand Sounds for Tingles and Sleep Pt.3", length = "4:12" }] },
+]
 views = 15658
 likes = 495
 comments = 118

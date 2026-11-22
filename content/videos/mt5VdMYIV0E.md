@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASogABIAPrVKnEunJKKht+gA4BaJZACdMyYBSDL3mZQpqv331MqqZ7J8a3QAAP7c75frBYQTQA6EX4r1Yrz9RY9oQi4RMRCjAm86j7XRQlQBm2rgPA/+ZFbSaL9roPGF+lhwjj3dQjkowAAA"
 spotify = "https://open.spotify.com/album/4nY6Ns5oS1pLAsNXbYX9H1"
+apple_music = [
+  { url = "https://music.apple.com/us/album/sticky-squishy-and-goopy-sounds-single/1761648127", year = "2022", id = "1761648127", name = "Sticky, Squishy and Goopy Sounds", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761648137", name = "Sticky, Squishy and Goopy Sounds Pt.1", length = "4:15" }, { id = "1761648386", name = "Sticky, Squishy and Goopy Sounds Pt.2", length = "4:19" }, { id = "1761648396", name = "Sticky, Squishy and Goopy Sounds Pt.3", length = "4:53" }] },
+]
 spotify_release = { id = "4nY6Ns5oS1pLAsNXbYX9H1", name = "Sticky, Squishy and Goopy Sounds", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "590F3XnQwGlz3rl1Tt3uFt", name = "Sticky, Squishy and Goopy Sounds Pt.1", length = "4:15" },

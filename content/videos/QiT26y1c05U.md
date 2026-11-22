@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUATplCPwAHsGZSweJXqaKGIdm55YsAA/vSPVMsXR3cRobbu0PfKtdLGDVxP+5bOA/4rIV/R/Pd1R+x3cdZ8JvZAm5/EgOWGs3IYC9XroYAXf2v30dXTX20EcnYUgAA="
 spotify = "https://open.spotify.com/album/0NzrLBbDqxcVDHnMywv8Yl"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-supreme-overlord/1766002364", year = "2024", id = "1766002364", name = "ASMR  SUPREME OVERLORD", type = "Album", date = "2024-09-20", cover = true, tracks = [{ id = "1766002365", name = "Explaining The Concept Of Yana", length = "2:39" }, { id = "1766002366", name = "Mumbling To Himself", length = "2:11" }, { id = "1766002367", name = "Scanning Your Brain", length = "2:25" }, { id = "1766002733", name = "Declaring You As His Arch Nemesis", length = "2:01" }, { id = "1766002734", name = "Light Stick Brainwave Disruptors", length = "3:44" }, { id = "1766002736", name = "Plucking And Eating Your Yummy Yana", length = "2:39" }, { id = "1766002740", name = "Fixing His Makeup", length = "2:41" }, { id = "1766002742", name = "You Will Rue The Day That You Messed With Xak", length = "1:21" }] },
+]
 spotify_release = { id = "0NzrLBbDqxcVDHnMywv8Yl", name = "ASMR SUPREME OVERLORD", type = "Album", date = "2024-09-20", cover = true }
 spotify_tracks = [
   { id = "711qi3tJRkBSrnxOJlKCN5", name = "Explaining The Concept Of Yana", length = "2:39" },

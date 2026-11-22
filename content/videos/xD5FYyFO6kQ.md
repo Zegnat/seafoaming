@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFSokwoJCMiMBgMAQAaCUATploYNDAy20+QrtikIic5/sAA/tu4exuHk6FzoEpY2Ksve3SWt1r/RkiKos3Nw9x6QW/H/beHxROewAZI5hGHe6YgybW7wAAA"
 spotify = "https://open.spotify.com/album/2vGcEYGFThqX8AMw2XSH2B"
 spotify_podcast = "https://open.spotify.com/episode/2DOMrHMxyzPKO5hM5Hxi05"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-ex-bully-is-your-personal-maid-sarcastic-tsundere/1802272897", year = "2025", id = "1802272897", name = "ASMR Ex-Bully Is Your Personal Maid (Sarcastic, Tsundere, Reluctantly Obedient)", type = "EP", date = "2025-03-28", cover = true, tracks = [{ id = "1802272904", name = "Fluffing The Feather Duster And Dusting You (With Whispers)", length = "5:01" }, { id = "1802272905", name = "Fetching You A Glass Of Water, Water Taste Test", length = "5:26" }, { id = "1802272907", name = "Lunch Break, Tingly Eating Sounds", length = "4:56" }, { id = "1802273155", name = "Ear Scratching & Grocery List Writing", length = "5:29" }] },
+]
 spotify_release = { id = "2vGcEYGFThqX8AMw2XSH2B", name = "ASMR Ex-Bully Is Your Personal Maid (Sarcastic, Tsundere, Reluctantly Obedient)", type = "EP", date = "2025-03-28", cover = true }
 spotify_tracks = [
   { id = "6oryZU0ZIsXoyIWkMS78Jx", name = "Fluffing The Feather Duster And Dusting You (With Whispers)", length = "5:01" },

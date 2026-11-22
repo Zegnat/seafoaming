@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPtFepU0oJSOiMBgIAQAaCWMAnTNMQP8Fu4E3+SrDG61rzeHvaYAA/tlDkHNyu3iFuPmd3GYsQ54c+dZ1F1wh6s8C9lOK4zGduQvfFNU6Vi895Fa7VMRq3d1EIo3azf3E7Fz0zI/IAAA="
 spotify = "https://open.spotify.com/album/7qNG3DBde6Bu8I987L7tEA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-focus-games-with-reward-punishment-impossible-ep/1752447259", year = "2024", id = "1752447259", name = "ASMR - Focus Games With Reward & Punishment (Impossible)", type = "EP", date = "2024-06-28", cover = true, tracks = [{ id = "1752447270", name = "Intro & Talking", length = "4:26" }, { id = "1752447280", name = "Telling You To Look At the Green Duck", length = "4:01" }, { id = "1752447412", name = "My Voice Is Guiding You & Distracting You", length = "3:29" }, { id = "1752447422", name = "Outro (Soft Spoken)", length = "2:39" }] },
+]
 spotify_release = { id = "7qNG3DBde6Bu8I987L7tEA", name = "ASMR - Focus Games With Reward & Punishment (Impossible)", type = "EP", date = "2024-06-28", cover = true }
 spotify_tracks = [
   { id = "4ghkKr3aiptH2NGgkF3mAY", name = "Intro & talking", length = "4:26" },

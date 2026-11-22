@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPr1OnkunJKKht/qoAOAXiWYArDNkAu81Taa9HhXpXiAA+KJW2BwaPHzjqON+c4VDPu4AHJOQbvd8SUrEgXFMlM8WifeNzrsJ7ujNcYF3TUf4mS2tLpen9fJ18AA="
 spotify = "https://open.spotify.com/album/5zejcwlc5IQt376bFeMIcw"
+apple_music = [
+  { url = "https://music.apple.com/us/album/japanese-unboxing-goodie-bag-ep/1745649889", year = "2022", id = "1745649889", name = "JAPANESE UNBOXING Goodie Bag", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745649897", name = "JAPANESE UNBOXING Goodie Bag Pt.1", length = "5:18" }, { id = "1745649909", name = "JAPANESE UNBOXING Goodie Bag Pt.2", length = "5:18" }, { id = "1745649913", name = "JAPANESE UNBOXING Goodie Bag Pt.3", length = "5:18" }, { id = "1745650160", name = "JAPANESE UNBOXING Goodie Bag Pt.4", length = "5:18" }] },
+]
 spotify_release = { id = "5zejcwlc5IQt376bFeMIcw", name = "JAPANESE UNBOXING Goodie Bag", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "65pnIRXMJoS4OgNiIjDM6g", name = "JAPANESE UNBOXING Goodie Bag Pt.1", length = "5:18" },

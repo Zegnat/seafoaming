@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQBACdASogABIAPsFIn0unpCKht/qoAPAYCWYArDlAAJS/QO3+d0vpbXyDqUWPWAD+0dkkzepwU/9XCL9uVacVNoLYn7sTJnboQcN+qBvTmE2KQmn2GxsYha/MkZzRmPjFGOFaS+4WAsTpfX3BJX7XCDlY6AAA"
 spotify = "https://open.spotify.com/album/6BKoIVz2NTr82LQW1mpUda"
+apple_music = [
+  { url = "https://music.apple.com/us/album/kawaii-plushie-collection-show-and-tell-ep/1745639788", year = "2022", id = "1745639788", name = "Kawaii Plushie Collection Show and Tell", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745639790", name = "Kawaii Plushie Collection Show and Tell Pt.1", length = "4:26" }, { id = "1745639791", name = "Kawaii Plushie Collection Show and Tell Pt.2", length = "4:24" }, { id = "1745639793", name = "Kawaii Plushie Collection Show and Tell Pt.3", length = "4:27" }, { id = "1745639796", name = "Kawaii Plushie Collection Show and Tell Pt.4", length = "4:23" }, { id = "1745639797", name = "Kawaii Plushie Collection Show and Tell Pt.5", length = "4:11" }] },
+]
 spotify_release = { id = "6BKoIVz2NTr82LQW1mpUda", name = "Kawaii Plushie Collection Show and Tell", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2TuyAS1xNnyQYgRcwotUxp", name = "Kawaii Plushie Collection Show and Tell Pt.1", length = "4:26" },

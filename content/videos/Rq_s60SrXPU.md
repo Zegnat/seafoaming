@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPtFWpEuoJKOhsAgBABoJZQC06BuepPHY4o0DoBMeruEYAAD+5en0LdXqO1/p5ce56cdD7uzwsrTwAcItQWT+oumKUMZIXncMTNotIAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/vampire-bartender-ep/1761641434", year = "2022", id = "1761641434", name = "VAMPIRE BARTENDER", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761641609", name = "VAMPIRE BARTENDER Pt.1", length = "5:27" }, { id = "1761641646", name = "VAMPIRE BARTENDER Pt.2", length = "5:22" }, { id = "1761641648", name = "VAMPIRE BARTENDER Pt.3", length = "5:23" }, { id = "1761641652", name = "VAMPIRE BARTENDER Pt.4", length = "5:21" }, { id = "1761641656", name = "VAMPIRE BARTENDER Pt.5", length = "5:26" }] },
+]
 views = 310973
 likes = 5019
 comments = 887

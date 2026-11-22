@@ -9,6 +9,9 @@ length = "17:33"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFYpEuoJSOhsAgBABoJQBgbgxipoIFXauIjBin32vPR0AAA/vbXGk7mOcEIK8KreRi7jAnu2y0WHLJzwJofnk8D4fkzTw7GYwbjosBQN7sLsP11AvLz+wzrF9X3HM0WwAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-obsessed-girl-captures-you-eats-your-hair-sniffing/1763298028", year = "2024", id = "1763298028", name = "ASMR - Obsessed Girl Captures You & Eats Your Hair, Sniffing You, Counting Eyelashes, Face Touching", type = "EP", date = "2024-09-06", cover = true, tracks = [{ id = "1763298032", name = "Good Morning! Explaining Your Situation", length = "4:00" }, { id = "1763298036", name = "Counting Your Eyelashes", length = "4:28" }, { id = "1763298044", name = "Eating Your Hair Yummy", length = "3:37" }, { id = "1763298047", name = "Brushing Hair Off Your Ears", length = "5:28" }] },
+]
 views = 145199
 likes = 3198
 comments = 169

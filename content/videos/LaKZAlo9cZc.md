@@ -13,6 +13,9 @@ language_name = "American English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASogABIAPtFYpk0oJSOiMBgIAQAaCWMAyJgLMofcGmmKvCavv6qvPpWL1wAA/vQxfpOduqJNSJR2UaAva1HI7/natJSzskuXbrEpmxSi0JM6jWKrQrS2tLkCXhE1yM3/BMTFwAAA"
 spotify = "https://open.spotify.com/album/0Kgvhld6O8gJlWs1YlCqhq"
 spotify_podcast = "https://open.spotify.com/episode/7n3MloL6LyUKE1Sd3zmkZ9"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-goth-ihop-your-rude-waitress-is-kinda-flirty-gossiping/1789997042", year = "2025", id = "1789997042", name = "ASMR Goth IHOP, Your Rude Waitress is Kinda Flirty - Gossiping, Telling You Secrets, Drawing You", type = "EP", date = "2025-01-24", cover = true, tracks = [{ id = "1789997043", name = "Welcoming You & Writing A Note About You(Don't Get On My Nerves)", length = "3:59" }, { id = "1789997044", name = "Whispering & Drawing You While We Wait(Marker Sounds)", length = "3:59" }, { id = "1789997045", name = "Whispering Close To Your Ear & Marker Scraping", length = "4:01" }, { id = "1789997046", name = "Quite Breathy Whispers While Drawing", length = "3:55" }, { id = "1789997047", name = "Finishing Up The Drawing(Paper Scraping Sounds)", length = "3:56" }, { id = "1789997048", name = "Showing You The Drawing With Paper Flipping & Tapping Sounds", length = "3:20" }] },
+]
 spotify_release = { id = "0Kgvhld6O8gJlWs1YlCqhq", name = "ASMR Goth IHOP, Your Rude Waitress is Kinda Flirty - Gossiping, Telling You Secrets, Drawing You", type = "EP", date = "2025-01-24", cover = true }
 spotify_tracks = [
   { id = "5QEK6XsptoBgRVhbJdwZ4R", name = "Welcoming You & Writing A Note About You(Don't Get On My Nerves)", length = "3:59" },

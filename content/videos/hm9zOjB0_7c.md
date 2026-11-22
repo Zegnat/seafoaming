@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPsVQokunpKMhsAwA8BiJYwC7ABjMW9TCrdpaIJTK5Bxg659eIAD+8ZmWDekhr1bWZxMVmZjtucGrEHj7wgpGW19n2ryylmrs/fcw1Xck+1JwO6paSeW0Z/Fe3SuLkAAA"
 spotify = "https://open.spotify.com/album/3mwjjsfi3Wm0hQIBHBuUx9"
 spotify_podcast = "https://open.spotify.com/episode/64kDaUBAbz90JC9mDqcta1"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-oily-ear-massage-but-it-gets-freaky-single/1837458064", year = "2025", id = "1837458064", name = "ASMR Oily Ear Massage But It Gets FREAKY", type = "Single", date = "2025-09-26", cover = true, tracks = [{ id = "1837458068", name = "Intense Ear Massage With Cupping & Ear Blowing", length = "6:57" }, { id = "1837458071", name = "Silicone Pad Massage (Silky & Sticky Sounds)", length = "7:53" }, { id = "1837458072", name = "Massaging Both Ears At Once With Freaky Gloves", length = "7:34" }] },
+]
 spotify_release = { id = "3mwjjsfi3Wm0hQIBHBuUx9", name = "ASMR Oily Ear Massage But It Gets FREAKY", type = "EP", date = "2025-09-26", cover = true }
 spotify_tracks = [
   { id = "0tSo4Hx5x8o0SnM4l3NESq", name = "Intense Ear Massage With Cupping & Ear Blowing", length = "6:57" },

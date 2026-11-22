@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwBACdASogABIAPrVKnEunJKKht+gA4BaJZQCdM4CD+4+FHCq8fTsoAJI4TJIAAP7pQl6u0VSXzNNTuS475Blhx+6LvsaNE/2bji7B1oGvBsRkGQgAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/fay-shows-you-an-alien-love-and-bonding-ritual-single/1761422380", year = "2022", id = "1761422380", name = "Fay Shows You an Alien Love and Bonding Ritual", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761422384", name = "Fay Shows You an Alien Love and Bonding Ritual Pt.1", length = "4:10" }, { id = "1761422386", name = "Fay Shows You an Alien Love and Bonding Ritual Pt.2", length = "4:21" }] },
+]
 views = 818538
 likes = 9696
 comments = 1400

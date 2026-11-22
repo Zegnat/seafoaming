@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPsVQoEunpKohsAwBQBiJQAALUIUPhy09fPgJ1iWYdSwAAP7WhFEi2H4m5tWNa2yTPnKejvl+nBg5HZXVCdfO+1cCb7baRcsD3IX9aivl4PvBIdp0OgcngAAA"
 spotify = "https://open.spotify.com/album/22qF3myF0BbF0tGzxFTyqI"
+apple_music = [
+  { url = "https://music.apple.com/us/album/summer-secret-santa-single/1745645900", year = "2022", id = "1745645900", name = "Summer Secret Santa", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745645905", name = "Summer Secret Santa Pt.1", length = "4:01" }, { id = "1745645914", name = "Summer Secret Santa Pt.2", length = "4:02" }, { id = "1745645920", name = "Summer Secret Santa Pt.3", length = "3:59" }] },
+]
 spotify_release = { id = "22qF3myF0BbF0tGzxFTyqI", name = "Summer Secret Santa", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0TOMPc4sSVoVamJJlXIuV3", name = "Summer Secret Santa Pt.1", length = "4:01" },

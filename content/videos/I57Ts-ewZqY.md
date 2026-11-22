@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFcpEyoJSOiMBgIAQAaCWUAnTKAATawSR7rYpNirUN9MIAA/ufLH/GJ8kXrbczjUMF4tKg64OsWDmiBMbCiBusxnTz3wGESoc3jpstn/aUjjbSAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/aesthetic-tingles-with-tapping-and-crinkles-ep/1770221792", year = "2021", id = "1770221792", name = "Aesthetic Tingles with Tapping and Crinkles", type = "EP", date = "2021-04-26", cover = true, tracks = [{ id = "1770221796", name = "Aesthetic Tingles with Tapping and Crinkles Pt.1", length = "4:00" }, { id = "1770221797", name = "Aesthetic Tingles with Tapping and Crinkles Pt.2", length = "3:57" }, { id = "1770221841", name = "Aesthetic Tingles with Tapping and Crinkles Pt.3", length = "4:03" }, { id = "1770221844", name = "Aesthetic Tingles with Tapping and Crinkles Pt.4", length = "3:52" }] },
+]
 views = 31605
 likes = 1148
 comments = 177

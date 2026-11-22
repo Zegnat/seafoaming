@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPtFWokuoJKMhsAgBABoJYgDA3BjMChAW24hJyjltP6PPy7NGBQAA+2JXxdbbOph2a9ymrWGi/yS369D6f2XJ3FQ3cKk6HUdokWiNg/3Mr29Re5GfYLxzXumXiEo+7hlAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/i-love-you-ep/1745676662", year = "2022", id = "1745676662", name = "I Love You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745676665", name = "I LOVE YOU Pt.1", length = "5:23" }, { id = "1745676668", name = "I LOVE YOU Pt.2", length = "5:21" }, { id = "1745676669", name = "I LOVE YOU Pt.3", length = "5:26" }, { id = "1745676671", name = "I LOVE YOU Pt.4", length = "5:23" }] },
+]
 views = 207231
 likes = 4890
 comments = 223

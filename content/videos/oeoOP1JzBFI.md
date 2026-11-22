@@ -9,6 +9,9 @@ length = "16:19"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQBACdASogABIAPtFUo0uoJKMhsAgBABoJZgCdL6HBnqAAWHKLav3KLV6G8pO2AAD+8tyxVR8taxfJNwetCXLBASYt/anY5cHrtwxEsIyLssKGeT/+Wlcg76RybCTi7iZ69XjCPxy0Iy+2XphZOJxgjz67DSUAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/astral-spirit-ep/1761422971", year = "2022", id = "1761422971", name = "ASTRAL SPIRIT", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761422982", name = "ASTRAL SPIRIT Pt.1", length = "4:11" }, { id = "1761423200", name = "ASTRAL SPIRIT Pt.3", length = "4:12" }, { id = "1761423213", name = "ASTRAL SPIRIT Pt.2", length = "4:09" }, { id = "1761423223", name = "ASTRAL SPIRIT Pt.4", length = "3:47" }] },
+]
 views = 49823
 likes = 1135
 comments = 263

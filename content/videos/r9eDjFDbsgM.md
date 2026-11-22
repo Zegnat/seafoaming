@@ -9,6 +9,9 @@ length = "13:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFYpEuoJSOhsAgBABoJQBUeg8A07w/e3hMubHQv57DB6UAA/u0H3HJAIH0FNBcwaEedotx+xITwY3TLmKXGLQEYG+h8r5hVy92wp6KUstq+zJPNrDuAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sweet-and-soft-whip-cream-kisses-for-you-single/1745679883", year = "2022", id = "1745679883", name = "SWEET and SOFT Whip Cream Kisses for You", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745679884", name = "SWEET and SOFT Whip Cream Kisses for You Pt.1", length = "4:22" }, { id = "1745680248", name = "SWEET and SOFT Whip Cream Kisses for You Pt.3", length = "4:20" }, { id = "1745680253", name = "SWEET and SOFT Whip Cream Kisses for You Pt.2", length = "4:22" }] },
+]
 views = 108907
 likes = 3338
 comments = 190

@@ -12,6 +12,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFapUuoJSOhsAgBABoJYwC7AB4mAXQKP4TVmuQDWvW1GWSi0AD+74xfh/ztPfBEaW1DNgegw+AKIHT+1MPDOu/CFVAVbQY5aJkHm6vlR/Nk+KIAAAA="
 spotify = "https://open.spotify.com/album/31HvHaSHcphFv5Da2zniQs"
+apple_music = [
+  { url = "https://music.apple.com/us/album/eating-your-ears-single/1761652795", year = "2022", id = "1761652795", name = "Eating Your Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761652813", name = "Eating Your Ears Pt.1", length = "3:51" }, { id = "1761652857", name = "Eating Your Ears Pt.2", length = "3:54" }, { id = "1761652859", name = "Eating Your Ears Pt.3", length = "3:58" }] },
+]
 spotify_release = { id = "31HvHaSHcphFv5Da2zniQs", name = "Eating Your Ears", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2waDAFo0xDyrg86U0nicu5", name = "Eating Your Ears Pt.1", length = "3:51" },

@@ -9,6 +9,9 @@ length = "18:56"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQBACdASogABIAPs1OokunpCMnt/VYAPAZiUAWI+yAzZVfkrjJBM3fZ+fS74AA/uy9XbnljIb1OhOGBf5VVLAslNCVMjl3C7yFMkBS6qzDxANKjYYKGE5ZdSlh4AAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/click-clack-intense-clicky-mouth-tingles-ep/1770221984", year = "2023", id = "1770221984", name = "CLICK CLACK Intense Clicky Mouth Tingles", type = "EP", date = "2023-01-10", cover = true, tracks = [{ id = "1770221985", name = "CLICK CLACK Intense Clicky Mouth Tingles Pt.1", length = "4:11" }, { id = "1770221986", name = "CLICK CLACK Intense Clicky Mouth Tingles Pt.2", length = "4:11" }, { id = "1770221988", name = "CLICK CLACK Intense Clicky Mouth Tingles Pt.3", length = "4:14" }, { id = "1770222232", name = "CLICK CLACK Intense Clicky Mouth Tingles Pt.4", length = "4:14" }] },
+]
 views = 72451
 likes = 2088
 comments = 103

@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFcpE0oJSOiMBgIAQAaCUAWI+yAL0UQdBAUAYR2k4znZKAbRjgA/elPC3/kOIWRh3QAl3t4UoxSwHIkCFL70x65Cec7TjR1oEIwr9Ueq2Lb0X89LqV8/L7HDrqAAA=="
 spotify = "https://open.spotify.com/album/5dKSWEZNgNh1KOzpbN16Zc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/alien-ear-noms-fixing-your-tingle-immunity-single/1761656381", year = "2022", id = "1761656381", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761656384", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.1", length = "4:05" }, { id = "1761656386", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.2", length = "4:01" }, { id = "1761656779", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.3", length = "3:58" }] },
+]
 spotify_release = { id = "5dKSWEZNgNh1KOzpbN16Zc", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1XcPBZCj3iPVKC9QTvDpCw", name = "ALIEN EAR NOMS Fixing Your Tingle Immunity Pt.1", length = "4:05" },

@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPslSn0unpKKhsAwA8BkJYwDE2BujDKG8hE9NU6bMJtjZ71nGAAD+9I/jKqGHSgPGgIxyJyvuWjunvHbaiFeXlbs0s7nsvBZg9axqXzxpAYJAgXF893AGhugA"
 spotify_podcast = "https://open.spotify.com/episode/5yS88RZjLejPRr1Uo1pkpY"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-this-ditzy-bat-lives-here-rent-free-curious-touching/1768594156", year = "2024", id = "1768594156", name = "ASMR - This Ditzy Bat Lives Here Rent Free?! Curious Touching, Throat Clicking, Stealing", type = "EP", date = "2024-10-04", cover = true, tracks = [{ id = "1768594280", name = "Bat Welcomes You Softly", length = "4:12" }, { id = "1768594284", name = "Assessment by the Bat's Queen", length = "4:30" }, { id = "1768594286", name = "Magical Triggers & Whispers", length = "4:37" }, { id = "1768594290", name = "My Confession", length = "3:54" }] },
+]
 spotify_episode = { id = "5yS88RZjLejPRr1Uo1pkpY", name = "ASMR 🦇 This Ditzy Bat Lives Here Rent Free?! | Curious Touching, Throat Clicking, Stealing(?)", date = "2024-09-06", length = "17:13", cover = true }
 views = 113519
 likes = 3459

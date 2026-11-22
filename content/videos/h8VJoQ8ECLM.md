@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBfnBDVfksLWAoTCY0z0ngzAOUFdAAD+9Jxgc++TuZ2OscH+NhSb+CwGEnpgdGqhMOIGbqMbxOCLv4LNO3ix98u9Vba2lVkP+XN1bLNM7H3RRirNhLJXk4qQAA=="
 spotify = "https://open.spotify.com/album/33LiiDRoFxVhMpYADRoMT9"
 spotify_podcast = "https://open.spotify.com/episode/69VbHkSp5SyCKTz1yt8Bex"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-catgirl-obsessed-with-your-ears-can-i-touch-them-single/1811649350", year = "2025", id = "1811649350", name = "ASMR Catgirl Obsessed with Your Ears – Can I Touch Them?", type = "Single", date = "2025-05-16", cover = true, tracks = [{ id = "1811649358", name = "Sniffing Your Ears, \"Pleeeease Let Me Touch Them!!\"", length = "5:51" }, { id = "1811649359", name = "Relaxing, Slow Ear Rubbing & Massage", length = "6:06" }, { id = "1811649360", name = "Super Soft Whispers & Begging To Lick Your Ears", length = "6:14" }] },
+]
 spotify_release = { id = "33LiiDRoFxVhMpYADRoMT9", name = "ASMR Catgirl Obsessed with Your Ears – Can I Touch Them?", type = "EP", date = "2025-05-16", cover = true }
 spotify_tracks = [
   { id = "0TBndqu6pVwz0wOTT1uXcW", name = "Sniffing Your Ears, \"Pleeeease Let Me Touch Them!!\"", length = "5:51" },

@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPsFMnkunpCKht/qoAPAYCWQAuwAK0o3RGVDVHu/n3CHeNnd3AAD5s6Zw6uo6ps0s9Yv9SMpCMNGvdLCG9UWoI6K7aPNOltdVQstYNi+h77mndtQCrb/GicXE3IAAAA=="
 spotify = "https://open.spotify.com/album/3TZJXfdXlxhqZNZW4lf0bO"
+apple_music = [
+  { url = "https://music.apple.com/us/album/unboxing-a-tamagotchi-idl-single/1745662287", year = "2022", id = "1745662287", name = "Unboxing a Tamagotchi iDL", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745662293", name = "Unboxing a Tamagotchi iDL", length = "5:55" }] },
+]
 spotify_release = { id = "3TZJXfdXlxhqZNZW4lf0bO", name = "Unboxing a Tamagotchi iDL", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2HABUPRwks8FaOae0qNpkX", name = "Unboxing a Tamagotchi iDL", length = "5:55" },

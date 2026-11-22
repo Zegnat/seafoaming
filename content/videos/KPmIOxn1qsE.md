@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPtFWpU0oJKOiMBgIAQAaCWUAnQAMYoy9HRv4jnT06TF48SgA+9bqKce9WgSLQ6Ad7t+sz5ESVXaefk5N2x3PXF1p4XjewzoIRW7dE10rGgqymrqIWe+q4iTgAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/emotion-boosting-face-paint-to-relax-your-soul-ep/1761406163", year = "2022", id = "1761406163", name = "Emotion-Boosting Face Paint to Relax Your Soul", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761406164", name = "Emotion-Boosting Face Paint to Relax Your Soul Pt.1", length = "4:42" }, { id = "1761406165", name = "Emotion-Boosting Face Paint to Relax Your Soul Pt.2", length = "4:40" }, { id = "1761406166", name = "Emotion-Boosting Face Paint to Relax Your Soul Pt.3", length = "4:48" }, { id = "1761406169", name = "Emotion-Boosting Face Paint to Relax Your Soul Pt.4", length = "4:31" }] },
+]
 views = 200091
 likes = 3520
 comments = 775

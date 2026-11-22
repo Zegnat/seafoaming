@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPtFUpk2oJCOiMBgIAQAaCUAVJagAKHOnZXDZvZ6JqwF/WR+PdAD+BlXXxmUDTzLPDpcJnfh7VsYXnwIz3ICfarrnLMDijQi0uNv5LIG2UBsk+MFECR0fM93OImZvAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-dead-miss-spooky-teaches-you-how-to-spook-ep/1761653671", year = "2022", id = "1761653671", name = "You are DEAD! Miss Spooky Teaches You How to Spook", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761653993", name = "You are DEAD! Miss Spooky Teaches You How to Spook Pt.1", length = "5:00" }, { id = "1761654005", name = "You are DEAD! Miss Spooky Teaches You How to Spook Pt.2", length = "5:00" }, { id = "1761654007", name = "You are DEAD! Miss Spooky Teaches You How to Spook Pt.3", length = "5:00" }, { id = "1761654124", name = "You are DEAD! Miss Spooky Teaches You How to Spook Pt.4", length = "5:16" }] },
+]
 views = 115194
 likes = 3463
 comments = 870

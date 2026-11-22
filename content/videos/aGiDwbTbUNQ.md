@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPslUnkunpKKhsAwA8BkJZACdMtDCanoPhcOoWRa5wvRcCmOiPUgA/skMnNxpe7ZHP/1FTP2VZmr9POSFEk9yDPzHN52pceDfBQslVV/oTe4LVDSe20zV0fLGX8mQAA=="
 spotify = "https://open.spotify.com/album/0Il7SCDDlMEyRPklzjygik"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fan-favorite-trigger-words-ep/1761624626", year = "2022", id = "1761624626", name = "Fan Favorite Trigger Words", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761624635", name = "Fan Favorite Trigger Words Pt.1", length = "4:48" }, { id = "1761624640", name = "Fan Favorite Trigger Words Pt.2", length = "4:43" }, { id = "1761624889", name = "Fan Favorite Trigger Words Pt.3", length = "4:49" }, { id = "1761624894", name = "Fan Favorite Trigger Words Pt.4", length = "4:50" }, { id = "1761624897", name = "Fan Favorite Trigger Words Pt.5", length = "4:41" }] },
+]
 spotify_release = { id = "0Il7SCDDlMEyRPklzjygik", name = "Fan Favorite Trigger Words", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "16yVCsNK222OqhLAm1OZPL", name = "Fan Favorite Trigger Words Pt.1", length = "4:48" },

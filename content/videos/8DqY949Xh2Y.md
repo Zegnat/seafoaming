@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWUAuwAhqc9wBIGqJx+uQNA7fQAA/vS2Fa/G8zzYQshbIX4JfZE0qK9nSY0hbigdu+XTVsHzeQMJfYQ7KAoOzaeRto5twAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-dragon-glow-up-be-a-dragon-peace-bringer/1770222260", year = "2023", id = "1770222260", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer", type = "Album", date = "2023-03-20", cover = true, tracks = [{ id = "1770222261", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.1", length = "4:39" }, { id = "1770222263", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.2", length = "4:38" }, { id = "1770222264", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.3", length = "4:36" }, { id = "1770222265", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.4", length = "4:39" }, { id = "1770222267", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.5", length = "4:36" }, { id = "1770222268", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.6", length = "4:38" }, { id = "1770222269", name = "FRIENDLY DRAGON Glow Up, Be a Dragon Peace Bringer Pt.7", length = "4:38" }] },
+]
 views = 247690
 likes = 5125
 comments = 462

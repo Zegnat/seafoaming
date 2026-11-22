@@ -9,6 +9,9 @@ length = "1:00:56"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFao02oJSMiKA1RABoJaQAAIduQ9rxKLUZkQpYm2NFAQ6AA/rr70WO7ydbKf8Kblw0xurDlfBqaautx7uywdtK0SKbq4nKvn/2m1dNeuj/D6/b3jdNAAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/1-hour-ear-cupping-with-soft-rain-sounds/1761633262", year = "2022", id = "1761633262", name = "1 Hour Ear Cupping with Soft Rain Sounds", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761633270", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.1", length = "6:04" }, { id = "1761633273", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.2", length = "6:01" }, { id = "1761633283", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.3", length = "5:59" }, { id = "1761633356", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.4", length = "6:03" }, { id = "1761633358", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.5", length = "6:00" }, { id = "1761633365", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.6", length = "5:59" }, { id = "1761633368", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.7", length = "6:00" }, { id = "1761633376", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.8", length = "6:01" }, { id = "1761633620", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.9", length = "6:03" }, { id = "1761633622", name = "1 Hour Ear Cupping with Soft Rain Sounds Pt.10", length = "6:48" }] },
+]
 views = 199762
 likes = 2889
 comments = 199

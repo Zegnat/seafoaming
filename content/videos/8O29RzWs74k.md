@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPs1YpEunpaOhsBgMAPAZiWUAvkgQhyf6TPo+1QNOMMW3vThMSyEAAP6xY7AR7jHpi8W6YAVCqW0FyIbHKiVhUl5Z61ln7/QX+RLRaCYksxBZgACXh7u8AA=="
 spotify = "https://open.spotify.com/album/6uoVkWwNh79d6howclg0FS"
+apple_music = [
+  { url = "https://music.apple.com/us/album/a-talk-about-mental-health-ep/1761636310", year = "2022", id = "1761636310", name = "a talk about mental health", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761636535", name = "a talk about mental health Pt.1", length = "5:34" }, { id = "1761636554", name = "a talk about mental health Pt.2", length = "5:30" }, { id = "1761636696", name = "a talk about mental health Pt.4", length = "5:01" }, { id = "1761636706", name = "a talk about mental health Pt.3", length = "5:37" }] },
+]
 spotify_release = { id = "6uoVkWwNh79d6howclg0FS", name = "a talk about mental health", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3fYlcQSTuU1GMiwDi7W0hM", name = "a talk about mental health Pt.1", length = "5:34" },

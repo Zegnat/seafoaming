@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFYpUwoJSOiKA1RABoJYwC/OA0zNWTQA1Q5CW28kK138R6AAP7xf2/HwXPnOPP/WJirQ8/ZFnprYKIgatpycHH0HT2+MFuy13nUb7fguJ+zLsseXzHCKTAAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/unhinged-clown-girl-wants-to-touch-your-face-and-eat/1745681240", year = "2022", id = "1745681240", name = "Unhinged Clown Girl Wants to Touch Your Face and eat your flesh", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745681248", name = "Unhinged Clown Girl Wants to Touch Your Face and eat your flesh Pt.1", length = "4:39" }, { id = "1745681253", name = "Unhinged Clown Girl Wants to Touch Your Face and eat your flesh Pt.2", length = "4:30" }, { id = "1745681259", name = "Unhinged Clown Girl Wants to Touch Your Face and eat your flesh Pt.3", length = "4:37" }, { id = "1745681260", name = "Unhinged Clown Girl Wants to Touch Your Face and eat your flesh Pt.4", length = "4:36" }] },
+]
 views = 180983
 likes = 5398
 comments = 418

@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFapk4oJSOiKAqpABoJQBS1gh9UZNBe5hk3Xzx9v+BUwAD4wMPTkD4tC7wv+U4nj2m+FuFxyb5fNI30nlKRAX0MOzxbPYfdhJLxXvlD0GbjTVLJHUv6+6hgAAA="
 spotify = "https://open.spotify.com/album/1b09RBn34UG5CXdOlxakae"
+apple_music = [
+  { url = "https://music.apple.com/us/album/the-adorable-organ-harvester-single/1761626339", year = "2022", id = "1761626339", name = "The Adorable Organ Harvester", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761626346", name = "The Adorable Organ Harvester Pt.2", length = "5:16" }, { id = "1761626348", name = "The Adorable Organ Harvester Pt.1", length = "5:26" }] },
+]
 spotify_release = { id = "1b09RBn34UG5CXdOlxakae", name = "The Adorable Organ Harvester", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3jNTfUCZKVaJiofXcjbAhF", name = "The Adorable Organ Harvester Pt.2", length = "5:16" },

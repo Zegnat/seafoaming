@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASogABIAPs1WpUunpKOhsBgMAPAZiUAVhfqQDI+NUKVkE0IVQHeecHxqEN9NQAD5AkaUq/kByqwsbMRYlg/EQSMDFhEMfZuVu+SeWVfpw6NvzKVT9BLgyZHWELOnzCJVIYbeAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/dragon-girl-tsun-tsun-ear-nibbles-and-mouth-sounds-ep/1761393433", year = "2022", id = "1761393433", name = "Dragon Girl Tsun Tsun Ear Nibbles and Mouth Sounds", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761393434", name = "Dragon Girl Tsun Tsun Ear Nibbles and Mouth Sounds Pt.1", length = "4:09" }, { id = "1761393436", name = "Dragon Girl Tsun Tsun Ear Nibbles and Mouth Sounds Pt.2", length = "4:08" }, { id = "1761393438", name = "Dragon Girl Tsun Tsun Ear Nibbles and Mouth Sounds Pt.3", length = "4:10" }, { id = "1761393922", name = "Dragon Girl Tsun Tsun Ear Nibbles and Mouth Sounds Pt.4", length = "4:04" }] },
+]
 views = 665755
 likes = 7576
 comments = 1200

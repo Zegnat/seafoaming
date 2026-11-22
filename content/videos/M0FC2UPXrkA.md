@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFMoEunpCMht/qoAPAYCUAXYALb3uZzNZfs+q43rCOImEPPrYAA/TE+SnQF4Xm2SpmB3lN1yGXt19rmKr9NkogTscCRFlDCbJPLupfaK2/1/Zk1BI1/AYiF4AAAAA=="
 spotify = "https://open.spotify.com/album/5TEmAEgdw7yg7wVFgKtYhc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/the-worst-dentist-ever-ep/1761623250", year = "2022", id = "1761623250", name = "The Worst Dentist Ever", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761623449", name = "The Worst Dentist Ever Pt.1", length = "4:01" }, { id = "1761623452", name = "The Worst Dentist Ever Pt.2", length = "4:00" }, { id = "1761623456", name = "The Worst Dentist Ever Pt.3", length = "4:01" }, { id = "1761623793", name = "The Worst Dentist Ever Pt.4", length = "4:13" }] },
+]
 spotify_release = { id = "5TEmAEgdw7yg7wVFgKtYhc", name = "The Worst Dentist Ever", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1ZMRmQyKu8PgWwMFLtusFv", name = "The Worst Dentist Ever Pt.1", length = "4:01" },

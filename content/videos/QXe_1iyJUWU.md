@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPtFapUuoJaOhsAgBABoJQBdgA8Mv/b7nx7MNwNfQXyDkAYAA/sE+rARLQcqYenp727ZWivWkBvn+ru8RDithLtYEcJO+/6oR/BNIZcGGBsUJolOSAAA="
 spotify = "https://open.spotify.com/album/5F0c5ZDdkgJc4qTZprUMK9"
 spotify_podcast = "https://open.spotify.com/episode/3w1yYBNUimqFoto66vPyHH"
+apple_music = [
+  { url = "https://music.apple.com/us/album/let-me-fix-your-ugly-face-spit-painting-asmr-ep/1822174019", year = "2025", id = "1822174019", name = "Let Me Fix Your Ugly Face (Spit Painting ASMR)", type = "EP", date = "2025-07-11", cover = true, tracks = [{ id = "1822174020", name = "Spit Painting With Fingers & Whispers", length = "5:29" }, { id = "1822174021", name = "Whats In Her Purse? (Super Clicky)", length = "4:37" }, { id = "1822174023", name = "Applying Lipbalm To Your Crusty Lips", length = "4:49" }, { id = "1822174024", name = "Super Tingly Lip Gloss & Licking", length = "5:37" }] },
+]
 spotify_release = { id = "5F0c5ZDdkgJc4qTZprUMK9", name = "Let Me Fix Your Ugly Face (Spit Painting ASMR)", type = "EP", date = "2025-07-11", cover = true }
 spotify_tracks = [
   { id = "4bOVbFBpXWlIzlKkMN01qh", name = "Spit Painting With Fingers & Whispers", length = "5:29" },

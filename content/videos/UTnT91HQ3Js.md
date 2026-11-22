@@ -9,6 +9,9 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFUo0uoJKMhsAgBABoJYwC+e47CayoVZMIbSKkC8bMDmhYAAP7qL8u2mzAc6jqYO8jxIAWRmFdkAAg+9NN4VnRsXZed2A4EwJtr8kk18hYNyyXmOx7ySqKoXQAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/mouth-sounds/1761641771", year = "2022", id = "1761641771", name = "MOUTH SOUNDS", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761641774", name = "MOUTH SOUNDS Pt.1", length = "6:14" }, { id = "1761641777", name = "MOUTH SOUNDS Pt.2", length = "6:09" }, { id = "1761642259", name = "MOUTH SOUNDS Pt.3", length = "6:10" }, { id = "1761642263", name = "MOUTH SOUNDS Pt.4", length = "6:10" }, { id = "1761642265", name = "MOUTH SOUNDS Pt.5", length = "6:10" }, { id = "1761642269", name = "MOUTH SOUNDS Pt.6", length = "6:11" }, { id = "1761642275", name = "MOUTH SOUNDS Pt.7", length = "6:08" }, { id = "1761642278", name = "MOUTH SOUNDS Pt.8", length = "6:12" }, { id = "1761642280", name = "MOUTH SOUNDS Pt.9", length = "6:13" }, { id = "1761642283", name = "MOUTH SOUNDS Pt.10", length = "7:07" }] },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

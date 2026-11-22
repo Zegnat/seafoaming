@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFYo0uoJSMhsBgMAQAaCWcAt7gML0/dUhLIdr8dgJL3Z7sWHgAA/kYqktAJRQgIDmn+gTeqD+eJmo4p1D9W5lwJiItt85SMlWjNa1FrCLAvHcGhOTsNOUAAAAA="
 spotify = "https://open.spotify.com/album/6O0CmOxZxU68Z7D3q2Fj2S"
+apple_music = [
+  { url = "https://music.apple.com/us/album/caring-friend-for-the-angry-misunderstood-forgotten/1767046516", year = "2019", id = "1767046516", name = "Caring Friend For the Angry, Misunderstood & Forgotten", type = "Single", date = "2019-01-01", cover = true, tracks = [{ id = "1767046518", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 1", length = "6:13" }, { id = "1767046851", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 2", length = "5:31" }, { id = "1767046855", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 3", length = "6:03" }] },
+]
 spotify_release = { id = "6O0CmOxZxU68Z7D3q2Fj2S", name = "Caring Friend For the Angry, Misunderstood & Forgotten", type = "Single", date = "2019-01-01", cover = true }
 spotify_tracks = [
   { id = "7jOrX6asOYFBs37B1o9riN", name = "ASMR For the Angry, Misunderstood & Forgotten Pt. 1", length = "6:13" },

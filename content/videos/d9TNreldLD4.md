@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASogABIAPslSn0unpKKqMAwBQBkJQBOmUABFYH87qFzOg5kAAO3Mt3QTcrDg5TyvKO51EHybjWHuiQ4m70jB1fzP/CWpRnn5aP8njpRpNUuoZ8ZYU4pEAAAA"
 spotify = "https://open.spotify.com/album/4vTXsrDpAFAt0DzEtVJ0Ep"
+apple_music = [
+  { url = "https://music.apple.com/us/album/favorite-fidget-toys-ep/1761618298", year = "2022", id = "1761618298", name = "Favorite Fidget Toys", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761618311", name = "Favorite Fidget Toys Pt.1", length = "4:02" }, { id = "1761618315", name = "Favorite Fidget Toys Pt.2", length = "4:00" }, { id = "1761618316", name = "Favorite Fidget Toys Pt.3", length = "4:00" }, { id = "1761618442", name = "Favorite Fidget Toys Pt.4", length = "4:20" }] },
+]
 spotify_release = { id = "4vTXsrDpAFAt0DzEtVJ0Ep", name = "Favorite Fidget Toys", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5BPNcRgqYxjE7uULbHrFSZ", name = "Favorite Fidget Toys Pt.1", length = "4:02" },

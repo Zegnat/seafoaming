@@ -9,6 +9,9 @@ length = "16:56"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASogABIAPsVGn0uno6Kht/qoAPAYiUAYUAPJ0ai+ds5LGatgNUUAAP0Rxld1Fr6KXJgtQWChybOZ0FOmV0iffYHGpuhNlqC4KJ1RyeCf8AA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/caring-friend-positive-affirmations-hand-movements/1761614553", year = "2022", id = "1761614553", name = "Caring Friend Positive Affirmations, Hand Movements and Personal Attention", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761614780", name = "Caring Friend Positive Affirmations, Hand Movements and Personal Attention Pt.1", length = "4:15" }, { id = "1761614782", name = "Caring Friend Positive Affirmations, Hand Movements and Personal Attention Pt.2", length = "4:15" }, { id = "1761614790", name = "Caring Friend Positive Affirmations, Hand Movements and Personal Attention Pt.3", length = "4:12" }, { id = "1761614793", name = "Caring Friend Positive Affirmations, Hand Movements and Personal Attention Pt.4", length = "4:14" }] },
+]
 views = 100089
 likes = 2088
 comments = 365

@@ -9,6 +9,9 @@ length = "17:44"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFaqU2oJSQiKAqpABoJQBOmargpKHgFDTdXnZmphkktgGAA+Rj6j4n08MAd9LzmpBerC/QEGTitfd6fF3Vc/MFMBqGdTqORpw2cHBwhA2ihBXUzj5Cy1pznJOcBbtJ6AAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sleepy-vibes-ep/1767048223", year = "2022", id = "1767048223", name = "SLEEPY VIBES", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767048226", name = "SLEEPY VIBES Pt.1", length = "4:32" }, { id = "1767048227", name = "SLEEPY VIBES Pt.2", length = "4:30" }, { id = "1767048589", name = "SLEEPY VIBES Pt.3", length = "4:26" }, { id = "1767048596", name = "SLEEPY VIBES Pt.4", length = "4:16" }] },
+]
 views = 178529
 likes = 3959
 comments = 327

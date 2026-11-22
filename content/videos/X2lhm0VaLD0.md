@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPtFapU0oJSOiMBgIAQAaCUAVw4X9xIFYll3i9H/YDIfVcStgAP7r/q/vThT8NfOlDcow73cJ/c1sCxstzmJLbsWDWOTf2uqlWUGCRr3k5ii7MsKv0WDhGSPNFQAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/backstreet-tingle-dealer-ep/1740471130", year = "2022", id = "1740471130", name = "Backstreet Tingle Dealer", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1740471322", name = "BACKSTREET TINGLE DEALER Pt.1", length = "4:58" }, { id = "1740471324", name = "BACKSTREET TINGLE DEALER Pt.2", length = "4:52" }, { id = "1740471331", name = "BACKSTREET TINGLE DEALER Pt.3", length = "4:52" }, { id = "1740471387", name = "BACKSTREET TINGLE DEALER Pt.4", length = "4:49" }] },
+]
 views = 1013752
 likes = 18243
 comments = 4400

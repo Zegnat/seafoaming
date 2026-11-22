@@ -9,6 +9,9 @@ length = "10:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPslQnkunpKKhsAwA8BkJZQC06CHWoOPUHwpmsiKeuumQKAD+k/qzqHIqzWhAbIhIsUFA59SXAYC3wKusnyHycCwCKub99FrIviFk4CAJmAO+D6AA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-attention-single/1745660866", year = "2022", id = "1745660866", name = "Ear Attention", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745661077", name = "EAR ATTENTION Pt.1", length = "5:29" }, { id = "1745661108", name = "EAR ATTENTION Pt.2", length = "5:29" }] },
+]
 views = 79437
 likes = 1522
 comments = 305

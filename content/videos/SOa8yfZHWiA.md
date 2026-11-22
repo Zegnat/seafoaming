@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFcp04oJSOiKAqpABoJYwC7AA3OwhYHTuUYG4V5xvuQIzoAAN+iwNoBy+0PzsrlOyNHJjFhUOU/kc7v1KI1tvrcDok2pYj1Buvrc6QSn383GS6udBka30fZlOxvTAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/reading-a-story-book-on-grief-and-loss-ep/1761619430", year = "2022", id = "1761619430", name = "Reading a Story Book on Grief and Loss", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761619431", name = "Reading a Story Book on Grief and Loss Pt.1", length = "4:40" }, { id = "1761619438", name = "Reading a Story Book on Grief and Loss Pt.2", length = "4:39" }, { id = "1761619447", name = "Reading a Story Book on Grief and Loss Pt.3", length = "4:42" }, { id = "1761619451", name = "Reading a Story Book on Grief and Loss Pt.4", length = "4:43" }, { id = "1761619457", name = "Reading a Story Book on Grief and Loss Pt.5", length = "4:17" }] },
+]
 views = 25338
 likes = 929
 comments = 257

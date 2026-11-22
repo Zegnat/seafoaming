@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFOn0unpCKht/qoAPAYCWcAthQh2YNsk+s6g8BPF02hisAA+xxkhxNFpwodrdcIc6AAFEEYQ4MWn9njK+vPCi2RAuTfg3VCbEmGik2osXfCE7t3AAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/hero-school-invisible-girl-does-your-makeup/1761640358", year = "2022", id = "1761640358", name = "HERO SCHOOL, Invisible Girl Does Your Makeup", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761640360", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.1", length = "4:46" }, { id = "1761640366", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.2", length = "4:43" }, { id = "1761640368", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.3", length = "4:42" }, { id = "1761640759", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.5", length = "4:37" }, { id = "1761640764", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.4", length = "4:42" }, { id = "1761640766", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.6", length = "4:44" }, { id = "1761640787", name = "HERO SCHOOL, Invisible Girl Does Your Makeup Pt.7", length = "4:36" }] },
+]
 views = 442372
 likes = 10311
 comments = 2000

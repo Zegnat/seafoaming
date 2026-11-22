@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASogABIAPsVSo0unpSelMAwA8BiJQBUeg8RGnj5PyrY79tw0AAD+7qEnNxYiDBjTRfxNU19IzHpjmuY2JeYMM2IOvd/hl+D7+fGJYVg1qz/iIAAA"
 spotify = "https://open.spotify.com/album/2HCRnZRH964eYwQhiqiz5u"
+apple_music = [
+  { url = "https://music.apple.com/us/album/canadian-gril-teaches-you-aboot-canada-ep/1761643831", year = "2022", id = "1761643831", name = "Canadian Gril Teaches You Aboot Canada", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761643848", name = "Canadian Gril Teaches You Aboot Canada Pt.1", length = "4:31" }, { id = "1761644023", name = "Canadian Gril Teaches You Aboot Canada Pt.2", length = "4:29" }, { id = "1761644153", name = "Canadian Gril Teaches You Aboot Canada Pt.4", length = "4:29" }, { id = "1761644171", name = "Canadian Gril Teaches You Aboot Canada Pt.3", length = "4:36" }, { id = "1761644302", name = "Canadian Gril Teaches You Aboot Canada Pt.5", length = "4:29" }] },
+]
 spotify_release = { id = "2HCRnZRH964eYwQhiqiz5u", name = "Canadian Gril Teaches You Aboot Canada", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4dIUYrFQt6EXA4axolx6Q9", name = "Canadian Gril Teaches You Aboot Canada Pt.1", length = "4:31" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASogABIAPslSoUunrKMht/VYAZAZCWUAAC0rRpB1iRSLsRs7nKSx8AD+5MM5DbuX0Rts6n7xoo8DzCP1aSwMsORE349U9FrPFNirLyiHeDhfV9rSlGYgafIAlHVwAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/insecure-girlfriend-ep/1761335612", year = "2022", id = "1761335612", name = "INSECURE GIRLFRIEND", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761335618", name = "INSECURE GIRLFRIEND Pt.1", length = "4:41" }, { id = "1761335619", name = "INSECURE GIRLFRIEND Pt.2", length = "4:31" }, { id = "1761335621", name = "INSECURE GIRLFRIEND Pt.3", length = "4:23" }, { id = "1761335625", name = "INSECURE GIRLFRIEND Pt.4", length = "4:20" }, { id = "1761335839", name = "INSECURE GIRLFRIEND Pt.5", length = "4:41" }] },
+]
 views = 635328
 likes = 12491
 comments = 3000

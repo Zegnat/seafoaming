@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASogABIAPsFOn0unpCKht/qoAPAYCWUAnTNVwZBKA+MUeJBKYElwVwAA/uovm8SVURRhCEyP2lA/BW7WO1fqdlWA/mx+/sU7zGTVcBvdwQMlz15N81CAAA=="
 spotify = "https://open.spotify.com/album/3axvs9KuMP7tNf8aub1EBR"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fairy-heals-your-pain-ep/1745657426", year = "2022", id = "1745657426", name = "Fairy Heals Your Pain", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745657431", name = "Fairy Heals Your Pain Pt.1", length = "4:44" }, { id = "1745657434", name = "Fairy Heals Your Pain Pt.2", length = "4:40" }, { id = "1745657438", name = "Fairy Heals Your Pain Pt.3", length = "4:44" }, { id = "1745657443", name = "Fairy Heals Your Pain Pt.4", length = "4:53" }] },
+]
 spotify_release = { id = "3axvs9KuMP7tNf8aub1EBR", name = "Fairy Heals Your Pain", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1qZn2exJyR3rNi4ExIyreL", name = "Fairy Heals Your Pain Pt.1", length = "4:44" },

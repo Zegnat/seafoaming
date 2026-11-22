@@ -9,6 +9,9 @@ length = "16:34"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPslWn0unpSahsAwA8BkJQBdgA2yNAVDA5yJddb5DDPgvTLIAAP7l6fQzFLRgmsFDGRjRwD/PPufnlN/wk87cFbFoBVIkgUXiJJ1wpKAgjqPqFtUs+77oMAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/making-you-sleep-ep/1761251728", year = "2022", id = "1761251728", name = "MAKING YOU SLEEP", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761251736", name = "MAKING YOU SLEEP Pt.1", length = "4:06" }, { id = "1761251738", name = "MAKING YOU SLEEP Pt.2", length = "4:06" }, { id = "1761251741", name = "MAKING YOU SLEEP Pt.3", length = "4:09" }, { id = "1761251744", name = "MAKING YOU SLEEP Pt.4", length = "4:12" }] },
+]
 views = 476230
 likes = 7544
 comments = 732

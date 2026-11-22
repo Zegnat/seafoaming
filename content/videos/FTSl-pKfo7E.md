@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASogABIAPsVOokunpCMhsAwA8BiJYwC1IUAApQOyw0oeuDfWc7gA/oE0ZSTih318/OMw3Q0SzdhcERQogfuFWCWeVwRWPRJtn/+haAukpK/qdciXnQ6hRpGpYmgAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-a-pokemon-patching-you-up-after-battle/1761617250", year = "2022", id = "1761617250", name = "You are a Pokemon! Patching You Up After Battle Creepypasta", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761617268", name = "You are a Pokemon! Patching You Up After Battle Creepypasta Pt.1", length = "5:30" }, { id = "1761617510", name = "You are a Pokemon! Patching You Up After Battle Creepypasta Pt.2", length = "5:27" }] },
+]
 views = 80402
 likes = 2329
 comments = 600

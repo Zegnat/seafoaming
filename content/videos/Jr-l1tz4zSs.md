@@ -9,6 +9,9 @@ length = "12:25"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBQCdASogABIAPslQoUunpKMht/VYAPAZCWcAvzgPSIVkWCH5+nwT3WWaf6grUdeSAAD+976R2HGo45ZYVG9yfPPV9k4EDkLGDC2zyn/f04egpPbSlu/e9wcfjKwm7AwAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/oily-ear-massage-single/1761655310", year = "2022", id = "1761655310", name = "OILY EAR MASSAGE", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761655314", name = "OILY EAR MASSAGE Pt.1", length = "4:05" }, { id = "1761655323", name = "OILY EAR MASSAGE Pt.2", length = "4:00" }, { id = "1761655329", name = "OILY EAR MASSAGE Pt.3", length = "4:20" }] },
+]
 views = 121770
 likes = 2423
 comments = 288

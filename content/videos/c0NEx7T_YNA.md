@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQBACdASogABIAPsFKn0unpCKht/qoAPAYCUAX5wLpTWS354jCA1fEJoMpsn+1wAD8xef4ggfJFualNjuViqTOlfb5N1IK0s2XXiTFXBGFj/+2A+7oqIM1w5ssYme2PUjVHI4TnO6y3PAIBAx35AAA"
 spotify = "https://open.spotify.com/album/3d8wJ0c09WyNAnZwJKmIx8"
+apple_music = [
+  { url = "https://music.apple.com/us/album/deep-and-intense-mouth-sounds-ep/1761627072", year = "2022", id = "1761627072", name = "DEEP and INTENSE Mouth Sounds", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761627077", name = "DEEP and INTENSE Mouth Sounds Pt.1", length = "4:59" }, { id = "1761627078", name = "DEEP and INTENSE Mouth Sounds Pt.2", length = "5:00" }, { id = "1761627353", name = "DEEP and INTENSE Mouth Sounds Pt.3", length = "4:57" }, { id = "1761627354", name = "DEEP and INTENSE Mouth Sounds Pt.4", length = "4:45" }] },
+]
 spotify_release = { id = "3d8wJ0c09WyNAnZwJKmIx8", name = "DEEP and INTENSE Mouth Sounds", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5ycOtHOxTmD7ZTRPzEwRE2", name = "DEEP and INTENSE Mouth Sounds Pt.1", length = "4:59" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBQCdASogABIAPsVQokunpKMhsAwA8BiJQBOmWhhMTvR1vw/kODF1j+YhAqTeHxP8AP7RkKpSv3I2HMzuniG9Xp62owGBHYrGXJmnRP1t5IzdgV+eunkuKn5QOtAbfNEaAtNV8mxVqJ2AAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/smol-idiot-vampire-cuts-your-hair-and-drinks-your-blud-ep/1761412333", year = "2022", id = "1761412333", name = "Smol Idiot Vampire Cuts Your Hair and Drinks Your BLUD", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761412459", name = "Smol Idiot Vampire Cuts Your Hair and Drinks Your BLUD Pt.1", length = "5:14" }, { id = "1761412466", name = "Smol Idiot Vampire Cuts Your Hair and Drinks Your BLUD Pt.2", length = "5:10" }, { id = "1761412470", name = "Smol Idiot Vampire Cuts Your Hair and Drinks Your BLUD Pt.3", length = "5:15" }, { id = "1761412474", name = "Smol Idiot Vampire Cuts Your Hair and Drinks Your BLUD Pt.4", length = "5:07" }] },
+]
 views = 525432
 likes = 6711
 comments = 1300

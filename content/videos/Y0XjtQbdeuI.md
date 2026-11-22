@@ -9,6 +9,9 @@ length = "25:12"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASogABIAPsVQoUunpKMhsAwA8BiJQBadAm4dEx5qcYPdNrAAu5EW5AVURUly+7NYcHY7IoF5P7mhGx96USaN9Kq04TqD/Is7uxdeGAXndefzDbcQglX0AAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/animu-gril-taps-on-junk-and-talks-2-much-about-fish-stuff-ep/1761626832", year = "2022", id = "1761626832", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761626834", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff Pt.2", length = "5:09" }, { id = "1761626838", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff Pt.1", length = "5:09" }, { id = "1761627035", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff Pt.3", length = "5:10" }, { id = "1761627041", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff Pt.4", length = "5:03" }, { id = "1761627042", name = "Animu Gril Taps on Junk and Talks 2 mUch About Fish Stuff Pt.5", length = "4:42" }] },
+]
 views = 57057
 likes = 1489
 comments = 463

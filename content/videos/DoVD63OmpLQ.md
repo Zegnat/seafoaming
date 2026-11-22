@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPsVQo0unpKOhsAwA8BiJQBbZA828xy7JFZs/4vqo7ECYktPOYAD+nuu2bvfgg8I6q0VmqE9df7fLZmjNN6LmkV8Okl7fDyVXfhL/OXphzRp6V/M+QCjM9bQA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/slightly-satisfactory-spells-with-serena-the/1761655240", year = "2022", id = "1761655240", name = "Slightly Satisfactory Spells with Serena the Sorceress", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761655243", name = "Slightly Satisfactory Spells with Serena the Sorceress Pt.1", length = "5:36" }, { id = "1761655245", name = "Slightly Satisfactory Spells with Serena the Sorceress Pt.2", length = "5:50" }] },
+]
 views = 48693
 likes = 1542
 comments = 239

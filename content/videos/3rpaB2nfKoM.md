@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPs1OpkunpCOhsBgMAPAZiWMArhwQkzUfL9MCIHcIZUFcD2AA/sOSYhBdfL+Csv2RAzNyy/xn3+rGv0MRfCckGl7WnJRtIQ1ZfiLimgOts5wAPgn+AAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/booping-yo-face-and-may-patron-appreciation-single/1761620547", year = "2022", id = "1761620547", name = "Booping Yo Face and May Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761620556", name = "Booping Yo Face and May Patron Appreciation Pt.1", length = "4:22" }, { id = "1761620560", name = "Booping Yo Face and May Patron Appreciation Pt.3", length = "3:54" }, { id = "1761620877", name = "Booping Yo Face and May Patron Appreciation Pt.2", length = "4:23" }] },
+]
 views = 43993
 likes = 1240
 comments = 267

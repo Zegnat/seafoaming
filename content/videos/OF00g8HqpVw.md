@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPr1OnkunJKKht/qoAOAXiUATpnAQXeSDz6A9eEZn5sYAAP7vYbfCmVpS8rCqENuAW8rP6WnUsT90Kte3ytbqOCYvEaXTVvYGgzmD8vJ4D/Vc8HH2QbI4VVrWMyA5BW0AAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/miss-marshys-mind-blowing-mixtures-and-magic-ep/1761618735", year = "2022", id = "1761618735", name = "Miss Marshy's Mind-Blowing Mixtures and Magic", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761618738", name = "Miss Marshy's Mind-Blowing Mixtures and Magic Pt.1", length = "4:29" }, { id = "1761619312", name = "Miss Marshy's Mind-Blowing Mixtures and Magic Pt.2", length = "4:32" }, { id = "1761619315", name = "Miss Marshy's Mind-Blowing Mixtures and Magic Pt.3", length = "4:33" }, { id = "1761619317", name = "Miss Marshy's Mind-Blowing Mixtures and Magic Pt.4", length = "4:56" }] },
+]
 views = 243866
 likes = 4403
 comments = 910

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBQCdASogABIAPtFcpk4oJSOiKAqpABoJQBOmbOfI4fYftF9sBl+qJEJTWdsPLveKQAAA/Nq7gwzGTZN2pSjYVg/hrCVZ/FC7ytZ3gmkfZIXIdniWCEAkuBPp/vgMTWG9x/tMWMoNEeSgAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/stacy-and-becky-twin-attention-and-tingles-ep/1761653322", year = "2022", id = "1761653322", name = "STACY and BECKY, Twin Attention and Tingles", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761653328", name = "STACY and BECKY, Twin Attention and Tingles Pt.1", length = "4:29" }, { id = "1761653638", name = "STACY and BECKY, Twin Attention and Tingles Pt.2", length = "4:32" }, { id = "1761653639", name = "STACY and BECKY, Twin Attention and Tingles Pt.3", length = "4:31" }, { id = "1761653645", name = "STACY and BECKY, Twin Attention and Tingles Pt.4", length = "4:23" }] },
+]
 views = 269922
 likes = 5723
 comments = 1000

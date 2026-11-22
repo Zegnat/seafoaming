@@ -9,6 +9,9 @@ length = "19:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPslSnkunpKKhsAwA8BkJQBdgAsfU/oolIibq7DiOLeOoeXS4AP7xhBZRFg6+kyqb8z3NpTnFACLcwwafNGj25vAvzhdfK+8zfYuDZjgKTH0y3FN/ppeSxriBMYIAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/yokai-sisters-find-you-in-the-forest-ep/1761635041", year = "2022", id = "1761635041", name = "Yokai Sisters Find You in the Forest", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761635048", name = "Yokai Sisters Find You in the Forest Pt.1", length = "4:43" }, { id = "1761635054", name = "Yokai Sisters Find You in the Forest Pt.2", length = "4:46" }, { id = "1761635058", name = "Yokai Sisters Find You in the Forest Pt.3", length = "4:43" }, { id = "1761635284", name = "Yokai Sisters Find You in the Forest Pt.4", length = "5:01" }] },
+]
 views = 102058
 likes = 2473
 comments = 362

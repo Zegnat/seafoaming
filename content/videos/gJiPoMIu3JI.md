@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQBACdASogABIAPtFcqU4oJSQpKAqpIBoJQBfJAWPb2jAupAVkWa0pywdvgTp5kADwrcTtjiSFBjcX+hHXEmDcHWmF7WDW+RDtaCh2YZiNZSjZRqPNCHygAAA="
 spotify = "https://open.spotify.com/album/77felACwy47tikrJvbYa8F"
 spotify_podcast = "https://open.spotify.com/episode/32TPRQHTJaQcfVQcAG7Mr0"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-sort-through-years-of-props-with-me/6793014720", year = "2026", id = "6793014720", name = "ASMR Sort Through YEARS of Props with Me! Studio Decluttering & Organizing", type = "Album", date = "2026-07-31", cover = true, tracks = [{ id = "6793014721", name = "Golden Props & Makeup Tools", length = "18:36" }, { id = "6793014725", name = "Face Roller & Markers Bin", length = "8:40" }, { id = "6793014733", name = "Larping Glasses & Toddler Scissors", length = "16:29" }, { id = "6793014744", name = "Steampunk Goggles & Mic Covers", length = "4:39" }, { id = "6793014747", name = "Beaded Massager & Headbands", length = "15:10" }, { id = "6793014750", name = "Earbuds, Gloves & Drinkware", length = "9:05" }, { id = "6793014755", name = "Wooden Blocks & Misc Props", length = "9:27" }, { id = "6793014756", name = "Destroying the Old Baskets", length = "4:08" }] },
+]
 spotify_release = { id = "77felACwy47tikrJvbYa8F", name = "ASMR Sort Through YEARS of Props with Me! Studio Decluttering & Organizing", type = "Album", date = "2026-07-31", cover = true }
 spotify_tracks = [
   { id = "1hIc90XYW1yFB5QSbz8iXN", name = "Golden Props & Makeup Tools", length = "18:36" },

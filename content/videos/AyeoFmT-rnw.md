@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFWpEuoJKOhsAgBABoJYwCuHBi5Ik1JndTFWCVxBTKnBQvAAP71zjiXahp+wQvGiGgaHWCr8zZ2cDmxMJr86EIhTF/olo5kf04APuFc08lNo3CgAAA="
 spotify = "https://open.spotify.com/album/6qyaYuDq8Y6E3vp8qu4ZKt"
+apple_music = [
+  { url = "https://music.apple.com/us/album/nope/1761651923", year = "2022", id = "1761651923", name = "nope", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761651927", name = "nope Pt.1", length = "5:58" }, { id = "1761651931", name = "nope Pt.2", length = "6:02" }, { id = "1761651938", name = "nope Pt.3", length = "6:17" }, { id = "1761651940", name = "nope Pt.4", length = "6:00" }, { id = "1761651944", name = "nope Pt.5", length = "6:02" }, { id = "1761651947", name = "nope Pt.6", length = "6:02" }, { id = "1761652200", name = "nope Pt.7", length = "6:06" }, { id = "1761652202", name = "nope Pt.8", length = "6:01" }, { id = "1761652206", name = "nope Pt.9", length = "5:59" }, { id = "1761652208", name = "nope Pt.10", length = "6:03" }, { id = "1761652519", name = "nope Pt.11", length = "5:58" }, { id = "1761652523", name = "nope Pt.12", length = "6:01" }, { id = "1761652704", name = "nope Pt.13", length = "5:59" }, { id = "1761652710", name = "nope Pt.15", length = "6:02" }, { id = "1761652712", name = "nope Pt.14", length = "6:02" }, { id = "1761652939", name = "nope Pt.16", length = "6:02" }, { id = "1761652947", name = "nope Pt.17", length = "6:04" }, { id = "1761652949", name = "nope Pt.19", length = "6:15" }, { id = "1761652962", name = "nope Pt.20", length = "6:48" }, { id = "1761652967", name = "nope Pt.18", length = "6:08" }] },
+]
 spotify_release = { id = "6qyaYuDq8Y6E3vp8qu4ZKt", name = "nope", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7zn6X3kdP16MXX527kHd3H", name = "nope Pt.1", length = "5:58" },

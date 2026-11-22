@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPsFSo0unpSOhsAwA8BgJYwC7ABuCMIV5bvBEZSsIJj6p0AD+9e65VOKcqjsSUitpc/d9dZCakGEz+Z50yWQGhkq22fUtuOkHfGQpfTwzgFamYvqA87mjHZdIc2gAAA=="
 spotify = "https://open.spotify.com/album/0jtVX7ze3yejpv10q129m6"
+apple_music = [
+  { url = "https://music.apple.com/us/album/unboxing-kawaii-squishies-ep/1745657020", year = "2022", id = "1745657020", name = "Unboxing Kawaii Squishies", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745657025", name = "Unboxing Kawaii Squishies Pt.1", length = "4:51" }, { id = "1745657268", name = "Unboxing Kawaii Squishies Pt.2", length = "4:51" }, { id = "1745657280", name = "Unboxing Kawaii Squishies Pt.3", length = "4:53" }, { id = "1745657287", name = "Unboxing Kawaii Squishies Pt.4", length = "4:57" }, { id = "1745657295", name = "Unboxing Kawaii Squishies Pt.5", length = "4:44" }, { id = "1745657388", name = "Unboxing Kawaii Squishies Pt.6", length = "4:51" }] },
+]
 spotify_release = { id = "0jtVX7ze3yejpv10q129m6", name = "Unboxing Kawaii Squishies", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0S2WkCKXJs0XA4fSRkMCHY", name = "Unboxing Kawaii Squishies Pt.1", length = "4:51" },

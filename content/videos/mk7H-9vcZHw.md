@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPr1SnkunJSKht/qoAOAXiWIAnTM9xvgpAiBCxNUC35F48BwMqADKe0PSbqhsPaheir28YQawI0PwrVaPmacksZQ72JeNU0jSLoYG93Dlao6qC81fRAAAAA=="
 spotify = "https://open.spotify.com/album/4Ad2qkvHtoecFJMXUNAp3Z"
+apple_music = [
+  { url = "https://music.apple.com/us/album/meet-your-kindergarten-teacher-miss-pickles/1761645190", year = "2022", id = "1761645190", name = "Meet Your Kindergarten Teacher, Miss Pickles", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761645192", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.1", length = "5:06" }, { id = "1761645575", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.2", length = "5:09" }, { id = "1761645581", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.3", length = "5:04" }, { id = "1761645585", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.4", length = "5:00" }, { id = "1761645587", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.5", length = "4:59" }, { id = "1761645682", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.6", length = "5:07" }, { id = "1761645692", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.7", length = "5:08" }, { id = "1761645697", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.8", length = "5:13" }, { id = "1761645701", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.9", length = "5:39" }] },
+]
 spotify_release = { id = "4Ad2qkvHtoecFJMXUNAp3Z", name = "Meet Your Kindergarten Teacher, Miss Pickles", type = "Album", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "7CJo5Y35C6BoaKnCvhA3zU", name = "Meet Your Kindergarten Teacher, Miss Pickles Pt.1", length = "5:06" },

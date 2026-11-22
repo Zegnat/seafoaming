@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwBACdASogABIAPtFWpU0oJCOiMBgIAQAaCUAXZmznlQQWoxzZ92BEYqw0tqQAAP724GCHAHeX/xv8OsROTstQJ0nqBB/A/9K5L/TmC9Bb7lRF0XIahGJmURM7R3j/AoXPEcjivzrM0fCXDEusEuAnpfAWmMAAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/long-nail-tapping-and-september-patron-appreciation-ep/1761631872", year = "2022", id = "1761631872", name = "LONG NAIL TAPPING and September Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761632133", name = "LONG NAIL TAPPING and September Patron Appreciation Pt.1", length = "4:23" }, { id = "1761632135", name = "LONG NAIL TAPPING and September Patron Appreciation Pt.2", length = "4:18" }, { id = "1761632140", name = "LONG NAIL TAPPING and September Patron Appreciation Pt.3", length = "4:23" }, { id = "1761632333", name = "LONG NAIL TAPPING and September Patron Appreciation Pt.4", length = "4:26" }, { id = "1761632335", name = "LONG NAIL TAPPING and September Patron Appreciation Pt.5", length = "5:01" }] },
+]
 views = 36850
 likes = 1047
 comments = 285

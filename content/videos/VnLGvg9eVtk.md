@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPtFUpk2oJCOpMBgIASAaCWMAwoA0IDO8zGhEw+IwVwwfZsAA4XUQQeqtguuokvRkkm2piKcSwNX01DmWqLEZ8qgJuB5w2P0BO8rPH2b2s51H6Deb/7K3hQoAAAA="
 spotify = "https://open.spotify.com/album/0pSQhchyPvtDqozhOWjT13"
+apple_music = [
+  { url = "https://music.apple.com/us/album/playing-with-5-different-crunchy-slimes/1745655091", year = "2022", id = "1745655091", name = "Playing with 5 Different Crunchy Slimes", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1745655092", name = "Playing with 5 Different Crunchy Slimes Pt.1", length = "5:00" }, { id = "1745655095", name = "Playing with 5 Different Crunchy Slimes Pt.2", length = "5:07" }, { id = "1745655096", name = "Playing with 5 Different Crunchy Slimes Pt.3", length = "4:52" }, { id = "1745655101", name = "Playing with 5 Different Crunchy Slimes Pt.4", length = "5:00" }, { id = "1745655104", name = "Playing with 5 Different Crunchy Slimes Pt.5", length = "5:00" }, { id = "1745655440", name = "Playing with 5 Different Crunchy Slimes Pt.6", length = "5:00" }, { id = "1745655442", name = "Playing with 5 Different Crunchy Slimes Pt.9", length = "4:52" }, { id = "1745655446", name = "Playing with 5 Different Crunchy Slimes Pt.7", length = "4:54" }, { id = "1745655449", name = "Playing with 5 Different Crunchy Slimes Pt.8", length = "5:05" }, { id = "1745655450", name = "Playing with 5 Different Crunchy Slimes Pt.10", length = "5:07" }] },
+]
 spotify_release = { id = "0pSQhchyPvtDqozhOWjT13", name = "Playing with 5 Different Crunchy Slimes", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3Wmrsxr6E8hlmSOcYlcR6G", name = "Playing with 5 Different Crunchy Slimes Pt.1", length = "5:00" },

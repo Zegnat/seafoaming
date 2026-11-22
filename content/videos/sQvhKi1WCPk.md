@@ -11,6 +11,9 @@ status_message = "This video is unavailable"
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACwBQCdASogABIAPtFYpE0oJSOiMBgIAQAaCWIAnTKEhEhjBQ0YS6S8O6XlytkvS7BhB+MHmgAA9ySKZtOWmmH2+tLqGIrVDapvfUj0KxS5nJf5+osGaEIveKRlyYSuqdnpVU+fk0blQP/E9uMFWAhc33cDXcAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-licc-single/1761272587", year = "2022", id = "1761272587", name = "EAR LICC", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761272590", name = "EAR LICC Pt.1", length = "4:25" }, { id = "1761272592", name = "EAR LICC Pt.2", length = "4:44" }] },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

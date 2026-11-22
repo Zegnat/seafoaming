@@ -9,6 +9,9 @@ length = "15:46"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQBACdASogABIAPsVQoUunpKMhsAwA8BiJZAC7LoAAVAvisROeP5RIwUAoje86AAD2fTwlYI7MdjSV3Pct/8Z5eE6c34X0X2w9CQI/qejUogahtNz1beATh2P94SWLGmFIuy6qo5e0fiX4DoP46kU/IAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-firework-kissies-just-for-you-up-close-clicky/1759822427", year = "2024", id = "1759822427", name = "ASMR - Firework Kissies - Just for you! Up Close Clicky Lens Tapping", type = "EP", date = "2024-08-16", cover = true, tracks = [{ id = "1759822766", name = "Soft Spoken Intro", length = "4:25" }, { id = "1759822788", name = "Kisses Just for You", length = "3:39" }, { id = "1759822849", name = "Touching You Softly & Whispering", length = "4:41" }, { id = "1759822852", name = "More Whispers & Outro", length = "3:01" }] },
+]
 views = 49079
 likes = 1482
 comments = 77

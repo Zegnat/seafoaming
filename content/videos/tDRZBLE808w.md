@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPr1SnUunJSKht/qoAOAXiWYAnTLddtA17isqu++B+y0gs8EAAP7lz8D3xJfuhK8reIPv72k8kbWBWTS4B/+mY7y5x49cyX9yzIDrWCNhjSyqejV2K8C9WIdx2FFGfa4gvXqKjETAAAA="
 spotify = "https://open.spotify.com/album/15ZHH4jZAe6gWweSZ1lfS7"
+apple_music = [
+  { url = "https://music.apple.com/us/album/reading-my-old-dream-journal/1761574082", year = "2022", id = "1761574082", name = "Reading My Old Dream Journal", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761574092", name = "Reading My Old Dream Journal Pt.1", length = "6:57" }, { id = "1761574252", name = "Reading My Old Dream Journal Pt.2", length = "6:58" }, { id = "1761574256", name = "Reading My Old Dream Journal Pt.3", length = "7:38" }, { id = "1761574261", name = "Reading My Old Dream Journal Pt.4", length = "6:57" }, { id = "1761574266", name = "Reading My Old Dream Journal Pt.5", length = "5:25" }, { id = "1761574277", name = "Reading My Old Dream Journal Pt.6", length = "6:08" }, { id = "1761574472", name = "Reading My Old Dream Journal Pt.7", length = "7:09" }] },
+]
 spotify_release = { id = "15ZHH4jZAe6gWweSZ1lfS7", name = "Reading My Old Dream Journal", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4JIe33EI1mMMN0dBR43TBJ", name = "Reading My Old Dream Journal Pt.1", length = "6:57" },

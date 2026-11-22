@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQBACdASogABIAPsFMoEunpCMht/qoAPAYCWUAnQAY3A1A7afMv6+4yJWuE6AA/uVzS5miJQdkyDBr2R0kZcmW3ypmx3dhp/YxzqY3NG+4b+3/SrtvdmmnbAA="
 spotify = "https://open.spotify.com/album/12OyjsAQWMfM0oxZtYCEMK"
+apple_music = [
+  { url = "https://music.apple.com/us/album/paper-cups-intense-tapping-and-scratching-ep/1761321883", year = "2022", id = "1761321883", name = "PAPER CUPS Intense Tapping and Scratching", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761321888", name = "PAPER CUPS Intense Tapping and Scratching Pt.1", length = "5:15" }, { id = "1761322043", name = "PAPER CUPS Intense Tapping and Scratching Pt.2", length = "5:16" }, { id = "1761322053", name = "PAPER CUPS Intense Tapping and Scratching Pt.3", length = "5:14" }, { id = "1761322059", name = "PAPER CUPS Intense Tapping and Scratching Pt.4", length = "5:20" }] },
+]
 spotify_release = { id = "12OyjsAQWMfM0oxZtYCEMK", name = "PAPER CUPS Intense Tapping and Scratching", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "60QGdg5jRQLoUPNFWWlP0I", name = "PAPER CUPS Intense Tapping and Scratching Pt.1", length = "5:15" },

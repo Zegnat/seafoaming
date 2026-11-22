@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASogABIAPs1YokunpaMhsBgMAPAZiWIAtRfUgOkR2Py31h8SY2BPPzkH8gAA/rxzG4jPD82P88szmdBOuF92g+MbFhDK17QS2+Ts7q6ryJRaRK0/iHPCZZUwhRXZojJplaHDUAAA"
 spotify = "https://open.spotify.com/album/3kvnXHz4aYKfQcsyl6jB1J"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-ironic-affirmations-brainwash-gaslight-yourself/1728909249", year = "2024", id = "1728909249", name = "ASMR Ironic Affirmations - Brainwash & Gaslight Yourself Into Radical Positivity!", type = "EP", date = "2024-02-02", cover = true, tracks = [{ id = "1728909252", name = "Positivity Infusion", length = "4:45" }, { id = "1728909613", name = "Radical Affirmation Loop", length = "3:19" }, { id = "1728909797", name = "Mindwash Yourself", length = "4:02" }, { id = "1728909815", name = "Brainwashing Harmony", length = "5:37" }, { id = "1728910039", name = "Looped Affirmations", length = "4:57" }, { id = "1728910103", name = "Soft Whispers Right Into Your Ears", length = "4:27" }] },
+]
 spotify_release = { id = "3kvnXHz4aYKfQcsyl6jB1J", name = "ASMR Ironic Affirmations - Brainwash & Gaslight Yourself Into Radical Positivity!", type = "EP", date = "2024-02-02", cover = true }
 spotify_tracks = [
   { id = "2pJp4szj89QZi7LFBUEQZB", name = "Positivity Infusion", length = "4:45" },

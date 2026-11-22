@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPsFIoEunpCMht/qoAPAYCWUAvkgeGZJPTF49mGbJir3qrrwn0AD+7Nd0T6SpTmnQHLeipa0ZL1VArcQiIr44sf1xIxHtBREBJs8+L34tP18zgleB8DgDpDZvQAAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/alien-ear-cleaning-ep/1761657254", year = "2022", id = "1761657254", name = "ALIEN EAR CLEANING", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761657681", name = "ALIEN EAR CLEANING Pt.1", length = "4:59" }, { id = "1761657684", name = "ALIEN EAR CLEANING Pt.2", length = "4:41" }, { id = "1761657686", name = "ALIEN EAR CLEANING Pt.3", length = "4:54" }, { id = "1761657831", name = "ALIEN EAR CLEANING Pt.4", length = "4:50" }, { id = "1761657833", name = "ALIEN EAR CLEANING Pt.5", length = "4:50" }] },
+]
 views = 880984
 likes = 11969
 comments = 1500

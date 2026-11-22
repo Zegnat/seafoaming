@@ -9,6 +9,9 @@ length = "9:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFepk6oJSMiKAqpABoJZQDE2BDRBEE1ojz4UOc8pG4bpoAA/tk1y+/xEBhIS6ZPYUl5jsMPn1rVtlopfOKGWeqhHe41fcePO3rYguFxrgkIsNM9f1fIKu7wufiFizsnAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-something-in-your-eye-what-the-heck-is-that-swab/1748458882", year = "2024", id = "1748458882", name = "ASMR - Something In Your Eye! What the Heck Is That? Swab, Spoolie, Pluck, Snip, Face Touching", type = "Single", date = "2024-06-14", cover = true, tracks = [{ id = "1748458883", name = "Face Tapping, Cotton Swabbing You", length = "2:18" }, { id = "1748458884", name = "Spoolie Brush Angers the Mysterious Entity", length = "3:57" }, { id = "1748458887", name = "Pluck and Snipping Them Out", length = "3:18" }] },
+]
 views = 37892
 likes = 1567
 comments = 82

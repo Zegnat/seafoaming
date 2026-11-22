@@ -9,6 +9,9 @@ length = "15:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASogABIAPtFcp04oJSOiKAqpABoJQBOgAaZmeIffj6kbDfu0D8qcgAD+5sj+Jya5bFQshUYu7477IhFia2BOuqvLqftjoJuovdnnd0PCpl1uLJrJJPkjYo0Ukn2ZACCqvrnMMlZqSBpcpIQ4IkAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/lovely-twin-kisses-ep/1745645276", year = "2022", id = "1745645276", name = "Lovely Twin Kisses", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745645278", name = "LOVELY TWIN KISSES Pt.1", length = "3:59" }, { id = "1745645280", name = "LOVELY TWIN KISSES Pt.2", length = "3:58" }, { id = "1745645283", name = "LOVELY TWIN KISSES Pt.3", length = "3:58" }, { id = "1745645285", name = "LOVELY TWIN KISSES Pt.4", length = "3:54" }] },
+]
 views = 253197
 likes = 3522
 comments = 667

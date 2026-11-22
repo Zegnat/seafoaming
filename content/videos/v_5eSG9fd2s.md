@@ -9,6 +9,9 @@ length = "16:30"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAgxkESGo5XMdgRMVGecWa4dP/gADgy61M9dCSnyFTCi0Gdam+d2RLqoUiZcn0jhFLzTbkEG2Mb2+uWw9vcNxHvSwR4PutQAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fluffy-time-ep/1761300496", year = "2022", id = "1761300496", name = "FLUFFY TIME", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761300687", name = "FLUFFY TIME Pt.2", length = "4:05" }, { id = "1761300690", name = "FLUFFY TIME Pt.1", length = "4:06" }, { id = "1761300696", name = "FLUFFY TIME Pt.3", length = "3:56" }, { id = "1761300697", name = "FLUFFY TIME Pt.4", length = "4:24" }] },
+]
 views = 328012
 likes = 4273
 comments = 337

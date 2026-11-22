@@ -9,6 +9,9 @@ length = "16:55"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPsVSo0unpSshsAwBYBiJZQCxH1XDP3yazWjtl9iD2vPAAP7HzHuWwlLmXDwSRbo0b2pQYP+dNp7IZzyU7eF44CL7ViW+LW3lnPAAucs5vJutCJAxk18AAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/putting-you-to-sleep-with-a-crystal-pendulum-ep/1761626295", year = "2022", id = "1761626295", name = "Putting You to Sleep with a Crystal Pendulum", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761626370", name = "Putting You to Sleep with a Crystal Pendulum Pt.1", length = "4:21" }, { id = "1761626467", name = "Putting You to Sleep with a Crystal Pendulum Pt.2", length = "4:15" }, { id = "1761626545", name = "Putting You to Sleep with a Crystal Pendulum Pt.3", length = "4:22" }, { id = "1761626549", name = "Putting You to Sleep with a Crystal Pendulum Pt.4", length = "3:57" }] },
+]
 views = 170164
 likes = 2729
 comments = 544

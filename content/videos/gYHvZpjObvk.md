@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBQCdASogABIAPsFGn0uno6Kht/qoAPAYCWYAnTNPZyQ1yJm8TGkxqOEQ79AEl08oIAD82rrQBAKLVO7daDPdPlfVsNCZXOFa37ZGTD0VmWSdGdAd1ZCl91/Ju7XZLugbSsBZskY9YSKuUDIQVF8EUZAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/color-your-face-ep/1761618970", year = "2022", id = "1761618970", name = "COLOR YOUR FACE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761618972", name = "COLOR YOUR FACE Pt.1", length = "5:05" }, { id = "1761618975", name = "COLOR YOUR FACE Pt.2", length = "5:08" }, { id = "1761619233", name = "COLOR YOUR FACE Pt.3", length = "4:59" }, { id = "1761619244", name = "COLOR YOUR FACE Pt.4", length = "5:03" }] },
+]
 views = 206891
 likes = 3558
 comments = 992

@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAwCdASogABIAPtFcpE0oJSOiKA1RABoJZQCw7A3SjjYUX0yTbswAAP44mUdWqLSQowNjnQyDAhn1qnvNXvUwg/O6dtAShk1IyCQNd9bdYBaomNtMaBgQDnlmHTrb22ExPmPbCIAAAA=="
 spotify = "https://open.spotify.com/album/6fkwaBg5umMlHiea8koKER"
+apple_music = [
+  { url = "https://music.apple.com/us/album/oiled-ear-massage/1761649137", year = "2022", id = "1761649137", name = "Oiled Ear Massage", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761649155", name = "Oiled Ear Massage Pt.1", length = "5:09" }, { id = "1761649158", name = "Oiled Ear Massage Pt.3", length = "5:10" }, { id = "1761649312", name = "Oiled Ear Massage Pt.2", length = "5:10" }, { id = "1761649321", name = "Oiled Ear Massage Pt.4", length = "5:10" }, { id = "1761649327", name = "Oiled Ear Massage Pt.5", length = "5:09" }, { id = "1761649333", name = "Oiled Ear Massage Pt.6", length = "5:11" }, { id = "1761649670", name = "Oiled Ear Massage Pt.7", length = "5:10" }, { id = "1761649673", name = "Oiled Ear Massage Pt.8", length = "5:09" }, { id = "1761649678", name = "Oiled Ear Massage Pt.9", length = "5:11" }, { id = "1761649681", name = "Oiled Ear Massage Pt.10", length = "5:08" }, { id = "1761649690", name = "Oiled Ear Massage Pt.11", length = "5:12" }, { id = "1761649901", name = "Oiled Ear Massage Pt.12", length = "5:10" }, { id = "1761649989", name = "Oiled Ear Massage Pt.13", length = "5:33" }] },
+]
 spotify_release = { id = "6fkwaBg5umMlHiea8koKER", name = "Oiled Ear Massage", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0f00W1uzBOEPqmVrJnY7Gs", name = "Oiled Ear Massage Pt.1", length = "5:09" },

@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASogABIAPsFMn0unpCMht/qoAPAYCWUAt+fAgJjtd92zWQ/1B6nhxcQgAPrSuqzMW7nCekIhCzK4FlELQHYbBSG894FLvlI6c+SxtBAUoS3XqlJgAAA="
 spotify = "https://open.spotify.com/album/0VsDDPl7NuXryFDq62B087"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fizzy-gulp-drinking-bepis-single/1761628880", year = "2022", id = "1761628880", name = "FIZZY GULP Drinking BEPIS", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761628898", name = "FIZZY GULP Drinking BEPIS Pt.1", length = "4:06" }, { id = "1761628901", name = "FIZZY GULP Drinking BEPIS Pt.2", length = "4:01" }, { id = "1761628904", name = "FIZZY GULP Drinking BEPIS Pt.3", length = "4:36" }] },
+]
 spotify_release = { id = "0VsDDPl7NuXryFDq62B087", name = "FIZZY GULP Drinking BEPIS", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4LrvDaPZCN8OklGxt2lhPP", name = "FIZZY GULP Drinking BEPIS Pt.1", length = "4:06" },

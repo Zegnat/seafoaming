@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwC1G5NEIA3G8BRghHTpCUfag3+xtDQAAP7BPkuaUlf26ZGTLQR1G+D3axX8rJMXDvuvm/Kn03XUc3cYoL4ubXD0A5iWlMAAAA=="
 spotify_podcast = "https://open.spotify.com/episode/7amrvjmBdlZ56wxX4qVCpM"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-magical-fairy-heals-protects-you-be-my-human-companion/1843889283", year = "2025", id = "1843889283", name = "ASMR Magical Fairy Heals & Protects You - \"Be My Human Companion\"", type = "Single", date = "2025-10-24", cover = true, tracks = [{ id = "1843889407", name = "Finding You Lost In The Enchanted Forest", length = "4:16" }, { id = "1843889413", name = "Bubble Artifact Protection Spell With Soft Whispers", length = "6:09" }, { id = "1843889417", name = "Bottled Power Spell With Tapping & Energy Pulling", length = "5:08" }] },
+]
 spotify_episode = { id = "7amrvjmBdlZ56wxX4qVCpM", name = "FAIRY ASMR🧚🏻‍♀️Be My Human Companion! ✨Healing + Protecting You (gentle personal attention + magic)", date = "2025-09-27", length = "15:33", cover = true }
 views = 63598
 likes = 2225

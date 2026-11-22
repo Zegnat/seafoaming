@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFapEuoJaOhsAgBABoJQBYdhCpRlLALtMYly9PF5C4iqDAA/vMb83RJuhEF1wFkCTBS5d/3MB5oi4Edhv/JV5cpYnyzNLqC4cRnoaxnYQf6OQF23GvZAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-my-camera-ep/1761654952", year = "2022", id = "1761654952", name = "YOU ARE MY CAMERA", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761654955", name = "YOU ARE MY CAMERA Pt.1", length = "4:09" }, { id = "1761654958", name = "YOU ARE MY CAMERA Pt.2", length = "4:00" }, { id = "1761654964", name = "YOU ARE MY CAMERA Pt.3", length = "4:09" }, { id = "1761654977", name = "YOU ARE MY CAMERA Pt.4", length = "4:14" }] },
+]
 views = 301333
 likes = 7029
 comments = 1200

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASogABIAPsFMnkunpCKht/qoAPAYCWMAwoAbowt3yrsgXZW/HAAA/vGzAKiY8xBA/iahC66SSK5CAmudJybjt+nzYXXMOe1/KL0AvxzM5nIcpxw65MC7RvlTc9qul2ct5frnJqXeVgU6WfgAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/dragon-girlfriend-giving-you-birthday-tingles-ep/1761643067", year = "2022", id = "1761643067", name = "DRAGON GIRLFRIEND Giving You Birthday Tingles", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761643404", name = "DRAGON GIRLFRIEND Giving You Birthday Tingles Pt.1", length = "3:48" }, { id = "1761643413", name = "DRAGON GIRLFRIEND Giving You Birthday Tingles Pt.2", length = "3:55" }, { id = "1761643422", name = "DRAGON GIRLFRIEND Giving You Birthday Tingles Pt.3", length = "3:52" }, { id = "1761643730", name = "DRAGON GIRLFRIEND Giving You Birthday Tingles Pt.4", length = "4:06" }] },
+]
 views = 360107
 likes = 7475
 comments = 1600

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFWoEwoJKMiMBgMAQAaCUAAAc8LIdwCzWkx6xyOMdmMAPcmxptjmFPHaJKseGuDtaP/Dty3LXVr8JQOu1vZbhIQwKzzoMr/FVmX1svlaFqg440GYkGAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/caring-friend-gone-wrong-invaded-by-alien-ear-bugs-ep/1761643576", year = "2022", id = "1761643576", name = "Caring Friend Gone Wrong, Invaded by Alien Ear Bugs", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761643578", name = "Caring Friend Gone Wrong, Invaded by Alien Ear Bugs Pt.1", length = "4:34" }, { id = "1761644123", name = "Caring Friend Gone Wrong, Invaded by Alien Ear Bugs Pt.2", length = "4:35" }, { id = "1761644126", name = "Caring Friend Gone Wrong, Invaded by Alien Ear Bugs Pt.4", length = "5:08" }, { id = "1761644129", name = "Caring Friend Gone Wrong, Invaded by Alien Ear Bugs Pt.3", length = "4:34" }] },
+]
 views = 531368
 likes = 7461
 comments = 1400

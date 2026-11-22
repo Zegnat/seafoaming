@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPsFMoEunpCMht/qoAPAYCWUAwzQhvraGpXhadYtXXUvYOu4OwAD+9FOok0ANW+bZGMlHn5Tc7HjmudBjfxlzb1saCOoyuDGcjksNWCOOtnV+b6rAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/elf-girl-offers-you-magical-and-relaxing-fragrances-ep/1770221875", year = "2022", id = "1770221875", name = "Elf Girl Offers You Magical and Relaxing Fragrances", type = "EP", date = "2022-09-28", cover = true, tracks = [{ id = "1770221877", name = "Elf Girl Offers You Magical and Relaxing Fragrances Pt.1", length = "4:53" }, { id = "1770221882", name = "Elf Girl Offers You Magical and Relaxing Fragrances Pt.2", length = "4:56" }, { id = "1770221883", name = "Elf Girl Offers You Magical and Relaxing Fragrances Pt.3", length = "4:52" }, { id = "1770221884", name = "Elf Girl Offers You Magical and Relaxing Fragrances Pt.4", length = "4:55" }, { id = "1770221885", name = "Elf Girl Offers You Magical and Relaxing Fragrances Pt.5", length = "4:52" }] },
+]
 views = 106538
 likes = 2990
 comments = 169

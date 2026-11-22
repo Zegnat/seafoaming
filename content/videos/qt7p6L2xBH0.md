@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPtFYpU0oJSOiKA1RABoJQBhWZDDZ2sVtIxGLWU1L+IMKBqyCijIAAP77k0MiW4oR+D3xsnlwJpEzeDgPuWSEw/QQ+nPs2Zykrwu9Eo8zAGHai4B2InzKvIDQAAA="
 spotify = "https://open.spotify.com/album/0uds9MrCuVcuxHKXj4BRDu"
+apple_music = [
+  { url = "https://music.apple.com/us/album/your-face-needs-booping-single/1745678251", year = "2022", id = "1745678251", name = "Your Face Needs BOOPING", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745678255", name = "Your Face Needs BOOPING Pt.1", length = "4:41" }, { id = "1745678263", name = "Your Face Needs BOOPING Pt.2", length = "4:33" }, { id = "1745678460", name = "Your Face Needs BOOPING Pt.3", length = "4:37" }] },
+]
 spotify_release = { id = "0uds9MrCuVcuxHKXj4BRDu", name = "Your Face Needs BOOPING", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1tU0ZCwBrGYuROyMHLoyJb", name = "Your Face Needs BOOPING Pt.1", length = "4:41" },

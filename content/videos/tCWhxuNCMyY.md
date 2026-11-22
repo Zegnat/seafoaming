@@ -9,6 +9,9 @@ length = "9:56"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPtFYoEuoJSMhsBgMAQAaCWMAtOgN0bL4at1zy63WgOOinVIwxxQAAP7tGl7QxXodtGIWxL53mHrFRrLTE30gITq6TruIaSF5Y7ZmIeV8GMkC46QZFi+Ad5fsAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-close-up-shh-shh-shh-gently-shushing-you-to-sleep-single/1747172601", year = "2024", id = "1747172601", name = "ASMR Close-Up - Shh Shh Shh! Gently Shushing You to Sleep", type = "Single", date = "2024-06-07", cover = true, tracks = [{ id = "1747172618", name = "Intro", length = "3:27" }, { id = "1747172619", name = "Shh Shh Sounds", length = "3:30" }, { id = "1747172621", name = "Outro", length = "2:59" }] },
+]
 views = 36199
 likes = 1273
 comments = 86

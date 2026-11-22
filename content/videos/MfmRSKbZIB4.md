@@ -12,6 +12,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABwBQCdASogABIAPtFapEuoJaOhsAgBABoJZACdMoR+Jxbqfoi812cJpqJ+CWoawrnM+B5gAPzmPy9gRqrfyRJvFYG94FwQ/D8F752Ab/PgtkMU3U9C3Snnh+WY+JhruYIaVoLMhfYibJ+trMNIIqDQAAA="
 spotify = "https://open.spotify.com/album/2OhAcKwEqIoyewIqWOODQU"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tongue-punch-ep/1767047426", year = "2022", id = "1767047426", name = "Tongue Punch", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047428", name = "Tongue Punch Pt.1", length = "3:08" }, { id = "1767047442", name = "Tongue Punch Pt.2", length = "3:25" }, { id = "1767047443", name = "Tongue Punch Pt.3", length = "3:13" }, { id = "1767047444", name = "Tongue Punch Pt.4", length = "3:37" }] },
+]
 spotify_release = { id = "2OhAcKwEqIoyewIqWOODQU", name = "Tongue Punch", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "4MbAa4peZKRFQSHaZehlEd", name = "Tongue Punch Pt.1", length = "3:08" },

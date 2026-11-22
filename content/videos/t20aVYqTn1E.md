@@ -9,6 +9,9 @@ length = "16:32"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFcqE6oJSOiKAqpABoJZQCo98/0Jueg4JrPsQv4sIxUsFUQSAD+m7OCS24TUCn0Qyqjs1jXdcQATTmv/CoZ5iwMGlH4wNpTu57nLS340QtXgVzZRICgop2/MQhg2oVJIAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/intense-ear-to-ear-crinkles-for-tingly-sleepies-ep/1761322018", year = "2022", id = "1761322018", name = "Intense Ear-to-Ear Crinkles for Tingly Sleepies", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761322022", name = "Intense Ear-to-Ear Crinkles for Tingly Sleepies Pt.1", length = "4:13" }, { id = "1761322026", name = "Intense Ear-to-Ear Crinkles for Tingly Sleepies Pt.2", length = "4:03" }, { id = "1761322033", name = "Intense Ear-to-Ear Crinkles for Tingly Sleepies Pt.3", length = "4:08" }, { id = "1761322036", name = "Intense Ear-to-Ear Crinkles for Tingly Sleepies Pt.4", length = "4:08" }] },
+]
 views = 45867
 likes = 1555
 comments = 199

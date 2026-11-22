@@ -9,6 +9,9 @@ length = "10:26"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPrVInEunJCKht+gA4BaJYgC2yDJ/sfo2F3zXwZLNQ0AA/kB/JrcUALsVdUupjsasjwvMIeBJWrSquSDoYbWQR2mHFp9h7BXDNJDo218rgLeeKHl26MO0DyuIAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/telling-you-secrets-single/1761620038", year = "2022", id = "1761620038", name = "TELLING YOU SECRETS", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761620045", name = "TELLING YOU SECRETS Pt.1", length = "5:20" }, { id = "1761620054", name = "TELLING YOU SECRETS Pt.2", length = "5:07" }] },
+]
 views = 131440
 likes = 2558
 comments = 680

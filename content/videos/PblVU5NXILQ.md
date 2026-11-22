@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFcp04oJSOiKAqpABoJYwC7AAxYTubOgxcqJV+pV5TtOsLAAPzGiWqcD9mFA5V+eWRWBeLUScjhXIs/QyaB6VolxfGUaEU0RbNm+gi2M8H4Y0Cb37dTlWuQAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/reading-you-a-story-to-help-you-sleep-single/1761652506", year = "2022", id = "1761652506", name = "Reading You a Story to Help You Sleep", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761652765", name = "Reading You a Story to Help You Sleep Pt.1", length = "5:01" }, { id = "1761652767", name = "Reading You a Story to Help You Sleep Pt.2", length = "5:00" }, { id = "1761652781", name = "Reading You a Story to Help You Sleep Pt.3", length = "4:58" }] },
+]
 views = 42333
 likes = 2514
 comments = 315

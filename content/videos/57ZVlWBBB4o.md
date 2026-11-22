@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPsFMn0unpCKht/qoAPAYCUATplAARK+Y7g8+HcUeiWUvuZcxoMAA+5Edkf8xzX2ZAJ6ZDOpFx1DUvSxLGkToPAAh/qCOGOmtbw143BGlFgihDJG3AMtZuF9SMolQ88tsgAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/best-friend-taking-care-of-you-when-youre-sick-ep/1761656502", year = "2022", id = "1761656502", name = "BEST FRIEND Taking Care of You When You're Sick", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761656904", name = "BEST FRIEND Taking Care of You When You're Sick Pt.1", length = "5:06" }, { id = "1761656960", name = "BEST FRIEND Taking Care of You When You're Sick Pt.2", length = "5:01" }, { id = "1761656962", name = "BEST FRIEND Taking Care of You When You're Sick Pt.3", length = "5:04" }, { id = "1761656971", name = "BEST FRIEND Taking Care of You When You're Sick Pt.4", length = "5:17" }] },
+]
 views = 105810
 likes = 2722
 comments = 524

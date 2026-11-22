@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPrVKnUunJKMht+gA4BaJZACdM0xE0/nAhGiNRiGIcx4eLwKYuAD+sYO98aPyMDNa3xyLtCP84kPl0bO6O8rwy8PQMa8w/G6XO6pJdfH8qsJz6MNdBACZsAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/final-fantasy-roleplay-al-bhed-girl-captures-you-ep/1761642222", year = "2022", id = "1761642222", name = "FINAL FANTASY ROLEPLAY Al-Bhed Girl Captures You", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761642439", name = "FINAL FANTASY ROLEPLAY Al-Bhed Girl Captures You Pt.1", length = "4:45" }, { id = "1761642443", name = "FINAL FANTASY ROLEPLAY Al-Bhed Girl Captures You Pt.2", length = "4:48" }, { id = "1761642622", name = "FINAL FANTASY ROLEPLAY Al-Bhed Girl Captures You Pt.3", length = "4:45" }, { id = "1761642725", name = "FINAL FANTASY ROLEPLAY Al-Bhed Girl Captures You Pt.4", length = "4:53" }] },
+]
 views = 273158
 likes = 5764
 comments = 881

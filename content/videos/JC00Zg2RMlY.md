@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASogABIAPsVSokunpSMhsAwA8BiJQBbgKAAZy4wwVDOkf+OhR+fSmA3oi73gAPrfqlHmobvBiCgnWlXbu3y8g+6fG4Qv9EgXgtxolk0wlYqEBL2KtCv+I1k2c41mJoAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/cat-ear-collection-and-june-patron-appreciation-ep/1761627488", year = "2022", id = "1761627488", name = "Cat Ear Collection and June Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761627491", name = "Cat Ear Collection and June Patron Appreciation Pt.1", length = "5:17" }, { id = "1761627494", name = "Cat Ear Collection and June Patron Appreciation Pt.2", length = "5:14" }, { id = "1761627750", name = "Cat Ear Collection and June Patron Appreciation Pt.3", length = "5:14" }, { id = "1761627751", name = "Cat Ear Collection and June Patron Appreciation Pt.4", length = "5:23" }] },
+]
 views = 26863
 likes = 1028
 comments = 329

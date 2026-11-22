@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPs1QpUunpKOhsBgMAPAZiWMAnQAQ75gngjc/q9I6h8QjtsvtgA4AAP7zIuZKKTjBe1gxgn32LQm7DVvj8cWENpo/xYdK5azj3jxwadeuvJM6HKEUFY3TKODq2WsyQgAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-backstreet-fidget-dealer-the-best-tingles-you/1750037784", year = "2024", id = "1750037784", name = "ASMR - backstreet fidget dealer - The best tingles you can buy (real) (legitimate)", type = "EP", date = "2024-06-21", cover = true, tracks = [{ id = "1750037796", name = "Mouse Immediately Clocks U As Neurodivergent", length = "2:56" }, { id = "1750037802", name = "Plastic Fidget Spinner That Is Definitely Not a Kinder Surprise Toy", length = "2:04" }, { id = "1750038082", name = "Sensory Slug and Psychoanalyzing You", length = "4:41" }, { id = "1750038090", name = "Wooden rainbow shapeable balls and MOUSE LORE", length = "4:37" }, { id = "1750038092", name = "Pop It Ball That They Found After Blacking Out", length = "2:14" }, { id = "1750038101", name = "Fractal Fidget Star With Questionable Origins", length = "3:47" }] },
+]
 views = 49650
 likes = 1873
 comments = 195

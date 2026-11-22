@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFYpE0oJSOiMBgIAQAaCUATpmoYUwKfZbaKf5V0IQQtV9AA/cvnc3OyPA3rGDXviW3ntZ/UrwP0ZcSWq9Bu/ZaxD62vqdn/tlZObNsw4iMcuHQqgAAAAA=="
 spotify = "https://open.spotify.com/album/2V9e7wv847iboammWTjOkD"
+apple_music = [
+  { url = "https://music.apple.com/us/album/kindergarten-kiwis-secret-candyland/1745689921", year = "2022", id = "1745689921", name = "KINDERGARTEN Kiwi's Secret Candyland", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1745689930", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.1", length = "4:39" }, { id = "1745690270", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.3", length = "4:42" }, { id = "1745690364", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.2", length = "4:36" }, { id = "1745690371", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.4", length = "4:37" }, { id = "1745690374", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.5", length = "4:41" }, { id = "1745690379", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.6", length = "4:43" }, { id = "1745690383", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.7", length = "4:36" }] },
+]
 spotify_release = { id = "2V9e7wv847iboammWTjOkD", name = "KINDERGARTEN Kiwi's Secret Candyland", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0PuT1p8tUtuCM1CLlCTtpG", name = "KINDERGARTEN Kiwi's Secret Candyland Pt.1", length = "4:39" },

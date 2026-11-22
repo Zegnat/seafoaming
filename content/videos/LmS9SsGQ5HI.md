@@ -10,6 +10,10 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsFOn0unpCKit/qoAPAYCWUAyNQbZ/YsDgY3yo8PvJDcMAD+0MRBtj/mmgcF2xy3L43z8nBR5Yju5M4ziC0sB60Sdkt65zgrITBiS7EqftNLDbOSDro+0AAA"
 spotify = "https://open.spotify.com/album/23Yab2fCVvYTssHpol53w8"
+apple_music = [
+  { url = "https://music.apple.com/us/album/oil-ear-massage-ear-massage-positive-words-to-help/1767046542", year = "2019", id = "1767046542", name = "Oil Ear Massage: Ear Massage & Positive Words to Help You Sleep", type = "Single", date = "2019-01-01", cover = true, tracks = [{ id = "1767046545", name = "Lovely Ear Massage & Positive Words to Help You Sleep Pt. 1", length = "6:58" }, { id = "1767046546", name = "Lovely Ear Massage & Positive Words to Help You Sleep Pt. 2", length = "5:17" }] },
+  { url = "https://music.apple.com/us/album/lovely-ear-massage-and-positive-words-to-help-you/1761416932", year = "2022", id = "1761416932", name = "Lovely Ear Massage and Positive Words to Help You Sleep", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761416945", name = "Lovely Ear Massage and Positive Words to Help You Sleep Pt.1", length = "4:04" }, { id = "1761416954", name = "Lovely Ear Massage and Positive Words to Help You Sleep Pt.2", length = "4:10" }, { id = "1761417173", name = "Lovely Ear Massage and Positive Words to Help You Sleep Pt.3", length = "4:01" }] },
+]
 spotify_release = { id = "23Yab2fCVvYTssHpol53w8", name = "Oil Ear Massage: Ear Massage & Positive Words to Help You Sleep", type = "Single", date = "2019-01-01", cover = true }
 spotify_tracks = [
   { id = "1Jh1cbjKwM41xY7PGKaje2", name = "Lovely Ear Massage & Positive Words to Help You Sleep Pt. 1", length = "6:58" },

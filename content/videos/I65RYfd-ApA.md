@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPtFYpEyoJSOiKA1RABoJQBajYwAvDgWjDhl67dG1hj/ZK012MPgA/tXZ8ATYxzqAQQIbEciTYMbdz1pd1NVV/fb2JD70G618+WgViG21RdWY4RxhR5ArFaxasAAAAA=="
 spotify = "https://open.spotify.com/album/7fIa5T4Kx35FhujqMJbOEz"
+apple_music = [
+  { url = "https://music.apple.com/us/album/opening-letters-and-gifts-from-you/1761615005", year = "2022", id = "1761615005", name = "Opening Letters and Gifts From You", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761615009", name = "Opening Letters and Gifts From You Pt.1", length = "5:10" }, { id = "1761615011", name = "Opening Letters and Gifts From You Pt.2", length = "5:15" }, { id = "1761615016", name = "Opening Letters and Gifts From You Pt.3", length = "5:12" }, { id = "1761615758", name = "Opening Letters and Gifts From You Pt.4", length = "5:08" }, { id = "1761615897", name = "Opening Letters and Gifts From You Pt.5", length = "5:08" }, { id = "1761615906", name = "Opening Letters and Gifts From You Pt.6", length = "4:58" }] },
+]
 spotify_release = { id = "7fIa5T4Kx35FhujqMJbOEz", name = "Opening Letters and Gifts From You", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0oXRq9agBB7ddCkoJt9B4U", name = "Opening Letters and Gifts From You Pt.1", length = "5:10" },

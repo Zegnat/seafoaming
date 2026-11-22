@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAABQBQCdASogABIAPtFcqE2oJSQiKAqpABoJYwCdISAExy/y8hvSV9k4scXTQ8Y1qMIHWkwA/NMBkN1pnZ2b0VROhLBc5Hm2rI6nT2zBldbDtL/5/+rVXHKIIKWHQ6ju9bxXz1sOoE0OQr8EnOpAi6zW0AA="
 spotify = "https://open.spotify.com/album/2EDO4QiGwmcUlnRsSl24Nv"
+apple_music = [
+  { url = "https://music.apple.com/us/album/intense-binaural-ear-cleaning/1761621533", year = "2022", id = "1761621533", name = "Intense Binaural Ear Cleaning", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761621539", name = "Intense Binaural Ear Cleaning Pt.2", length = "4:59" }, { id = "1761621553", name = "Intense Binaural Ear Cleaning Pt.1", length = "5:04" }, { id = "1761621781", name = "Intense Binaural Ear Cleaning Pt.4", length = "4:58" }, { id = "1761621791", name = "Intense Binaural Ear Cleaning Pt.3", length = "5:01" }, { id = "1761621949", name = "Intense Binaural Ear Cleaning Pt.5", length = "4:54" }, { id = "1761621958", name = "Intense Binaural Ear Cleaning Pt.6", length = "4:58" }, { id = "1761621964", name = "Intense Binaural Ear Cleaning Pt.7", length = "5:06" }, { id = "1761621973", name = "Intense Binaural Ear Cleaning Pt.8", length = "5:01" }, { id = "1761622190", name = "Intense Binaural Ear Cleaning Pt.9", length = "5:03" }, { id = "1761622197", name = "Intense Binaural Ear Cleaning Pt.10", length = "5:03" }, { id = "1761622203", name = "Intense Binaural Ear Cleaning Pt.11", length = "5:05" }, { id = "1761622207", name = "Intense Binaural Ear Cleaning Pt.12", length = "5:33" }] },
+]
 spotify_release = { id = "2EDO4QiGwmcUlnRsSl24Nv", name = "Intense Binaural Ear Cleaning", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3hltVnZfTXzL8T0Vwlm2CC", name = "Intense Binaural Ear Cleaning Pt.2", length = "4:59" },

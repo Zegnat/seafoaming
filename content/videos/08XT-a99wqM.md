@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPslQoUunpKMht/VYAPAZCWMAtOgMWly1pjx7CqTCQawmdXmikgAA/sE+1I05XVaHH6rwqkn/dmq6sS1kk2aFqHDpKrazi2IdgUlkebFC2LfZm2QeOUbeAdAA"
 spotify = "https://open.spotify.com/album/15SuVxThIPsCtqynlzFkJ8"
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-alien-spends-christmas-with-you-ep/1770222778", year = "2024", id = "1770222778", name = "Friendly Alien Spends Christmas With You", type = "EP", date = "2024-01-03", cover = true, tracks = [{ id = "1770222783", name = "Friendly Alien Spends Christmas With You Pt.1", length = "5:06" }, { id = "1770222784", name = "Friendly Alien Spends Christmas With You Pt.2", length = "5:10" }, { id = "1770222786", name = "Friendly Alien Spends Christmas With You Pt.3", length = "5:08" }, { id = "1770222787", name = "Friendly Alien Spends Christmas With You Pt.4", length = "5:08" }, { id = "1770222789", name = "Friendly Alien Spends Christmas With You Pt.5", length = "5:08" }] },
+]
 spotify_release = { id = "15SuVxThIPsCtqynlzFkJ8", name = "Friendly Alien Spends Christmas With You", type = "EP", date = "2024-01-03", cover = true }
 spotify_tracks = [
   { id = "4bGdbIW3JHzCjkAL0lFSid", name = "Friendly Alien Spends Christmas With You Pt.1", length = "5:06" },

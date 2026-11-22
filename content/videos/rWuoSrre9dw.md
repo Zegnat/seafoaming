@@ -9,6 +9,9 @@ length = "17:57"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPsFMn0unpCKht/qoAPAYCWIAnQAaJoNgaLPb+ryk541seymQAM32vCFr6bCt1Pjwr7J0KmhrmHY5861aXcM/Z0Ww2dN2lJcrlfTvTfIF1C41HecGYiOwQAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/satisfying-relaxing-sequins-and-scratching-ep/1745646558", year = "2022", id = "1745646558", name = "Satisfying, Relaxing Sequins and Scratching", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745646559", name = "Satisfying, Relaxing Sequins and Scratching Pt.1", length = "4:29" }, { id = "1745646562", name = "Satisfying, Relaxing Sequins and Scratching Pt.2", length = "4:29" }, { id = "1745646574", name = "Satisfying, Relaxing Sequins and Scratching Pt.3", length = "4:29" }, { id = "1745646578", name = "Satisfying, Relaxing Sequins and Scratching Pt.4", length = "4:29" }] },
+]
 views = 19374
 likes = 463
 comments = 240

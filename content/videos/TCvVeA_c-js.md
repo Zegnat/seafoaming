@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFepk4oJSOpKAqpIBoJYwCdM1XBoDo69F4VS8nZLGloPJWj9wAA/qTYAif1aQiDnbhqDCu9/DPVH8YMREs5SYqFO9l4llvfgFfL6uZqnhN5p8PB6LDoIAAA"
 spotify_podcast = "https://open.spotify.com/episode/0oVdWu1BZ3BRvy5tpVlmdi"
+apple_music = [
+  { url = "https://music.apple.com/us/album/spongebob-asmr-how-tough-are-you-single/1833711369", year = "2025", id = "1833711369", name = "SPONGEBOB ASMR - How TOUGH are You???", type = "Single", date = "2025-09-05", cover = true, tracks = [{ id = "1833711370", name = "Yeah I’m Totally One of You! Proving it By Drinking.. THAT…", length = "4:54" }, { id = "1833711371", name = "Breaking Down & Admitting The Truth", length = "5:10" }, { id = "1833711612", name = "Sleepover? LETS GO!!! Driving You In My Boat", length = "4:25" }] },
+]
 spotify_episode = { id = "0oVdWu1BZ3BRvy5tpVlmdi", name = "SPONGEBOB ASMR 💥How TOUGH are You? 💪 Proving I'm NOT a Bubble Blowin' Baby at the Rusty Harpoon", date = "2025-08-08", length = "14:29", cover = true }
 views = 48063
 likes = 2204

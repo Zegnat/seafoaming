@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPsVOoUunpCMhsAwA8BiJYgCsL68Bz6osJi+0ujMMrYWYPUH3AAD+0dY7ACx2XBSBKpE+C32JuuaWvfpyw10NhvIlzuFhRQxmI3IeUhxSvKvDfMKUPv+kqw4AAAA="
 spotify = "https://open.spotify.com/album/3aLPMowJLnLmXRBggWU3YE"
+apple_music = [
+  { url = "https://music.apple.com/us/album/catching-fish-with-your-bear-friend-single/1761628048", year = "2022", id = "1761628048", name = "Catching Fish with Your Bear Friend", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761628051", name = "Catching Fish with Your Bear Friend Pt.1", length = "4:38" }, { id = "1761628052", name = "Catching Fish with Your Bear Friend Pt.2", length = "4:42" }, { id = "1761628055", name = "Catching Fish with Your Bear Friend Pt.3", length = "4:52" }] },
+]
 spotify_release = { id = "3aLPMowJLnLmXRBggWU3YE", name = "Catching Fish with Your Bear Friend", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3bHr4451CgIG5zWITIYar9", name = "Catching Fish with Your Bear Friend Pt.1", length = "4:38" },

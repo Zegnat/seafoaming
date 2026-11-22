@@ -9,6 +9,9 @@ length = "16:45"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASogABIAPtFcpk4oJSOjKAqpABoJQBfJAYr3z9ffBlFNs/0AAP7ICGZnixwewCNYnVIk2sx5G27vtuKPimprstD2pTSCzxSqM/23I+LjRUwUjM4P+sSEohIRfjDTfEAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/slow-hand-movments-and-rain-sounds-with-gentle-whispers-ep/1761638001", year = "2022", id = "1761638001", name = "Slow Hand Movments and Rain Sounds with Gentle Whispers", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761638002", name = "Slow Hand Movments and Rain Sounds with Gentle Whispers Pt.1", length = "4:14" }, { id = "1761638005", name = "Slow Hand Movments and Rain Sounds with Gentle Whispers Pt.2", length = "4:14" }, { id = "1761638016", name = "Slow Hand Movments and Rain Sounds with Gentle Whispers Pt.3", length = "4:14" }, { id = "1761638018", name = "Slow Hand Movments and Rain Sounds with Gentle Whispers Pt.4", length = "4:03" }] },
+]
 views = 121707
 likes = 2734
 comments = 279

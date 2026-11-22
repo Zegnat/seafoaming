@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFcpk0oJSOiMBgIAQAaCWUAyMdIgOimpapEbTlL16rcILvogAD+6Nj/NDD5EzIq78+h0Yajm9q1k/PcsE2j7C1PVkbobNNTqWjDmUDYQPSafQmAAAA="
 spotify = "https://open.spotify.com/album/0GPcXZAkgyT1i2ZJV4jWEh"
+apple_music = [
+  { url = "https://music.apple.com/us/album/stung-by-1000-bees-single/1770221829", year = "2022", id = "1770221829", name = "Stung By 1000 Bees", type = "Single", date = "2022-09-24", cover = true, tracks = [{ id = "1770221833", name = "Stung By 1000 Bees Pt.1", length = "5:39" }, { id = "1770221835", name = "Stung By 1000 Bees Pt.2", length = "3:38" }, { id = "1770221838", name = "Stung By 1000 Bees Pt.3", length = "4:21" }] },
+]
 spotify_release = { id = "0GPcXZAkgyT1i2ZJV4jWEh", name = "Stung By 1000 Bees", type = "Single", date = "2022-09-24", cover = true }
 spotify_tracks = [
   { id = "4cxViVDhOIixdZApTxuWxF", name = "Stung By 1000 Bees Pt.1", length = "5:39" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQBACdASogABIAPtFYpEwoJSOiMAgBABoJZQC7ABhnmL2OlByc2CYdPQQHGgAA/uXn2ixfpd3RqV3p/g9+LHM2IQX4yNVn8qjtgAWP+gO+Y/pztdCGNW9tlRd86hhksSTvUh0t9fQuM06cwIMPrlsjEAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/neutral-affirmations-single/1745661286", year = "2022", id = "1745661286", name = "Neutral Affirmations", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745661529", name = "NEUTRAL AFFIRMATIONS Pt.1", length = "5:35" }, { id = "1745661533", name = "NEUTRAL AFFIRMATIONS Pt.2", length = "5:37" }] },
+]
 views = 64175
 likes = 1778
 comments = 636

@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPsFMoEunpCMht/qoAPAYCUAWHYKNEmXTcl/jmH/hJM8AAPnNyruKNLdm+U4jM1Jl/2r6GTbe7O0WmOOAUrZcuxzjw8l3314Ak+6UTvSYgHkoanzhnXImdJfW37soWxvecAA="
 spotify = "https://open.spotify.com/album/4p86sWs9w4NHPqIgfVfHca"
+apple_music = [
+  { url = "https://music.apple.com/us/album/kisses-with-ember-the-dragon-ep/1761622046", year = "2022", id = "1761622046", name = "Kisses with Ember the Dragon", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761622048", name = "Kisses with Ember the Dragon Pt.1", length = "4:28" }, { id = "1761622053", name = "Kisses with Ember the Dragon Pt.2", length = "4:29" }, { id = "1761622054", name = "Kisses with Ember the Dragon Pt.3", length = "4:29" }, { id = "1761622056", name = "Kisses with Ember the Dragon Pt.4", length = "4:46" }] },
+]
 spotify_release = { id = "4p86sWs9w4NHPqIgfVfHca", name = "Kisses with Ember the Dragon", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7yQkGX56F1P0HbIaiNRWNW", name = "Kisses with Ember the Dragon Pt.1", length = "4:28" },

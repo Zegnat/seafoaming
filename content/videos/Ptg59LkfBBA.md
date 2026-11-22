@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwBACdASogABIAPslUnkunpKKhsAwA8BkJYwCw7BtB4OyeOJ7g2cuGMhXzQAD9Eh384Z+3FeUO1Xrg4HtAoO3PNieXZSXfrvD/bDr+dJ+kAAAA"
 spotify = "https://open.spotify.com/album/4jzH5pnNJ5nGoAN3ARzAig"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-my-puppet-single/1745643631", year = "2022", id = "1745643631", name = "You are My Puppet", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745643636", name = "You are My Puppet Pt.1", length = "4:53" }, { id = "1745643644", name = "You are My Puppet Pt.2", length = "4:55" }, { id = "1745643894", name = "You are My Puppet Pt.3", length = "4:57" }] },
+]
 spotify_release = { id = "4jzH5pnNJ5nGoAN3ARzAig", name = "You are My Puppet", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3r2Hv1Pbw3WyCvNwinszeI", name = "You are My Puppet Pt.1", length = "4:53" },

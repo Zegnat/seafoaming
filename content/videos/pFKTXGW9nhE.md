@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASogABIAPslSn0unpKKhsAwA8BkJQBOmW+BNT0qfYFki3tiFYfEyA2rXu/BAAP7zMznLk38s4eo+BjoNAlnIheelq0NkR/BwZ1TXedWryoqnI9Gqo6YGHHllAihVhWa6GV+9UKJR48ROKwwA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/new-year-smooches-and-december-patron-appreciation-single/1740471092", year = "2022", id = "1740471092", name = "New Year Smooches and December Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1740471096", name = "New Year Smooches and December Patron Appreciation Pt.1", length = "4:47" }, { id = "1740471099", name = "New Year Smooches and December Patron Appreciation Pt.2", length = "4:40" }, { id = "1740471100", name = "New Year Smooches and December Patron Appreciation Pt.3", length = "4:30" }] },
+]
 views = 108305
 likes = 2666
 comments = 333

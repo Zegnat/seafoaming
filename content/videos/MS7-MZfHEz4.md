@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQBQCdASogABIAPtFQpEwoLKOqsBgMAZAaCUATpnHYKK4QhmAQOsS0OEVSFi4ZNneKWYAA9ymYB5IZnDfIZ8PnCRyOsQ7LEK67eHg27Y+VgCEnKNXc39BkkUnSOswAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/om-nom-nom-single/1761314737", year = "2022", id = "1761314737", name = "OM NOM NOM", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761315010", name = "OM NOM NOM Pt.1", length = "4:41" }, { id = "1761315016", name = "OM NOM NOM Pt.2", length = "4:45" }, { id = "1761315019", name = "OM NOM NOM Pt.3", length = "5:00" }] },
+]
 views = 247971
 likes = 5587
 comments = 518

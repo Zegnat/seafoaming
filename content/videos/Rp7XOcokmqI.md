@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPsVSoUunpKMhsAwA8BiJQBWGW9dJAxjRzjjUFPjRNbpv3InAgAD9IBnJcFFkhk5eduvzlVlQeTUWl4iN6yg1+Ykc2niuzj0xBUCXo6gW3gAAAA=="
 spotify = "https://open.spotify.com/album/38A2ZyMQluWnNpTRy0gObA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/smiling-loudly-in-your-ears-single/1761618278", year = "2022", id = "1761618278", name = "Smiling Loudly in Your Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761618499", name = "Smiling Loudly in Your Ears Pt.1", length = "3:55" }, { id = "1761618506", name = "Smiling Loudly in Your Ears Pt.2", length = "4:10" }, { id = "1761618511", name = "Smiling Loudly in Your Ears Pt.3", length = "4:15" }] },
+]
 spotify_release = { id = "38A2ZyMQluWnNpTRy0gObA", name = "Smiling Loudly in Your Ears", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "38C0KNKLRWLvwqVCbOgjM4", name = "Smiling Loudly in Your Ears Pt.1", length = "3:55" },

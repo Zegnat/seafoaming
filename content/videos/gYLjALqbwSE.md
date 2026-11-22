@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPtFSo0woJCMiMBgMAQAaCWMArhwLJsJOtLqfWnCjYSXEFedK/3Uv4AD+8N8FibaTZNsSoodAxvuO7pP1pjj5eNlrkRYWbtUGElhlXfakOYGnr5bLoAHKkxEEgJkAAA=="
 spotify = "https://open.spotify.com/album/2a0klU9xtpmlLnf1RNpUNJ"
 spotify_podcast = "https://open.spotify.com/episode/6aDYgaDoifz5FOfksIoszQ"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-scalp-massage-the-scritches-will-have-you/1784552189", year = "2024", id = "1784552189", name = "ASMR SCALP MASSAGE, The Scritches Will Have You Kicking Your Leg Like a DOGGG", type = "EP", date = "2024-12-27", cover = true, tracks = [{ id = "1784552190", name = "Starting With Rough Ear Scratches", length = "3:42" }, { id = "1784552191", name = "Whispering Up Close While Scratching", length = "3:41" }, { id = "1784552194", name = "Very Gentle Whispers With Soft Scratches", length = "3:29" }, { id = "1784552197", name = "Relaxing Scritches & Soothing Whispering To Put You To Sleep", length = "3:17" }] },
+]
 spotify_release = { id = "2a0klU9xtpmlLnf1RNpUNJ", name = "ASMR SCALP MASSAGE, The Scritches Will Have You Kicking Your Leg Like a DOGGG", type = "EP", date = "2024-12-27", cover = true }
 spotify_tracks = [
   { id = "2ZMXVTCODKoojbJFvjEIjr", name = "Starting With Rough Ear Scratches", length = "3:42" },

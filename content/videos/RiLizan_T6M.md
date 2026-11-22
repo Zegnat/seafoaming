@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASogABIAPtFapE2oJSMiMBgIAQAaCWIAtOg0KWlH0wk9+Z1ETkLyuczgAPzuGh+sjNdB8mgJNvunGf8oyj42pThszZQJcR9ICHvKMshY6bWmqZFCSk2A7a20aC9cVvWD1u4CgfdUUsjiiBK8AAA="
 spotify = "https://open.spotify.com/album/3jsnjxwzVqg8XuC0eI9873"
+apple_music = [
+  { url = "https://music.apple.com/us/album/my-choker-collection-and-patron-appreciation-ep/1761630177", year = "2022", id = "1761630177", name = "My Choker Collection and Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761630182", name = "My Choker Collection and Patron Appreciation Pt.1", length = "4:39" }, { id = "1761630185", name = "My Choker Collection and Patron Appreciation Pt.2", length = "4:36" }, { id = "1761630503", name = "My Choker Collection and Patron Appreciation Pt.3", length = "4:35" }, { id = "1761630592", name = "My Choker Collection and Patron Appreciation Pt.4", length = "4:46" }] },
+]
 spotify_release = { id = "3jsnjxwzVqg8XuC0eI9873", name = "My Choker Collection and Patron Appreciation", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "05nmHYjkTQxn1j1J2kT3zR", name = "My Choker Collection and Patron Appreciation Pt.1", length = "4:39" },

@@ -9,6 +9,9 @@ length = "20:27"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFWokuoJKMhsAgBABoJYgCdMxhgfom5xCZFBvL7b4TwrlgPwAD+7pu3MYSFb0D75RCG/i7GcjXrZk1yny9SU8dAVqHrrfyv8zU0CVflOr8ZaQU86AEUmKUrcAAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-x-marks-the-spot-tingles-going-up-your-back-ep/1764081246", year = "2024", id = "1764081246", name = "ASMR X Marks the Spot  Tingles Going Up Your Back!", type = "EP", date = "2024-09-03", cover = true, tracks = [{ id = "1764081248", name = "Whispered Intro", length = "2:25" }, { id = "1764081250", name = "Sensitive Ear To Ear Whispers", length = "3:24" }, { id = "1764081253", name = "Soft Whispering In Your Ears", length = "3:00" }, { id = "1764081254", name = "Breathy Whispers With Face Touching", length = "4:36" }, { id = "1764081257", name = "Fluffy Mic Cover Whispering", length = "2:50" }, { id = "1764081679", name = "Fluffy Massage", length = "4:13" }] },
+]
 views = 114609
 likes = 2752
 comments = 104

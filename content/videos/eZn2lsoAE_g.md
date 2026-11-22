@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASogABIAPsFIn0unpCKht/qoAPAYCWYAnTLaQqSkZbZjQyDdzO5rGJocmuAA+M4fKt+aLKGZJIwKcI7UbU/usWA5uJ9j5PkaP3LsPMo2EYTaqns+0uEk8I8/28xObIsGANyNRBhYxAc1z5yQAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-eating-banana-in-a-normal-way-wet-squishy-eating-single/1745748951", year = "2024", id = "1745748951", name = "ASMR Eating Banana In a Normal Way - Wet Squishy Eating", type = "Single", date = "2024-05-31", cover = true, tracks = [{ id = "1745748953", name = "Intro", length = "5:41" }, { id = "1745748962", name = "Eating Banana", length = "3:50" }] },
+]
 views = 91167
 likes = 2118
 comments = 296

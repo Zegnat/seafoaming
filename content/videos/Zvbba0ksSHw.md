@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASogABIAPslSoEunpKMhsAwA8BkJQBZwAwU43wuk1Qf0RAsAAP6M6iuthTSAE2RjnbokvH+sVWaH9JbExkn8jyBiAOdkBNxelYDf4lak0/mH6+uaIbP9wAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tikka-tk-sounds-and-january-patron-appreciation-pt-2-single/1761620647", year = "2022", id = "1761620647", name = "Tikka 'Tk' Sounds and January Patron Appreciation Pt.2", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761620904", name = "Tikka 'Tk' Sounds and January Patron Appreciation Pt.1", length = "4:46" }, { id = "1761620906", name = "Tikka 'Tk' Sounds and January Patron Appreciation Pt.2", length = "4:40" }, { id = "1761620915", name = "Tikka 'Tk' Sounds and January Patron Appreciation Pt.3", length = "4:13" }] },
+]
 views = 33185
 likes = 873
 comments = 200

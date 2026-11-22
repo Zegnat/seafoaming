@@ -9,6 +9,9 @@ length = "14:47"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFco0yoJSMiMBgIAQAaCWUAuwAKC9APtZ4YaowQGhT6gQ8AAPr9HBh572cTipNDvGG6qiMMh1WQsKoxZGEanjNxGJkWXCbfuhSkzwmmUJpFj+N+bItMuf4AAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/lotion-massage-with-kisses-and-binaural-breathing/1745664422", year = "2022", id = "1745664422", name = "Lotion Massage with Kisses and Binaural Breathing Sounds", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745664427", name = "Lotion Massage with Kisses and Binaural Breathing Sounds Pt.2", length = "4:56" }, { id = "1745664436", name = "Lotion Massage with Kisses and Binaural Breathing Sounds Pt.1", length = "4:56" }, { id = "1745664805", name = "Lotion Massage with Kisses and Binaural Breathing Sounds Pt.3", length = "4:56" }] },
+]
 views = 173069
 likes = 2418
 comments = 317

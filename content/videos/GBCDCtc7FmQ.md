@@ -9,6 +9,9 @@ length = "18:17"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASogABIAPtFgpk4oJaOiKAqpABoJZQC/OAyCg8VrN2uyN14WCYAA/tA4sGJGx3XNRWD+h6dDLzZHCj/Ifz+B68rlG2eSgor/Sq+YpgETp4/xnwk0yT8+xc96K6aioAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/staring-at-you-ep/1767048479", year = "2022", id = "1767048479", name = "STARING AT YOU", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767048480", name = "STARING AT YOU Pt.4", length = "4:42" }, { id = "1767048481", name = "STARING AT YOU Pt.1", length = "4:28" }, { id = "1767048484", name = "STARING AT YOU Pt.2", length = "4:26" }, { id = "1767048485", name = "STARING AT YOU Pt.3", length = "4:41" }] },
+]
 views = 131133
 likes = 3075
 comments = 359

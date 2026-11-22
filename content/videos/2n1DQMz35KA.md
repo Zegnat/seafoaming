@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASogABIAPtFWo0uoJKMhsAgBABoJYwCzgBitc18l90DA8kyPxoAA/hUKuB+wArEG5Fh8tI1G9755DFv/ORMf1WbA5/VEmLqznRx1AEwxLJAUR7k6jwQyAHav8AA="
 spotify = "https://open.spotify.com/album/3lgrrU7d22kMTUNfYj5toX"
+apple_music = [
+  { url = "https://music.apple.com/us/album/pspsps-youre-my-kitten-single/1745690130", year = "2022", id = "1745690130", name = "PSPSPS... You're My Kitten", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745690131", name = "PSPSPS... You're My Kitten Pt.1", length = "4:18" }, { id = "1745690144", name = "PSPSPS... You're My Kitten Pt.2", length = "4:15" }, { id = "1745690328", name = "PSPSPS... You're My Kitten Pt.3", length = "4:15" }] },
+]
 spotify_release = { id = "3lgrrU7d22kMTUNfYj5toX", name = "PSPSPS... You're My Kitten", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2wE9Y2dYxBwwqISidsOyXJ", name = "PSPSPS... You're My Kitten Pt.1", length = "4:18" },

@@ -9,6 +9,9 @@ length = "19:39"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwBACdASogABIAPtFaokuoJaMhsBgMAQAaCWMAAIoyKIRnA7BICllVZ2432sf3jYAA/u9MAI3yxPyjTqlQRD+wuoWzhxi0byqU5BT26ybR8vdqtjmI+edjRREM2H2HUi7PPOijL6O1+8FZdgHhgAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fluffy-scalp-massage-and-may-patron-appreciation-ep/1745644747", year = "2022", id = "1745644747", name = "FLUFFY SCALP MASSAGE and May Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745644748", name = "FLUFFY SCALP MASSAGE and May Patron Appreciation Pt.2", length = "4:54" }, { id = "1745644750", name = "FLUFFY SCALP MASSAGE and May Patron Appreciation Pt.1", length = "5:03" }, { id = "1745644751", name = "FLUFFY SCALP MASSAGE and May Patron Appreciation Pt.3", length = "4:56" }, { id = "1745644752", name = "FLUFFY SCALP MASSAGE and May Patron Appreciation Pt.4", length = "4:46" }] },
+]
 views = 98499
 likes = 3391
 comments = 244

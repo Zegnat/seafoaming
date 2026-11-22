@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASogABIAPslUoUunpKMhsAwA8BkJZwDCgCFeWrTDujtsENuAvJgQAP7PQ+CSsUkGRkKhBDjbXnfHyUpmCXe4R+gDj7ZcPhesb/+sIEKgAAA="
 spotify = "https://open.spotify.com/album/4Zj3NKq1CsrFjwkHCPAP97"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-noms-and-ear-tapping/1761624091", year = "2022", id = "1761624091", name = "Ear Noms and Ear Tapping", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761624234", name = "Ear Noms and Ear Tapping Pt.1", length = "5:09" }, { id = "1761624246", name = "Ear Noms and Ear Tapping Pt.2", length = "5:11" }, { id = "1761624248", name = "Ear Noms and Ear Tapping Pt.3", length = "5:02" }, { id = "1761624249", name = "Ear Noms and Ear Tapping Pt.4", length = "5:02" }, { id = "1761624513", name = "Ear Noms and Ear Tapping Pt.5", length = "5:29" }, { id = "1761624514", name = "Ear Noms and Ear Tapping Pt.6", length = "5:16" }, { id = "1761624516", name = "Ear Noms and Ear Tapping Pt.7", length = "5:12" }, { id = "1761624519", name = "Ear Noms and Ear Tapping Pt.8", length = "5:13" }, { id = "1761624522", name = "Ear Noms and Ear Tapping Pt.9", length = "5:02" }, { id = "1761624525", name = "Ear Noms and Ear Tapping Pt.10", length = "5:11" }, { id = "1761624979", name = "Ear Noms and Ear Tapping Pt.11", length = "5:06" }, { id = "1761625012", name = "Ear Noms and Ear Tapping Pt.12", length = "4:49" }] },
+]
 spotify_release = { id = "4Zj3NKq1CsrFjwkHCPAP97", name = "Ear Noms and Ear Tapping", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4Lad1PqSJNlBbJLQajBIQP", name = "Ear Noms and Ear Tapping Pt.1", length = "5:09" },

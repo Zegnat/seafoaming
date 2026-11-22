@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWMArAAQqV875w1A7ZXF0NUGeg/6BAD+4RGzuGJJZZHHJotBkReG6tJYtimXPvU6Xgfrw2nUd/myJ8+OktEww2N3H9DQtLrKE0beE3AAAA=="
 spotify = "https://open.spotify.com/album/7qn9LCR0l2J69JcmVBvXYi"
+apple_music = [
+  { url = "https://music.apple.com/us/album/%2420-vs-%24200-microphone-ep/1761328705", year = "2022", id = "1761328705", name = "$20 vs $200 MICROPHONE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761328709", name = "$20 vs $200 MICROPHONE Pt.1", length = "4:35" }, { id = "1761328712", name = "$20 vs $200 MICROPHONE Pt.2", length = "4:33" }, { id = "1761328715", name = "$20 vs $200 MICROPHONE Pt.3", length = "4:32" }, { id = "1761328723", name = "$20 vs $200 MICROPHONE Pt.4", length = "4:28" }, { id = "1761328724", name = "$20 vs $200 MICROPHONE Pt.5", length = "5:02" }, { id = "1761328970", name = "$20 vs $200 MICROPHONE Pt.6", length = "4:40" }] },
+]
 spotify_release = { id = "7qn9LCR0l2J69JcmVBvXYi", name = "$20 vs $200 MICROPHONE", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "2hUtd4vo3vQwKYHtPRuksQ", name = "$20 vs $200 MICROPHONE Pt.1", length = "4:35" },

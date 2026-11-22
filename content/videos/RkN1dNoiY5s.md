@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPtFYpU0oJSOiKA1RABoJQBXDgX15NbnQVZY6B1R+/X3gSGYrUAD+6/9EVDnOiJFACkrmfWlqer5noPAoPaj8usS9lI7t+8Q5CrMB5PjUanU3pf0VoHUPc7UAAAA="
 spotify = "https://open.spotify.com/album/1CimJ1BRe38i03kWZTnh6U"
+apple_music = [
+  { url = "https://music.apple.com/us/album/alien-girl-ear-cleaning-single/1761411272", year = "2022", id = "1761411272", name = "ALIEN GIRL Ear Cleaning", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761411277", name = "ALIEN GIRL Ear Cleaning Pt.1", length = "4:51" }, { id = "1761411283", name = "ALIEN GIRL Ear Cleaning Pt.2", length = "4:58" }, { id = "1761411284", name = "ALIEN GIRL Ear Cleaning Pt.3", length = "5:00" }] },
+]
 spotify_release = { id = "1CimJ1BRe38i03kWZTnh6U", name = "ALIEN GIRL Ear Cleaning", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3Ply3RqJ5yXaIGw7sBqjbk", name = "ALIEN GIRL Ear Cleaning Pt.1", length = "4:51" },

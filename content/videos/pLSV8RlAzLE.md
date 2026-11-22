@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQBACdASogABIAPs1QpUunpCOhsBgMAPAZiWMAv+wyyNe1uoGDFL09WE67sNbO0AD+99FXouZ2ulYwBJ4GvYo5vvvm69ko39df48k0d0vJtjHPHoeUssKpgq+GUtE+NnT6Q2ZMoj2J6mAA"
 spotify = "https://open.spotify.com/album/3zPS9xNjofPiQ1RqZKNOLx"
+apple_music = [
+  { url = "https://music.apple.com/us/album/exam-vague-and-unsettling-ep/1770222304", year = "2023", id = "1770222304", name = "EXAM, Vague and Unsettling", type = "EP", date = "2023-06-06", cover = true, tracks = [{ id = "1770222307", name = "EXAM, Vague and Unsettling Pt.1", length = "4:46" }, { id = "1770222310", name = "EXAM, Vague and Unsettling Pt.2", length = "5:00" }, { id = "1770222311", name = "EXAM, Vague and Unsettling Pt.3", length = "4:56" }, { id = "1770222315", name = "EXAM, Vague and Unsettling Pt.4", length = "4:52" }, { id = "1770222316", name = "EXAM, Vague and Unsettling Pt.5", length = "4:53" }] },
+]
 spotify_release = { id = "3zPS9xNjofPiQ1RqZKNOLx", name = "EXAM, Vague and Unsettling", type = "EP", date = "2023-06-06", cover = true }
 spotify_tracks = [
   { id = "4X1lcLXU1UHK7DPeqfbnSP", name = "EXAM, Vague and Unsettling Pt.1", length = "4:46" },

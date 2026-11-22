@@ -9,6 +9,9 @@ length = "14:34"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPtFWpUwoJKOiMAgBABoJYwC7ABZNqxYgPNLfk8CEWq7XqwzgAP6r9a6T1qF07qxGIvl/I/+rH9QTt4OEpDQ6frXSbpKWJnqBM/OAe9NF0DtbhMzetv6uox+RKUpwQAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/gel-pad-tingly-treats-for-your-ears-single/1761636835", year = "2022", id = "1761636835", name = "GEL PAD Tingly Treats for Your Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761636850", name = "GEL PAD Tingly Treats for Your Ears Pt.1", length = "4:42" }, { id = "1761636851", name = "GEL PAD Tingly Treats for Your Ears Pt.2", length = "4:47" }, { id = "1761636855", name = "GEL PAD Tingly Treats for Your Ears Pt.3", length = "5:05" }] },
+]
 views = 74793
 likes = 1881
 comments = 317

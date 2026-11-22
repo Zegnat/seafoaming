@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASogABIAPsFQo0unpKOhsAwA8BgJQBadAvGJCwBrZDJz6XWlAAD+9FRw5zu8rjbAgs3eupkOhCLxY42uprJlwXljxEXA6m8PxO0pLKcks5t8xK1gAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/hypnotist-maru-makes-the-badness-go-away-ep/1761502631", year = "2022", id = "1761502631", name = "Hypnotist Maru Makes The Badness Go Away", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761502638", name = "Hypnotist Maru Makes The Badness Go Away Pt.1", length = "6:10" }, { id = "1761502759", name = "Hypnotist Maru Makes The Badness Go Away Pt.2", length = "5:29" }, { id = "1761502765", name = "Hypnotist Maru Makes The Badness Go Away Pt.3", length = "5:38" }, { id = "1761502769", name = "Hypnotist Maru Makes The Badness Go Away Pt.4", length = "6:04" }, { id = "1761502770", name = "Hypnotist Maru Makes The Badness Go Away Pt.5", length = "6:38" }] },
+]
 views = 161754
 likes = 4831
 comments = 418

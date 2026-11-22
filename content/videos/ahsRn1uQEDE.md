@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASogABIAPsVSoUunpKMhsAwA8BiJQBadA3QSWEZ99Ojex7iYCVce54AA/ubJEZDNWWSZYmvFKlCPUkIHrPYx+rLUQ8prkuInxxUMaD6Nq3Wyx0WY0ERU0tSu/CjfSOj413pvVh5sa2oLJ7wA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-pop-star-youre-my-1-fan-vip-hangout-by-the-pool-ep/1761684946", year = "2024", id = "1761684946", name = "ASMR - POP STAR - You're My #1 Fan! (VIP Hangout by the Pool)", type = "EP", date = "2024-08-30", cover = true, tracks = [{ id = "1761684948", name = "Water Drinking and Ranting About LARRY", length = "4:06" }, { id = "1761685807", name = "Fishnet Shirt Scratching With Long Nails", length = "7:35" }, { id = "1761685808", name = "Face Scratching", length = "2:34" }, { id = "1761685809", name = "Playing With Hair and Rambling", length = "3:14" }, { id = "1761685813", name = "Kissing & Whispers", length = "5:01" }, { id = "1761686071", name = "Positive Affirmations", length = "3:36" }] },
+]
 views = 95654
 likes = 2803
 comments = 166

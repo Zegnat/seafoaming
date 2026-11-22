@@ -9,6 +9,9 @@ length = "22:21"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASogABIAPtFUokuoJKMhsAgBABoJZWfkTuLOwjQJGUXtZNLoCAAA/vBbW38xA1gcOyDIlk0qUbLvNeacSSFQXT8yweePLc7GxgTi1XK63STIY91b1eQoTsujFgAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/twinkling-rainbow-lights-with-binaural-beats-and-soft/1761408130", year = "2022", id = "1761408130", name = "Twinkling Rainbow Lights with Binaural Beats and Soft Rain", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761408136", name = "Twinkling Rainbow Lights with Binaural Beats and Soft Rain Pt.1", length = "5:30" }, { id = "1761408138", name = "Twinkling Rainbow Lights with Binaural Beats and Soft Rain Pt.2", length = "5:45" }, { id = "1761408412", name = "Twinkling Rainbow Lights with Binaural Beats and Soft Rain Pt.3", length = "5:31" }, { id = "1761408413", name = "Twinkling Rainbow Lights with Binaural Beats and Soft Rain Pt.4", length = "5:35" }] },
+]
 views = 33735
 likes = 987
 comments = 210

@@ -9,6 +9,9 @@ length = "16:51"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBQCdASogABIAPtFYpEwoJSOiMAgBABoJZQC7M0LDTfRbN4UmC81Tub5cb7SjF0AqcAAA/rV79/nHhxnxJ0olB056Ss77k9CT0O5dFCO8X9s7Dl/H9hJtdqLPXvXUL7t21yAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/sr3d-pro-test-ear-massage-tapping-mouth-sounds-and/1745640483", year = "2022", id = "1745640483", name = "SR3D PRO Test, Ear Massage, Tapping, Mouth Sounds and Fabric Scratching", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745640484", name = "SR3D PRO Test, Ear Massage, Tapping, Mouth Sounds and Fabric Scratching Pt.1", length = "4:19" }, { id = "1745640486", name = "SR3D PRO Test, Ear Massage, Tapping, Mouth Sounds and Fabric Scratching Pt.2", length = "4:13" }, { id = "1745640487", name = "SR3D PRO Test, Ear Massage, Tapping, Mouth Sounds and Fabric Scratching Pt.3", length = "4:06" }, { id = "1745640489", name = "SR3D PRO Test, Ear Massage, Tapping, Mouth Sounds and Fabric Scratching Pt.4", length = "4:13" }] },
+]
 views = 82928
 likes = 1669
 comments = 368

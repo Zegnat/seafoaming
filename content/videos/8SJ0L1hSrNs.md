@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASogABIAPtFcp06oJSOiKAqpABoJQBWAAh6XaxF0AJy0MkiWyXwAAP5SJgd2gueOmtOgd9X0pts58XHXZpdeN9DFllD9UY0RKoP5CGKSDk9LPEq9W5CBiAEdG/37heuwAAA="
 spotify = "https://open.spotify.com/album/5etSEExCFeAjWTmtxTFMkz"
+apple_music = [
+  { url = "https://music.apple.com/us/album/long-nail-mic-scratching-ep/1761284402", year = "2022", id = "1761284402", name = "Long Nail Mic Scratching", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761284407", name = "Long Nail Mic Scratching Pt.1", length = "5:11" }, { id = "1761284408", name = "Long Nail Mic Scratching Pt.2", length = "5:10" }, { id = "1761284409", name = "Long Nail Mic Scratching Pt.4", length = "5:17" }, { id = "1761284410", name = "Long Nail Mic Scratching Pt.3", length = "5:12" }] },
+]
 spotify_release = { id = "5etSEExCFeAjWTmtxTFMkz", name = "Long Nail Mic Scratching", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "4dkj6FbFrx9BpS2pgSLliI", name = "Long Nail Mic Scratching Pt.1", length = "5:11" },

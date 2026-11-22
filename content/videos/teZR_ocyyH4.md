@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASogABIAPtFao00oJSMiKA1RABoJYwCkgAtPuQJxhwEKzOzOzAD5zcqqzUGPn2+R+FRZptlXq8DXA6rjxBzXz5AAHlSAxsFRtcQnK+voXjFR7iv1bSAjOaTBF59npM/zBVSX+6iLaAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/dragon-girl-warming-you-up-after-a-storm-single/1761625161", year = "2022", id = "1761625161", name = "Dragon Girl Warming You Up After a Storm", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761625165", name = "Dragon Girl Warming You Up After a Storm Pt.1", length = "3:53" }, { id = "1761625167", name = "Dragon Girl Warming You Up After a Storm Pt.3", length = "3:52" }, { id = "1761625169", name = "Dragon Girl Warming You Up After a Storm Pt.2", length = "4:02" }] },
+]
 views = 420468
 likes = 6009
 comments = 1000

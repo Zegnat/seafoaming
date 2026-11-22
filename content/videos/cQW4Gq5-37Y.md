@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPtFWokuoJKMhsAgBABoJQBfnAxfui6Z1g1V52vsjA+QWwUAgAAD+7Lr/hvcaNssF67x191y7RpMmkFUrKfhGe9di0Gy29mLcE6WVcmhDxKuewAAA"
 spotify = "https://open.spotify.com/album/6uFForAysFQlrGx84hangI"
+apple_music = [
+  { url = "https://music.apple.com/us/album/forest-spirit-smoke-cleansing-your-aura-ep/1761237580", year = "2022", id = "1761237580", name = "FOREST SPIRIT Smoke Cleansing Your Aura", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761237585", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.1", length = "4:46" }, { id = "1761237776", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.2", length = "4:47" }, { id = "1761237778", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.3", length = "4:41" }, { id = "1761237786", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.4", length = "4:29" }] },
+]
 spotify_release = { id = "6uFForAysFQlrGx84hangI", name = "FOREST SPIRIT Smoke Cleansing Your Aura", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "6AKMxkkT8OlzByJdRyP07Z", name = "FOREST SPIRIT Smoke Cleansing Your Aura Pt.1", length = "4:46" },

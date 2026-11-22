@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPr1Sn0unMSKht/qoAiAXiWUApxuoAJbkUZaHFhfRYraAAP6Qlwnk54LeZpJUCijSlyfMXG9rsv6P/cEqCSV6yUkFMjwyHNkay82Az8wj6muXEr84+4+oC9wA"
 spotify = "https://open.spotify.com/album/6YBS9IW2ccyFeADr0PQUZv"
+apple_music = [
+  { url = "https://music.apple.com/us/album/caring-friend-helping-you-sleep-single/1745658106", year = "2022", id = "1745658106", name = "CARING FRIEND Helping You Sleep", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745658266", name = "CARING FRIEND Helping You Sleep Pt.1", length = "4:37" }, { id = "1745658271", name = "CARING FRIEND Helping You Sleep Pt.2", length = "4:37" }, { id = "1745658273", name = "CARING FRIEND Helping You Sleep Pt.3", length = "4:37" }] },
+]
 spotify_release = { id = "6YBS9IW2ccyFeADr0PQUZv", name = "CARING FRIEND Helping You Sleep", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7BYJKrMYAwjA4MORLaqTNL", name = "CARING FRIEND Helping You Sleep Pt.1", length = "4:37" },

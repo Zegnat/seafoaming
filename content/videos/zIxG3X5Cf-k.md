@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASogABIAPsVQoUunpKMhsAwA8BiJYwCxHoAAGHtqcWZyJdbqAADW19dhw1RwptIBO3rcJtg2G64hV2/tLbdljMe45NXpzkosdAd4CLuPqNDQAAAA"
 spotify = "https://open.spotify.com/album/4p8FlRgl2Xh9hcCtIkqIWc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/miss-spooky-helps-you-recover-single/1745659229", year = "2022", id = "1745659229", name = "Miss Spooky Helps You Recover", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745659230", name = "Miss Spooky Helps You Recover Pt.1", length = "4:20" }, { id = "1745659232", name = "Miss Spooky Helps You Recover Pt.2", length = "4:21" }, { id = "1745659233", name = "Miss Spooky Helps You Recover Pt.3", length = "4:10" }] },
+]
 spotify_release = { id = "4p8FlRgl2Xh9hcCtIkqIWc", name = "Miss Spooky Helps You Recover", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3MCsDjoJ7QxUa0hXyAWzhr", name = "Miss Spooky Helps You Recover Pt.1", length = "4:20" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPtFWo0uoJKMhsAgBABoJQBOgAxigUSonJcGBWs+8sPZEgAD+70mVLccrFoWigaxjQiq/rXK2zz5HrpZmogqhQVEyZUe/EPRdMh0/N86A039HkR9cAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sensory-test-how-are-your-five-senses-single/1745667185", year = "2022", id = "1745667185", name = "SENSORY TEST, How Are Your Five Senses", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745667187", name = "SENSORY TEST, How Are Your Five Senses Pt.1", length = "4:09" }, { id = "1745667193", name = "SENSORY TEST, How Are Your Five Senses Pt.2", length = "4:08" }, { id = "1745667197", name = "SENSORY TEST, How Are Your Five Senses Pt.3", length = "4:04" }] },
+]
 views = 160467
 likes = 4728
 comments = 244

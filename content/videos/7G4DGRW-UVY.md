@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQBACdASogABIAPsFIn0unpCKht/qoAPAYCWUAuwAYouzRNmLIqQArdBQB78ty2AD+6innvd3woiGG9zIRORH7jFanRY7eIK0MnUBhWoxQhlqQ22ST2XeG/5d/UAAA"
 spotify = "https://open.spotify.com/album/0E2WQvWtvrS7IfkC04NYoc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/let-me-nom-ur-ears-single/1761651514", year = "2022", id = "1761651514", name = "Let Me Nom Ur Ears", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761651525", name = "Let Me Nom Ur Ears Pt.1", length = "5:17" }, { id = "1761651683", name = "Let Me Nom Ur Ears Pt.2", length = "5:48" }] },
+]
 spotify_release = { id = "0E2WQvWtvrS7IfkC04NYoc", name = "Let Me Nom Ur Ears", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2BFRk0KFoBHOub59MG7lUt", name = "Let Me Nom Ur Ears Pt.1", length = "5:17" },

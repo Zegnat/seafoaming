@@ -9,6 +9,9 @@ length = "23:25"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFUokuoJKMhsBgMAQAaCWUAtsgMbtH79V5exsYFbJcdjrsnAAD+Y0Wu3FrnWciFmwvVlp9mA4UQbcFud9zmsPGNCibqvnC0yL4K10FENqAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/astronaut-ice-cream-ep/1767047583", year = "2022", id = "1767047583", name = "ASTRONAUT ICE CREAM", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047586", name = "ASTRONAUT ICE CREAM Pt.4", length = "4:39" }, { id = "1767047589", name = "ASTRONAUT ICE CREAM Pt.5", length = "4:21" }, { id = "1767047592", name = "ASTRONAUT ICE CREAM Pt.1", length = "4:54" }, { id = "1767047596", name = "ASTRONAUT ICE CREAM Pt.2", length = "4:35" }, { id = "1767048020", name = "ASTRONAUT ICE CREAM Pt.3", length = "4:55" }] },
+]
 views = 58131
 likes = 2107
 comments = 273

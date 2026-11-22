@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASogABIAPr1Qn0unJSKvN/qoAeAXiWUAxnwYxQdfmYnYlwJ3hIAA/uohM3UmB/BEGFMl0j7Zfx2Pb0ImGqux5rh7cFKuiMaDp5+KPBEY3KuYLAAA"
 spotify = "https://open.spotify.com/album/5S2AtqRhWv0Jc9v8rJNEug"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tsundere-yokai-magical-forest-date-ep/1761650687", year = "2022", id = "1761650687", name = "TSUNDERE YOKAI Magical Forest Date", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761650962", name = "TSUNDERE YOKAI Magical Forest Date Pt.1", length = "5:04" }, { id = "1761650968", name = "TSUNDERE YOKAI Magical Forest Date Pt.2", length = "4:59" }, { id = "1761650970", name = "TSUNDERE YOKAI Magical Forest Date Pt.3", length = "4:57" }, { id = "1761650977", name = "TSUNDERE YOKAI Magical Forest Date Pt.5", length = "5:33" }, { id = "1761650985", name = "TSUNDERE YOKAI Magical Forest Date Pt.4", length = "4:58" }] },
+]
 spotify_release = { id = "5S2AtqRhWv0Jc9v8rJNEug", name = "TSUNDERE YOKAI Magical Forest Date", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1V05AXTnTF3VnIq3OxB3L2", name = "TSUNDERE YOKAI Magical Forest Date Pt.1", length = "5:04" },

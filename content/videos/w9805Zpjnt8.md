@@ -9,6 +9,9 @@ length = "11:25"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUAVgAYoHlxr8NBWjj/2Oal/3AAA/vfVroKG96du/nIjI62mFShlGxhO4Z6UYrES6kl4ChWDYra2gdkTrVS9ugl9CW4j9PXtHTGQgPtiVpHI3hEeqgAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/cranial-nerve-exam-single/1745642771", year = "2022", id = "1745642771", name = "Cranial Nerve Exam", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745642772", name = "CRANIAL NERVE EXAM Pt.1", length = "5:33" }, { id = "1745643198", name = "CRANIAL NERVE EXAM Pt.2", length = "5:52" }] },
+]
 views = 195898
 likes = 3466
 comments = 439

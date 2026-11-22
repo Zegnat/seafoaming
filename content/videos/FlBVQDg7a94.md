@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPtFYpEyoJSOiKA1RABoJQBUegZBTC3mis7qs3RTaX5eG9baXAAD+6pWKno0B+jhtqJJh+MJpJcLxwhE17eNz+qcy1SoBcrO5u3bzk+fgwpqYAY0NbZ2vN0D1zeAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/lets-relax-and-revitalize-our-skin-single/1761646459", year = "2022", id = "1761646459", name = "Let's Relax and Revitalize Our Skin", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761646463", name = "Let's Relax and Revitalize Our Skin Pt.1", length = "4:37" }, { id = "1761646467", name = "Let's Relax and Revitalize Our Skin Pt.2", length = "4:41" }, { id = "1761646470", name = "Let's Relax and Revitalize Our Skin Pt.3", length = "4:24" }] },
+]
 views = 28945
 likes = 1095
 comments = 373

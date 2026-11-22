@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBQCdASogABIAPtFQo0uoJCMhsBgMAQAaCWUAtOgQzUw7xXVkjwbXd+2ngXQWB4oAAP5S6WC223ulvjCLOhuftkGW2w7ATtoS6YEH0TaGSzuDStl6+9Z9FsmWxKze9Xx6AAAA"
 spotify = "https://open.spotify.com/album/1iEfCQW39U9474gOnUiXC7"
+apple_music = [
+  { url = "https://music.apple.com/us/album/moist-ep/1761417500", year = "2022", id = "1761417500", name = "moist", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761417505", name = "moist Pt.1", length = "4:51" }, { id = "1761417511", name = "moist Pt.2", length = "4:46" }, { id = "1761417518", name = "moist Pt.3", length = "4:56" }, { id = "1761417523", name = "moist Pt.4", length = "4:46" }, { id = "1761417861", name = "moist Pt.5", length = "4:47" }, { id = "1761417870", name = "moist Pt.6", length = "5:02" }] },
+]
 spotify_release = { id = "1iEfCQW39U9474gOnUiXC7", name = "moist", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3Wn0NXdSQ1GrwaWiyq89mt", name = "moist Pt.1", length = "4:51" },

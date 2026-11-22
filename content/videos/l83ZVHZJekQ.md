@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQBACdASogABIAPtFYo0uoJSMhsAgBABoJZQC7AClH2PKfb2Q6SxEC7x7QAP7wJRN4d641KZXkKM8umb+4Mz6i/6mi4SHjEVylQSqOX96ZDOSZaEJGHzFphZWiNzAAAAA="
 spotify = "https://open.spotify.com/album/3R5ITY0vXdqDqdjoiS0JdS"
+apple_music = [
+  { url = "https://music.apple.com/us/album/earhole-finger-poke-november-patron-appreciation-single/1761636476", year = "2022", id = "1761636476", name = "EARHOLE FINGER POKE November Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761636485", name = "EARHOLE FINGER POKE November Patron Appreciation Pt.1", length = "4:48" }, { id = "1761636491", name = "EARHOLE FINGER POKE November Patron Appreciation Pt.2", length = "4:45" }, { id = "1761636495", name = "EARHOLE FINGER POKE November Patron Appreciation Pt.3", length = "5:07" }] },
+]
 spotify_release = { id = "3R5ITY0vXdqDqdjoiS0JdS", name = "EARHOLE FINGER POKE November Patron Appreciation", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7sgPiNKQA5IlMxx3cXnUck", name = "EARHOLE FINGER POKE November Patron Appreciation Pt.1", length = "4:48" },

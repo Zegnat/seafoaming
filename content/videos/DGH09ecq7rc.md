@@ -9,6 +9,9 @@ length = "9:38"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPslSokunrKMht/VYAZAZCWUAvdAJD5yeIw/yajsfVAD8nMxCSozTfbFzpg4mC1ZfVmmrfNRSnNtXWnx6jlWFtook3hS/cmphsbHjlgXRVmSZ8AAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fluffy-ear-cleaning-and-brushing-sounds-with/1761622349", year = "2022", id = "1761622349", name = "Fluffy Ear Cleaning and Brushing Sounds with Whispers", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761622350", name = "Fluffy Ear Cleaning and Brushing Sounds with Whispers Pt.1", length = "4:35" }, { id = "1761622352", name = "Fluffy Ear Cleaning and Brushing Sounds with Whispers Pt.2", length = "5:03" }] },
+]
 views = 46433
 likes = 1152
 comments = 184

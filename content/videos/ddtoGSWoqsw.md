@@ -9,6 +9,9 @@ length = "16:18"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQBACdASogABIAPtFYpk0oJSOiMBgIAQAaCUAVhmzm6wSU8Xvs360/hBrenJvBAAD+8C6di4f7iQm730nkG5gcmmmGRRtzX/mUyRDF8FRb/TFTwRuRYWXCLD1V2J2Iffb5V8T4buhwrJ+8jm+9GVLAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/cat-rp-morning-kitty-snuggles-pestering-and-fabric/1761652318", year = "2022", id = "1761652318", name = "Cat RP Morning Kitty Snuggles, Pestering, and Fabric Scratching", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761652324", name = "Cat RP Morning Kitty Snuggles, Pestering, and Fabric Scratching Pt.1", length = "4:11" }, { id = "1761652328", name = "Cat RP Morning Kitty Snuggles, Pestering, and Fabric Scratching Pt.2", length = "4:02" }, { id = "1761652332", name = "Cat RP Morning Kitty Snuggles, Pestering, and Fabric Scratching Pt.3", length = "3:58" }, { id = "1761652338", name = "Cat RP Morning Kitty Snuggles, Pestering, and Fabric Scratching Pt.4", length = "4:06" }] },
+]
 views = 185842
 likes = 4393
 comments = 1100

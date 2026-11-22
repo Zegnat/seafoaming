@@ -9,6 +9,9 @@ length = "14:45"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAwCdASogABIAPsVQoEunpKMhsAwA8BiJQBOmWXkQBrIeuocP8AD+6jWm8dLd+45qXczHkB1HDrFVEla70eLM7yXNJ2DXicHCRckZAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/unintelligible-smiles-single/1761326568", year = "2022", id = "1761326568", name = "UNINTELLIGIBLE SMILES", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761326780", name = "UNINTELLIGIBLE SMILES Pt.1", length = "4:37" }, { id = "1761326781", name = "UNINTELLIGIBLE SMILES Pt.2", length = "4:46" }, { id = "1761326783", name = "UNINTELLIGIBLE SMILES Pt.3", length = "5:22" }] },
+]
 views = 85175
 likes = 3047
 comments = 490

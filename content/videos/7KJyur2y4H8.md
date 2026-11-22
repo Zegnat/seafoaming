@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQBACdASogABIAPslSoEunpKMhsAwA8BkJZQDImCFsehjjeUOICwH1Cpl4lihYAAD+cL/ZLHzq6WNiVytI/bgWf7ojrmSGVn36C76XdACO0sPVvnghmloAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/friendly-alien-personal-attention-lotion-ear-massage/1747804931", year = "2022", id = "1747804931", name = "Friendly Alien Personal Attention, Lotion Ear Massage, And Mouth Sounds", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1747804932", name = "Friendly Alien Personal Attention, Lotion Ear Massage, And Mouth Sounds Pt.2", length = "4:45" }, { id = "1747804936", name = "Friendly Alien Personal Attention, Lotion Ear Massage, And Mouth Sounds Pt.1", length = "4:53" }, { id = "1747804937", name = "Friendly Alien Personal Attention, Lotion Ear Massage, And Mouth Sounds Pt.3", length = "4:46" }, { id = "1747804938", name = "Friendly Alien Personal Attention, Lotion Ear Massage, And Mouth Sounds Pt.4", length = "5:06" }] },
+]
 views = 546665
 likes = 5787
 comments = 697

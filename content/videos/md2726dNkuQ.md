@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASogABIAPsFOn0unpCKht/qoAPAYCWUAuwAeAufVRVv18Jk73nx1Ys+fSMAA+m7EG/bqBMmOiysBL5zV+NJ99RRR/zUfVdoxiTgwpVacmnbNlibq4KQqDQuOopG2N4uSLS8AAA=="
 spotify = "https://open.spotify.com/album/4bSDY7eyWWHUc1188OcufU"
+apple_music = [
+  { url = "https://music.apple.com/us/album/trying-ombre-purple-wig-single/1761612682", year = "2022", id = "1761612682", name = "Trying Ombre Purple Wig", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761612694", name = "Trying Ombre Purple Wig Pt.1", length = "5:12" }, { id = "1761612699", name = "Trying Ombre Purple Wig Pt.2", length = "5:06" }, { id = "1761612702", name = "Trying Ombre Purple Wig Pt.3", length = "5:00" }] },
+]
 spotify_release = { id = "4bSDY7eyWWHUc1188OcufU", name = "Trying Ombre Purple Wig", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5RTjtklqkbcDR4mZzZAVw3", name = "Trying Ombre Purple Wig Pt.1", length = "5:12" },

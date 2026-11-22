@@ -9,6 +9,9 @@ length = "11:21"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPr1QnkunJSKht/qoAOAXiWMAuwAXsbQa9Ud4Fj+9UTu2afjAAPpidRG8ymm4SuDV3BYRd4bPwmVBr5Cat652PJpSXAqNNTCRuektb+udnXnn6BsT9CfATesUQUKHMIAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/oiled-ear-massage-and-whispers-for-your-relaxation-single/1761415141", year = "2022", id = "1761415141", name = "Oiled Ear Massage and Whispers for Your Relaxation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761415190", name = "Oiled Ear Massage and Whispers for Your Relaxation Pt.1", length = "5:25" }, { id = "1761415192", name = "Oiled Ear Massage and Whispers for Your Relaxation Pt.2", length = "5:56" }] },
+]
 views = 78076
 likes = 1496
 comments = 306

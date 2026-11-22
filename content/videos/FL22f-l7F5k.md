@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPslYpEunpaOhsBgMAPAZCWQAAIL8DUc59208oJqLmlQOg6EQ8ADOOfPLT9Z0RR5x9ZugUsabqXE/TevwbhBKY4jcmw1yoCYS17FQmSNzoRuAgypY/rdSdiE9sbkAn74YAAA="
 spotify = "https://open.spotify.com/album/3SV26tZbOkUwYw9hfWXvUD"
+apple_music = [
+  { url = "https://music.apple.com/us/album/bitchy-girlfriend-nagging-and-insulting-you-to-death/1745646259", year = "2022", id = "1745646259", name = "BITCHY Girlfriend Nagging and Insulting You to Death", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745646348", name = "BITCHY Girlfriend Nagging and Insulting You to Death", length = "6:10" }] },
+]
 spotify_release = { id = "3SV26tZbOkUwYw9hfWXvUD", name = "BITCHY Girlfriend Nagging and Insulting You to Death", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1WTFcI1BikqT1mW35K2YOj", name = "BITCHY Girlfriend Nagging and Insulting You to Death", length = "6:10" },

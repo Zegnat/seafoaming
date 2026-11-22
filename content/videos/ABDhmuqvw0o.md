@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFQo0woJCMiMBgMAQAaCWUAuKgyyuckXUyiNPLpaGVRErOjMLAA/vfGVaA3E+KDjxZBbJnja8yGSGzNI9BvSMpJZC5FRUVQeI2IImqvzvrJ/fRTzy/OAAAA"
 spotify = "https://open.spotify.com/album/2yJBQ6QOEQruTZcZHHMqmP"
+apple_music = [
+  { url = "https://music.apple.com/us/album/relaxing-oily-massage-with-whispers-single/1761284587", year = "2022", id = "1761284587", name = "Relaxing Oily Massage with Whispers", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761284589", name = "Relaxing Oily Massage with Whispers Pt.1", length = "3:53" }, { id = "1761284592", name = "Relaxing Oily Massage with Whispers Pt.2", length = "3:51" }, { id = "1761284595", name = "Relaxing Oily Massage with Whispers Pt.3", length = "3:48" }] },
+]
 spotify_release = { id = "2yJBQ6QOEQruTZcZHHMqmP", name = "Relaxing Oily Massage with Whispers", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7bFDOIRWrvBXSdiyOTxXyA", name = "Relaxing Oily Massage with Whispers Pt.1", length = "3:53" },

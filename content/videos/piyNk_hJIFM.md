@@ -9,6 +9,9 @@ length = "25:38"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBQCdASogABIAPsFMn0unpCKht/qoAPAYCWIAnTMhguXTKZIrgpw76UNZo3dM/AQAAN2b2eLbe9MQQHx0RWAkH+PG3gvuDcC5Ju26/tkeDdpWO8EkgSMyUmqxA92X5pOlwsZaTUlDpCWQNmKzLQAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/pampering-myself-ep/1761289829", year = "2022", id = "1761289829", name = "PAMPERING MYSELF", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761289833", name = "PAMPERING MYSELF Pt.1", length = "5:09" }, { id = "1761289836", name = "PAMPERING MYSELF Pt.2", length = "5:07" }, { id = "1761289839", name = "PAMPERING MYSELF Pt.3", length = "5:11" }, { id = "1761289841", name = "PAMPERING MYSELF Pt.4", length = "5:18" }, { id = "1761289842", name = "PAMPERING MYSELF Pt.5", length = "4:53" }] },
+]
 views = 52083
 likes = 2033
 comments = 367

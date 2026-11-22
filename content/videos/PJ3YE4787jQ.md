@@ -10,6 +10,9 @@ status_message = "Video unavailable. This video has been removed by the uploader
 status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASogABIAPtFcpEwoJaOiMAgBABoJZQC1G48qfJD01y4JCyn3D3DVMFKVgAD+nqLhDkj6Y1elqoMQjzqrof3pHt6N0yHUyFCI54wn6eS75I1IURVuBsEMBCQvCICgBPAAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-things-single/1761621070", year = "2022", id = "1761621070", name = "EAR THINGS", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761621071", name = "EAR THINGS Pt.1", length = "4:48" }, { id = "1761621077", name = "EAR THINGS Pt.2", length = "5:08" }] },
+]
 comments_off = false
 fetched = 2026-11-21
 source = "asmrindex"

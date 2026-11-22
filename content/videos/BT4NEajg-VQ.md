@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPtFcpEyoJSOisBgIAQAaCUAVhnHYgJLhivXcnH7U/UQAAPmsID8LdGqcA1cR2zVgObfGZTgMkt/70ivWZ/CqG8b7DdHxFY3zGZUae6X1/StCN2pVxuUAoAAA"
 spotify = "https://open.spotify.com/album/5VDgz7G9nL6IdcR2ewZC4Z"
+apple_music = [
+  { url = "https://music.apple.com/us/album/heartbeat-sounds-single/1761334362", year = "2022", id = "1761334362", name = "Heartbeat Sounds", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761334364", name = "Heartbeat Sounds Pt.3", length = "4:03" }, { id = "1761334366", name = "Heartbeat Sounds Pt.1", length = "4:02" }, { id = "1761334819", name = "Heartbeat Sounds Pt.2", length = "4:06" }] },
+]
 spotify_release = { id = "5VDgz7G9nL6IdcR2ewZC4Z", name = "Heartbeat Sounds", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0re34KCQPJpJ86zmKo5S7G", name = "Heartbeat Sounds Pt.3", length = "4:03" },

@@ -9,6 +9,9 @@ length = "21:09"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwBACdASogABIAPslSn0unpKKhsAwA8BkJZAC7M2QDO/cW2971CKcEDaTzAPaAAP7xiGmU+B2yxXx9MFzV2zPspSKfxP1KYQ4AuWbXbluoKDTxCvpKEe3RhJREUOCfTzSruwSY+4mAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-your-ex-bully-is-now-your-personal-assistant-because/1772460798", year = "2024", id = "1772460798", name = "ASMR - Your Ex-Bully Is Now Your Personal Assistant (Because You Pay Her Rent)", type = "EP", date = "2024-10-25", cover = true, tracks = [{ id = "1772461282", name = "Starting with a Little Cute Story", length = "3:56" }, { id = "1772461284", name = "Kisses & Scratching", length = "5:48" }, { id = "1772461286", name = "Showing You Items to Distract You", length = "4:56" }, { id = "1772461287", name = "Wearing Gloves & Whispers", length = "3:21" }, { id = "1772461288", name = "Soft Spoken Outro", length = "3:08" }] },
+]
 views = 103180
 likes = 2718
 comments = 143

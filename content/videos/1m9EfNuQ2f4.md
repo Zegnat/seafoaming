@@ -9,6 +9,9 @@ length = "14:07"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQBACdASogABIAPslSn0unpKKhsAwA8BkJZQC+SCG7iVZacsXNsTWZnhBHxQAA+NJr5l+KU98ExduIhN2V3/VMf4LMnC9BDQWgDUrNqSaM5rHkAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/tongue-clicking-single/1761653240", year = "2022", id = "1761653240", name = "TONGUE CLICKING", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761653250", name = "TONGUE CLICKING Pt.1", length = "4:42" }, { id = "1761653258", name = "TONGUE CLICKING Pt.2", length = "4:23" }, { id = "1761653267", name = "TONGUE CLICKING Pt.3", length = "5:02" }] },
+]
 views = 200259
 likes = 5070
 comments = 532

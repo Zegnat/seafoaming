@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPtFQokwoJCMiMBgMAQAaCUAXYApGDHsVCPDEncCv+ORBHPCgAP7CM0tuLuPtwERifwca79m8IQPGOpaKFj1muxiC1KhnvmtO/IVR52/RrYpB68PT40FCDUao8xs8g4PY2AAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/unboxing-and-whisper-ep/1761309586", year = "2022", id = "1761309586", name = "UNBOXING AND WHISPER", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761309923", name = "UNBOXING AND WHISPER Pt.1", length = "4:00" }, { id = "1761309927", name = "UNBOXING AND WHISPER Pt.3", length = "4:02" }, { id = "1761309932", name = "UNBOXING AND WHISPER Pt.2", length = "4:16" }, { id = "1761309934", name = "UNBOXING AND WHISPER Pt.4", length = "4:26" }] },
+]
 views = 48461
 likes = 1529
 comments = 186

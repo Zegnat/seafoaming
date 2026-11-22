@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFapUyoJSOiMBgIAQAaCWUAt7gPRXArsoBu8WeAZBhgecW1CAD+VtdaZw7FTa/rXPcJkly8Kl9AyTuvagt1EY/GCQhrIeZL9mwqzEDsL4AAAA=="
 spotify = "https://open.spotify.com/album/3FvPCDwsKaeqSUX5XP2FqK"
+apple_music = [
+  { url = "https://music.apple.com/us/album/a-video-within-a-video/1761616201", year = "2022", id = "1761616201", name = "A Video Within a Video", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761616206", name = "A Video Within a Video Pt.1", length = "5:16" }, { id = "1761616211", name = "A Video Within a Video Pt.2", length = "5:00" }, { id = "1761616436", name = "A Video Within a Video Pt.3", length = "5:08" }, { id = "1761616443", name = "A Video Within a Video Pt.4", length = "5:08" }, { id = "1761616446", name = "A Video Within a Video Pt.5", length = "5:08" }, { id = "1761616449", name = "A Video Within a Video Pt.6", length = "5:08" }] },
+]
 spotify_release = { id = "3FvPCDwsKaeqSUX5XP2FqK", name = "A Video Within a Video", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3IcloG4JTx4bNTMFSMPpmi", name = "A Video Within a Video Pt.1", length = "5:16" },

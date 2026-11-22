@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFUokuoJKMhsAgBABoJYgC7ABnePN91bhZX5xHwb/PAHuAA/nauICCySOQ5IC8aOffw6trhr/ihpP/UiF8c/s5bvNywEfV/+0mNtpTyfC9P1kTv+mUz4BM8/BK3IgxFwAA="
 spotify = "https://open.spotify.com/album/63ITYGWZdHvy83B7Sf95vM"
 spotify_podcast = "https://open.spotify.com/episode/0zeGsFDoC0ePSaZPnPF7pe"
+apple_music = [
+  { url = "https://music.apple.com/us/album/oily-massage-silky-ear-attention-ep/6825057756", year = "2026", id = "6825057756", name = "Oily Massage - Silky Ear Attention", type = "EP", date = "2026-11-06", cover = true, tracks = [{ id = "6825057767", name = "Warm Welcome", length = "5:27" }, { id = "6825058237", name = "Jelly Pads, Silky Smooth Strokes", length = "4:56" }, { id = "6825058239", name = "Tentacle Gloves, Deep Intense Sounds", length = "5:23" }, { id = "6825058240", name = "Slow Finish and Drifting Off", length = "4:17" }] },
+]
 spotify_release = { id = "63ITYGWZdHvy83B7Sf95vM", name = "Oily Massage - Silky Ear Attention", type = "EP", date = "2026-11-06", cover = true }
 spotify_tracks = [
   { id = "3vtz10JbD6yckgPpZ5B2SJ", name = "Warm Welcome", length = "5:27" },

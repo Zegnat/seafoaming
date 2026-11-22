@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPtFcp04oJSOiKAqpABoJQBYdgYnncL3Cp6xsEUt4UAAA/ozr9E5caqAqmc+vWltC1FrZr5svWZKD1kDvrzzuRkW+sns9HO+lEbPVjJMRhmiWxsAA"
 spotify = "https://open.spotify.com/album/2TSgo6LqTFYnDxKpAxBc39"
+apple_music = [
+  { url = "https://music.apple.com/us/album/raw-honeycomb-sticky-eating-sounds-ep/1761638474", year = "2022", id = "1761638474", name = "RAW HONEYCOMB Sticky Eating Sounds", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761638599", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.1", length = "4:42" }, { id = "1761638602", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.2", length = "4:34" }, { id = "1761638616", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.3", length = "4:49" }, { id = "1761638619", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.4", length = "4:43" }, { id = "1761638622", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.5", length = "5:24" }] },
+]
 spotify_release = { id = "2TSgo6LqTFYnDxKpAxBc39", name = "RAW HONEYCOMB Sticky Eating Sounds", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "1C1MahaEnuzKFyW3GdY5hq", name = "RAW HONEYCOMB Sticky Eating Sounds Pt.1", length = "4:42" },

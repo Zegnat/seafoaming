@@ -13,6 +13,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASogABIAPslUnkunpKKhsAwA8BkJZQC+SCmQBb/C/TlMesAA/u6IT7Kv8olHrNOTWGQStQ+9fVgpoN4qgLMlpeE3IqDY2aiMYjMKCC7X3wAAAA=="
 spotify = "https://open.spotify.com/album/4IKE7woHaT3e96KPeZMzZb"
+apple_music = [
+  { url = "https://music.apple.com/us/album/dabloons-catgirl-greetings-traveler-ep/1770221920", year = "2022", id = "1770221920", name = "DABLOONS CATGIRL, Greetings Traveler", type = "EP", date = "2022-12-12", cover = true, tracks = [{ id = "1770221921", name = "DABLOONS CATGIRL, Greetings Traveler Pt.1", length = "5:30" }, { id = "1770221922", name = "DABLOONS CATGIRL, Greetings Traveler Pt.2", length = "5:30" }, { id = "1770221923", name = "DABLOONS CATGIRL, Greetings Traveler Pt.3", length = "5:30" }, { id = "1770221924", name = "DABLOONS CATGIRL, Greetings Traveler Pt.4", length = "5:30" }] },
+]
 spotify_release = { id = "4IKE7woHaT3e96KPeZMzZb", name = "DABLOONS CATGIRL, Greetings Traveler", type = "EP", date = "2022-12-12", cover = true }
 spotify_tracks = [
   { id = "6CCuo2tvtFurlQgz6aETbX", name = "DABLOONS CATGIRL, Greetings Traveler Pt.1", length = "5:30" },

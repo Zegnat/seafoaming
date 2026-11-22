@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQBACdASogABIAPsFKoEunpCMht/qoAPAYCUAVJHqQHsncsozCXTymofNZ4gU0AAD96CLjtA9hedHLepEl3kcpTIl7DTJNEnwpi4bLcmNfiaBslKiP6W8GMfA/hjVU6/JeL81p8/AAAA=="
 spotify = "https://open.spotify.com/album/4st5qaXEpJML0tqAJr0XOO"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fluffy-mic-march-patron-appreciation-ep/1740470949", year = "2022", id = "1740470949", name = "FLUFFY MIC March Patron Appreciation", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1740470952", name = "FLUFFY MIC March Patron Appreciation Pt.1", length = "4:14" }, { id = "1740470953", name = "FLUFFY MIC March Patron Appreciation Pt.2", length = "4:20" }, { id = "1740470954", name = "FLUFFY MIC March Patron Appreciation Pt.3", length = "4:05" }, { id = "1740470956", name = "FLUFFY MIC March Patron Appreciation Pt.4", length = "4:44" }] },
+]
 spotify_release = { id = "4st5qaXEpJML0tqAJr0XOO", name = "FLUFFY MIC March Patron Appreciation", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5CZjvKpjlZHtm2bVH4AkpM", name = "FLUFFY MIC March Patron Appreciation Pt.1", length = "4:14" },

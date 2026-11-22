@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFcpEyoJaOiMBgIAQAaCWMAuwANEsNsp0RMm8EqxeCTk7RnFOPAAP7oi+jc61Lo58aXg+pIcGW51K7m0j3y350gEYjVHAH3qrykPt67PDKfESinXAw3tm6nVyITipAA"
 spotify = "https://open.spotify.com/album/0dLWQSDGFZXD3UpnVAbmg4"
+apple_music = [
+  { url = "https://music.apple.com/us/album/rude-makeup-artist/1767046919", year = "2022", id = "1767046919", name = "Rude Makeup Artist", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1767046920", name = "Rude Makeup Artist Pt.1", length = "7:27" }, { id = "1767046921", name = "Rude Makeup Artist Pt.2", length = "5:35" }, { id = "1767046925", name = "Rude Makeup Artist Pt.3", length = "6:50" }, { id = "1767046926", name = "Rude Makeup Artist Pt.4", length = "6:04" }, { id = "1767046927", name = "Rude Makeup Artist Pt.5", length = "5:32" }, { id = "1767046928", name = "Rude Makeup Artist Pt.6", length = "5:19" }] },
+]
 spotify_release = { id = "0dLWQSDGFZXD3UpnVAbmg4", name = "Rude Makeup Artist", type = "Album", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "24Vq7bAkDwEbPkE8To6aV4", name = "Rude Makeup Artist Pt.1", length = "7:27" },

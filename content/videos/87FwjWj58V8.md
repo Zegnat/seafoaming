@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogABIAPtFcpk4oJSOiKAqpABoJQBUehgyJCN8BQIs2oJvtFz0YAP7rVuGHvWlMmmP3U1BI0igPV/rW7yT4NaLvxc+pCTp0J5GOW2AJ4jHbGou04TnTvzbJl7mxdJ69RBUJu0COmlhAAA=="
 spotify = "https://open.spotify.com/album/62OLaIYl6fNnDyKcooRz6v"
+apple_music = [
+  { url = "https://music.apple.com/us/album/long-nails-tapping-on-assorted-objects-ep/1745656240", year = "2022", id = "1745656240", name = "LONG NAILS Tapping on Assorted Objects", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745656242", name = "LONG NAILS Tapping on Assorted Objects Pt.1", length = "5:07" }, { id = "1745656244", name = "LONG NAILS Tapping on Assorted Objects Pt.2", length = "5:00" }, { id = "1745656468", name = "LONG NAILS Tapping on Assorted Objects Pt.3", length = "5:04" }, { id = "1745656470", name = "LONG NAILS Tapping on Assorted Objects Pt.4", length = "4:51" }, { id = "1745656471", name = "LONG NAILS Tapping on Assorted Objects Pt.5", length = "5:15" }] },
+]
 spotify_release = { id = "62OLaIYl6fNnDyKcooRz6v", name = "LONG NAILS Tapping on Assorted Objects", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0s0KPJ9gEq19ijHBS4GjnO", name = "LONG NAILS Tapping on Assorted Objects Pt.1", length = "5:07" },

@@ -9,6 +9,9 @@ length = "12:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwBACdASogABIAPs1WokunpKchsBgMAPAZiUAToAEm8NsajIYizodjUlEZqLYAANrV417U474tsDVuwbMqAriNlopNA5M+UIPi37K7m00yGPdGHe518d2O47idUFnApIP0DDMKBMN6IR53rzPztQAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/nail-on-nail-tapping-single/1767048329", year = "2022", id = "1767048329", name = "NAIL ON NAIL TAPPING", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767048332", name = "NAIL ON NAIL TAPPING Pt.1", length = "4:15" }, { id = "1767048335", name = "NAIL ON NAIL TAPPING Pt.2", length = "4:19" }, { id = "1767048338", name = "NAIL ON NAIL TAPPING Pt.3", length = "3:47" }] },
+]
 views = 84190
 likes = 2099
 comments = 265

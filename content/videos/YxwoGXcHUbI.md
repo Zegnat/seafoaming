@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQBACdASogABIAPtFapUwoJSOiMAgBABoJYwC+SCHcN5yqZ7F2cAtrGZ/gAP7N5IDUbUnv0TbhHXFT0428k4n49ZYmStWfyTNikHZD4+LhlDkvsUr6eGfF69THCUiESFbl0y3dQ+iqWZ/RnjxAAA=="
 spotify = "https://open.spotify.com/album/1OLkn2rX7b7SdTJdvvCG9S"
+apple_music = [
+  { url = "https://music.apple.com/us/album/cutting-soap-and-carving-a-bunny/1761646409", year = "2022", id = "1761646409", name = "Cutting Soap and Carving a Bunny", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761646412", name = "Cutting Soap and Carving a Bunny Pt.2", length = "5:18" }, { id = "1761646417", name = "Cutting Soap and Carving a Bunny Pt.1", length = "5:21" }, { id = "1761646422", name = "Cutting Soap and Carving a Bunny Pt.3", length = "5:20" }, { id = "1761646425", name = "Cutting Soap and Carving a Bunny Pt.4", length = "5:18" }, { id = "1761646520", name = "Cutting Soap and Carving a Bunny Pt.5", length = "5:20" }, { id = "1761646532", name = "Cutting Soap and Carving a Bunny Pt.6", length = "5:21" }, { id = "1761646542", name = "Cutting Soap and Carving a Bunny Pt.7", length = "5:21" }, { id = "1761646547", name = "Cutting Soap and Carving a Bunny Pt.8", length = "5:22" }, { id = "1761646759", name = "Cutting Soap and Carving a Bunny Pt.9", length = "5:13" }] },
+]
 spotify_release = { id = "1OLkn2rX7b7SdTJdvvCG9S", name = "Cutting Soap and Carving a Bunny", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "3v7tceucjyNLMm3eCs6Awn", name = "Cutting Soap and Carving a Bunny Pt.2", length = "5:18" },

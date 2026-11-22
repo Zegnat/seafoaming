@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFgpk6oJaMiKAqpABoJZQC7LwA0/0NFglILIKbIZU153rlMVnGIAP7X5FP0FeEq0AI1oAJXDG3OjopMFchRCqorHKupyHdw5zjisVE0hIRu8+LdZhbpx2jAVQ5QAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-attention-single/1767047698", year = "2022", id = "1767047698", name = "EAR ATTENTION", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767047699", name = "EAR ATTENTION Pt.1", length = "3:58" }, { id = "1767047700", name = "EAR ATTENTION Pt.2", length = "3:58" }, { id = "1767047705", name = "EAR ATTENTION Pt.3", length = "3:49" }] },
+]
 views = 183258
 likes = 4267
 comments = 333

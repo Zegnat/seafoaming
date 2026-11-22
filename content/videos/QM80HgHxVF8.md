@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwBACdASogABIAPtFUokuoJKMhsAgBABoJYgCdABjEY3Xl6R4aCuPfEyQV6eMAAPwM72ycEb2rcfauB5kjufNr/bPRYrRXTWZlkGWJCtgE2cp90Ka2P2Z64jDVcBEKoFgcxr8EcKErQ5SvjfiBviAA"
 spotify = "https://open.spotify.com/album/6cy94ZyX12U2X3U5HwOILk"
+apple_music = [
+  { url = "https://music.apple.com/us/album/protector-keeping-you-safe-ep/1761293959", year = "2022", id = "1761293959", name = "PROTECTOR, Keeping You Safe", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761293961", name = "PROTECTOR, Keeping You Safe Pt.1", length = "4:55" }, { id = "1761293964", name = "PROTECTOR, Keeping You Safe Pt.2", length = "4:51" }, { id = "1761293965", name = "PROTECTOR, Keeping You Safe Pt.3", length = "4:51" }, { id = "1761293968", name = "PROTECTOR, Keeping You Safe Pt.4", length = "4:50" }, { id = "1761293971", name = "PROTECTOR, Keeping You Safe Pt.5", length = "4:52" }] },
+]
 spotify_release = { id = "6cy94ZyX12U2X3U5HwOILk", name = "PROTECTOR, Keeping You Safe", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "6ROxOjGDUxT3tLIkslWRww", name = "PROTECTOR, Keeping You Safe Pt.1", length = "4:55" },

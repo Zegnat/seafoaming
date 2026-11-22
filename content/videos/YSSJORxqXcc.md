@@ -9,6 +9,9 @@ length = "23:38"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASogABIAPr1OnkunJCKht/qoAOAXiWIAsR9kAuTywL3ztB5n88gA2Lb6CpFsAAD+7QQ6UFiC2iGfrMeSKNlipExN2dXkEar3PDrvFCOZDMqhW1U1UKuP3Ey3goZ50RzWJx+TgngAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-guess-the-trigger-or-perish-whispers-mystery/1760580522", year = "2024", id = "1760580522", name = "ASMR - Guess The Trigger Or Perish! Whispers & Mystery Sounds + Big Update", type = "Album", date = "2024-08-23", cover = true, tracks = [{ id = "1760580527", name = "Life Updates", length = "2:48" }, { id = "1760580710", name = "Guess the Trigger! Trigger 1", length = "4:12" }, { id = "1760580712", name = "Trigger 2", length = "2:47" }, { id = "1760580714", name = "Trigger 3", length = "3:32" }, { id = "1760580715", name = "Trigger 4 & 5", length = "4:39" }, { id = "1760580738", name = "Trigger 6", length = "2:24" }, { id = "1760580933", name = "Trigger 7", length = "3:16" }] },
+]
 views = 55400
 likes = 1212
 comments = 112

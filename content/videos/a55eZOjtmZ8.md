@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQBACdASogABIAPtFWpUyoJKOiKA1RABoJQBOgAiMMCMvMbCUgyFzr6Occcxc5gAD+tfOtbbcqZvGOX6JnJgdYgjdyfWEnJ9LEkijp5I77dBhXE9DhiEAik2PVJmhSpCzgndsDmkd30qYAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/meeting-a-princess-ep/1767048014", year = "2022", id = "1767048014", name = "MEETING A PRINCESS", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767048016", name = "MEETING A PRINCESS Pt.1", length = "4:43" }, { id = "1767048017", name = "MEETING A PRINCESS Pt.2", length = "4:34" }, { id = "1767048229", name = "MEETING A PRINCESS Pt.3", length = "4:40" }, { id = "1767048230", name = "MEETING A PRINCESS Pt.4", length = "4:41" }, { id = "1767048232", name = "MEETING A PRINCESS Pt.5", length = "4:37" }] },
+]
 views = 335502
 likes = 7074
 comments = 1200

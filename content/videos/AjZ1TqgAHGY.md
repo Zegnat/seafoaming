@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPs1QokunpKMht/VYAPAZiUAVHoIVv6PDyufEbcv2iJ2TwFHgNbAA/pZ77ul1wH3sW6eHOhUoZBN4ElbaBWlmPGuM74Az0533jaoihRiSTaVGilkQ2AKZqgnirvog+m3GAAA="
 spotify = "https://open.spotify.com/album/4Sw30qvz79IV0tjHIjrlet"
+apple_music = [
+  { url = "https://music.apple.com/us/album/trigger-time-ep/1825744110", year = "2022", id = "1825744110", name = "TRIGGER TIME", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1825744113", name = "TRIGGER TIME Pt.3", length = "5:10" }, { id = "1825744115", name = "TRIGGER TIME Pt.2", length = "4:44" }, { id = "1825744116", name = "TRIGGER TIME Pt.1", length = "5:06" }, { id = "1825744118", name = "TRIGGER TIME Pt.4", length = "4:59" }, { id = "1825744121", name = "TRIGGER TIME Pt.5", length = "4:40" }] },
+]
 spotify_release = { id = "4Sw30qvz79IV0tjHIjrlet", name = "TRIGGER TIME", type = "EP", date = "2020-09-25", cover = true }
 spotify_tracks = [
   { id = "5aENNqNpnpVyIjRlbFq7fQ", name = "TRIGGER TIME Pt.1", length = "5:06" },

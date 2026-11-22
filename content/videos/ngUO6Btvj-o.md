@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPr1Sn0unJSMht/qoAOAXiWIAuwAbmaodP1cxOBw3bUG7Qb4ctYAA/ozr1RjDIjQlC8t6VpLMerAq5Ua8pfbf7lBDwvYMtgQKJneUIUlAczx8zHXzZQoOgY302mnm3EA+JAA="
 spotify = "https://open.spotify.com/album/6CurS2FlkenxlwsFmtq3Ey"
+apple_music = [
+  { url = "https://music.apple.com/us/album/a-badness-emergency-ep/1761315622", year = "2022", id = "1761315622", name = "A Badness Emergency", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761315626", name = "A Badness Emergency Pt.1", length = "4:59" }, { id = "1761315630", name = "A Badness Emergency Pt.2", length = "5:05" }, { id = "1761315635", name = "A Badness Emergency Pt.3", length = "5:08" }, { id = "1761315647", name = "A Badness Emergency Pt.4", length = "5:28" }] },
+]
 spotify_release = { id = "6CurS2FlkenxlwsFmtq3Ey", name = "A Badness Emergency", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "79GSDQFBJRO5Fdhz5AvplW", name = "A Badness Emergency Pt.1", length = "4:59" },

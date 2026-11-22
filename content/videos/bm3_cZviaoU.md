@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFcpEwoJaOiMAgBABoJZQDDNBtpeaF3Xr8ZUnaXJy0g5mgAAPxcjEcixnXnurlC6sJq01D3OwyTghEeGWGZQF3MhplFfocnQvINeCsUSxj6YUZgAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/whisper-pick-up-lines-single/1745660060", year = "2022", id = "1745660060", name = "Whisper Pick Up Lines", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745660063", name = "WHISPER PICK UP LINES Pt.1", length = "3:52" }, { id = "1745660070", name = "WHISPER PICK UP LINES Pt.2", length = "3:50" }, { id = "1745660083", name = "WHISPER PICK UP LINES Pt.3", length = "3:59" }] },
+]
 views = 66175
 likes = 2068
 comments = 624

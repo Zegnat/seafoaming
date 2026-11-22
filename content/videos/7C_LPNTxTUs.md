@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQBACdASogABIAPsVOokunpCMhsAwA8BiJQBYj5ohTBLHO77QL1q5MApYBLUohcAD+Ai++TLjHMfSuz1eJu6BkWYSuGdGxaxspFb+MHcV1pzPkfH4l7skVEf/rEhv3vgsIhwAA"
 spotify = "https://open.spotify.com/album/3ACI5dksLpRtFKtmSlL857"
+apple_music = [
+  { url = "https://music.apple.com/us/album/kawaii-school-supplies-show-and-tell-ep/1761654148", year = "2022", id = "1761654148", name = "Kawaii School Supplies Show and Tell", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761654151", name = "Kawaii School Supplies Show and Tell Pt.5", length = "5:26" }, { id = "1761654157", name = "Kawaii School Supplies Show and Tell Pt.1", length = "5:27" }, { id = "1761654162", name = "Kawaii School Supplies Show and Tell Pt.2", length = "5:20" }, { id = "1761654429", name = "Kawaii School Supplies Show and Tell Pt.3", length = "5:29" }, { id = "1761654435", name = "Kawaii School Supplies Show and Tell Pt.4", length = "5:24" }] },
+]
 spotify_release = { id = "3ACI5dksLpRtFKtmSlL857", name = "Kawaii School Supplies Show and Tell", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "12CecNX5xjGSwzpaWbYiHJ", name = "Kawaii School Supplies Show and Tell Pt.5", length = "5:26" },

@@ -9,6 +9,9 @@ length = "15:34"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBACdASogABIAPtFepk6oJSMiKAqpABoJZQCzgBE/sNLmQ9v1QuEB3yyAAP7pU8YeUXfnRDGgad6X81rKt5lVf38+2x3++gCCfeh8nyvt5yZzCcKuFrvjb5jaggD3iEWjTbWwwdb1tII25XRXQAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-negativity-removal-can-i-eat-your-negative-thoughts/1756314545", year = "2024", id = "1756314545", name = "ASMR - Negativity Removal - Can I Eat Your Negative Thoughts? Yummy!", type = "EP", date = "2024-07-26", cover = true, tracks = [{ id = "1756314547", name = "Asking permission first because I’m nice", length = "3:45" }, { id = "1756314549", name = "Chopsticks To Pluck the Stringy Bits", length = "2:20" }, { id = "1756314552", name = "Boba Straw To Poke and Drink the Liquid Negativity", length = "3:20" }, { id = "1756314556", name = "Finger Swiping It Off Your Face & Ear Cupping", length = "4:09" }] },
+]
 views = 58809
 likes = 1790
 comments = 102

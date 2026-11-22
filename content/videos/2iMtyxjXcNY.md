@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASogABIAPsVQoEunpKMhsAwA8BiJYwCdACERsAZPHPpBL326ZLTudOlkAAD+7pNhX55u6jeGTLQ3U0y4gZnCaPtp90vYSqAE4KZP2NAcPsSIx44RceIOpAQ+PwAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/gibberish-friend-ep/1761639954", year = "2022", id = "1761639954", name = "GIBBERISH FRIEND", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761639959", name = "GIBBERISH FRIEND Pt.1", length = "5:00" }, { id = "1761639966", name = "GIBBERISH FRIEND Pt.2", length = "4:59" }, { id = "1761639978", name = "GIBBERISH FRIEND Pt.3", length = "5:10" }, { id = "1761640419", name = "GIBBERISH FRIEND Pt.4", length = "5:24" }] },
+]
 views = 90959
 likes = 2245
 comments = 882

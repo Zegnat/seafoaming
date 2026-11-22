@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWQAAFudep7fwgwx+onx9g+HBaAA/lHZM8Cyp4bPPjp8wj/8ns+Gr3ZWg6UdFFLl6aZGehQ4CaZh9v+6ZzR0FYzGP0hEiYXw6kF7MwuxTDMBPcAAAA=="
 spotify = "https://open.spotify.com/album/2bFpXEttvH3QyFDPwFbw3q"
+apple_music = [
+  { url = "https://music.apple.com/us/album/munchpak-unboxing-and-tasting/1745646951", year = "2022", id = "1745646951", name = "MunchPak Unboxing and Tasting", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1745646954", name = "MunchPak Unboxing and Tasting Pt.1", length = "5:09" }, { id = "1745646968", name = "MunchPak Unboxing and Tasting Pt.2", length = "5:13" }, { id = "1745646969", name = "MunchPak Unboxing and Tasting Pt.3", length = "5:04" }, { id = "1745646973", name = "MunchPak Unboxing and Tasting Pt.4", length = "5:07" }, { id = "1745646974", name = "MunchPak Unboxing and Tasting Pt.5", length = "5:13" }, { id = "1745646976", name = "MunchPak Unboxing and Tasting Pt.6", length = "5:09" }] },
+]
 spotify_release = { id = "2bFpXEttvH3QyFDPwFbw3q", name = "MunchPak Unboxing and Tasting", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5ZYhQyvNfaTGVU4Q555nE8", name = "MunchPak Unboxing and Tasting Pt.1", length = "5:09" },

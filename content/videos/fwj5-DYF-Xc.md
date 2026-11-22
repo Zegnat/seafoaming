@@ -9,6 +9,9 @@ length = "20:13"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASogABIAPtFepU6oJSMjKAqpABoJYwCzgBDR4qFz93A9cchSImoAAP7t+uPXKxFZvP00ZV+fW6dvaOSCDnR5ql2ECXpmjdtns3pxoP/AKPaeGufcG0LYgAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fluffy-scalp-massage-ep/1767048023", year = "2022", id = "1767048023", name = "FLUFFY SCALP MASSAGE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767048026", name = "FLUFFY SCALP MASSAGE Pt.1", length = "5:03" }, { id = "1767048029", name = "FLUFFY SCALP MASSAGE Pt.2", length = "4:57" }, { id = "1767048030", name = "FLUFFY SCALP MASSAGE Pt.3", length = "5:15" }, { id = "1767048040", name = "FLUFFY SCALP MASSAGE Pt.4", length = "4:59" }] },
+]
 views = 116700
 likes = 3251
 comments = 366

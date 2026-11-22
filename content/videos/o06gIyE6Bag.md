@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASogABIAPtFUokuoJKMhsAgBABoJYgCdKLGBavDJCyKA/x624Gw4DTPE1uwA/atA5pHCH9/UQsNdqo7ggQBuN0Ea+dkSWGt5DgEjQEiLwbRW7GnsSWu9OLrH5IsCVoTyIoet01rU757h15LdOJx+Z6v5XBFuGwAA"
 spotify_podcast = "https://open.spotify.com/episode/14C5ZylzaeoJ00gixWXdxp"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-stacy-becky-twin-ear-attention-tingles-opposite/1794147306", year = "2025", id = "1794147306", name = "ASMR STACY & BECKY Twin Ear Attention & Tingles (Opposite Personalities)", type = "Single", date = "2025-02-21", cover = true, tracks = [{ id = "1794147310", name = "Leather Tapping, Pen Scribbling, Tongue Clicking & Page Flipping", length = "4:20" }, { id = "1794147314", name = "Becky's Fidget Toys (She's Trying), Nomming On Them", length = "3:57" }, { id = "1794147713", name = "Convincing Becky To Lick The Microphone With Her", length = "3:01" }] },
+]
 spotify_episode = { id = "14C5ZylzaeoJ00gixWXdxp", name = "ASMR 💅🏻 STACY & BECKY 👓Twin Ear Attention & Tingles | Opposite Personalities", date = "2025-01-24", length = "11:18", cover = true }
 views = 68571
 likes = 2300

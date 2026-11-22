@@ -9,6 +9,9 @@ length = "23:16"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASogABIAPslYo0unpaehsBgMAPAZCUAWI21wFiLOHsCh9MOznqAA/UQC6kcp4BFLtsu7s/mz14iRMuOBFJuUSkgq4VJE+NNNvWNWawI82PKdiSGhVw2GlW1CikSbO0AAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/vampire-reiki-taking-away-the-bad-feelies-ep/1761633490", year = "2022", id = "1761633490", name = "VAMPIRE REIKI Taking Away the Bad Feelies", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761633494", name = "VAMPIRE REIKI Taking Away the Bad Feelies Pt.1", length = "4:43" }, { id = "1761633712", name = "VAMPIRE REIKI Taking Away the Bad Feelies Pt.2", length = "4:40" }, { id = "1761633717", name = "VAMPIRE REIKI Taking Away the Bad Feelies Pt.3", length = "4:40" }, { id = "1761633721", name = "VAMPIRE REIKI Taking Away the Bad Feelies Pt.5", length = "4:29" }, { id = "1761633724", name = "VAMPIRE REIKI Taking Away the Bad Feelies Pt.4", length = "4:43" }] },
+]
 views = 140219
 likes = 2918
 comments = 421

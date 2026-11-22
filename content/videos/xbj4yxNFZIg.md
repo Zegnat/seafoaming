@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwBACdASogABIAPtFapU2oJSOiMBgIAQAaCWMAvzgMZgX7JM7DXv940fiE6dYgAP7qRc2V9A6+Prn6mlVM2cqZ6Z2ZT/nlRC0xlMwYUdLxz489N1ziSa4AykPRtUsAAAA="
 spotify = "https://open.spotify.com/album/5rOoaP6Gi1UX5TCh7a0vkn"
+apple_music = [
+  { url = "https://music.apple.com/us/album/mason-jar-wonky-tapping-sounds-single/1761234142", year = "2022", id = "1761234142", name = "MASON JAR Wonky Tapping Sounds", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761234155", name = "MASON JAR Wonky Tapping Sounds Pt.2", length = "4:52" }, { id = "1761234157", name = "MASON JAR Wonky Tapping Sounds Pt.1", length = "4:51" }, { id = "1761234296", name = "MASON JAR Wonky Tapping Sounds Pt.3", length = "4:52" }] },
+]
 spotify_release = { id = "5rOoaP6Gi1UX5TCh7a0vkn", name = "MASON JAR Wonky Tapping Sounds", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2NopfSyyeDRvGsnM10hr8C", name = "MASON JAR Wonky Tapping Sounds Pt.2", length = "4:52" },

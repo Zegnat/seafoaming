@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASogABIAPtFcqk2oJSQiKAqpABoJQBjegWh7kzKmQYpUrCU89jQA/vQxlGodXNkko2vCVnCc2SWP9B9ZV62RsRZSi8ozB7mrainq77A6wt8+a/CgI4xLkTwZFj6VX8/CCARhW25QakAAAA=="
 spotify_podcast = "https://open.spotify.com/episode/6L2SCBSqrj3DAd6UE8YH3C"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-caring-friend-how-to-manifest-love-change-your-life-ep/1775223523", year = "2024", id = "1775223523", name = "ASMR Caring Friend - How to Manifest Love & Change Your Life", type = "EP", date = "2024-11-08", cover = true, tracks = [{ id = "1775223524", name = "Hi Friend (Gentle Face Touching and Encouragement)", length = "3:00" }, { id = "1775223526", name = "To Manifest Love", length = "6:14" }, { id = "1775223680", name = "To Change Your Reality", length = "4:46" }, { id = "1775223686", name = "For Confidence", length = "5:19" }, { id = "1775223689", name = "Reminding You to Be Open and to Believe in Yourself", length = "2:13" }] },
+]
 spotify_episode = { id = "6L2SCBSqrj3DAd6UE8YH3C", name = "ASMR ❤️ Caring Friend | How to Manifest Love & Change Your Life", date = "2024-10-11", length = "21:32", cover = true }
 views = 30642
 likes = 1091

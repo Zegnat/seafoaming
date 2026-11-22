@@ -9,6 +9,9 @@ length = "23:15"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASogABIAPtFapE0oJSMiMBgIAQAaCWMAnTLaQRj0JB5fhxot22JyTlOMzgAA/saqDNTrx9QRqNn9vPH5jkAxK3IoByHi/i9jxywpJHohZB/hVfCzaE0jpIFOhgAyonVSJVzYGbLjuAAAAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/crinkle-party-ep/1761283491", year = "2022", id = "1761283491", name = "CRINKLE PARTY", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761283502", name = "CRINKLE PARTY Pt.1", length = "4:34" }, { id = "1761283518", name = "CRINKLE PARTY Pt.2", length = "4:48" }, { id = "1761283520", name = "CRINKLE PARTY Pt.3", length = "4:39" }, { id = "1761283531", name = "CRINKLE PARTY Pt.4", length = "4:50" }, { id = "1761283540", name = "CRINKLE PARTY Pt.5", length = "4:24" }] },
+]
 views = 38532
 likes = 1329
 comments = 185

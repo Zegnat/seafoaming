@@ -9,6 +9,9 @@ length = "31:24"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASogABIAPtFYpk0oJSOiMBgIAQAaCWIAnTMhgRfMmIB14/L3F8J8ucAA2yNA7pi7W4qDzO9XP/bj4uheGqqZnDiryDnfTTP5VD2vCKz5sYpkC694k+qAap6TNnkPQD9Rl/QlT4AA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/tingle-assortment/1761307016", year = "2022", id = "1761307016", name = "TINGLE ASSORTMENT", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761307020", name = "TINGLE ASSORTMENT Pt.1", length = "5:19" }, { id = "1761307025", name = "TINGLE ASSORTMENT Pt.2", length = "5:22" }, { id = "1761307032", name = "TINGLE ASSORTMENT Pt.3", length = "5:22" }, { id = "1761307223", name = "TINGLE ASSORTMENT Pt.4", length = "5:18" }, { id = "1761307225", name = "TINGLE ASSORTMENT Pt.5", length = "5:18" }, { id = "1761307227", name = "TINGLE ASSORTMENT Pt.6", length = "4:46" }] },
+]
 views = 55856
 likes = 1722
 comments = 241

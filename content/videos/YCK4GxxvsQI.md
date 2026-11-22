@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBQCdASogABIAPtFcqk2oJSQiKAqpABoJYwC1IUFXoAuRuVIpF7b+FAl2Hn9WDnK/qAD+7ctmC32hAMf9Gt1YoqvcmrT95Ckk/oaNqzIaXrA5//30ZWJHpQQAAA=="
 spotify = "https://open.spotify.com/album/1r6cuJPXazyFoqAzjbz4eZ"
+apple_music = [
+  { url = "https://music.apple.com/us/album/wood-sounds-ep/1767047389", year = "2022", id = "1767047389", name = "Wood Sounds", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047392", name = "Wood Sounds Pt.1", length = "6:28" }, { id = "1767047393", name = "Wood Sounds Pt.2", length = "4:38" }, { id = "1767047396", name = "Wood Sounds Pt.3", length = "6:00" }, { id = "1767047398", name = "Wood Sounds Pt.4", length = "7:36" }] },
+]
 spotify_release = { id = "1r6cuJPXazyFoqAzjbz4eZ", name = "Wood Sounds", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "7juirwrtgECANbI9ObzEQk", name = "Wood Sounds Pt.1", length = "6:28" },

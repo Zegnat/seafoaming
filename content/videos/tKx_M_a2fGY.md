@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFWpk0oJCOiMBgIAQAaCUAWI3XgCNrw/f1fp+B5zfzAAP4VCrEjY597+OcaAbPrrDhjYqV0b3HTCHTDf+DuixAEmgHd/vs661vtZaikNYOolvA+NDsAAA=="
 spotify = "https://open.spotify.com/album/798dZKBLlA0chvnsWshEMj"
+apple_music = [
+  { url = "https://music.apple.com/us/album/delete-your-anxiety-ep/1770222342", year = "2023", id = "1770222342", name = "DELETE Your Anxiety", type = "EP", date = "2023-11-28", cover = true, tracks = [{ id = "1770222344", name = "DELETE Your Anxiety Pt.1", length = "4:56" }, { id = "1770222346", name = "DELETE Your Anxiety Pt.2", length = "4:57" }, { id = "1770222348", name = "DELETE Your Anxiety Pt.3", length = "4:56" }, { id = "1770222771", name = "DELETE Your Anxiety Pt.4", length = "4:58" }, { id = "1770222773", name = "DELETE Your Anxiety Pt.5", length = "4:56" }] },
+]
 spotify_release = { id = "798dZKBLlA0chvnsWshEMj", name = "DELETE Your Anxiety", type = "EP", date = "2023-11-28", cover = true }
 spotify_tracks = [
   { id = "1dicFe2GN1iv9fXAoVIuCV", name = "DELETE Your Anxiety Pt.1", length = "4:56" },

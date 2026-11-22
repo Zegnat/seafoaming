@@ -9,6 +9,9 @@ length = "10:21"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASogABIAPslSoUunpKMhsAwA8BkJZQC2yvP0UkfaQMGL9LMeH4A654AA/n5+/LJMdFPRy5vSDFDAtEmB3Lj1fWIf/YHkNqfQpSWsSjpmDmUknABrstYq8sTsdNfWxcjw9yWgAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-a-puppy-single/1761619725", year = "2022", id = "1761619725", name = "YOU ARE A PUPPY", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761619728", name = "YOU ARE A PUPPY Pt.1", length = "5:03" }, { id = "1761619852", name = "YOU ARE A PUPPY Pt.2", length = "5:18" }] },
+]
 views = 173830
 likes = 3601
 comments = 735

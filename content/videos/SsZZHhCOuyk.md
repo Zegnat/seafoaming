@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQBACdASogABIAPtFYoUuoJSMhsBgMAQAaCWMAs4AML+BNj7Q5kDFRrQaU3idaAAD+kzkM+qwLMeEK6E5JUbr+eHuaU31Ks26IKhd4Dtutm3s35Dy+j5ytxLWAAA=="
 spotify = "https://open.spotify.com/album/6V2zggM26Br6ZAvCpOWuyj"
+apple_music = [
+  { url = "https://music.apple.com/us/album/stickers-crinkles-ep/1767047176", year = "2022", id = "1767047176", name = "Stickers & Crinkles", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047178", name = "Stickers & Crinkles Pt.1", length = "5:15" }, { id = "1767047359", name = "Stickers & Crinkles Pt.3", length = "5:46" }, { id = "1767047361", name = "Stickers & Crinkles Pt.2", length = "6:09" }, { id = "1767047363", name = "Stickers & Crinkles Pt.4", length = "6:55" }] },
+]
 spotify_release = { id = "6V2zggM26Br6ZAvCpOWuyj", name = "Stickers & Crinkles", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "0liv7yCUK00e3tRfx9UHBb", name = "Stickers & Crinkles Pt.1", length = "5:15" },

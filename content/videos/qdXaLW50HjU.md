@@ -11,6 +11,9 @@ age_restricted = false
 placeholder = "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQBACdASogABIAPsVSo0unpSOhsAwA8BiJZACdMwnDQXmHVJEq+tqImLit/Te6AAD+e1wXWM9t1obd2JuKbPZYWLxiEbl8rFovuWZ6+xlxvmul3bdFnb2USLxOUCxC33fGR6lQdUKUwlHftGIMEzAdgAA="
 spotify = "https://open.spotify.com/album/5qfmyMBDnO4gX6hHtVbGQp"
 spotify_podcast = "https://open.spotify.com/episode/01PWZMWkqgy9BPMONKEZXk"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-tiny-vampire-punches-you-to-sleep-boxing-whispering/1889649720", year = "2026", id = "1889649720", name = "ASMR Tiny Vampire Punches You to Sleep (boxing, whispering, biting, KO!)", type = "EP", date = "2026-04-17", cover = true, tracks = [{ id = "1889649724", name = "Warming up and Stretching", length = "4:00" }, { id = "1889649725", name = "Fight Begins! Punching Sounds, Pow Pow!!", length = "3:27" }, { id = "1889649731", name = "... You Got Revenge", length = "4:17" }, { id = "1889649732", name = "Super Duper Words of Encouragement!", length = "1:43" }] },
+]
 spotify_release = { id = "5qfmyMBDnO4gX6hHtVbGQp", name = "ASMR Tiny Vampire Punches You to Sleep (boxing, whispering, biting, KO!)", type = "EP", date = "2026-04-17", cover = true }
 spotify_tracks = [
   { id = "0bKe8AugN3tggKGC92rp6n", name = "Warming up and Stretching", length = "4:00" },

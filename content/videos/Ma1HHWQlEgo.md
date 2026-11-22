@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPsFMn0unpCKht/qoAPAYCUAWnQJNriWy2tsENqXvruRq3GjAAO2dhqcaNDD1veTWR51lKsySfB2R6Db4CVOdywumrNbunbbXbiny9E7Y20va8bmvDq89TwlzRbh9YpcEAgAAAA=="
 spotify = "https://open.spotify.com/album/4QEw689NqAMPuCTUhVMNml"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-have-to-do-it-single/1770222601", year = "2023", id = "1770222601", name = "You Have To DO IT", type = "Single", date = "2023-09-21", cover = true, tracks = [{ id = "1770222606", name = "You Have To DO IT Pt.1", length = "3:20" }, { id = "1770222608", name = "You Have To DO IT Pt.2", length = "3:20" }, { id = "1770222610", name = "You Have To DO IT Pt.3", length = "3:19" }] },
+]
 spotify_release = { id = "4QEw689NqAMPuCTUhVMNml", name = "You Have To DO IT", type = "Single", date = "2023-09-21", cover = true }
 spotify_tracks = [
   { id = "5PcCVfsrLyfWvVprkms2IY", name = "You Have To DO IT Pt.1", length = "3:20" },

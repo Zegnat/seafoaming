@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASogABIAPtFYpUwoJSOiKA1RABoJQBOmaOkQAWFVTsvhRGoHmdAA/KpmIZ5iayTO022PCc/wQC1QyYDFUc39T//mSTUw51lP1SV4UPHVSO8vZ9gHaeqmj7aio1ZSx+FgBFkAKi6TAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/spooky-yandere-girl-2-ep/1761619449", year = "2022", id = "1761619449", name = "SPOOKY YANDERE GIRL 2", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761619450", name = "SPOOKY YANDERE GIRL 2 Pt.1", length = "3:58" }, { id = "1761619454", name = "SPOOKY YANDERE GIRL 2 Pt.2", length = "4:01" }, { id = "1761619879", name = "SPOOKY YANDERE GIRL 2 Pt.3", length = "4:09" }, { id = "1761619886", name = "SPOOKY YANDERE GIRL 2 Pt.4", length = "3:48" }] },
+]
 views = 285094
 likes = 4835
 comments = 1300

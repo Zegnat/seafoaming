@@ -9,6 +9,9 @@ length = "8:50"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPtFWpk2oJCOiMBgIAQAaCWMAvzgQkdybHzYzbTmlg9yN+YAA/temXibHB9Cm9+XzNredvWY3LUU9/PpF6uYtet/SiI4nOrldLw+dUjpmwmRbHyjFujoC8AAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/weading-a-stowy-single/1761323884", year = "2022", id = "1761323884", name = "WEADING A STOWY", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761323887", name = "WEADING A STOWY Pt.1", length = "4:23" }, { id = "1761323891", name = "WEADING A STOWY Pt.2", length = "4:27" }] },
+]
 views = 125014
 likes = 4217
 comments = 659

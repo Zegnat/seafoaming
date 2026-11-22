@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASogABIAPtFcqk2oJSQiKAqpABoJYwCdM4CBorVH25zgjN4kG/+kHNGt5UAA/u1IQ+0Ujk1IqAG2oIOJnP8jRZZ3KzprcH+7uUNh/WbvCRasrgGI9qMd68Ytuh6qmfhwAAA="
 spotify = "https://open.spotify.com/album/5ndwEScZXPEOsbKbrHa74B"
+apple_music = [
+  { url = "https://music.apple.com/us/album/you-are-an-angel-ep/1767047102", year = "2022", id = "1767047102", name = "You Are An Angel", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1767047105", name = "You Are An Angel, Pt.1", length = "7:05" }, { id = "1767047106", name = "You Are An Angel, Pt.3", length = "4:51" }, { id = "1767047107", name = "You Are An Angel, Pt.2", length = "6:41" }, { id = "1767047111", name = "You Are An Angel, Pt.4", length = "5:10" }] },
+]
 spotify_release = { id = "5ndwEScZXPEOsbKbrHa74B", name = "You Are An Angel", type = "EP", date = "2020-01-01", cover = true }
 spotify_tracks = [
   { id = "3KEhYSt57QqboGEikORA8T", name = "You Are An Angel, Pt.1", length = "7:05" },

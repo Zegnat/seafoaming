@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPtFcp04oJSOiKAqpABoJQBdgAUAglv+kJEWUw3jdeuLN/wAA+BdUTea4wyZZwhfk8vxDioPjK79St+tMtq/TaQ0/WfB11FyRTq5f909QAtdKfFJplRBQJh86igAAAA=="
 spotify = "https://open.spotify.com/album/6NmdOgzxqBQl8h2dyWmtWD"
+apple_music = [
+  { url = "https://music.apple.com/us/album/showering-you-in-valentines-kisses-and-love-ep/1761637884", year = "2022", id = "1761637884", name = "Showering You in Valentine's Kisses and Love", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761637886", name = "Showering You in Valentine's Kisses and Love Pt.1", length = "3:44" }, { id = "1761637888", name = "Showering You in Valentine's Kisses and Love Pt.2", length = "3:44" }, { id = "1761637894", name = "Showering You in Valentine's Kisses and Love Pt.3", length = "3:48" }, { id = "1761637895", name = "Showering You in Valentine's Kisses and Love Pt.4", length = "4:14" }] },
+]
 spotify_release = { id = "6NmdOgzxqBQl8h2dyWmtWD", name = "Showering You in Valentine's Kisses and Love", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "1CBD8djSsdALHLRRqXv9Cl", name = "Showering You in Valentine's Kisses and Love Pt.1", length = "3:44" },

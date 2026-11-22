@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFcpk4oJSMiKAqpABoJYwC068/0K3/BVg9L6mSxtTU+27H1YwAA/u+Lll9KCWqVZseeblbI93AFkRzfI92pmdfqAAiiZ1GXafivybhrwiRBM7Hf9Vh3PPAA"
 spotify = "https://open.spotify.com/album/7o1WmXQoTPiDwuyuSuFQt6"
+apple_music = [
+  { url = "https://music.apple.com/us/album/super-secret-weird-night/1761564738", year = "2022", id = "1761564738", name = "Super Secret Weird Night", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761565044", name = "Super Secret Weird Night Pt.1", length = "5:50" }, { id = "1761565059", name = "Super Secret Weird Night Pt.2", length = "7:41" }, { id = "1761565062", name = "Super Secret Weird Night Pt.4", length = "4:55" }, { id = "1761565191", name = "Super Secret Weird Night Pt.3", length = "7:20" }, { id = "1761565205", name = "Super Secret Weird Night Pt.5", length = "5:10" }, { id = "1761565210", name = "Super Secret Weird Night Pt.6", length = "7:51" }, { id = "1761565323", name = "Super Secret Weird Night Pt.7", length = "7:14" }] },
+]
 spotify_release = { id = "7o1WmXQoTPiDwuyuSuFQt6", name = "Super Secret Weird Night", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "5dLIi8SvKv8OfTAZ4srPvj", name = "Super Secret Weird Night Pt.1", length = "5:50" },

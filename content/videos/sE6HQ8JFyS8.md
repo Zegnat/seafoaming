@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABwBACdASogABIAPtFepk6oJSMiKAqpABoJYwB4tgGYe9mqyicIRlZgyC/NAAD+02C/+F5NszVLYkc9b9NfqkkVUXqElrgTrUbt6KfDozQWMRuAqm64ToCRbWWF++vUahSDKMnAAAA="
 spotify = "https://open.spotify.com/album/5bfWoFSORJIhzV28kw7I6R"
+apple_music = [
+  { url = "https://music.apple.com/us/album/mermaid-pillow-sparkly-sequins-single/1745684418", year = "2022", id = "1745684418", name = "Mermaid Pillow Sparkly Sequins", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745684422", name = "Mermaid Pillow Sparkly Sequins Pt.1", length = "5:57" }, { id = "1745684432", name = "Mermaid Pillow Sparkly Sequins Pt.2", length = "4:28" }, { id = "1745684436", name = "Mermaid Pillow Sparkly Sequins Pt.3", length = "4:39" }] },
+]
 spotify_release = { id = "5bfWoFSORJIhzV28kw7I6R", name = "Mermaid Pillow Sparkly Sequins", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "0RdcdAGzBTTQ5b8RCv5R8z", name = "Mermaid Pillow Sparkly Sequins Pt.1", length = "5:57" },

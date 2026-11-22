@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASogABIAPs1Uo0unpKMhsBgMAPAZiWMAnQAv3od+QvpSF/WOMz9kuC6wAP7CHjYu8aheOYP2XT/kPhA5AV8iB6BUyyd9Rl2wlaoAqbhCPXTPZORKCFXh1ZYeeHZXIAAA"
 spotify = "https://open.spotify.com/album/2tq8sJeopns8EuTJnI5nvM"
+apple_music = [
+  { url = "https://music.apple.com/us/album/backstreet-stick-and-poke-ep/1761604199", year = "2022", id = "1761604199", name = "Backstreet Stick and Poke", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761604200", name = "Backstreet Stick and Poke Pt.1", length = "6:41" }, { id = "1761604202", name = "Backstreet Stick and Poke Pt.2", length = "5:01" }, { id = "1761604204", name = "Backstreet Stick and Poke Pt.3", length = "7:50" }, { id = "1761604205", name = "Backstreet Stick and Poke Pt.4", length = "6:37" }] },
+]
 spotify_release = { id = "2tq8sJeopns8EuTJnI5nvM", name = "Backstreet Stick and Poke", type = "EP", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2Z2wNIrUAM3aIFRvbXQH2y", name = "Backstreet Stick and Poke Pt.1", length = "6:41" },

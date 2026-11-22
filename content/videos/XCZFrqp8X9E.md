@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASogABIAPtFcqE4oJSQiKAqpABoJQBUegUVTqXEfsP/zWIJQAPewzvXsIvzS7cT2isx9/ut4RNm57J1MglFABTQPZRmmhxbOa5Y5k8IkJa6IrSawXhRjhfRrufGmnrU4dlE0eBsSMbmLgAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/meeting-a-weird-rabbit-person-at-your-hotel-ep/1761622746", year = "2022", id = "1761622746", name = "Meeting a Weird Rabbit Person at Your Hotel", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761622748", name = "Meeting a Weird Rabbit Person at Your Hotel Pt.1", length = "5:23" }, { id = "1761622751", name = "Meeting a Weird Rabbit Person at Your Hotel Pt.2", length = "5:27" }, { id = "1761622753", name = "Meeting a Weird Rabbit Person at Your Hotel Pt.3", length = "5:17" }, { id = "1761622757", name = "Meeting a Weird Rabbit Person at Your Hotel Pt.4", length = "5:29" }, { id = "1761623409", name = "Meeting a Weird Rabbit Person at Your Hotel Pt.5", length = "5:26" }] },
+]
 views = 244961
 likes = 5682
 comments = 748

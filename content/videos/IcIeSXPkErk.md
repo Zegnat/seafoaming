@@ -10,6 +10,9 @@ status_checked = 2026-11-21
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBQCdASogABIAPtFapE0oJSMiKA1RABoJQBYj7RAf/KDZQ1cLakAlPU/8Q7NY1gm6AAD+qYK9qiB1Q/XrlVvGRkMkWTyHfJ8LmVpAd9DwQeVJkSHElT9iBTREsCaM+HAfY9RAet6yBgAA"
 spotify = "https://open.spotify.com/album/4OJWHIU8dO7lE0AkDwQKfW"
+apple_music = [
+  { url = "https://music.apple.com/us/album/mouth-sounds-and-february-patron-appreciation-single/1761623554", year = "2022", id = "1761623554", name = "Mouth Sounds and February Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761623561", name = "Mouth Sounds and February Patron Appreciation Pt.1", length = "5:20" }, { id = "1761623567", name = "Mouth Sounds and February Patron Appreciation Pt.2", length = "4:37" }, { id = "1761623930", name = "Mouth Sounds and February Patron Appreciation Pt.3", length = "4:18" }] },
+]
 spotify_release = { id = "4OJWHIU8dO7lE0AkDwQKfW", name = "Mouth Sounds and February Patron Appreciation", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "2RBTtzce4vYfalMyzOfb8d", name = "Mouth Sounds and February Patron Appreciation Pt.1", length = "5:20" },

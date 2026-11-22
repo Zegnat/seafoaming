@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPslWn0unpSKhsAwA8BkJYwCdM1XCjiUL8l5V7tM7yjsOMps8YAD+5lu8eETMvJr4B+AfZjfVWCUWjW3wHBXWc/mK5hk5AX1KCheRJjQhA/YwxCrgAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/the-church-of-glob-crazy-devotee-converts-you-single/1761619836", year = "2022", id = "1761619836", name = "The Church of Glob Crazy Devotee Converts You", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761619844", name = "The Church of Glob Crazy Devotee Converts You Pt.1", length = "5:01" }, { id = "1761619845", name = "The Church of Glob Crazy Devotee Converts You Pt.2", length = "5:03" }, { id = "1761619846", name = "The Church of Glob Crazy Devotee Converts You Pt.3", length = "5:07" }] },
+]
 views = 248072
 likes = 5859
 comments = 1900

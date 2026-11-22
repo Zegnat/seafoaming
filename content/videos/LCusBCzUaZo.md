@@ -9,6 +9,9 @@ length = "10:40"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASogABIAPtFYpkyoJSOiKA1RABoJSYAJTnNCKmrzO7kMNXVAt/aQAP6oQortyjwgz3vUBNLRI5PIw2kbx9TI4ygzuBCfmVok3HKegIeB5tvmalphNYVcrUuijNrGd1dM/9uWCeeAAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sniffing-your-ears-and-september-patron-appreciation/1745640457", year = "2022", id = "1745640457", name = "SNIFFING YOUR EARS and September Patron Appreciation", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745640461", name = "SNIFFING YOUR EARS and September Patron Appreciation Pt.1", length = "5:13" }, { id = "1745640463", name = "SNIFFING YOUR EARS and September Patron Appreciation Pt.2", length = "5:27" }] },
+]
 views = 93350
 likes = 1857
 comments = 404

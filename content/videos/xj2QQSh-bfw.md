@@ -9,6 +9,9 @@ length = "22:31"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASogABIAPslQoUunpKMht/VYAPAZCUAXZnHY1XsyBa72oVtf1AAA/fRNUBzH7kmIgJ8l/9+JeVdOFVSpRcFJs8KuOxV+lShRMnjKZ5So2OD61yuTUMYMMAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/duopop-review-and-7-triggers-to-help-you-tingle-and-sleep-ep/1761623203", year = "2022", id = "1761623203", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761623569", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep Pt.1", length = "4:36" }, { id = "1761623592", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep Pt.2", length = "4:28" }, { id = "1761623690", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep Pt.3", length = "4:33" }, { id = "1761623709", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep Pt.4", length = "4:28" }, { id = "1761623713", name = "DuoPOP Review and 7 Triggers to Help You Tingle and Sleep Pt.5", length = "4:27" }] },
+]
 views = 49068
 likes = 1065
 comments = 186

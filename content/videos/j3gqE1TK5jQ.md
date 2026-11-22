@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPtFWqE4oJCQiMBgIAQAaCWUAuwAMZgmp9+IM12rT72xIR+mq4AD+9FRZdML7eAJPkeUenFar0SMN093bP3+Q/Wv2hEIfGY+ejwSrnGMHK8pKQuFwAAA="
 spotify_podcast = "https://open.spotify.com/episode/5KzpjXbUtQgTkCUde5eG06"
+apple_music = [
+  { url = "https://music.apple.com/us/album/cyberpunk-asmr-rebel-fighter-patching-you-up-sci-fi/1839668905", year = "2025", id = "1839668905", name = "Cyberpunk ASMR - Rebel Fighter Patching You Up (Sci-fi Dystopia)", type = "Single", date = "2025-10-03", cover = true, tracks = [{ id = "1839668906", name = "Examining You To Make Sure You’re Not A Dang Rust Bucket", length = "6:11" }, { id = "1839668907", name = "Cleaning Your Wounds & Stitching You Up", length = "6:30" }, { id = "1839668908", name = "Z Asks Why You’re Carrying “Random Junk”", length = "7:14" }] },
+]
 spotify_episode = { id = "5KzpjXbUtQgTkCUde5eG06", name = "Apocalypse ASMR 🌐 Alone in the Wastelands… Until I Found You 🌌 (futuristic rescue, patching you up)", date = "2025-09-05", length = "19:55", cover = true }
 views = 66705
 likes = 2551

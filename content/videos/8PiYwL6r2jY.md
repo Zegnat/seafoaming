@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASogABIAPsFKn0unq6Kht/qoAXAYCWMAuwAUv8W0L0rB4xGkQAD3B+mL2WCdLXSXThvhVpNJNe3yP7tW5r9d6MJXD+9wbxVEB/8jHNgBa3h9x1v4AAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/this-dog-is-annoying-but-she-loves-you-so-much-single/1770221703", year = "2022", id = "1770221703", name = "This Dog is Annoying but She Loves You SO MUCH", type = "Single", date = "2022-09-26", cover = true, tracks = [{ id = "1770221704", name = "This Dog is Annoying but She Loves You SO MUCH Pt.1", length = "4:19" }, { id = "1770221707", name = "This Dog is Annoying but She Loves You SO MUCH Pt.2", length = "4:18" }, { id = "1770221709", name = "This Dog is Annoying but She Loves You SO MUCH Pt.3", length = "4:18" }] },
+]
 views = 254961
 likes = 6195
 comments = 925

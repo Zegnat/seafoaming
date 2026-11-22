@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPrVKnEunJKKht+gA4BaJZwC+SCPy11GrDh5qhOiM/kxpRYAA/vV70Qk9+6fGAE76QDUqC7B9E10slCyE8vjJYpqM0aSeldpjTpcTNYJUBVoStHDEASU00AAA"
 spotify = "https://open.spotify.com/album/5xkBPQ4V9yYF9zon6aaqgW"
+apple_music = [
+  { url = "https://music.apple.com/us/album/mouth-sounds-and-plastic-pen-chewing-single/1761634345", year = "2022", id = "1761634345", name = "Mouth Sounds and Plastic Pen Chewing", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761634354", name = "Mouth Sounds and Plastic Pen Chewing Pt.1", length = "5:39" }, { id = "1761634359", name = "Mouth Sounds and Plastic Pen Chewing Pt.2", length = "5:32" }] },
+]
 spotify_release = { id = "5xkBPQ4V9yYF9zon6aaqgW", name = "Mouth Sounds and Plastic Pen Chewing", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7xoJefbeTMlq8hQUlye4ru", name = "Mouth Sounds and Plastic Pen Chewing Pt.1", length = "5:39" },

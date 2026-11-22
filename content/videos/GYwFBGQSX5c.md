@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPsFKoEunpCMht/qoAPAYCUAXYARDfVqNjEeKMINoUMaztY5AAPx/si/iKmTtwVrqfoH1xc3IG+DLbaH2bNly7Cwwts786EBixujFJwQtdU4hWq61rJsTs7gz0AA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/caring-friend-helps-you-calm-down-and-fall-asleep-ep/1761621935", year = "2022", id = "1761621935", name = "Caring Friend Helps You Calm Down and Fall Asleep", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761621938", name = "Caring Friend Helps You Calm Down and Fall Asleep Pt.1", length = "4:17" }, { id = "1761621939", name = "Caring Friend Helps You Calm Down and Fall Asleep Pt.2", length = "4:10" }, { id = "1761621940", name = "Caring Friend Helps You Calm Down and Fall Asleep Pt.3", length = "4:03" }, { id = "1761621942", name = "Caring Friend Helps You Calm Down and Fall Asleep Pt.4", length = "4:02" }] },
+]
 views = 108944
 likes = 2170
 comments = 499

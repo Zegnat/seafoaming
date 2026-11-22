@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBQCdASogABIAPsVUoEunpKMhsAwA8BiJYgC1GoMqmDjB2EkADut36WtvynMnMlvJ4AD+9teYCWqf5isd3UrxZS3WNLBYjK3d5DDed5J2Y7VantnLbuIyaUSZZ3+l7cufVCHNlw83hpWixmACaQD0gWWVOD1gAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/cutest-squishies-ep/1745663467", year = "2022", id = "1745663467", name = "Cutest Squishies", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745663472", name = "CUTEST SQUISHIES Pt.1", length = "4:59" }, { id = "1745663759", name = "CUTEST SQUISHIES Pt.2", length = "4:51" }, { id = "1745663763", name = "CUTEST SQUISHIES Pt.3", length = "4:55" }, { id = "1745663767", name = "CUTEST SQUISHIES Pt.4", length = "4:45" }] },
+]
 views = 25411
 likes = 869
 comments = 228

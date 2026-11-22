@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBQCdASogABIAPs1YoUunpSMhsBgMAPAZiWMAuwAQuOQuFFu/7N1jkMtuZZJrMTVAAP5R8WOiW7xcRaaIEhoRuRamvO6+5+x9/PFWtdYlMUp1wHZ2dnWsXB7OaGSpFK7CHXjYvAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/dog-roleplay-single/1761624988", year = "2022", id = "1761624988", name = "DOG ROLEPLAY", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761625013", name = "DOG ROLEPLAY Pt.1", length = "4:30" }, { id = "1761625016", name = "DOG ROLEPLAY Pt.2", length = "4:39" }] },
+]
 views = 432886
 likes = 7438
 comments = 1700

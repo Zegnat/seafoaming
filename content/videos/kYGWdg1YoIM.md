@@ -9,6 +9,9 @@ length = "13:04"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASogABIAPsFKn0unpCKlN/qoAPAYCWUAsOweAtItk/dIVQPJP9LAAN9G5hmW+XJzZJHzUjSBRmWXd5emRKEzl0LIPeN94qOXVYAqgMeR5g5haoKIyp3JaIAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/petting-my-cat-single/1745637635", year = "2022", id = "1745637635", name = "Petting My Cat", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1745637637", name = "PETTING MY CAT Pt.1", length = "4:21" }, { id = "1745637639", name = "PETTING MY CAT Pt.2", length = "4:21" }, { id = "1745637642", name = "PETTING MY CAT Pt.3", length = "4:21" }] },
+]
 views = 21641
 likes = 642
 comments = 277

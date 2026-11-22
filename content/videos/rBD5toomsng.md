@@ -9,6 +9,9 @@ length = "12:23"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASogABIAPslSoUunpKMht/VYAPAZCWUAtsgLI494hR1RlXMkToAA/lRzzThPwVwKUkoaNKr/SevVuaDcHPO8JrBrtp9ClQ3JdxT0zw+ysJ4AAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/fangs-n-tingles-single/1761299531", year = "2022", id = "1761299531", name = "Fangs n' Tingles", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761299536", name = "Fangs n' Tingles Pt.1", length = "4:00" }, { id = "1761299679", name = "Fangs n' Tingles Pt.2", length = "4:08" }, { id = "1761299680", name = "Fangs n' Tingles Pt.3", length = "4:15" }] },
+]
 views = 162222
 likes = 3820
 comments = 428

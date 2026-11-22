@@ -12,6 +12,9 @@ language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASogABIAPtFYpUyoJSOiKA1RABoJYwCnFA8qEtZVbYUtleavd37gGsloAP7ljQGHF0GMWgLxGBimBpaGutX/rTbtcFnX/sXMhbzTtsKvuLUULAadBKLaRXxHMpCEU+rjgAA="
 spotify = "https://open.spotify.com/album/3e4avJule0sVqmAIofUMf3"
+apple_music = [
+  { url = "https://music.apple.com/us/album/new-microphones-and-setup/1761632831", year = "2022", id = "1761632831", name = "New Microphones and Setup", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761632832", name = "New Microphones and Setup Pt.1", length = "5:01" }, { id = "1761632833", name = "New Microphones and Setup Pt.2", length = "5:02" }, { id = "1761632836", name = "New Microphones and Setup Pt.3", length = "5:01" }, { id = "1761632837", name = "New Microphones and Setup Pt.4", length = "4:58" }, { id = "1761633109", name = "New Microphones and Setup Pt.5", length = "5:04" }, { id = "1761633110", name = "New Microphones and Setup Pt.6", length = "5:06" }] },
+]
 spotify_release = { id = "3e4avJule0sVqmAIofUMf3", name = "New Microphones and Setup", type = "Album", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "6FdlATOCy8RPBMWocdlRDe", name = "New Microphones and Setup Pt.1", length = "5:01" },

@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASogABIAPsVIoEunp6Mht/qoAPAYiWgAsOwhbAORC7pvCCmfoT36qQAA/pAY4a5iTbvyXoZBn9x13ViIQj3ALRC1Y/4HdjMVdP5PXn8IPmFsphH3lo7IY/PJksFkhAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/mermaid-rescue-ep/1761642133", year = "2022", id = "1761642133", name = "MERMAID RESCUE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761642136", name = "MERMAID RESCUE Pt.1", length = "3:56" }, { id = "1761642138", name = "MERMAID RESCUE Pt.2", length = "3:53" }, { id = "1761642561", name = "MERMAID RESCUE Pt.3", length = "3:59" }, { id = "1761642562", name = "MERMAID RESCUE Pt.4", length = "4:09" }] },
+]
 views = 156085
 likes = 3535
 comments = 542

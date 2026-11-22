@@ -13,6 +13,9 @@ language_name = "English"
 placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASogABIAPtFgpU4oJaMiKAqpABoJYwAAHoApFiDrcIOw7iIAAP6JC4QNJj6NfruyZ5cxjA2VOVDBb/VpKzDv6jqrNvGdL8Myo5MFgkE35yskBvFUpJieOLt/wS2zj3MNJLoPtEWnoAA="
 spotify = "https://open.spotify.com/album/07A25dAY31Q2wyGJwfq3mT"
 spotify_podcast = "https://open.spotify.com/episode/7pCrFnB3CLjmBk9RFHNLZb"
+apple_music = [
+  { url = "https://music.apple.com/us/album/intensive-sleep-clinic-ep/6811983139", year = "2026", id = "6811983139", name = "Intensive Sleep Clinic", type = "EP", date = "2026-10-02", cover = true, tracks = [{ id = "6811983140", name = "Inspecting Your Ears", length = "4:55" }, { id = "6811983144", name = "Adjustments and Snipping Energy", length = "6:39" }, { id = "6811983147", name = "Clicky Bumpy Roller", length = "5:32" }, { id = "6811983149", name = "Face Brushing", length = "4:50" }, { id = "6811983153", name = "Fluffy Feather on Your Face", length = "5:00" }] },
+]
 spotify_release = { id = "07A25dAY31Q2wyGJwfq3mT", name = "Intensive Sleep Clinic", type = "EP", date = "2026-10-02", cover = true }
 spotify_tracks = [
   { id = "6IMlCS8jY6vQc67BDDoe2q", name = "Inspecting Your Ears", length = "4:55" },

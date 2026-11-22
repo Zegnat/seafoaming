@@ -9,6 +9,9 @@ length = "14:00"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASogABIAPtFcqE4oJSQiKAqpABoJZQC1F68AqfcVJK8FPWON2iD0AAD+w/9LU7dMUXqS4RHy3RCxLTI2RA7MXgYz06P6jEk7e4+BRt+yEgkNNCWguyN8pAnDEK2Sdn7m5E0AAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-scritchin-single/1761300018", year = "2022", id = "1761300018", name = "EAR SCRITCHIN", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761300235", name = "EAR SCRITCHIN Pt.1", length = "4:34" }, { id = "1761300238", name = "EAR SCRITCHIN Pt.2", length = "4:51" }, { id = "1761300242", name = "EAR SCRITCHIN Pt.3", length = "4:34" }] },
+]
 views = 625609
 likes = 8317
 comments = 656

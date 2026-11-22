@@ -12,6 +12,9 @@ language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBQCdASogABIAPtFQpUuoJCOhsBgMAQAaCUATpm0P6gKecF06Q+as1fgSB5xzVDIAAP7i9MYhzbHUz26u0Rr91dZANx1Xsczs9yBzhDjZz9g7dirOMUxykZMcbuZc6cAAAA=="
 spotify = "https://open.spotify.com/album/66UxasIgCGGkMJjGTwsGs8"
+apple_music = [
+  { url = "https://music.apple.com/us/album/adorable-relaxing-murder-session-single/1761616195", year = "2022", id = "1761616195", name = "Adorable, Relaxing Murder Session", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1761616196", name = "Adorable, Relaxing Murder Session Pt.1", length = "5:01" }, { id = "1761616202", name = "Adorable, Relaxing Murder Session Pt.2", length = "4:58" }, { id = "1761616205", name = "Adorable, Relaxing Murder Session Pt.3", length = "4:49" }] },
+]
 spotify_release = { id = "66UxasIgCGGkMJjGTwsGs8", name = "Adorable, Relaxing Murder Session", type = "Single", date = "2022-09-02", cover = true }
 spotify_tracks = [
   { id = "7FY3ydjKqtg1DUrQOSlsrX", name = "Adorable, Relaxing Murder Session Pt.1", length = "5:01" },

@@ -9,6 +9,9 @@ length = "1:04:11"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASogABIAPtFiqU+oJaOiKAgBABoJZwAAIdso9zNrqOzyFNTfwcX8oAD+N4V4lgXUmDSX3erutFDJ8xwey24DWlTazxuNdI3B0hVPLQLWSqHE80AA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/soft-and-fluffy-brushing-on-your-ears/1761635459", year = "2022", id = "1761635459", name = "Soft and Fluffy Brushing on Your Ears", type = "Album", date = "2022-09-02", cover = true, tracks = [{ id = "1761635464", name = "Soft and Fluffy Brushing on Your Ears Pt.1", length = "4:55" }, { id = "1761635473", name = "Soft and Fluffy Brushing on Your Ears Pt.2", length = "4:54" }, { id = "1761635625", name = "Soft and Fluffy Brushing on Your Ears Pt.3", length = "4:57" }, { id = "1761635636", name = "Soft and Fluffy Brushing on Your Ears Pt.4", length = "4:53" }, { id = "1761635642", name = "Soft and Fluffy Brushing on Your Ears Pt.5", length = "4:50" }, { id = "1761635644", name = "Soft and Fluffy Brushing on Your Ears Pt.6", length = "4:48" }, { id = "1761635648", name = "Soft and Fluffy Brushing on Your Ears Pt.8", length = "4:46" }, { id = "1761635651", name = "Soft and Fluffy Brushing on Your Ears Pt.7", length = "4:52" }, { id = "1761635654", name = "Soft and Fluffy Brushing on Your Ears Pt.9", length = "4:44" }, { id = "1761635658", name = "Soft and Fluffy Brushing on Your Ears Pt.10", length = "4:50" }, { id = "1761635902", name = "Soft and Fluffy Brushing on Your Ears Pt.12", length = "5:07" }, { id = "1761635903", name = "Soft and Fluffy Brushing on Your Ears Pt.11", length = "4:44" }, { id = "1761635906", name = "Soft and Fluffy Brushing on Your Ears Pt.13", length = "5:51" }] },
+]
 views = 91116
 likes = 1502
 comments = 217

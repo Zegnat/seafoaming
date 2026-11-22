@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPtFapEwoJSOiMAgBABoJYwDCgCFSPqsY51hyiywdQOX4wAD+4YejZNj/ZKIP2ymoyV9snelqhMOELan7ZDul+3OZLPle5x/qLhZELMj1U+1Y7WrtH/WShAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ear-sniffin-single/1767047861", year = "2022", id = "1767047861", name = "EAR SNIFFIN", type = "Single", date = "2022-09-02", cover = true, tracks = [{ id = "1767047862", name = "EAR SNIFFIN Pt.1", length = "4:34" }, { id = "1767047863", name = "EAR SNIFFIN Pt.2", length = "4:45" }, { id = "1767047864", name = "EAR SNIFFIN Pt.3", length = "4:56" }] },
+]
 views = 105980
 likes = 2968
 comments = 300

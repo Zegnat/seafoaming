@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQBACdASogABIAPs1Uo0unpKMhsBgMAPAZiWIAAIL6k1vCrImgcSM8kt9/DbdawAD++mV1Yu5VJ9YpXcwIb5cSO9h4jvqag/IYI+5GWDpN4a2OO1fgYvoBpmJ5RCYToAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/obsessed-girl-ignores-your-boundaries-and-takes-your/1770222656", year = "2023", id = "1770222656", name = "OBSESSED Girl Ignores Your Boundaries and Takes Your Hoodie", type = "Single", date = "2023-12-11", cover = true, tracks = [{ id = "1770222660", name = "OBSESSED Girl Ignores Your Boundaries and Takes Your Hoodie Pt.1", length = "4:40" }, { id = "1770222664", name = "OBSESSED Girl Ignores Your Boundaries and Takes Your Hoodie Pt.2", length = "4:45" }, { id = "1770222665", name = "OBSESSED Girl Ignores Your Boundaries and Takes Your Hoodie Pt.3", length = "4:44" }] },
+]
 views = 439952
 likes = 8027
 comments = 336

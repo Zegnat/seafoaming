@@ -10,6 +10,9 @@ availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASogABIAPtFcpE4oJSMiKAqpABoJZwAAJZfRRdimq2sxmGjasejB5NgA/vS0Vw5/Pv7+7nzrv5IIthyYhS+2TvSohRyBPjC3DollhUl3ht+mKy+aKWnoNJaFxGAAAA=="
 spotify_podcast = "https://open.spotify.com/episode/5IC1yl7Q0Fg57IrII7xfkY"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-i-will-explode-your-brain-with-a-glue-stick-ep/1771010904", year = "2024", id = "1771010904", name = "ASMR - I Will Explode Your Brain With A Glue Stick", type = "EP", date = "2024-10-18", cover = true, tracks = [{ id = "1771010918", name = "Brain Exploding Time", length = "7:54" }, { id = "1771010928", name = "Your Ears Are So Relaxed RN", length = "4:12" }, { id = "1771011057", name = "Right Ear Attention & Whispers", length = "3:28" }, { id = "1771011073", name = "Squishes & Whispers", length = "3:23" }] },
+]
 spotify_episode = { id = "5IC1yl7Q0Fg57IrII7xfkY", name = "ASMR 🥰 I will explode your brain with a glue stick", date = "2024-09-20", length = "18:57", cover = true }
 views = 31669
 likes = 1353

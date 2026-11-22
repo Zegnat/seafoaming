@@ -11,6 +11,9 @@ age_restricted = false
 language = "en"
 language_name = "English"
 placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASogABIAPsFMoEunpCMht/qoAPAYCUAYUANB/5mHlU/y4KR0VE7gQADhExix2a/x5eA1QDsprrwH/s97/t0yLXEDQYcIpqDJMom6hbFO+Kj7u4HAufXwAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/pigeon-romance-uwaah-b-but-youre-a-human-and-im-a-bird-ep/1745670112", year = "2022", id = "1745670112", name = "PIGEON ROMANCE, Uwaah, B-But.. You're a Human and I'm a BIRD...", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1745670116", name = "PIGEON ROMANCE, Uwaah, B-But.. You're a Human and I'm a BIRD... Pt.1", length = "3:56" }, { id = "1745670124", name = "PIGEON ROMANCE, Uwaah, B-But.. You're a Human and I'm a BIRD... Pt.2", length = "3:58" }, { id = "1745670127", name = "PIGEON ROMANCE, Uwaah, B-But.. You're a Human and I'm a BIRD... Pt.4", length = "3:55" }, { id = "1745670132", name = "PIGEON ROMANCE, Uwaah, B-But.. You're a Human and I'm a BIRD... Pt.3", length = "3:59" }] },
+]
 views = 65208
 likes = 2712
 comments = 409

@@ -9,6 +9,9 @@ length = "22:49"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASogABIAPtFapk4oJSOpKAqpIBoJYwDBzAyVo4cwjJifQ4HwIh4gAPW+s8zoozkD3RPXO6T9UTJAx43FcZh9djI/8IaK5f9zj97hkxrnhAMTIUIFb62AAA=="
+apple_music = [
+  { url = "https://music.apple.com/us/album/tapping-cupping-your-ears-and-finger-flutters-teeth/1761415544", year = "2022", id = "1761415544", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761415546", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering Pt.1", length = "4:35" }, { id = "1761415729", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering Pt.2", length = "4:36" }, { id = "1761415731", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering Pt.3", length = "4:35" }, { id = "1761415736", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering Pt.4", length = "4:37" }, { id = "1761415737", name = "Tapping, Cupping Your Ears and Finger Flutters, Teeth Chattering Pt.5", length = "4:26" }] },
+]
 views = 67564
 likes = 1560
 comments = 245

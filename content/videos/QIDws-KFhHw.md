@@ -12,6 +12,9 @@ language = "en-US"
 language_name = "American English"
 placeholder = "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASogABIAPsVSoEunpKMhsAwA8BiJQBOgA9DGvzI9KmVvKOI6qfTgAP7235jHH5GcfY3mDGjnADDNJkdygNX7dJ+p/l4/+NXM//UIANgzUMyi16YHldZXkaIQMWz0qYH5NzO3iFlE6U9xutEqPaGAAA=="
 spotify_podcast = "https://open.spotify.com/episode/2dZ00mrSW2EcurNeMyTeLc"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-cruel-mom-gaslights-insults-you-because-mother/1790933105", year = "2025", id = "1790933105", name = "ASMR CRUEL MOM Gaslights & Insults You (Because Mother Knows Best)", type = "EP", date = "2025-02-07", cover = true, tracks = [{ id = "1790933106", name = "Your Mom Is Already Insulting You As Soon As She Walks In", length = "3:39" }, { id = "1790933107", name = "You Make Her Look Bad & It's Your Fault", length = "2:44" }, { id = "1790933108", name = "Now You're Giving Her That Tone?!", length = "4:46" }, { id = "1790933109", name = "Measuring Your Waist, Body Shaming, Banning Food & Internet", length = "3:44" }, { id = "1790933111", name = "\"Cleaning\" Your Room By Throwing Out Your Cherished Card Collection", length = "4:05" }, { id = "1790933112", name = "Degrading You To Sleep", length = "3:38" }] },
+]
 spotify_episode = { id = "2dZ00mrSW2EcurNeMyTeLc", name = "ASMR 💀 B*TCHY MOM Gaslights & Insults You (because mother knows best)", date = "2025-01-10", length = "22:36", cover = true }
 views = 51684
 likes = 1787

@@ -9,6 +9,9 @@ length = "17:08"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASogABIAPtFapUwoJSOiMAgBABoJQBUk2+BNTehmvzP2/X/sywAA/uV1ELhTlmcjL8PJxdNR4I2y8doKvOb6a2gJm48SS6bgajn55+gPFiVKPV9Lbr0dWQNmAAA="
+apple_music = [
+  { url = "https://music.apple.com/us/album/sheer-tights-ear-massage-ep/1761275323", year = "2022", id = "1761275323", name = "SHEER TIGHTS EAR MASSAGE", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761275324", name = "SHEER TIGHTS EAR MASSAGE Pt.1", length = "4:16" }, { id = "1761275325", name = "SHEER TIGHTS EAR MASSAGE Pt.2", length = "4:15" }, { id = "1761275578", name = "SHEER TIGHTS EAR MASSAGE Pt.3", length = "4:17" }, { id = "1761275580", name = "SHEER TIGHTS EAR MASSAGE Pt.4", length = "4:20" }] },
+]
 views = 189260
 likes = 3923
 comments = 461

@@ -11,6 +11,9 @@ age_restricted = false
 language = "es"
 language_name = "Spanish"
 placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBACdASogABIAPsVUn0unpSKht/VYAPAYiWQArABFO1F0tdVZPzB/MNmi4AD+vwOZVLyq4M4wtCOJ3F13b7ZfTYRWzM4yleQCV9poicajZ10iTJqUj/w1IH87GbkZsrql0AAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/ahri-roleplay-ep/1761335253", year = "2022", id = "1761335253", name = "AHRI ROLEPLAY", type = "EP", date = "2022-09-02", cover = true, tracks = [{ id = "1761335360", name = "AHRI ROLEPLAY Pt.1", length = "4:45" }, { id = "1761335364", name = "AHRI ROLEPLAY Pt.2", length = "4:40" }, { id = "1761335367", name = "AHRI ROLEPLAY Pt.3", length = "4:46" }, { id = "1761335369", name = "AHRI ROLEPLAY Pt.4", length = "4:53" }] },
+]
 views = 377246
 likes = 5612
 comments = 819

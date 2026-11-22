@@ -9,6 +9,9 @@ length = "17:20"
 availability = "public"
 age_restricted = false
 placeholder = "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwBACdASogABIAPtFWo0uoJKMhsAgBABoJZACdMoACjgTCtxiqo6zZWWgJO+gAAP7p1u+Vm69Er6llGPsBzughleGH1K0QxmlcQ2Udb2+zChnuliqVLSjDJ2y58O59xT6fdfxhRzF8Y0KjKWu2KqWBhPwOUzTyaN/eAAAA"
+apple_music = [
+  { url = "https://music.apple.com/us/album/asmr-quirky-girl-from-class-saves-you-from-bullies/1752639007", year = "2024", id = "1752639007", name = "ASMR - Quirky Girl From Class - Saves You From Bullies & Cheers You Up - Cute Personal Attention", type = "EP", date = "2024-07-05", cover = true, tracks = [{ id = "1752639014", name = "Listen To My Soft Whispers", length = "4:37" }, { id = "1752639016", name = "Quirky Girl Shows You the Package", length = "3:34" }, { id = "1752639320", name = "Introducing Myself & Chewing Sounds", length = "4:28" }, { id = "1752639322", name = "I Write Down Things & Talking To You", length = "4:41" }] },
+]
 views = 48343
 likes = 1946
 comments = 126
