@@ -92,7 +92,8 @@ export function subtitleFile(info: Info): [string | null, boolean] {
   return [null, false];
 }
 
-function transcript(info: Info, written: string) {
+// whisper is false when the community file says whisper = false: then a transcript from Whisper is not used.
+function transcript(info: Info, written: string, whisper = true) {
   if (written) {
     return ["## Transcript", "", "The community wrote this transcript.", "", written, ""].join("\n");
   }
@@ -107,9 +108,9 @@ function transcript(info: Info, written: string) {
   }
   let [path, manual] = subtitleFile(info);
   // Without English captions, a transcript from Whisper (scripts/whisper.ts) fills the gap.
-  const whisper = `${CACHE}/whisper/transcripts/${info.id}.vtt`;
-  const recognized = !path && exists(whisper);
-  if (recognized) path = whisper;
+  const recognizedPath = `${CACHE}/whisper/transcripts/${info.id}.vtt`;
+  const recognized = !path && whisper && exists(recognizedPath);
+  if (recognized) path = recognizedPath;
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
     return [
@@ -315,7 +316,8 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
   const notes = extra.notes
     ? (extra.notes.startsWith("## ") ? extra.notes : `## Notes\n\n${extra.notes}`) + "\n\n"
     : "";
-  return front.filter((line) => !line.endsWith("= null")).join("\n") + notes + transcript(info, extra.transcript);
+  return front.filter((line) => !line.endsWith("= null")).join("\n") + notes +
+    transcript(info, extra.transcript, extra.data.whisper !== false);
 }
 
 // The thumbnails of videos by other channels live in static/thumbs/others.

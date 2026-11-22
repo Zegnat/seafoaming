@@ -1,14 +1,17 @@
 // Transcribe videos without English captions from YouTube with Whisper, as speech recognition on the audio.
 // whisper-cli comes from the whisper distrobox (see ~/Projects/distroboxes/whisper.ini), and the model from
 // ~/.local/share/whisper-models.
-// Usage: deno task whisper [video IDs]
+// Usage: deno task whisper [--long] [video IDs]
 //   Without IDs, it takes the videos with a named character (content/characters) that have no English captions.
-//   It skips videos that already have a transcript in .cache/whisper/transcripts.
+//   It skips videos that already have a transcript in .cache/whisper/transcripts, and live streams and videos of
+//   more than an hour, unless --long is given. A community file with whisper = false keeps a video out, for
+//   example when its speech is unintelligible on purpose and Whisper would invent text.
 import { parse as parseToml } from "@std/toml";
 import { subtitleFile } from "./generate.ts";
 
 const ROOT = new URL("..", import.meta.url).pathname;
 const OUT = `${ROOT}.cache/whisper`;
+const LONG = 60 * 60;
 const MODEL = `${Deno.env.get("HOME")}/.local/share/whisper-models/ggml-large-v3-turbo.bin`;
 
 const exists = (path: string) => {
@@ -38,10 +41,26 @@ function characterVideos() {
 }
 
 if (import.meta.main) {
-  const ids = Deno.args.length ? Deno.args : characterVideos().filter((id) => {
+  const long = Deno.args.includes("--long");
+  const given = Deno.args.filter((arg) => arg !== "--long");
+  const info = (id: string) => {
     const path = `${ROOT}.cache/videos/${id}.info.json`;
-    return exists(path) && !subtitleFile(JSON.parse(Deno.readTextFileSync(path)))[0];
-  });
+    return exists(path) ? JSON.parse(Deno.readTextFileSync(path)) : null;
+  };
+  const ids = (given.length ? given : characterVideos().filter((id) => info(id) && !subtitleFile(info(id))[0]))
+    .filter((id) => {
+      const community = `${ROOT}community/videos/${id}.md`;
+      if (exists(community) && /^whisper\s*=\s*false\s*$/m.test(Deno.readTextFileSync(community))) {
+        console.log(`${id}: skipped, its community file says whisper = false.`);
+        return false;
+      }
+      // Live streams and long videos take a long time to download and to check, so they wait for --long.
+      const data = info(id);
+      const stream = data?.live_status === "was_live" || Boolean(data?.was_live);
+      if (long || !data || (!stream && (data.duration ?? 0) <= LONG)) return true;
+      console.log(`${id}: skipped, ${stream ? "a live stream" : "longer than an hour"}; use --long to include it.`);
+      return false;
+    });
   Deno.mkdirSync(`${OUT}/audio`, { recursive: true });
   Deno.mkdirSync(`${OUT}/transcripts`, { recursive: true });
   const todo = ids.filter((id) => !exists(`${OUT}/transcripts/${id}.vtt`));
@@ -55,6 +74,9 @@ if (import.meta.main) {
         "--no-warnings",
         "--preset-alias",
         "sleep",
+        // Parallel parts: YouTube sends a single stream of a long recording very slowly.
+        "--concurrent-fragments",
+        "8",
         "-f",
         "worstaudio",
         "-o",
