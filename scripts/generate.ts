@@ -17,9 +17,9 @@ type Info = Record<string, any>;
 // JSON strings, numbers, arrays and booleans are valid TOML values.
 const toml = (value: unknown) => JSON.stringify(value ?? null);
 
+// A WebVTT time: hours are optional, as in 01:02.500.
 function seconds(stamp: string) {
-  const [h, m, s] = stamp.split(":");
-  return Number(h) * 3600 + Number(m) * 60 + Number(s);
+  return stamp.split(":").reduce((total, part) => total * 60 + Number(part), 0);
 }
 
 export function timestamp(t: number) {
@@ -35,7 +35,7 @@ export function parseVtt(text: string) {
   let recent: string[] = [];
   let start: number | null = null;
   for (const raw of text.split(/\r?\n/)) {
-    const match = raw.match(/^(\d+:\d\d:\d\d\.\d+) -->/);
+    const match = raw.match(/^((?:\d+:)?\d\d:\d\d\.\d+) -->/);
     if (match) {
       start = seconds(match[1]);
       continue;
@@ -92,12 +92,15 @@ export function subtitleFile(info: Info): [string | null, boolean] {
   return [null, false];
 }
 
-// whisper is false when the community file says whisper = false: then a transcript from Whisper is not used.
-function transcript(info: Info, written: string, whisper = true) {
+// A transcript with timings can be in the community folder as community/videos/<id>.vtt. source is the transcript
+// field of the community file: "whisper" for speech recognition (scripts/whisper.ts), "community" for people.
+function transcript(info: Info, written: string, source: unknown = null) {
   if (written) {
     return ["## Transcript", "", "The community wrote this transcript.", "", written, ""].join("\n");
   }
-  if (info.asmrindex) {
+  const own = `${COMMUNITY}/${info.id}.vtt`;
+  const hasOwn = exists(own);
+  if (info.asmrindex && !hasOwn) {
     return [
       "## Transcript",
       "",
@@ -106,11 +109,8 @@ function transcript(info: Info, written: string, whisper = true) {
     ]
       .join("\n");
   }
-  let [path, manual] = subtitleFile(info);
-  // Without English captions, a transcript from Whisper (scripts/whisper.ts) fills the gap.
-  const recognizedPath = `${CACHE}/whisper/transcripts/${info.id}.vtt`;
-  const recognized = !path && whisper && exists(recognizedPath);
-  if (recognized) path = recognizedPath;
+  // The transcript of the community folder comes first, then the captions of YouTube.
+  const [path, manual] = hasOwn ? [own, false] : subtitleFile(info);
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
     return [
@@ -125,13 +125,14 @@ function transcript(info: Info, written: string, whisper = true) {
   }
   const chapters = info.chapters ?? [];
   const out = ["## Transcript", ""];
-  if (recognized) {
+  if (hasOwn && source === "whisper") {
     out.push(
       "This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. " +
         "It contains errors.",
       "",
     );
-  } else if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
+  } else if (hasOwn) out.push("The community wrote or corrected this transcript.", "");
+  else if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
   const paragraph: string[] = [];
   let start = 0, chapter = 0;
 
@@ -329,7 +330,7 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     ? (extra.notes.startsWith("## ") ? extra.notes : `## Notes\n\n${extra.notes}`) + "\n\n"
     : "";
   return front.filter((line) => !line.endsWith("= null")).join("\n") + notes +
-    transcript(info, extra.transcript, extra.data.whisper !== false);
+    transcript(info, extra.transcript, extra.data.transcript);
 }
 
 // The thumbnails of videos by other channels live in static/thumbs/others.

@@ -3,14 +3,17 @@
 // ~/.local/share/whisper-models.
 // Usage: deno task whisper [--long] [video IDs]
 //   Without IDs, it takes the videos with a named character (content/characters) that have no English captions.
-//   It skips videos that already have a transcript in .cache/whisper/transcripts, and live streams and videos of
+//   The transcripts go to community/videos/<id>.vtt, with transcript = "whisper" in the community file.
+//   It skips videos that already have a transcript there, and live streams and videos of
 //   more than an hour, unless --long is given. A community file with whisper = false keeps a video out, for
 //   example when its speech is unintelligible on purpose and Whisper would invent text.
 import { parse as parseToml } from "@std/toml";
 import { subtitleFile } from "./generate.ts";
+import { writeLink } from "./spotify.ts";
 
 const ROOT = new URL("..", import.meta.url).pathname;
 const OUT = `${ROOT}.cache/whisper`;
+const TRANSCRIPTS = `${ROOT}community/videos`;
 const LONG = 60 * 60;
 const MODEL = `${Deno.env.get("HOME")}/.local/share/whisper-models/ggml-large-v3-turbo.bin`;
 
@@ -63,8 +66,7 @@ if (import.meta.main) {
       return false;
     });
   Deno.mkdirSync(`${OUT}/audio`, { recursive: true });
-  Deno.mkdirSync(`${OUT}/transcripts`, { recursive: true });
-  const todo = ids.filter((id) => !exists(`${OUT}/transcripts/${id}.vtt`));
+  const todo = ids.filter((id) => !exists(`${TRANSCRIPTS}/${id}.vtt`));
   console.log(`${todo.length} of ${ids.length} videos need a transcript.`);
   for (const [i, id] of todo.entries()) {
     const audio = `${OUT}/audio/${id}`;
@@ -108,10 +110,12 @@ if (import.meta.main) {
         "--suppress-nst",
         "-ovtt",
         "-of",
-        `${OUT}/transcripts/${id}`,
+        `${TRANSCRIPTS}/${id}`,
         "-f",
         `${audio}.wav`,
       ]);
+      // The page says where the transcript comes from; the community can correct it and change this to "community".
+      writeLink(id, "transcript", "whisper");
       console.log(`${i + 1}/${todo.length} ${id}`);
     } catch (error) {
       console.log(`${i + 1}/${todo.length} ${id}: ${(error as Error).message}`);

@@ -24,6 +24,12 @@ path = "content/collabs/*.md"
 SPDX-FileCopyrightText = ["The creators of the videos", "2026 The Seafoam Kitten ASMR Community"]
 SPDX-License-Identifier = "LicenseRef-YouTubeCreators AND CC-BY-4.0"
 
+# Transcripts write down the words of the videos: of Seafoam Kitten ASMR, or of the other creators of collabs.
+[[annotations]]
+path = "community/videos/*.vtt"
+SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "The creators of the videos", "2026 The Seafoam Kitten ASMR Community"]
+SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND LicenseRef-YouTubeCreators AND CC-BY-4.0"
+
 [[annotations]]
 path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"

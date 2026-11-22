@@ -67,3 +67,8 @@ Hello, welcome back.
   });
   equal(parseCommunity("Only notes."), { data: {}, notes: "Only notes.", transcript: "" });
 });
+
+Deno.test("parseVtt reads times without hours", () => {
+  const vtt = "WEBVTT\n\n00:30.000 --> 00:34.200\nOh yes\n\n01:02:03.500 --> 01:02:04.000\nLater\n";
+  equal(parseVtt(vtt), [[30, "Oh yes"], [3723.5, "Later"]]);
+});
