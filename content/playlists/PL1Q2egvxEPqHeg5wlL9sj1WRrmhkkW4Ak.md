@@ -9,9 +9,9 @@ stack = [
   { id = "YrQkJBJFHi8", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwBACdASogABIAPtFYpUyoJSOiqA1RABoJZQC/ay/BqA3e6Tetukck2Qofd1P4YAAA/uqSbaS0qOOxIhy1YmEkh1nTABo03i3trzrtcgXiw+Ub8aAGiJ2lT/3U8mAA" },
   { id = "LL-IENKdYZ8", placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASogABIAPslSoEunpKMht/VYAPAZCWQAuzLjeWhNh/NgKhZswIodterUAP7wMbQg4yhwynwirU7lAWZqQC+peXMlee0wPCxsHRQQXMKZZAOCvAbUK6ImRc+yMwcNBnpOyq0IkAAA" },
 ]
-views = 9280
+views = 9281
 updated = 2019-08-20
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "hJgxLIqGM4U", title = "ASMR - MONQ REVIEW ~ Trying Aromatherapy Diffusers \"Happy\" and \"Sleepy\"~" },

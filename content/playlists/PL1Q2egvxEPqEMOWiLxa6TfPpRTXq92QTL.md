@@ -11,7 +11,7 @@ stack = [
 ]
 views = 525531
 updated = 2024-07-27
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "Hxc3zO7N8gA", title = "“ITS TIME TO PARTY!” (Seafoam Kitten Birthday Rap)", channel = "Mushrewn", channel_url = "https://www.youtube.com/channel/UCs61NS3BLUGNEZQwj2H1h7Q", length = "1:11", duration = 71, views = 1000, folder = "others", placeholder = "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASogABIAPsVSoEunpKMht/VYAPAYiWUArAAVs0eYA9iqEAD8e/cet9H8UzsKd3gOvT4sFN7l5wasu3WWamizncpVnCG5lq0vf/aCAmZwiAA=" },

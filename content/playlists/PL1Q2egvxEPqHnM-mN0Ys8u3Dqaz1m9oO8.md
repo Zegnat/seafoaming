@@ -9,9 +9,9 @@ stack = [
   { id = "FB-j8qGBVu4", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASogABIAPsVSoEunpSMht/VYAPAYiWIAwNw6KtbkGrRxgiFHUWPUuAAA/Z68D2KgdfOrdme11vT0OPipsuc2N7kq9Xp4sUWuG1gKoXsLnchKt32Njw+54u/TrB8ro7x4YCgAAA==" },
   { id = "xihjjP3l0ck", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPtFaqU2oJSQiKAqpABoJQBOmargpKHgFDTdXnZmphkktgGAA+Rj6j4n08MAd9LzmpBerC/QEGTitfd6fF3Vc/MFMBqGdTqORpw2cHBwhA2ihBXUzj5Cy1pznJOcBbtJ6AAA=" },
 ]
-views = 2971
+views = 2973
 updated = 2024-08-12
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "1oQF2tiFwQY", title = "ASMR - EAR BLOWING ~ Gently Blowing Into Your Ears! Binaural Ear-to-Ear Sound ~" },

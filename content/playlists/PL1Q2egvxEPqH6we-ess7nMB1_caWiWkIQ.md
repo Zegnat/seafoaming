@@ -9,9 +9,9 @@ stack = [
   { id = "fITYOALZ8w4", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASogABIAPtFcpEwoJaOiMAgBABoJZQC7ABuji4WU8lJ2lRchiWyI5UOMAP7vp9OhsXow8ta2beUEEeAhfSWr6rknPd/G0n6fp1R3hknrONiatDOVVAh1G+xKsyi6lJqOGxvviQSPAAA=" },
   { id = "lcBxh2DYvfg", placeholder = "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASogABIAPtFcpkwoJaOiMAgBABoJQBadAxihKbmvfXW69GL6gfUAAPwaWqYsewWIM/cVCF/7EhxWqnnIIzB7m1JQj96hGNSz2iJjW+r34p4K7b/H8qwJDb6OldyAAA==" },
 ]
-views = 166244
+views = 166252
 updated = 2026-10-09
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "gxW97jNs4Dk", title = "ASMR - SHOW & TELL ~ Soft Spoken Crinkles and Tapping ~ My Mini Animal Sculptures" },

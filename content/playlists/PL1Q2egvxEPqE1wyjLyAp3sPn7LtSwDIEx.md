@@ -9,9 +9,9 @@ stack = [
   { id = "DGH09ecq7rc", placeholder = "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASogABIAPslSokunrKMht/VYAZAZCWUAvdAJD5yeIw/yajsfVAD8nMxCSozTfbFzpg4mC1ZfVmmrfNRSnNtXWnx6jlWFtook3hS/cmphsbHjlgXRVmSZ8AAA" },
   { id = "JBB9KUqi2sg", placeholder = "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASogABIAPtFWokuoJKMhsAgBABoJQBWGZDBdrgGDpJksAYCyO70QLuwAAPewmOsrV5JPcrge8xAPPdQhvgQtuQXgJCa9QZF0pghUGq2guVaNxquy6i7rIX6s/xbAaKNmXsoRF7YNvoAAAA==" },
 ]
-views = 6955
+views = 6956
 updated = 2022-12-02
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "5-HnHucUlns", title = "[1 HOUR] ASMR - EAR CLEANING ~ Intense Binaural Ear Cleaning w/ Fluffy Stick & Finger Poking ~" },

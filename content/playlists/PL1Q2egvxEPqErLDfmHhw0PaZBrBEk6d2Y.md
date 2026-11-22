@@ -9,9 +9,9 @@ stack = [
   { id = "3krd4VfeS3w", placeholder = "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASogABIAPtFgpk6oJaMiKAqpABoJZQC7LwA0/0NFglILIKbIZU153rlMVnGIAP7X5FP0FeEq0AI1oAJXDG3OjopMFchRCqorHKupyHdw5zjisVE0hIRu8+LdZhbpx2jAVQ5QAAAA" },
   { id = "ABDhmuqvw0o", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwBACdASogABIAPtFQo0woJCMiMBgMAQAaCWUAuKgyyuckXUyiNPLpaGVRErOjMLAA/vfGVaA3E+KDjxZBbJnja8yGSGzNI9BvSMpJZC5FRUVQeI2IImqvzvrJ/fRTzy/OAAAA" },
 ]
-views = 26151
+views = 26160
 updated = 2024-07-31
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "-5SPO_Q2RZc", title = "ASMR - Patronizing the Heck Outta You (Lovingly) | Fluffy Ear Massage" },

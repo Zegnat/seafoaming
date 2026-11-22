@@ -9,9 +9,9 @@ stack = [
   { id = "_73R5JH-w5o", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASogABIAPtFWpU2oJCMmMBgIAQAaCWMAvkgH99JQXGGf41XJOQjIUAD3BZXV4KY90ruc+feJTl7amK9cOBWGpaJj2WsZQ6mVFG5fUnJhbZlbEDmG7Yh0MAAAAAA=" },
   { id = "Gp4If1mVEhQ", placeholder = "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBQCdASogABIAPsFMoEunpCMht/qoAPAYCUATpCbAXBpUMs4DgyvEOWgLYeOmwedAAAD+xK453vAR7tgdZv36At2Wgmr4huDeyIeclD+IG4nF7emfpE5glqUfYFHVwYSeg3mOPXQgAA==" },
 ]
-views = 1103571
+views = 1103620
 updated = 2020-10-31
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = "All of the dragon bideos in one place :3 In order of oldest to newest"
 videos = [
   { id = "4fCQzSvKBiI", title = "ASMR - DRAGON ROLEPLAY ~ Taming a Tsundere Dragon Girl! Mouthsounds, Ear Blowing, Humming ~" },

@@ -9,9 +9,9 @@ stack = [
   { id = "ngUO6Btvj-o", placeholder = "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASogABIAPr1Sn0unJSMht/qoAOAXiWIAuwAbmaodP1cxOBw3bUG7Qb4ctYAA/ozr1RjDIjQlC8t6VpLMerAq5Ua8pfbf7lBDwvYMtgQKJneUIUlAczx8zHXzZQoOgY302mnm3EA+JAA=" },
   { id = "8DqY949Xh2Y", placeholder = "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQBACdASogABIAPsFOoEunpCMht/qoAPAYCWUAuwAhqc9wBIGqJx+uQNA7fQAA/vS2Fa/G8zzYQshbIX4JfZE0qK9nSY0hbigdu+XTVsHzeQMJfYQ7KAoOzaeRto5twAA=" },
 ]
-views = 20142
+views = 20153
 updated = 2023-05-26
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "Il-nVTxXaEo", title = "ASMR - FRIENDLY DRAGON ~ Fascination with You! | Personal Attention, Soft Spoken ~" },

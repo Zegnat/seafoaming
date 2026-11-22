@@ -9,9 +9,9 @@ stack = [
   { id = "L5znKj52LnY", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASogABIAPr1Sn0unMSKht/qoAiAXiWUApxuoAJbkUZaHFhfRYraAAP6Qlwnk54LeZpJUCijSlyfMXG9rsv6P/cEqCSV6yUkFMjwyHNkay82Az8wj6muXEr84+4+oC9wA" },
   { id = "R5pKWYT3NiQ", placeholder = "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASogABIAPtFYoEwoJSMiMBgMAQAaCWMArhwQ1QrOKuZvqeR4LAAAzbdPnOrh03ZU5+zDbh9Xn55TRlDdFd+uNBo05QVmYmIKFJQF7kjO9Ziyo1OuIYNbs8HUhuz5bAAA" },
 ]
-views = 10616
+views = 10618
 updated = 2025-01-10
-fetched = 2026-11-21
+fetched = 2026-11-22
 description = ""
 videos = [
   { id = "9Lgf7KOvjEk", title = "ASMR - WHISPERING BULLY ~ NEGATIVE Affirmations w/ Gum Chewing & Mouth Sounds" },
