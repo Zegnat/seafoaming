@@ -2,9 +2,11 @@ All rights reserved by the creators of the videos.
 
 These are thumbnails and snapshots of videos by other YouTube channels, made
 smaller, with blurred placeholders made from them. The videos appear in
-playlists of Seafoam Kitten ASMR, for example "Favorite ASMR". The repository
-includes them for reference. The rights holders did not give a license for
-them, so the licenses of this repository do not apply to them.
+playlists of Seafoam Kitten ASMR, for example "Favorite ASMR", or Seafoam
+Kitten appears in them, as collabs. The collab pages also quote the titles,
+descriptions, chapter titles and captions of these videos. The repository
+includes this material for reference. The rights holders did not give a
+license for it, so the licenses of this repository do not apply to it.
 
 The creators of the videos are these YouTube channels:
 
@@ -73,6 +75,7 @@ The creators of the videos are these YouTube channels:
 - Magic Dragon Asmr
 - Mallarduck
 - MasterR3C0RD
+- Matty Tingles
 - Mayapolarbear
 - Mixed ASMR
 - Moona
@@ -85,6 +88,7 @@ The creators of the videos are these YouTube channels:
 - Prim ASMR
 - Pudding
 - Quiet Headspace ASMR
+- Radvertisin
 - RaffyTaphyASMR
 - Rainbow ASMR
 - Relaxing Male ASMR
@@ -98,10 +102,13 @@ The creators of the videos are these YouTube channels:
 - Sleepy Keys ASMR
 - Slight Sounds ASMR
 - softlygaloshes ASMR
+- Soothing Sensations ASMR
+- stolentoilet ASMR
 - sweetbabyray asmr
 - Taylor ASMR
 - TeeASMR
 - The ASMR Prince
+- The Dark Pog
 - The White Rabbit ASMR
 - Tingles From Space
 - Tingting ASMR
