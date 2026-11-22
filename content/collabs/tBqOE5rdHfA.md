@@ -37,6 +37,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+The same video is also [on the main channel](@/videos/pWwIiRadNr4.md).
+
 ## Transcript
 
 ### The client request
