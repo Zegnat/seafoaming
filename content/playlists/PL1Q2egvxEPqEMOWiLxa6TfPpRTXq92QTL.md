@@ -41,7 +41,7 @@ videos = [
   { id = "KVKY-mctYzM", title = "Poop on your bum?" },
   { id = "D0rxV6hddsE", title = "PRECIOUS FOOT LETTUCE" },
   { id = "SiF3lho9k2U", title = "SeXXy chiCK DANCES 4 u" },
-  { id = "BVKI1LoTaYI", title = "ASMR | Man Vs brushes", status = "private", source = "filmot", channel = "SubstanceASMR", channel_url = "https://www.youtube.com/channel/UCrLy10qSZJWqlp3opaIydfw" },
+  { id = "BVKI1LoTaYI", title = "ASMR | Man Vs brushes", status = "private", source = "filmot", channel = "SubstanceASMR", channel_url = "https://www.youtube.com/channel/UCrLy10qSZJWqlp3opaIydfw", folder = "others", placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwBACdASogABIAPsFIn0unpCKht/qoAPAYCWkAw6wbntYhSmHwNMiWX6HUAAD+6dTNr+U/pO/P2n61QjPkePMrK7mMEg/DEu4/90kecYAAAA==" },
   { id = "mm7B74JjNGI", title = "Custom ASMR - Yandere 4 Justin ~ Tabby Shows You True Love ~" },
   { id = "8L-F7ks3-ro", title = "why did i do  this" },
   { id = "dv4tMD8NAG0", title = "Comfy Audio - Silly Bedtime Story w/ Rain & Thunder ~" },

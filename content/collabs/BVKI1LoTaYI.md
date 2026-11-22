@@ -10,16 +10,21 @@ channel = "SubstanceASMR"
 channel_url = "https://www.youtube.com/channel/UCrLy10qSZJWqlp3opaIydfw"
 folder = "others"
 live = false
+duration = 964
+length = "16:04"
 status = "private"
 status_message = "Private video. If the owner of this video has granted you access, please sign in. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies"
 status_checked = 2026-11-21
 age_restricted = false
+placeholder = "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwBACdASogABIAPsFIn0unpCKht/qoAPAYCWkAw6wbntYhSmHwNMiWX6HUAAD+6dTNr+U/pO/P2n61QjPkePMrK7mMEg/DEu4/90kecYAAAA=="
+views = 14987
 likes = 298
 comments_off = false
 fetched = 2026-11-22
 source = "filmot"
 source_url = "https://filmot.com/video/BVKI1LoTaYI"
-description = ""
+other_sources = [{ source = "archivarix", url = "https://tube.archivarix.net/find-reupload/BVKI1LoTaYI" }]
+description = "Experience ear and face brushing as I hear it!\nSupport me on Tad: http://givetad.com/SubstanceASMR \n\n*******Social Media*******\nTwitter: https://twitter.com/SafetymanDerek\nFacebook: https://tinyurl.com/SubstanceASMRface...\n\n*******Donations*******\nLike what you see? You can support me by making a donation or becoming a Patron.\n\nPatreon: https://www.patreon.com/SubstanceASMR\nPaypal: https://www.paypal.me/SubstanceASM"
 chapters = [
 ]
 +++
