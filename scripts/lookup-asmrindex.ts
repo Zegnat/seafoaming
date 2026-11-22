@@ -1,7 +1,7 @@
 // Look up playlist entries that YouTube gives no title for, on The ASMR Index, through a headless Firefox.
 // The index is behind a bot check, so plain requests do not work. Start Firefox first, for example:
 //   firefox --headless --no-remote --profile <empty folder> --remote-debugging-port=9223
-// Then: deno task lookup-asmrindex [ws://127.0.0.1:9223/session]
+// Then: deno task lookup-asmrindex [ws://127.0.0.1:9223/session] [video IDs]
 // Pages saved from a browser work too: deno task lookup-asmrindex <folder with .html files>
 // A Firefox that you use yourself works too, if it was started with --remote-debugging-port; the script opens its own tab.
 import { connect } from "./bidi.ts";
@@ -56,7 +56,9 @@ async function fromFolder(folder: string) {
 }
 
 if (import.meta.main) {
-  const target = Deno.args[0] ?? "ws://127.0.0.1:9223/session";
+  // Video IDs on the command line are looked up instead of the playlist entries.
+  const given = Deno.args.filter((arg) => /^[\w-]{11}$/.test(arg));
+  const target = Deno.args.find((arg) => !given.includes(arg)) ?? "ws://127.0.0.1:9223/session";
   if (!target.startsWith("ws")) {
     await fromFolder(target);
     Deno.exit();
@@ -70,8 +72,8 @@ if (import.meta.main) {
     (await send("script.evaluate", { expression, target: { context }, awaitPromise: true })).result?.result?.value;
 
   // Entries without a title are private or deleted videos. Skip the ones that the index already gave us.
-  const ids = new Set<string>();
-  for (const entry of Deno.readDirSync(`${ROOT}.cache/playlists`)) {
+  const ids = new Set<string>(given);
+  for (const entry of given.length ? [] : Deno.readDirSync(`${ROOT}.cache/playlists`)) {
     const playlist = JSON.parse(Deno.readTextFileSync(`${ROOT}.cache/playlists/${entry.name}`));
     for (const e of playlist.entries ?? []) {
       if (!e.title && !exists(`${OUT}/${e.id}.json`) && !exists(`${ROOT}.cache/videos/${e.id}.info.json`)) {
