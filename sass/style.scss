@@ -75,10 +75,18 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .links a > span:not(.icon) { display: flex; flex-direction: column; }
 .links a small { color: #54595d; font-size: 0.85em; font-weight: normal; }
 
-.tag { display: inline-block; font-size: 0.75em; line-height: 1.4; padding: 0 0.4em; border: 1px solid #a2a9b1; background: #f8f9fa; color: #54595d; white-space: nowrap; vertical-align: 1px; }
-.tag-removed, .tag-private, .tag-unavailable { border-color: #b32424; color: #b32424; }
-/* The brand color of Spotify, from brandcolorcode.com. */
-.tag-spotify { border-color: #1db954; color: #1db954; }
+/* Tags paint their border as a gradient (--line), so that the Apple Music gradient lines up with the other tags: a
+   browser rounds a gradient to whole pixels differently than a plain border. The text stays plain: gradient text is
+   painted at fractional pixel positions and then looks blurred in some rows. */
+.tag {
+  --line: linear-gradient(#a2a9b1, #a2a9b1);
+  display: inline-block; font-size: 0.75em; line-height: 1.4; padding: 0 0.4em; border: 1px solid #a2a9b1;
+  border-image: var(--line) 1; background: #f8f9fa; color: #54595d; white-space: nowrap; vertical-align: 1px;
+}
+.tag-removed, .tag-private, .tag-unavailable { --line: linear-gradient(#b32424, #b32424); color: #b32424; }
+/* The brand colors of Spotify and Apple Music, from brandcolorcode.com. */
+.tag-spotify { --line: linear-gradient(#1db954, #1db954); color: #1db954; }
+.tag-apple-music { --line: linear-gradient(#ff4e6b, #ff0436); color: #ff0436; }
 .notice { border: 1px solid #a2a9b1; border-left: 4px solid #b32424; background: #f8f9fa; padding: 0 1em; margin-bottom: 1em; }
 .notice-source { border-left-color: #72777d; }
 .small { font-size: 0.85em; color: #54595d; }

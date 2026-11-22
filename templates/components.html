@@ -40,7 +40,7 @@
 {% if numbered %}<td class="num">{{ loop.index }}</td>{% endif %}
 {% if found %}{% set p = found[0] %}
 <td>{{<thumb root={root} id={p.extra.id} href={root ~ (p.path | trim_start(pat="/"))} title={p.title} placeholder={p.extra.placeholder or ""} />}}</td>
-<td class="title"><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a><span class="tags">{{<tags status={p.extra.status or ""} age_restricted={p.extra.age_restricted or false} source={p.extra.source or ""} spotify={p.extra.spotify or p.extra.spotify_podcast or ""} />}}</span></td>
+<td class="title"><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a><span class="tags">{{<tags status={p.extra.status or ""} age_restricted={p.extra.age_restricted or false} source={p.extra.source or ""} spotify={p.extra.spotify or p.extra.spotify_podcast or ""} apple_music={(p.extra.apple_music or []) | length > 0} />}}</span></td>
 <td>{{ p.date | date(format="%Y-%m-%d") }}</td>
 <td class="num"><span hidden>{{ p.extra.duration or -1 }} </span>{% if p.extra.length %}{{ p.extra.length }}{% endif %}</td>
 <td class="num"><span hidden>{{ p.extra.views or -1 }} </span>{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>
@@ -65,10 +65,11 @@
 {% endcomponent stack %}
 
 {# Small labels for videos that are not simply public. #}
-{# spotify is a Spotify link of the video, if it has one: the video can still be heard there when YouTube lost it. #}
-{% component tags(status: string = "", age_restricted: bool = false, source: string = "", spotify: string = "") %}
+{# spotify is a Spotify link of the video, if it has one, and apple_music says if Apple Music has it: the video can
+   still be heard there when YouTube lost it. #}
+{% component tags(status: string = "", age_restricted: bool = false, source: string = "", spotify: string = "", apple_music: bool = false) %}
 {% set labels = {"unlisted": "Unlisted", "members-only": "Members only", "private": "Private", "removed": "Removed", "unavailable": "Unavailable"} %}
-{% if status in labels %} <span class="tag tag-{{ status }}">{{ labels[status] }}</span>{% endif %}{% if age_restricted %} <span class="tag">Age-restricted</span>{% endif %}{% if source == "asmrindex" %} <span class="tag">ASMR Index</span>{% endif %}{% if spotify %} <span class="tag tag-spotify">Spotify</span>{% endif %}
+{% if status in labels %} <span class="tag tag-{{ status }}">{{ labels[status] }}</span>{% endif %}{% if age_restricted %} <span class="tag">Age-restricted</span>{% endif %}{% if source == "asmrindex" %} <span class="tag">ASMR Index</span>{% endif %}{% if spotify %} <span class="tag tag-spotify">Spotify</span>{% endif %}{% if apple_music %} <span class="tag tag-apple-music">Apple Music</span>{% endif %}
 {% endcomponent tags %}
 
 {# The three sort states of a column header; CSS shows the one that matches aria-sort. kind is "letters", "numbers" or "". #}
