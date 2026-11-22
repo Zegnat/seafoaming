@@ -42,4 +42,5 @@ These tools build the site. They are not part of the published site.
 - [Deno](https://deno.com/) runs the scripts that download and generate the data.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) downloads the data from YouTube.
 - [sharp](https://sharp.pixelplumbing.com/) makes the WebP images, and [ThumbHash](https://evanw.github.io/thumbhash/) makes the blurred placeholders.
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) makes the transcripts of videos without English captions on YouTube, with the model [ggml-large-v3-turbo](https://huggingface.co/ggerganov/whisper.cpp/blob/main/ggml-large-v3-turbo.bin), a version of [Whisper large-v3-turbo](https://huggingface.co/openai/whisper-large-v3-turbo) by OpenAI. [FFmpeg](https://ffmpeg.org/) prepares the audio for it.
 - [esbuild](https://esbuild.github.io/) combines and minifies the scripts and stylesheets.

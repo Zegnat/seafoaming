@@ -81,7 +81,7 @@ function exists(path: string) {
   }
 }
 
-function subtitleFile(info: Info): [string | null, boolean] {
+export function subtitleFile(info: Info): [string | null, boolean] {
   const manual = Object.keys(info.subtitles ?? {}).filter((lang) => lang === "en" || lang.startsWith("en-"));
   // The automatic "en" track is a machine translation when YouTube recognized the speech in another language.
   const automatic = info.language?.startsWith("en") ? ["en-orig", "en"] : ["en-orig"];
@@ -105,7 +105,11 @@ function transcript(info: Info, written: string) {
     ]
       .join("\n");
   }
-  const [path, manual] = subtitleFile(info);
+  let [path, manual] = subtitleFile(info);
+  // Without English captions, a transcript from Whisper (scripts/whisper.ts) fills the gap.
+  const whisper = `${CACHE}/whisper/transcripts/${info.id}.vtt`;
+  const recognized = !path && exists(whisper);
+  if (recognized) path = whisper;
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
     return [
@@ -120,7 +124,13 @@ function transcript(info: Info, written: string) {
   }
   const chapters = info.chapters ?? [];
   const out = ["## Transcript", ""];
-  if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
+  if (recognized) {
+    out.push(
+      "This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. " +
+        "It contains errors.",
+      "",
+    );
+  } else if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
   const paragraph: string[] = [];
   let start = 0, chapter = 0;
 
