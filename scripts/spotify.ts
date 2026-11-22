@@ -6,7 +6,7 @@
 //   deno task spotify match [--apply]                     Compare releases and episodes with the videos and write a
 //                                                         review list; --apply writes clear matches into
 //                                                         community/videos/.
-import { connect } from "./bidi.ts";
+import { links } from "./bidi.ts";
 import { decodeBase64 } from "@std/encoding/base64";
 
 const ROOT = new URL("..", import.meta.url).pathname;
@@ -85,48 +85,6 @@ export function parseEpisodePage(html: string, id: string): Episode | null {
     description: episode.description ?? "",
     cover: largest(episode.coverArt),
   };
-}
-
-// The lists of releases and episodes only exist after the page ran its JavaScript, so they need a browser.
-// Returns the IDs of the links to kind ("album" or "episode") on the page.
-async function links(browser: string, url: string, kind: string) {
-  const { socket, send } = await connect(browser);
-  await send("session.new", { capabilities: {} });
-  const context = (await send("browsingContext.create", { type: "tab" })).result.context;
-  const evaluate = async (expression: string) =>
-    (await send("script.evaluate", { expression, target: { context }, awaitPromise: true })).result?.result?.value;
-  await send("browsingContext.navigate", { context, url, wait: "complete" });
-  // The list is virtual: only the releases near the visible part exist in the page. Scroll the largest scroll
-  // container one screen at a time and collect the links at every step, until the end of the list.
-  const scroller =
-    `[...document.querySelectorAll("*")].reduce((a, b) => b.scrollHeight - b.clientHeight > a.scrollHeight - a.clientHeight ? b : a)`;
-  // The page renders the list a moment after it loads.
-  for (let i = 0; i < 40 && !(await evaluate(`document.querySelectorAll('a[href*="/${kind}/"]').length`)); i++) {
-    await pause(500);
-  }
-  const ids = new Set<string>();
-  for (let still = 0, rounds = 0; still < 3 && rounds < 1000; rounds++) {
-    const found: string[] = JSON.parse(
-      await evaluate(
-        `JSON.stringify([...document.querySelectorAll('a[href*="/${kind}/"]')].map((a) => a.href.match(/${kind}\\/([A-Za-z0-9]{22})/)?.[1]).filter(Boolean))`,
-      ),
-    );
-    for (const id of found) ids.add(id);
-    // The show page has a button for more episodes instead of an endless list.
-    const more = await evaluate(
-      `(() => { const b = [...document.querySelectorAll("button")].find((b) => /^load more/i.test(b.textContent.trim())); b?.click(); return !!b; })()`,
-    );
-    const moved = more || !await evaluate(
-      `(() => { const s = ${scroller}; const before = s.scrollTop; s.scrollTop += s.clientHeight * 0.8; return s.scrollTop === before; })()`,
-    );
-    // At the end, the page may still load more; stop after a few steps without movement.
-    still = moved ? 0 : still + 1;
-    await pause(700);
-  }
-  await send("browsingContext.close", { context });
-  await send("session.end", {});
-  socket.close();
-  return [...ids];
 }
 
 const words = (text: string) =>
