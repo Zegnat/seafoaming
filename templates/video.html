@@ -17,14 +17,14 @@
 <p><strong>This video is on the channel of <a href="{{ page.extra.channel_url }}">{{ page.extra.channel }}</a>.</strong> {% if page.hidden %}The wiki keeps this page as an archive of the video, but does not list it yet.{% else %}Seafoam Kitten takes part in it, so the wiki gives it a page like the videos of Seafoam Kitten.{% endif %}</p>
 </div>
 {% endif %}
-{# Sources for videos that the wiki never downloaded from YouTube. #}
+{# Sources for videos whose data the wiki could not get from YouTube. #}
 {% set sources = {"asmrindex": "The ASMR Index", "filmot": "Filmot", "archivarix": "Archivarix Tube"} %}
 {% set source = sources[page.extra.source] if page.extra.source in sources else "" %}
 {# The first source wins when two know the same field; the others fill in what it does not know. #}
 {% set links = ['<a href="' ~ s.url ~ '">' ~ sources[s.source] ~ '</a>' for s in [{"source": page.extra.source, "url": page.extra.source_url}, ...(page.extra.other_sources or [])] if s.source in sources] %}
 {% if source %}
 <div class="notice notice-source" role="note">
-<p><strong>The wiki never downloaded this video from YouTube.</strong> The information on this page comes from {% for l in links %}{% if not loop.first %}{% if loop.last %} and {% else %}, {% endif %}{% endif %}{{ l | safe }}{% endfor %}, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
+<p><strong>The wiki could not get the data of this video from YouTube.</strong> The information on this page comes from {% for l in links %}{% if not loop.first %}{% if loop.last %} and {% else %}, {% endif %}{% endif %}{{ l | safe }}{% endfor %}, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
 </div>
 {% endif %}
 {% if gone %}
@@ -118,7 +118,7 @@
 {% elif kind == "youtube-automatic" %}{% set notice = "This transcript comes from the automatic captions of YouTube." %}
 {% elif kind %}{% set notice = "" %}
 {# No transcript: the notice says why. #}
-{% elif source %}{% set notice = "The wiki never downloaded this video from YouTube, so it has no transcript of it." %}
+{% elif source %}{% set notice = "The wiki could not get the data of this video from YouTube, so it has no transcript of it." %}
 {% elif page.extra.transcript_language %}{% set notice = "YouTube only has automatic captions in another language (" ~ page.extra.transcript_language ~ ") for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them." %}
 {% else %}{% set notice = "YouTube has no captions for this video, so the wiki has no transcript of it yet." %}{% endif %}
 {% set download = '<a download href="' ~ root ~ page.extra.transcript_file ~ '">Download this transcript as a WebVTT file</a>, with all its timings.' if page.extra.transcript_file else "" %}

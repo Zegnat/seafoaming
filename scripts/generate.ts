@@ -362,7 +362,7 @@ function fromIndex(e: Info): Info {
   };
 }
 
-// The sources of videos that the wiki never downloaded from YouTube. An earlier source wins when two know the same field.
+// The sources of videos whose data the wiki could not get from YouTube. An earlier source wins when two know the same field.
 const SOURCES = ["asmrindex", "filmot", "archivarix"];
 
 const folderOf = (e: Info) => e.channel_id && e.channel_id !== CHANNEL_ID ? "others" : "";
