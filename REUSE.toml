@@ -18,6 +18,12 @@ path = ["content/videos/*.md", "content/shorts/*.md", "content/streams/*.md", "c
 SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "2026 The Seafoam Kitten ASMR Community"]
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND CC-BY-4.0"
 
+# Collab pages are about videos of other channels that Seafoam Kitten takes part in.
+[[annotations]]
+path = "content/collabs/*.md"
+SPDX-FileCopyrightText = ["The creators of the videos", "2026 The Seafoam Kitten ASMR Community"]
+SPDX-License-Identifier = "LicenseRef-YouTubeCreators AND CC-BY-4.0"
+
 [[annotations]]
 path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
@@ -29,14 +35,14 @@ path = "static/covers/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten"
 
-# Thumbnails of videos by other channels, from playlists such as Favorite ASMR.
+# Thumbnails of videos by other channels, from playlists such as Favorite ASMR, and of collabs.
 [[annotations]]
 path = "static/thumbs/others/**"
 SPDX-FileCopyrightText = "The creators of the videos"
 SPDX-License-Identifier = "LicenseRef-YouTubeCreators"
 
 [[annotations]]
-path = ["content/videos/_index.md", "content/shorts/_index.md", "content/streams/_index.md", "content/playlists/_index.md"]
+path = ["content/videos/_index.md", "content/shorts/_index.md", "content/streams/_index.md", "content/playlists/_index.md", "content/collabs/_index.md"]
 SPDX-FileCopyrightText = "2026 The Seafoam Kitten ASMR Community"
 SPDX-License-Identifier = "CC-BY-4.0"
 

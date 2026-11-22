@@ -19,6 +19,7 @@ The videos belong to [Seafoam Kitten ASMR](https://www.youtube.com/@SeafoamKitte
 - The covers and track names of the releases on Spotify and Apple Music and of the podcast episodes also belong to Seafoam Kitten ASMR. The site shows the covers in smaller WebP versions.
 - The reasons why a video is unavailable are quoted from YouTube.
 - Some playlists, such as Favorite ASMR, also hold videos of other channels. Their titles and thumbnails belong to the creators of those videos.
+- The collab pages are about videos on other channels that Seafoam Kitten takes part in. Their titles, descriptions, chapter titles, captions, thumbnails and snapshots belong to the creators of those videos.
 - Some videos were removed before the wiki started. Their pages use the titles, descriptions and thumbnails that [The ASMR Index](https://www.theasmrindex.com/) kept. These pages say so at the top.
 
 ## Software

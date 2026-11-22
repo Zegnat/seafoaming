@@ -20,9 +20,10 @@
 {# A sortable table by the ARIA Authoring Practices pattern. Rows follow the order of entries ({id, title}).
    Number cells start with their raw value in a hidden span, because sortable-table.js sorts them with parseFloat. #}
 {# numbered adds a column with the position in the list, for playlists; it is the default order. #}
-{% component video_table(root: string, entries: array, pages: array, caption: string, order: string = "", numbered: bool = false) %}
+{# hide_caption keeps the caption for screen readers only, when a heading above the table already names it. #}
+{% component video_table(root: string, entries: array, pages: array, caption: string, order: string = "", numbered: bool = false, hide_caption: bool = false) %}
 <table class="wikitable sortable">
-<caption>{{ caption }}<span class="sr-only">, column headers with buttons are sortable</span></caption>
+<caption{% if hide_caption %} class="sr-only"{% endif %}>{{ caption }}<span class="sr-only">, column headers with buttons are sortable</span></caption>
 <thead>
 <tr>
 {% if numbered %}<th class="num" aria-sort="ascending"><button><span aria-hidden="true">#</span><span class="sr-only">Position</span>{{<sort_icons kind="numbers" />}}</button></th>{% endif %}
@@ -39,8 +40,8 @@
 <tr>
 {% if numbered %}<td class="num">{{ loop.index }}</td>{% endif %}
 {% if found %}{% set p = found[0] %}
-<td>{{<thumb root={root} id={p.extra.id} href={root ~ (p.path | trim_start(pat="/"))} title={p.title} placeholder={p.extra.placeholder or ""} />}}</td>
-<td class="title"><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a><span class="tags">{{<tags status={p.extra.status or ""} age_restricted={p.extra.age_restricted or false} source={p.extra.source or ""} spotify={p.extra.spotify or p.extra.spotify_podcast or ""} apple_music={(p.extra.apple_music or []) | length > 0} />}}</span></td>
+<td>{{<thumb root={root} id={p.extra.id} href={root ~ (p.path | trim_start(pat="/"))} title={p.title} placeholder={p.extra.placeholder or ""} folder={p.extra.folder or ""} />}}</td>
+<td class="title"><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{% if p.extra.channel %} <span class="small">by <a href="{{ p.extra.channel_url }}">{{ p.extra.channel }}</a></span>{% endif %}<span class="tags">{{<tags status={p.extra.status or ""} age_restricted={p.extra.age_restricted or false} source={p.extra.source or ""} spotify={p.extra.spotify or p.extra.spotify_podcast or ""} apple_music={(p.extra.apple_music or []) | length > 0} />}}</span></td>
 <td>{{ p.date | date(format="%Y-%m-%d") }}</td>
 <td class="num"><span hidden>{{ p.extra.duration or -1 }} </span>{% if p.extra.length %}{{ p.extra.length }}{% endif %}</td>
 <td class="num"><span hidden>{{ p.extra.views or -1 }} </span>{% if p.extra.views %}{{ p.extra.views | num_format }}{% endif %}</td>

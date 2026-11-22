@@ -8,7 +8,7 @@ const CONTENT = `${ROOT}content`;
 const COMMUNITY = `${ROOT}community/videos`;
 const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
 const PARAGRAPH_SECONDS = 60;
-const VIDEO_SECTIONS = ["videos", "shorts", "streams"];
+const VIDEO_SECTIONS = ["videos", "shorts", "streams", "collabs"];
 const LANGUAGES = new Intl.DisplayNames(["en"], { type: "language" });
 
 // deno-lint-ignore no-explicit-any
@@ -199,6 +199,8 @@ function spotifyEpisode(url: string | null) {
 
 function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set()) {
   const extra = community(info);
+  // A collab is on another channel: its page names that channel, and its thumbnails are with the other channels.
+  const collab = Boolean(info.channel_id && info.channel_id !== CHANNEL_ID);
   const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
   // apple_music holds one link or a list, because Apple Music has some recordings twice.
   const appleLinks = [extra.data.apple_music].flat().filter((url): url is string =>
@@ -216,9 +218,19 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     "+++",
     `title = ${toml(info.title)}`,
     `date = ${date}`,
+    // A hidden page exists, but no list shows it, for example a video about Seafoam Kitten on another channel.
+    ...(extra.data.hidden === true ? ["hidden = true"] : []),
     "",
     "[extra]",
     `id = ${toml(info.id)}`,
+    ...(collab
+      ? [
+        `channel = ${toml(info.channel ?? info.uploader)}`,
+        `channel_url = ${toml(info.channel_url ?? `https://www.youtube.com/channel/${info.channel_id}`)}`,
+        'folder = "others"',
+        `live = ${toml(info.live_status === "was_live" || Boolean(info.was_live))}`,
+      ]
+      : []),
     `duration = ${toml(info.duration)}`,
     `length = ${toml(info.duration ? timestamp(info.duration) : null)}`,
     `availability = ${toml(info.availability)}`,
@@ -429,15 +441,35 @@ if (import.meta.main) {
     }
   }
   // The playlist stacks reuse the placeholders of their videos.
+  // Collabs: the entries of the collab playlist, and videos that a community file marks with collab = true. A video of
+  // another channel can also get a hidden page, when its community file says hidden = true.
+  const collabs = new Set<string>(
+    exists(`${CACHE}/collabs.json`)
+      ? (JSON.parse(Deno.readTextFileSync(`${CACHE}/collabs.json`)).entries ?? []).map((e: Info) => e.id)
+      : [],
+  );
+  if (exists(COMMUNITY)) {
+    for (const file of Deno.readDirSync(COMMUNITY)) {
+      if (/^(collab|hidden)\s*=\s*true\s*$/m.test(Deno.readTextFileSync(`${COMMUNITY}/${file.name}`))) {
+        collabs.add(file.name.replace(/\.md$/, ""));
+      }
+    }
+  }
+  const creators = new Set<string>();
   const placeholders = new Map<string, string | null>();
   for (const info of jsonFiles(`${CACHE}/videos`, ".info.json")) {
     if (["is_live", "is_upcoming"].includes(info.live_status)) continue;
-    const section = info.live_status === "was_live" || info.was_live
+    const collab = info.channel_id && info.channel_id !== CHANNEL_ID;
+    if (collab && !collabs.has(info.id)) continue;
+    if (collab && info.channel) creators.add(info.channel.trim());
+    const section = collab
+      ? "collabs"
+      : info.live_status === "was_live" || info.was_live
       ? "streams"
       : info.media_type === "short"
       ? "shorts"
       : "videos";
-    const placeholder = await thumbnail(info.id);
+    const placeholder = await thumbnail(info.id, collab ? "others" : "");
     placeholders.set(info.id, placeholder);
     write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers));
     // A video can move to another section, for example when YouTube marks it as a short later.
@@ -448,10 +480,14 @@ if (import.meta.main) {
   // Videos that only The ASMR Index knows, because they were gone before the first download of the wiki.
   for (const entry of jsonFiles(`${CACHE}/asmrindex`, ".json")) {
     if (exists(`${CACHE}/videos/${entry.id}.info.json`)) continue;
-    // Videos of other channels only appear in playlists; they get no page of their own.
-    if (entry.channel_id && entry.channel_id !== CHANNEL_ID) continue;
+    // Videos of other channels only get a page of their own when they are collabs.
+    const collab = entry.channel_id && entry.channel_id !== CHANNEL_ID;
+    if (collab && !collabs.has(entry.id)) continue;
+    if (collab && entry.channel) creators.add(entry.channel.trim());
     const info: Info = {
       id: entry.id,
+      channel: entry.channel,
+      channel_id: entry.channel_id,
       title: entry.title,
       description: entry.description,
       timestamp: Date.parse(entry.upload_date) / 1000,
@@ -459,12 +495,11 @@ if (import.meta.main) {
       epoch: Date.parse(entry.captured) / 1000,
       asmrindex: entry,
     };
-    const placeholder = await thumbnail(info.id);
+    const placeholder = await thumbnail(info.id, collab ? "others" : "");
     placeholders.set(info.id, placeholder);
     // The index does not say if a video was a short or a live stream.
-    write(`${CONTENT}/videos/${info.id}.md`, videoPage(info, placeholder, covers));
+    write(`${CONTENT}/${collab ? "collabs" : "videos"}/${info.id}.md`, videoPage(info, placeholder, covers));
   }
-  const creators = new Set<string>();
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     for (const e of (data.entries ?? []).map(fromIndex)) {
       if (!folderOf(e) || placeholders.has(e.id)) continue;
@@ -482,9 +517,11 @@ if (import.meta.main) {
       "",
       "These are thumbnails and snapshots of videos by other YouTube channels, made",
       "smaller, with blurred placeholders made from them. The videos appear in",
-      'playlists of Seafoam Kitten ASMR, for example "Favorite ASMR". The repository',
-      "includes them for reference. The rights holders did not give a license for",
-      "them, so the licenses of this repository do not apply to them.",
+      'playlists of Seafoam Kitten ASMR, for example "Favorite ASMR", or Seafoam',
+      "Kitten appears in them, as collabs. The collab pages also quote the titles,",
+      "descriptions, chapter titles and captions of these videos. The repository",
+      "includes this material for reference. The rights holders did not give a",
+      "license for it, so the licenses of this repository do not apply to it.",
       "",
       "The creators of the videos are these YouTube channels:",
       "",

@@ -3,6 +3,8 @@
 const ROOT = new URL("..", import.meta.url).pathname;
 const CHANNEL = "https://www.youtube.com/@SeafoamKitten";
 const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
+// A playlist of videos on other channels that Seafoam Kitten appears in. The wiki gives them pages too.
+const COLLABS = "PLVOF8L5odJMg";
 Deno.chdir(ROOT);
 for (const dir of [".cache/videos", ".cache/playlists", ".cache/status", ".cache/thumbs", ".cache/asmrindex"]) {
   Deno.mkdirSync(dir, { recursive: true });
@@ -53,6 +55,21 @@ for (const id of await lines(["--flat-playlist", "--print", "id", `${CHANNEL}/pl
     if (![undefined, null, CHANNEL_ID].includes(e.channel_id)) continue;
     wanted.add(e.id);
     if (!/^\[(Private|Deleted) video\]$/.test(e.title ?? "")) listed.add(e.id);
+  }
+}
+
+// Collabs: their own channel is another one, so they are not in the playlists above.
+{
+  const { stdout: json } = await ytDlp(
+    ["--flat-playlist", "-J", `https://www.youtube.com/playlist?list=${COLLABS}`],
+    false,
+  );
+  if (json) {
+    Deno.writeTextFileSync(".cache/collabs.json", json);
+    for (const e of JSON.parse(json).entries ?? []) {
+      wanted.add(e.id);
+      listed.add(e.id);
+    }
   }
 }
 

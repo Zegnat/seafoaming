@@ -9,8 +9,8 @@
 {% endif %}
 {{ page.content | safe }}
 {% if page.extra.videos %}
-{% set videos = get_section(path="videos/_index.md") %}{% set shorts = get_section(path="shorts/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}
-{% set local = [p for p in [...videos.pages, ...shorts.pages, ...streams.pages] | sort(attribute="date") if p.extra.id in page.extra.videos] %}
+{% set videos = get_section(path="videos/_index.md") %}{% set shorts = get_section(path="shorts/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}{% set collabs = get_section(path="collabs/_index.md") %}
+{% set local = [p for p in [...videos.pages, ...shorts.pages, ...streams.pages, ...collabs.pages] | sort(attribute="date") if p.extra.id in page.extra.videos] %}
 <h2>Appearances</h2>
 {{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in local]} pages={local} caption={"Appearances of " ~ page.title} order="ascending" />}}
 {% endif %}

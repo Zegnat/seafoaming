@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
+{{ section.content | safe }}
+{# Collabs live in one section; the live field of a page puts it in the table of videos or of live streams. #}
+{% set videos = [p for p in section.pages if not p.extra.live] %}
+{% set streams = [p for p in section.pages if p.extra.live] %}
+{# A contents box, like on the video pages, so the second table is easy to find. #}
+<div class="toc" role="navigation" aria-labelledby="toc-title">
+<p id="toc-title"><b>Contents</b></p>
+<ol>
+<li><a href="#videos">Videos</a> <span class="small">({{ videos | length }})</span></li>
+<li><a href="#live-streams">Live streams</a> <span class="small">({{ streams | length }})</span></li>
+</ol>
+</div>
+{# The jump links go to headings in front of the tables: from a target inside a table, Firefox continues
+   with the next Tab after the whole table. #}
+<h2 id="videos">Videos</h2>
+{{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in videos]} pages={videos} caption="Videos" order="descending" hide_caption={true} />}}
+<h2 id="live-streams">Live streams</h2>
+{{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in streams]} pages={streams} caption="Live streams" order="descending" hide_caption={true} />}}
+{% endblock %}

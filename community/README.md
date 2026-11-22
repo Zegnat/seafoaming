@@ -20,7 +20,7 @@ Notes about the video, in Markdown.
 A transcript that the community wrote.
 ```
 
-All parts are optional. A file can even be empty apart from the front matter: the wiki then still fetches the video, which is how to add an unlisted video that no list on the channel shows.
+All parts are optional. A file can even be empty apart from the front matter: the wiki then still fetches the video, which is how to add an unlisted video that no list on the channel shows. `collab = true` lists a video of another channel with the collabs, and `hidden = true` keeps a page that no list shows.
 
 - `spotify` and `apple_music` link to the same recording on those platforms. `spotify_podcast` links to the episode of the podcast of the channel. Apple Music has some recordings twice, so `apple_music` can be one link or a list of links. The video page shows them in the infobox.
 - The text below the front matter appears on the video page as notes, after the description.

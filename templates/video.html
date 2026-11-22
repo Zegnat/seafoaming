@@ -10,6 +10,13 @@
 {% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {% set url = "https://www.youtube.com/watch?v=" ~ page.extra.id %}
 {% set gone = page.extra.status in ["private", "removed", "unavailable"] %}
+{# The thumbnails of collabs are with those of the other channels, in thumbs/others. #}
+{% set file = "thumbs/" ~ (page.extra.folder ~ "/" if page.extra.folder else "") ~ page.extra.id %}
+{% if page.extra.channel %}
+<div class="notice notice-source" role="note">
+<p><strong>This video is on the channel of <a href="{{ page.extra.channel_url }}">{{ page.extra.channel }}</a>.</strong> {% if page.hidden %}The wiki keeps this page as an archive of the video, but does not list it yet.{% else %}Seafoam Kitten takes part in it, so the wiki gives it a page like the videos of Seafoam Kitten.{% endif %}</p>
+</div>
+{% endif %}
 {% if page.extra.source == "asmrindex" %}
 <div class="notice notice-source" role="note">
 <p><strong>The wiki never downloaded this video from YouTube.</strong> The information on this page comes from <a href="{{ page.extra.source_url }}">The ASMR Index</a>, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
@@ -23,7 +30,8 @@
 {% endif %}
 <table class="infobox">
 <tr><th colspan="2">{{ page.title }}</th></tr>
-<tr><td colspan="2">{{<thumb root={root} id={page.extra.id} href={url} title={page.title} width={320} eager={true} placeholder={page.extra.placeholder or ""} />}}</td></tr>
+<tr><td colspan="2">{{<thumb root={root} id={page.extra.id} href={url} title={page.title} width={320} eager={true} placeholder={page.extra.placeholder or ""} folder={page.extra.folder or ""} />}}</td></tr>
+{% if page.extra.channel %}<tr><th>Channel</th><td><a href="{{ page.extra.channel_url }}">{{ page.extra.channel }}</a></td></tr>{% endif %}
 <tr><th>Published</th><td>{{ page.date | date(format="%Y-%m-%d") }}</td></tr>
 {% if page.extra.length %}<tr><th>Length</th><td>{{ page.extra.length }}</td></tr>{% endif %}
 {% if page.extra.views %}<tr><th>Views</th><td>{{ page.extra.views | num_format }}</td></tr>{% endif %}
@@ -53,14 +61,14 @@
 {% set episode = page.extra.spotify_episode or false %}
 {% if not gone %}
 {# Our own thumbnail as the poster, over the blurred placeholder. With a background set, lite-youtube-embed loads no poster from YouTube. #}
-{% set poster = "url('" ~ root ~ "thumbs/" ~ page.extra.id ~ "-640.webp')" if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-640.webp", allow_missing=true) else "" %}
+{% set poster = "url('" ~ root ~ file ~ "-640.webp')" if get_image_metadata(path=file ~ "-640.webp", allow_missing=true) else "" %}
 {# rel=0 limits the suggestions to this channel; YouTube no longer allows turning them off.
    enablejsapi=1 lets site.js jump to the time of a chapter or transcript link in this player. #}
 <lite-youtube videoid="{{ page.extra.id }}" params="rel=0&enablejsapi=1" title="{{ page.title }}" playlabel="Play: {{ page.title }}"{% if poster %} style="background-image: {{ poster }}{% if page.extra.placeholder %}, url('{{ page.extra.placeholder }}'){% endif %}"{% endif %}></lite-youtube>
 {% endif %}
-{% if get_image_metadata(path="thumbs/" ~ page.extra.id ~ "-1-320.webp", allow_missing=true) %}
+{% if get_image_metadata(path=file ~ "-1-320.webp", allow_missing=true) %}
 <div class="strip">
-{% for suffix in ["", "-1", "-2", "-3"] %}{% set src = root ~ "thumbs/" ~ page.extra.id ~ suffix %}<a href="{{ src }}-640.webp"><img src="{{ src }}-320.webp" alt="{{ 'Thumbnail' if suffix == '' else 'Snapshot ' ~ suffix[1:] }}" width="160" height="90" loading="lazy"></a>
+{% for suffix in ["", "-1", "-2", "-3"] %}{% set src = root ~ file ~ suffix %}<a href="{{ src }}-640.webp"><img src="{{ src }}-320.webp" alt="{{ 'Thumbnail' if suffix == '' else 'Snapshot ' ~ suffix[1:] }}" width="160" height="90" loading="lazy"></a>
 {% endfor %}
 </div>
 {% endif %}
