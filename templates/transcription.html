@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+{% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
+{{ page.content | safe }}
+{% set videos = get_section(path="videos/_index.md") %}{% set shorts = get_section(path="shorts/_index.md") %}{% set streams = get_section(path="streams/_index.md") %}{% set collabs = get_section(path="collabs/_index.md") %}
+{% set all = [...videos.pages, ...shorts.pages, ...streams.pages, ...collabs.pages, ...[get_page(path=h) for h in page.extra.hidden | default(value=[])]] | sort(attribute="date") | reverse %}
+{# From the most work left to done. The transcript field of a page says where its transcript comes from. #}
+{% set groups = [
+  {"id": "whisper", "title": "Speech recognition to check", "text": "Whisper wrote these transcripts. They are often close, but contain errors and invented lines.", "pages": [p for p in all if p.extra.transcript == "whisper"]},
+  {"id": "automatic", "title": "Automatic captions to correct", "text": "These transcripts come from the automatic captions of YouTube, without punctuation and with many errors.", "pages": [p for p in all if p.extra.transcript == "youtube-automatic"]},
+  {"id": "missing", "title": "No transcript yet", "text": "These videos have no transcript at all. Videos that are gone from YouTube can only get one from someone who kept a copy.", "pages": [p for p in all if not p.extra.transcript]},
+  {"id": "done", "title": "Done", "text": "The community wrote or corrected these transcripts, or people wrote the captions on YouTube.", "pages": [p for p in all if p.extra.transcript in ["community", "youtube"]]},
+] %}
+<div class="toc" role="navigation" aria-labelledby="toc-title">
+<p id="toc-title"><b>Contents</b></p>
+<ol>
+{% for g in groups %}<li><a href="#{{ g.id }}">{{ g.title }}</a> <span class="small">({{ g.pages | length }})</span></li>
+{% endfor %}
+</ol>
+</div>
+{% for g in groups %}
+<h2 id="{{ g.id }}">{{ g.title }}</h2>
+<p>{{ g.text }}</p>
+{{<video_table root={root} entries={[{"id": p.extra.id, "title": p.title} for p in g.pages]} pages={g.pages} caption={g.title} order="descending" hide_caption={true} />}}
+{% endfor %}
+{% endblock %}
