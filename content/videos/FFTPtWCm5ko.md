@@ -44,6 +44,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+Finn M-K made a [piano dub of this video](https://www.youtube.com/watch?v=CeVksnXQSAQ): the original audio, with piano music added.
+
 ## Transcript
 
 This transcript comes from the automatic captions of YouTube.
