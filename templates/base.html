@@ -33,7 +33,8 @@
 </nav>
 <main>
 <h1>{% block heading %}{% if page %}{{ page.title }}{% else %}{{ section.title }}{% endif %}{% endblock %}</h1>
-{% block content %}{{ section.content | safe }}{% endblock %}
+{# Zola writes @/ links as full URLs. Relative, they work in the preview too and do not look like external links. #}
+{% filter replace(from=config.base_url ~ "/", to=root) %}{% block content %}{{ section.content | safe }}{% endblock %}{% endfilter %}
 </main>
 <footer>Fan site. Not affiliated with Seafoam Kitten. <a href="{{ root }}copyright/">{{<icon name="creative-commons-by" />}}Some rights reserved</a> · <a href="{{ root }}privacy/">{{<icon name="cookie-off" />}}Privacy</a> · <a href="{{ config.extra.repository }}">{{<icon name="brands/github" />}}Source on GitHub</a></footer>
 </body>
