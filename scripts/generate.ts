@@ -115,7 +115,7 @@ export function toVtt(lines: [number, string][]) {
 function transcript(info: Info, source: unknown = null) {
   const own = `${COMMUNITY}/${info.id}.vtt`;
   const hasOwn = exists(own);
-  if (info.asmrindex && !hasOwn) return { text: "" };
+  if ((info.asmrindex || info.filmot) && !hasOwn) return { text: "" };
   // The transcript of the community folder comes first, then the captions of YouTube.
   const [path, manual] = hasOwn ? [own, false] : subtitleFile(info);
   if (!path) {
@@ -318,10 +318,10 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
     // yt-dlp gives no comment count when the comments are turned off.
-    `comments_off = ${toml(!info.asmrindex && info.comment_count == null)}`,
+    `comments_off = ${toml(!info.asmrindex && !info.filmot && info.comment_count == null)}`,
     `fetched = ${fetched}`,
-    `source = ${toml(info.asmrindex ? "asmrindex" : null)}`,
-    `source_url = ${toml(info.asmrindex?.url)}`,
+    `source = ${toml(info.asmrindex ? "asmrindex" : info.filmot ? "filmot" : null)}`,
+    `source_url = ${toml((info.asmrindex ?? info.filmot)?.url)}`,
     `transcript = ${toml(said.kind)}`,
     `transcript_file = ${toml(said.file)}`,
     `transcript_language = ${toml(said.language)}`,
@@ -344,11 +344,12 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
 }
 
 // The thumbnails of videos by other channels live in static/thumbs/others.
-// YouTube gives no title or channel for private and deleted videos in a playlist. The ASMR Index may still know them.
+// YouTube gives no title or channel for private and deleted videos in a playlist. The ASMR Index or Filmot may still
+// know them.
 function fromIndex(e: Info): Info {
-  const path = `${CACHE}/asmrindex/${e.id}.json`;
-  if (e.title || !exists(path)) return e;
-  const index = JSON.parse(Deno.readTextFileSync(path));
+  const source = ["asmrindex", "filmot"].find((dir) => exists(`${CACHE}/${dir}/${e.id}.json`));
+  if (e.title || !source) return e;
+  const index = JSON.parse(Deno.readTextFileSync(`${CACHE}/${source}/${e.id}.json`));
   return {
     ...e,
     title: index.title,
@@ -356,7 +357,7 @@ function fromIndex(e: Info): Info {
     channel: index.channel,
     channel_id: index.channel_id,
     channel_url: index.channel_id ? `https://www.youtube.com/channel/${index.channel_id}` : null,
-    source: "asmrindex",
+    source,
   };
 }
 
@@ -488,29 +489,34 @@ if (import.meta.main) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
     }
   }
-  // Videos that only The ASMR Index knows, because they were gone before the first download of the wiki.
-  for (const entry of jsonFiles(`${CACHE}/asmrindex`, ".json")) {
-    if (exists(`${CACHE}/videos/${entry.id}.info.json`)) continue;
-    // Videos of other channels only get a page of their own when they are collabs.
-    const collab = entry.channel_id && entry.channel_id !== CHANNEL_ID;
-    if (collab && !collabs.has(entry.id)) continue;
-    if (collab && entry.channel) creators.add(entry.channel.trim());
-    const info: Info = {
-      id: entry.id,
-      channel: entry.channel,
-      channel_id: entry.channel_id,
-      title: entry.title,
-      description: entry.description,
-      timestamp: Date.parse(entry.upload_date) / 1000,
-      duration: entry.duration,
-      epoch: Date.parse(entry.captured) / 1000,
-      asmrindex: entry,
-    };
-    const placeholder = await thumbnail(info.id, collab ? "others" : "");
-    placeholders.set(info.id, placeholder);
-    // The index does not say if a video was a short or a live stream.
-    const section = collab ? "collabs" : "videos";
-    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
+  // Videos that only The ASMR Index or Filmot knows, because they were gone before the first download of the wiki.
+  const known = new Set<string>();
+  for (const source of ["asmrindex", "filmot"].filter((dir) => exists(`${CACHE}/${dir}`))) {
+    for (const entry of jsonFiles(`${CACHE}/${source}`, ".json")) {
+      if (exists(`${CACHE}/videos/${entry.id}.info.json`) || known.has(entry.id)) continue;
+      known.add(entry.id);
+      // Videos of other channels only get a page of their own when they are collabs.
+      const collab = entry.channel_id && entry.channel_id !== CHANNEL_ID;
+      if (collab && !collabs.has(entry.id)) continue;
+      if (collab && entry.channel) creators.add(entry.channel.trim());
+      const info: Info = {
+        id: entry.id,
+        channel: entry.channel,
+        channel_id: entry.channel_id,
+        title: entry.title,
+        description: entry.description,
+        timestamp: Date.parse(entry.upload_date) / 1000,
+        duration: entry.duration,
+        like_count: entry.like_count,
+        epoch: Date.parse(entry.captured) / 1000,
+        [source]: entry,
+      };
+      const placeholder = await thumbnail(info.id, collab ? "others" : "");
+      placeholders.set(info.id, placeholder);
+      // The sources do not say if a video was a short or a live stream.
+      const section = collab ? "collabs" : "videos";
+      write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
+    }
   }
   // A caption file goes when the community has a transcript of the video, or when YouTube has no captions now.
   for (const file of exists(CAPTIONS) ? [...Deno.readDirSync(CAPTIONS)] : []) {

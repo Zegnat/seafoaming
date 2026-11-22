@@ -71,7 +71,7 @@
    still be heard there when YouTube lost it. #}
 {% component tags(status: string = "", age_restricted: bool = false, source: string = "", spotify: string = "", apple_music: bool = false) %}
 {% set labels = {"unlisted": "Unlisted", "members-only": "Members only", "private": "Private", "removed": "Removed", "unavailable": "Unavailable"} %}
-{% if status in labels %} <span class="tag tag-{{ status }}">{{ labels[status] }}</span>{% endif %}{% if age_restricted %} <span class="tag">Age-restricted</span>{% endif %}{% if source == "asmrindex" %} <span class="tag">ASMR Index</span>{% endif %}{% if spotify %} <span class="tag tag-spotify">Spotify</span>{% endif %}{% if apple_music %} <span class="tag tag-apple-music">Apple Music</span>{% endif %}
+{% if status in labels %} <span class="tag tag-{{ status }}">{{ labels[status] }}</span>{% endif %}{% if age_restricted %} <span class="tag">Age-restricted</span>{% endif %}{% if source == "asmrindex" %} <span class="tag">ASMR Index</span>{% elif source == "filmot" %} <span class="tag">Filmot</span>{% endif %}{% if spotify %} <span class="tag tag-spotify">Spotify</span>{% endif %}{% if apple_music %} <span class="tag tag-apple-music">Apple Music</span>{% endif %}
 {% endcomponent tags %}
 
 {# The three sort states of a column header; CSS shows the one that matches aria-sort. kind is "letters", "numbers" or "". #}

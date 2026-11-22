@@ -15,6 +15,7 @@
     "test": "deno test --allow-read scripts/",
     "build": "zola build && deno run --allow-read --allow-write=public --allow-env --allow-run scripts/build.ts",
     "import-asmrindex": "deno run --allow-read --allow-write=.cache scripts/import-asmrindex.ts",
+    "import-filmot": "deno run --allow-read --allow-write=.cache scripts/import-filmot.ts",
     "lookup-asmrindex": "deno run --allow-read --allow-write=.cache --allow-net=127.0.0.1,i.theasmrindex.com scripts/lookup-asmrindex.ts",
     "apple": "deno run --allow-read --allow-write=.cache/apple,community/videos --allow-net=127.0.0.1,itunes.apple.com,is1-ssl.mzstatic.com scripts/apple.ts",
     "spotify": "deno run --allow-read --allow-write=.cache/spotify,community/videos --allow-net=127.0.0.1,open.spotify.com,i.scdn.co scripts/spotify.ts"
