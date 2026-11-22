@@ -18,11 +18,13 @@
 </div>
 {% endif %}
 {# Sources for videos that the wiki never downloaded from YouTube. #}
-{% set sources = {"asmrindex": "The ASMR Index", "filmot": "Filmot"} %}
+{% set sources = {"asmrindex": "The ASMR Index", "filmot": "Filmot", "archivarix": "Archivarix Tube"} %}
 {% set source = sources[page.extra.source] if page.extra.source in sources else "" %}
+{# The first source wins when two know the same field; the others fill in what it does not know. #}
+{% set links = ['<a href="' ~ s.url ~ '">' ~ sources[s.source] ~ '</a>' for s in [{"source": page.extra.source, "url": page.extra.source_url}, ...(page.extra.other_sources or [])] if s.source in sources] %}
 {% if source %}
 <div class="notice notice-source" role="note">
-<p><strong>The wiki never downloaded this video from YouTube.</strong> The information on this page comes from <a href="{{ page.extra.source_url }}">{{ source }}</a>, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
+<p><strong>The wiki never downloaded this video from YouTube.</strong> The information on this page comes from {% for l in links %}{% if not loop.first %}{% if loop.last %} and {% else %}, {% endif %}{% endif %}{{ l | safe }}{% endfor %}, captured on {{ page.extra.fetched }}. Some information, such as the chapters and a transcript, is missing.</p>
 </div>
 {% endif %}
 {% if gone %}
@@ -50,7 +52,7 @@
 {% set listen = [...listen, ...[{"url": a.url, "icon": "brands/applemusic", "title": "Apple Music (" ~ a.year ~ ")" if (apple | length) > 1 and a.year else "Apple Music"} for a in apple]] %}
 {% if listen %}<tr><th>Listen</th><td class="listen">{% for l in listen %}<a href="{{ l.url }}">{{<icon name={l.icon} />}}{{ l.title }}</a>{% endfor %}</td></tr>{% endif %}
 {% if not source %}<tr><th>Language</th><td>{{ page.extra.language_name or "Not set" }}</td></tr>{% endif %}
-{% if source %}<tr><th>Source</th><td><a href="{{ page.extra.source_url }}">{{ source }}</a></td></tr>{% endif %}
+{% if source %}<tr><th>Source{% if page.extra.other_sources %}s{% endif %}</th><td>{% for l in links %}{% if not loop.first %}{% if loop.last %} and {% else %}, {% endif %}{% endif %}{{ l | safe }}{% endfor %}</td></tr>{% endif %}
 {% if page.extra.status or page.extra.age_restricted %}<tr><th>Status</th><td>{{<tags status={page.extra.status or ""} age_restricted={page.extra.age_restricted or false} />}}</td></tr>{% endif %}
 {% set characters = get_section(path="characters/_index.md") %}
 {% set found = [c for c in characters.pages if page.extra.id in (c.extra.videos or [])] %}

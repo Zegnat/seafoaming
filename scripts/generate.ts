@@ -115,7 +115,7 @@ export function toVtt(lines: [number, string][]) {
 function transcript(info: Info, source: unknown = null) {
   const own = `${COMMUNITY}/${info.id}.vtt`;
   const hasOwn = exists(own);
-  if ((info.asmrindex || info.filmot) && !hasOwn) return { text: "" };
+  if (info.sources && !hasOwn) return { text: "" };
   // The transcript of the community folder comes first, then the captions of YouTube.
   const [path, manual] = hasOwn ? [own, false] : subtitleFile(info);
   if (!path) {
@@ -318,10 +318,11 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     `likes = ${toml(info.like_count)}`,
     `comments = ${toml(info.comment_count)}`,
     // yt-dlp gives no comment count when the comments are turned off.
-    `comments_off = ${toml(!info.asmrindex && !info.filmot && info.comment_count == null)}`,
+    `comments_off = ${toml(!info.sources && info.comment_count == null)}`,
     `fetched = ${fetched}`,
-    `source = ${toml(info.asmrindex ? "asmrindex" : info.filmot ? "filmot" : null)}`,
-    `source_url = ${toml((info.asmrindex ?? info.filmot)?.url)}`,
+    `source = ${toml(info.sources?.[0].source)}`,
+    `source_url = ${toml(info.sources?.[0].url)}`,
+    `other_sources = ${info.sources?.length > 1 ? `[${info.sources.slice(1).map(inline).join(", ")}]` : "null"}`,
     `transcript = ${toml(said.kind)}`,
     `transcript_file = ${toml(said.file)}`,
     `transcript_language = ${toml(said.language)}`,
@@ -347,7 +348,7 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
 // YouTube gives no title or channel for private and deleted videos in a playlist. The ASMR Index or Filmot may still
 // know them.
 function fromIndex(e: Info): Info {
-  const source = ["asmrindex", "filmot"].find((dir) => exists(`${CACHE}/${dir}/${e.id}.json`));
+  const source = SOURCES.find((dir) => exists(`${CACHE}/${dir}/${e.id}.json`));
   if (e.title || !source) return e;
   const index = JSON.parse(Deno.readTextFileSync(`${CACHE}/${source}/${e.id}.json`));
   return {
@@ -360,6 +361,9 @@ function fromIndex(e: Info): Info {
     source,
   };
 }
+
+// The sources of videos that the wiki never downloaded from YouTube. An earlier source wins when two know the same field.
+const SOURCES = ["asmrindex", "filmot", "archivarix"];
 
 const folderOf = (e: Info) => e.channel_id && e.channel_id !== CHANNEL_ID ? "others" : "";
 const thumbExists = (id: string, folder: string) =>
@@ -489,34 +493,43 @@ if (import.meta.main) {
       if (exists(`${CONTENT}/${other}/${info.id}.md`)) Deno.removeSync(`${CONTENT}/${other}/${info.id}.md`);
     }
   }
-  // Videos that only The ASMR Index or Filmot knows, because they were gone before the first download of the wiki.
-  const known = new Set<string>();
-  for (const source of ["asmrindex", "filmot"].filter((dir) => exists(`${CACHE}/${dir}`))) {
+  // Videos that only The ASMR Index, Filmot or Archivarix knows, because they were gone before the first download of the
+  // wiki.
+  const archived = new Map<string, [string, Info][]>();
+  for (const source of SOURCES.filter((dir) => exists(`${CACHE}/${dir}`))) {
     for (const entry of jsonFiles(`${CACHE}/${source}`, ".json")) {
-      if (exists(`${CACHE}/videos/${entry.id}.info.json`) || known.has(entry.id)) continue;
-      known.add(entry.id);
-      // Videos of other channels only get a page of their own when they are collabs.
-      const collab = entry.channel_id && entry.channel_id !== CHANNEL_ID;
-      if (collab && !collabs.has(entry.id)) continue;
-      if (collab && entry.channel) creators.add(entry.channel.trim());
-      const info: Info = {
-        id: entry.id,
-        channel: entry.channel,
-        channel_id: entry.channel_id,
-        title: entry.title,
-        description: entry.description,
-        timestamp: Date.parse(entry.upload_date) / 1000,
-        duration: entry.duration,
-        like_count: entry.like_count,
-        epoch: Date.parse(entry.captured) / 1000,
-        [source]: entry,
-      };
-      const placeholder = await thumbnail(info.id, collab ? "others" : "");
-      placeholders.set(info.id, placeholder);
-      // The sources do not say if a video was a short or a live stream.
-      const section = collab ? "collabs" : "videos";
-      write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
+      if (exists(`${CACHE}/videos/${entry.id}.info.json`)) continue;
+      archived.set(entry.id, [...archived.get(entry.id) ?? [], [source, entry]]);
     }
+  }
+  for (const found of archived.values()) {
+    const entry: Info = {};
+    for (const [, e] of found) {
+      for (const [key, value] of Object.entries(e)) if (entry[key] == null || entry[key] === "") entry[key] = value;
+    }
+    // Videos of other channels only get a page of their own when they are collabs.
+    const collab = entry.channel_id && entry.channel_id !== CHANNEL_ID;
+    if (collab && !collabs.has(entry.id)) continue;
+    if (collab && entry.channel) creators.add(entry.channel.trim());
+    const info: Info = {
+      id: entry.id,
+      channel: entry.channel,
+      channel_id: entry.channel_id,
+      title: entry.title,
+      description: entry.description,
+      timestamp: Date.parse(entry.upload_date) / 1000,
+      duration: entry.duration,
+      view_count: entry.view_count,
+      like_count: entry.like_count,
+      epoch: Date.parse(found[0][1].captured) / 1000,
+      asmrindex: found[0][0] === "asmrindex" ? found[0][1] : null,
+      sources: found.map(([source, e]) => ({ source, url: e.url })),
+    };
+    const placeholder = await thumbnail(info.id, collab ? "others" : "");
+    placeholders.set(info.id, placeholder);
+    // The sources do not say if a video was a short or a live stream.
+    const section = collab ? "collabs" : "videos";
+    write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
   }
   // A caption file goes when the community has a transcript of the video, or when YouTube has no captions now.
   for (const file of exists(CAPTIONS) ? [...Deno.readDirSync(CAPTIONS)] : []) {
