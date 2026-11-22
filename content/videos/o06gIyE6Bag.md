@@ -35,4 +35,50 @@ chapters = [
 
 ## Transcript
 
-YouTube has no captions for this video, so the wiki has no transcript of it yet.
+This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
+
+### Meet Becky and Stacy, a pair of room mates who have very different personalities but somehow still get along!
+
+[0:00](https://www.youtube.com/watch?v=o06gIyE6Bag&t=0s) Oh my gosh, hi. We missed you. Me and Becky are here today to help you fall asleep. I really didn't want to do this, but Stacy has not stopped bugging me, so... Becky's just being stubborn. She actually likes doing this. You know that I need to be studying, and you should be studying too. It's fine. I can just copy my notes from you, so I'll be fine. Whatever, I'll just...
+
+### Stacy that is NOT allowed!!
+
+[0:51](https://www.youtube.com/watch?v=o06gIyE6Bag&t=51s) Let's go to the stage. Hey, stage, get your belt off of that microphone. You know that's not on YouTube anymore. I can't believe you. Fine. No kisses on your ears. No licks. But I really want to.
+
+### Ear kisses and book tapping
+
+[1:49](https://www.youtube.com/watch?v=o06gIyE6Bag&t=109s) You're so cute, yes, you're so cute! I need to check my notes. Okay.
+
+### Leather tapping, pen scribbling, tongue clicking, page flipping
+
+[2:23](https://www.youtube.com/watch?v=o06gIyE6Bag&t=143s) Uh. Okay, might as well get some studying done. Oh my gosh, I rubbed off all of my lip gloss. It's worth it if it's for you. Let's see. I'm gonna try to get some water.
+
+[3:33](https://www.youtube.com/watch?v=o06gIyE6Bag&t=213s) It depends on how long it is today Study plan for me and Stacey I'm just going to focus on my bag Because I need to put on more lipgloss What are you looking at? Let's see So annoying This is lip optic and lip gloss
+
+### Lip gloss tapping, pumping, applying, lip smacking
+
+[4:25](https://www.youtube.com/watch?v=o06gIyE6Bag&t=265s) But I'm just wearing lip gloss today I didn't want to get you covered in lipstick I don't want to stop fucking me. We've been on the same part for small... I lost count. That's not how I put on lipstick and lip gloss. Silly face. It's pretty. She still annoys the crap out of me. I can't even do studying right now, I just have to write my feelings in my journal. My therapist said it was a good idea.
+
+[5:29](https://www.youtube.com/watch?v=o06gIyE6Bag&t=329s) That's it. Let's see. I really can't focus. The ASMR stock is not my good one
+
+### Becky's fidget toys (they dont sound good, but she's trying), nomming on them
+
+[5:51](https://www.youtube.com/watch?v=o06gIyE6Bag&t=351s) This is like my hair in it It's like This really helps calm me down Oh my god. Oh, I should have put more hairspray in my hair. Sorry, I look so horrible.
+
+[6:53](https://www.youtube.com/watch?v=o06gIyE6Bag&t=413s) I was just so excited to see you. I forgot to do my hair properly. I look like a beast from the sewer or something. Stop touching me. It calmed me down when I chew on things. Oh, I'm so sorry. I need to be calmed down after everything today. Becky doesn't even care that she looks like that. She's kind of like free spirited or whatever. Yeah, she's like disgusting. Not like other girls. She's amazing about this for me. But I'm pretty much like every other girl. I'm just a girl. She's good at one thing. It's making money. I'm a girl that likes to make sounds and I don't like her mouth
+
+[8:07](https://www.youtube.com/watch?v=o06gIyE6Bag&t=487s) Are my lips glossy enough? Let's see, what else do we have here? I think she prefers like the natural musk. I like to smell like cake.
+
+### Red velvet body mist shaking and spritzing💖Tangle toy, zipper bracelet
+
+[8:47](https://www.youtube.com/watch?v=o06gIyE6Bag&t=527s) I hear if you shake it up then it makes it smell better. Shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky, shaky. This was something I used to use. Okay, how about this? And it used to be a bracelet
+
+[9:49](https://www.youtube.com/watch?v=o06gIyE6Bag&t=589s) Of course, you see how that smells good She was doing something that was what? Dancing too hard This helps me calm down I would just wear it on my wrist And now it's useless Hi Becky I really want to lick the microphone But I guess you can enjoy it Please join me. We can put it on Patreon so that it's a secret. And then YouTube won't get mad at us. Come on, come on, please, please, please. Oh, you really just can't. Please, please, please, please, please, please, please, please, please, please, please, just a little bit, please. I just turned a little bit. And it's for them.
+
+### Convincing Becky to lick the microphone with her [CUT FROM VIDEO, SEE UNCUT VID ON PATREON]
+
+[10:46](https://www.youtube.com/watch?v=o06gIyE6Bag&t=646s) their ears are so dead. Okay, fine. I'll do it. Just yes. Are you silly? That was ridiculous.
+
+### Goodnight sweet dreams!!!
+
+[10:57](https://www.youtube.com/watch?v=o06gIyE6Bag&t=657s) But I guess you're relaxed now, right? We have to go study now. That was so much fun. Okay, Sweet dreams.

@@ -21,4 +21,6 @@ chapters = [
 
 ## Transcript
 
-YouTube has no captions for this video, so the wiki has no transcript of it yet.
+This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
+
+[0:00](https://www.youtube.com/watch?v=f4J2TlFEAvo&t=0s) Maybe I could just have a taste. Okay, let me see here. oh, it's crunchy I might get a hairball, but it's worth it it's like, if I got a hairball from your hair it would be like a hairball of love

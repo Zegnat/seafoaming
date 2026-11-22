@@ -33,4 +33,28 @@ chapters = [
 
 ## Transcript
 
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.
+This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
+
+[0:00](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=0s) ooooooh Did I scare you? Yeah, I'm pretty scary. Sorry about that. I didn't mean to give you a heart attack. But I came back for you because I left you in not so good of a state last time and I wanted to say sorry for that. But thank you because of you. I was able to take enough of your soul to get away from the demons You really really saved me So I wanted to thank you by taking care of you. I
+
+[1:00](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=60s) know you're really low on energy right now because of the soul sucking I'm sorry but if you don't mind I Was thinking that I could give you back some of your energy You're gonna be okay Just relax I'm blowing back in some of your soul that was missing Refilling your energy
+
+[2:09](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=129s) Do you feel it? Do you feel it now?
+
+[3:09](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=189s) So your energy will be slowly, slowly going back into your body Thank you for saving me You know, because you saved me can protect you now so don't worry I'm going to protect you from all the spookies and the demons because I'm the only one who's allowed to spook you that's right it's gonna be okay it's gonna be okay it's gonna be okay I brought you some stuff to help you feel better I have a a couple of things that mortals like to use. So I have water here. I know that you need
+
+[4:15](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=255s) to drink water to stay alive. So I brought you some. You must be really thirsty after all of that draining that I did to you after all that's happened. It'll be okay though. because I'm going to take care of you So please take a sip of the water Good Keep drinking, keep drinking, keep drinking, keep drinking I want to make sure you're hydrated Is that better? Yeah. Okay, so I also brought some food because you must be hungry. You were left in a weakened state for such a long time that you probably never had an ability to get anything to eat.
+
+[5:33](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=333s) So fruit's a really good option for you right now because it's high in water content so it'll hydrate you a little bit and it's also high in sugar and fiber so that you can feel strong again. I haven't had fruit in so long I can't eat food anymore but I think it would make me happy to watch you eat it Would you mind eating it in front of me? Okay, here you go Oh, I'm so glad You like it? You must have been really hungry
+
+[6:34](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=394s) It's okay I'm gonna take care of you now I might spook you here and there Because you're the only one that says that I'm good at haunting So maybe I'll practice on you some more But for now I just want you to relax And just regain your strength, okay? Regain your strength So I think probably the best way to make you fall asleep Is to sing you a lullaby I know that I know that you said you like lullabies My singing is kind of spooky But I hope that maybe it can help calm you down If you know that you're safe with me then Maybe you won't be so spooked
+
+[7:35](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=455s) Okay, don't make fun of me I'm going to do my best Just lay down, relax Okay? Close your eyes Just relax, relax, relax You need to regain your strength You need to recover Just relax, relax, relax, okay? Oh
+
+[8:41](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=521s) Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh. Ooh, ooh, ooh, ooh, ooh, ooh. Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.
+
+[9:49](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=589s) Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh. ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh ooh
+
+[10:49](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=649s) Ahhhh... Ooooooh... Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh. Ooh, ooh, ooh, ooh, ooh, ooh, ooh.
+
+[11:55](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=715s) Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh. Oooooooooooooooooooooooooooohhhhhh...

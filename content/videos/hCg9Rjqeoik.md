@@ -24,4 +24,24 @@ chapters = [
 
 ## Transcript
 
-YouTube has no captions for this video, so the wiki has no transcript of it yet.
+This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
+
+[0:00](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=0s) Hmm. I like gloves. Gloves are... ...ploppy. I really like the sound they make. But I forget how to put them on. No. That's not it
+
+[1:15](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=75s) No How do I glove? Okay It's not working Okay. Oh, I got one!
+
+[2:43](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=163s) I'm going to go ahead and get it. There's something missing.
+
+[3:43](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=223s) Do humans have extra fingers? I was close Feels like a balloon Ah, there's a hole
+
+[4:43](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=283s) I'm going to go ahead and put it in the middle of the middle of the middle of the middle. Okay, I'm gonna do this. I'm gonna get this done. I'm gonna get these gloves on and then I'm gonna do something with them.
+
+[5:43](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=343s) I got it. Good job, I am so smart. Okay, now for the other glove. So basically you just... I forget.
+
+[6:43](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=403s) Okay. Thank you.
+
+[8:13](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=493s) I don't think I'm going to wash my hands with my hands. Wait. Wait a second Oh no My head fell backwards I'm still really smart though
+
+[9:16](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=556s) I'm like super smart But I choose to use my smarts for more important things Like drinking blood from critters Ah, there we go I'm going to go ahead and put it in the middle of the middle. Damn, I did it.
+
+[10:40](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=640s) Alright. Bend over.

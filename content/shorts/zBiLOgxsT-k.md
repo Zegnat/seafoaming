@@ -20,4 +20,6 @@ chapters = [
 
 ## Transcript
 
-YouTube has no captions for this video, so the wiki has no transcript of it yet.
+This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
+
+[0:00](https://www.youtube.com/watch?v=zBiLOgxsT-k&t=0s) I'll have you know I make a mean cocktail. Whiskey? That's kind of boring. Alright. On the rocks? Well, that's a weird request, but sure, okay. Let's just pour. Hmm, and all the rocks, okay. Hmm, this is what you wanted? Whiskey with rocks. Let me just taste test it for you.
