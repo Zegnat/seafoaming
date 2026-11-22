@@ -3,7 +3,7 @@
 {% set current = page or section %}{% set root = ["../" for c in current.components] | join(sep="") %}
 {{ section.content | safe }}
 <ul>
-{% for p in section.pages %}<li><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{% if p.description %}: {{ p.description }}{% endif %}</li>
+{% for p in section.pages %}<li><a href="{{ root }}{{ p.path | trim_start(pat="/") }}">{{ p.title }}</a>{% set n = p.extra.videos | default(value=[]) | length %}{% if n %} ({{ n }} video{% if n != 1 %}s{% endif %}){% endif %}{% if p.description %}: {{ p.description }}{% endif %}</li>
 {% endfor %}
 </ul>
 {% endblock %}
