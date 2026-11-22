@@ -56,8 +56,8 @@ export function parseVtt(text: string) {
 
 // Data that the community adds to a video, in community/videos/<id>.md. The generator never writes those files.
 export function parseCommunity(text: string) {
-  const match = text.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n?([\s\S]*)$/);
-  const data = match ? parseToml(match[1]) as Record<string, unknown> : {};
+  const match = text.match(/^\+\+\+\n(?:([\s\S]*?)\n)?\+\+\+\n?([\s\S]*)$/);
+  const data = match ? parseToml(match[1] ?? "") as Record<string, unknown> : {};
   const notes = (match ? match[2] : text).trim();
   return { data, notes };
 }

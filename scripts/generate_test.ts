@@ -61,6 +61,7 @@ Recorded in the new studio.
     notes: "Recorded in the new studio.",
   });
   equal(parseCommunity("Only notes."), { data: {}, notes: "Only notes." });
+  equal(parseCommunity("+++\n+++\n\nEmpty front matter."), { data: {}, notes: "Empty front matter." });
 });
 
 Deno.test("parseVtt reads times without hours", () => {
