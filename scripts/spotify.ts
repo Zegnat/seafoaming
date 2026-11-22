@@ -188,8 +188,8 @@ export function matchEpisode(episode: Episode, videos: Data[]) {
   return { video: best.video, clear, candidates: candidates.length };
 }
 
-// Write a link into the community file of a video, unless the file already has a value for the key.
-function writeLink(id: string, key: string, url: string) {
+// Write a link into the community file of a video, unless the file already has a value for the key: a link or a list.
+export function writeLink(id: string, key: string, url: string) {
   const path = `${ROOT}community/videos/${id}.md`;
   if (!exists(path)) {
     Deno.writeTextFileSync(path, `+++\n${key} = "${url}"\n+++\n`);
@@ -197,7 +197,7 @@ function writeLink(id: string, key: string, url: string) {
   }
   const text = Deno.readTextFileSync(path);
   const line = new RegExp(`^${key}\\s*=.*$`, "m");
-  if (new RegExp(`^${key}\\s*=\\s*"[^"]+"`, "m").test(text)) return false;
+  if (new RegExp(`^${key}\\s*=\\s*("[^"]+"|\\[)`, "m").test(text)) return false;
   Deno.writeTextFileSync(
     path,
     line.test(text) ? text.replace(line, `${key} = "${url}"`) : text.replace(/^\+\+\+\n/, `+++\n${key} = "${url}"\n`),
@@ -206,7 +206,7 @@ function writeLink(id: string, key: string, url: string) {
 }
 
 // Clear matches: the length agrees closely and the title agrees, or the track names agree with the chapters.
-const clear = (s: ReturnType<typeof score>) =>
+export const clear = (s: ReturnType<typeof score>) =>
   (s.difference <= 5 && s.title >= 0.5) || (s.difference <= 20 && s.title >= 0.7) ||
   (s.difference <= 60 && s.tracks >= 0.6);
 
