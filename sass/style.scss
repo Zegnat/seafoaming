@@ -27,6 +27,9 @@ h3 { font-size: 1.15em; font-weight: normal; font-family: "Linux Libertine", Geo
 .wikitable { border-collapse: collapse; background: #f8f9fa; border: 1px solid #a2a9b1; }
 .wikitable th, .wikitable td { border: 1px solid #a2a9b1; padding: 0.2em 0.4em; }
 .wikitable th { background: #eaecf0; }
+/* The tags of a video sit in the bottom right corner of its title cell; the padding keeps the title clear of them. */
+.wikitable td.title { position: relative; padding-bottom: 1.8em; }
+.wikitable td.title .tags { position: absolute; left: 0.4em; right: 0.4em; bottom: 0.3em; text-align: right; }
 .wikitable caption { text-align: left; font-weight: bold; padding: 0.2em 0; }
 .sortable th { vertical-align: middle; white-space: nowrap; }
 .sortable th button { white-space: nowrap; font: inherit; font-weight: bold; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
