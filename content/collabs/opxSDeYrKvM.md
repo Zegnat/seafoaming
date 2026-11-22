@@ -27,6 +27,10 @@ chapters = [
 ]
 +++
 
+## Notes
+
+This trailer used to be [on the main channel](@/videos/FenenlrWgL0.md) too, but was removed by Seafoam.
+
 ## Transcript
 
 [0:00](https://www.youtube.com/watch?v=opxSDeYrKvM&t=0s) Oh, look at him. Dun-dun-dun-dun-dun-dun. Inventations. Oh, you're still there?
