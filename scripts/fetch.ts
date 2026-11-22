@@ -66,6 +66,12 @@ for (const id of ids(".cache/asmrindex", ".json")) {
   if (!entry.removed) listed.add(id);
 }
 
+// A community file can name a video that no list shows, for example an unlisted video that someone shared.
+for (const id of ids("community/videos", ".md")) {
+  wanted.add(id);
+  listed.add(id);
+}
+
 // Without --refresh, only download videos that are not in the cache yet, and check again the cached videos
 // that YouTube no longer lists normally, so their pages can show that they are gone.
 // Videos with a status file are already known to be unavailable, so only --refresh checks them again.
