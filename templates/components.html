@@ -49,7 +49,8 @@
 {# A video without a page of its own, for example a video of another channel in a playlist. It links to YouTube. #}
 {% set url = "https://www.youtube.com/watch?v=" ~ e.id %}
 <td>{% if e.folder %}{{<thumb root={root} id={e.id} folder={e.folder} href={url} title={e.title} placeholder={e.placeholder or ""} />}}{% endif %}</td>
-<td class="title"><a href="{{ url }}">{{ e.title }}</a>{% if e.channel %} <span class="small">by <a href="{{ e.channel_url }}">{{ e.channel }}</a></span>{% else %} (no wiki page){% endif %}<span class="tags">{{<tags status={e.status or ""} source={e.source or ""} />}}</span></td>
+{# Without a channel, the wiki knows nothing about the video: YouTube gave only its ID. #}
+<td class="title">{% if e.channel %}<a href="{{ url }}">{{ e.title }}</a> <span class="small">by <a href="{{ e.channel_url }}">{{ e.channel }}</a></span>{% else %}<a class="unknown" href="{{ url }}">Unknown video</a> <span class="small">{{ e.id }}</span>{% endif %}<span class="tags">{{<tags status={e.status or ""} source={e.source or ""} />}}</span></td>
 <td></td>
 <td class="num"><span hidden>{{ e.duration or -1 }} </span>{{ e.length or "" }}</td>
 <td class="num"><span hidden>{{ e.views or -1 }} </span>{% if e.views %}{{ e.views | num_format }}{% endif %}</td>
