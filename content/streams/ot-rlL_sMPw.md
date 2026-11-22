@@ -19,14 +19,14 @@ likes = 45
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/ot-rlL_sMPw.vtt"
 description = "Multistreaming with https://restream.io/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:12](https://www.youtube.com/watch?v=ot-rlL_sMPw&t=12s) why is everything dead back gonna work I can't see myself can you see me is it actually working because it OBS says start streaming it doesn't say that it's streaming I'm really confused right now what I know OBS is so broken it doesn't show anything on my screen like it's just a background and it says start streaming like to start Street me it's not saying stop streaming like it doesn't even say that I'm streaming okay hold on ah there we go okay chats good everyone's good
 

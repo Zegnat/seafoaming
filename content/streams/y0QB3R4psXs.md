@@ -19,14 +19,14 @@ likes = 297
 comments = 11
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/y0QB3R4psXs.vtt"
 description = "[CLICK SHOW MORE] CW: Death, blood, abuse, suicide\nToday we're playing Your Turn to Die and we're accompanied by my friend Sushi who recommended this game to me! YTTD is a horror RPG/visual novel about people who are kidnapped and forced to play a death game by a mysterious organization. The game is free so you can play it here if you want: https://vgperson.com/games/yourturnto...\nCLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen. \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:01](https://www.youtube.com/watch?v=y0QB3R4psXs&t=1s) stream start hello let's see if this is actually working I'm using YouTube's new streaming interface so I may have screwed this up uh yeah I'm trying I'm on your Channel right now I'm trying to find can you just like link it to me directly uh I don't have the link to that's the it's one of the main problems I can't find the link or the um like I don't know this new interface is just bad are people even watching okay there we are can you see it yes I can see it now okay just a random damn stream oh man this is so confusing they took away the classic one I always use the classic streaming thing and now they're making me use the new one and I hate new things damn it YouTube freaking updating their I can see the chat now so we're good sweet so if you're if you weren't here last
 

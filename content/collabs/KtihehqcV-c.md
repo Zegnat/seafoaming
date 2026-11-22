@@ -25,5 +25,3 @@ chapters = [
 +++
 
 ## Transcript
-
-The wiki never downloaded this video from YouTube, so it has no transcript of it.

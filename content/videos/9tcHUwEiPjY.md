@@ -14,14 +14,14 @@ likes = 2822
 comments = 591
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/9tcHUwEiPjY.vtt"
 description = "This was a commission for Lucy! In this bideo Smol Idiot Vampire is back for another round of feeding! It includes mouth sounds & slurping sounds along with soft speaking. \n\nNibbling sounds inspired by PPOMO's Vampire Roleplay :P \nhttps://www.youtube.com/watch?v=0KPSgJRG7y0\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=9tcHUwEiPjY&t=0s) Oh, you're back. It's been so long. How are you feeling since last time? Good. Nice and juicy and full of blood. That sounds good to me. Did you come here to see me? Yeah. So does that mean you're ready for another feeding? Score! I've been getting really sick of these critters. They are bitter. They don't taste good. I miss the taste of human blood. this is awesome okay are you ready yeah okay
 

@@ -19,6 +19,7 @@ likes = 6719
 comments = 2400
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Special thanks to Bekah (SoftlyGaloshes) for giving me so many cute ideas for this video :D\nYour phone is alive and she loves you :0 In this bideo there is a bit of soft singing (more like doot -dooting) and phone keyboard texting sounds. Also phone tapping, booping , hugs and positive affirmations and affection! The shirt I have sounds a bit like leather or latex sounds and is pretty crinkly so I hope you like that sound :3 \n\nTIMESTAMPS:\n0:00 - Ringtone. Doot - doot doo!\n5:58 - Boop your face! Visual triggers, hand movements\n10:30 - Crinkly hugs\n13:15 - Phone tapping\n16:21 - Finger flutters + texting sound\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "Ringtone. Doot - doot doo!" },
@@ -30,5 +31,3 @@ chapters = [
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

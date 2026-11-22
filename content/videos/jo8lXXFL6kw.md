@@ -17,13 +17,13 @@ likes = 237
 comments = 189
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/jo8lXXFL6kw.vtt"
 description = "Were in Montreal Canada! If you are in the area and wanna come chat and meet me , IndigoStars ASMR and Substance ASMR, we will be at the Notre-Dame Basilica for about an hour at 6PM EST."
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=jo8lXXFL6kw&t=0s) guys it's seafoam isn't oh sorry and its ups to face tomorrow so we're in Montreal and we're going to be hanging out at the no chisel Notre Dame Basilica for about an hour at 6 p.m. tonight so if you guys want to meet us there we will be waiting and if you just want to come say hi and we'll be there just check see you soon okay

@@ -16,6 +16,7 @@ likes = 3063
 comments = 376
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Relax while I gently/badly sing some songs for you :3 Song names in the timestamps below.\nTIMESTAMPS:\n1:47 - Pollyanna (I Believe in You) - Catherine Warwick \n4:42 - City of Stars - La La Land \n7:21 - Lovely Night - La La Land\n9:46 - Mr. Blue (Bojack finale) - Catherine Feeny\n12:04 - Mystery of Love (Call Me by Your Name) - Sufjan Stevens\n15:55 - Bubblegum K.K - Animal Crossing\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "<Untitled Chapter 1>" },
@@ -29,5 +30,3 @@ chapters = [
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

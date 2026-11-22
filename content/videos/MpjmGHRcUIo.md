@@ -20,6 +20,8 @@ likes = 3369
 comments = 660
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/MpjmGHRcUIo.vtt"
 description = "Neko bois and girls rejoice :3 This video idea was based on a dream I had. I put a lot of love and work into this and I hope you like it. \nYou are a cat who has lost their way. This magical inn appears only to cats who are pure of heart and in a time of need. You are safe here, and welcome to stay for as long as you want. Dedicated to all the lost kitties in the world\n\nTIMESTAMPS:\n0:00 - Intro ( inspired by ASMRWeekly's video style )\n0:36 - Find you in the alley. Tongue clicking & treat shaking sounds. \n3:27 - Enter the inn! Personal attention, soft spoken affirmations .\n6:55 - Pouring cider for you. Tapping, liquid sounds, fizzing.\n10:20 - Choose a toy for stress relief. Soft crinkle sounds.\n12:50 - Scratchy fish board. Scratching, Innkeeper's personal story.\n16:13 - Close up whispering, positive affirmations\n17:16 - Catnip tea, gentle box tapping.\n18:49 - To your quiet room w/ fireplace & muffled music. Tea mug tapping.\n20:33 - Comfy headpats and purring sounds. Innkeeper imbues you with good luck as you drift to sleep~\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #roleplay #fantasy #personalattention #softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Intro ( inspired by ASMRWeekly's video style )" },
@@ -36,8 +38,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intro ( inspired by ASMRWeekly's video style )
 

@@ -16,13 +16,13 @@ likes = 76
 comments = 70
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/j89osE9u4no.vtt"
 description = "❤Questions CLOSED, Stay Tuned for the Answering Video!❤\nTHANK YOOOOOOOOOOOOU :D I CANT BELIEVE 1000 PEOPLE LIKE MY VIDEOS ENOUGH TO SUBSCRIBE. I hope you guys are interested in leaving me questions and stuff. You can ask them here in the comments OR on my Twitter or Instagram!\nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:30](https://www.youtube.com/watch?v=j89osE9u4no&t=30s) thank you

@@ -16,6 +16,8 @@ likes = 273
 comments = 81
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Xt4GvVjXQW0.vtt"
 description = "Congrats to the winners :D \nmatthew gomez\nDanox Mendioza XD\nIzaya Orihara\nShianne lindh\nknock knock\nWinners, please send me a message so we can get your stuffs ordered :3\nHere's a link to my tshirt shop if you didn't win but still want to check out what I have. I made all the designs myself! https://www.designbyhumans.com/shop/SeafoamKitten/"
 chapters = [
   { start = 0, time = "0:00", title = "Intro" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intro
 

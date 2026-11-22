@@ -17,14 +17,14 @@ likes = 207
 comments = 36
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/EcBsY9d_HkI.vtt"
 description = "Smolpire tryin to fit in with tough vampires, these were taken for ASMRNoire's video :3"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=EcBsY9d_HkI&t=0s) hi of course I work here and you know it's a littler task people who got their fangs if you insist on knowing I was born with a birth defect so if you make fun of me that's discrimination yep unfortunately for me that's what happens when your dad knocks up a human but you know I'm actually very dangerous so don't let this change your opinion on me because I'm very threatening and very dangerous uh-oh you know the item just sucks critter blood I sucked the blood of a human last week ever seen a vampire puncture a hole in five humans that's nothing one time I trained a critter to sneak up on a human and when they weren't looking he tied their shoes together they fell
 

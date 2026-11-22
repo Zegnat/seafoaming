@@ -27,6 +27,8 @@ likes = 15470
 comments = 2700
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/du4stqXmuTI.vtt"
 description = "Happy Valentine's day! Ember has become a little less tsundere and got you some chocolate and some gifts that involve fluffy things and smooches~ also there is some \"om nom nom\" triggers as well as affirmations and attention :3\n\nWatch my previous dragon bideos: https://goo.gl/LfkoVV\n\nTIMESTAMPS\n1:05 - Crinkles and feeding you chocolate~\n2:21 - Present :3\n4:40 - Ear to ear kissies begin\n7:31 - \"Muah\" sounds\n11:00 - Om nom nomming you!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "<Untitled Chapter 1>" },
@@ -39,8 +41,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 ### \<Untitled Chapter 1>
 

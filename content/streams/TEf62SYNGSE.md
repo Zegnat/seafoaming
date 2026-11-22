@@ -18,6 +18,8 @@ likes = 77
 comments = 22
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/TEf62SYNGSE.vtt"
 description = "Multistreaming with Twitch and Youtube at https://restream.io/\nFollow my Twitch! https://www.twitch.tv/seafoamkitten"
 chapters = [
   { start = 0, time = "0:00", title = "Technical stream issues" },
@@ -39,8 +41,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Technical stream issues
 

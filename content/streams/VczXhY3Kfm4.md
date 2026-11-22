@@ -19,14 +19,14 @@ likes = 241
 comments = 2
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/VczXhY3Kfm4.vtt"
 description = "Chapters 1 and 2. No im not a furry stop asking omg this game is about LITERAL cats not furries :P \n🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\n\nMy music playlist: https://www.youtube.com/playlist?list=PL1Q2egvxEPqH67JW0xYaElDyTOTuAyZTd\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:04](https://www.youtube.com/watch?v=VczXhY3Kfm4&t=4s) okay well let me know if the sound is too loud or too quiet for the game hi villa hi Nicholas hi elephant hi jack hi bacon hi Rosie hi David hi Bryan hi Gianna hi coals by Jack again nice how was the soup it was good I made my own soup by just throwing everything into a pot together that's how I usually do cooking it was made with like curry broth and Brussels sprouts and broccoli and lentils and potatoes and it was really good because I love vegetables
 

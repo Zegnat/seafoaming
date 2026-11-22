@@ -19,14 +19,14 @@ likes = 250
 comments = 6
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/UwELNmBMvCw.vtt"
 description = "🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\nCW: This game contains mature content!"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:09](https://www.youtube.com/watch?v=UwELNmBMvCw&t=9s) hello testing is the sound of a right let's see hello Dan hello gotcha hello Ellie oh hi bread bent a ghost so that the game sound isn't on right now I've just I'm gonna click to so you guys can hear actually I find it's kind of loud there how about that
 

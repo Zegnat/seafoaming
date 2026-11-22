@@ -18,14 +18,14 @@ likes = 886
 comments = 32
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/1_2NKIjRxXk.vtt"
 description = "Enjoy some cozy relaxation while I do an assortment of triggers that were requested by donators! \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:09](https://www.youtube.com/watch?v=1_2NKIjRxXk&t=9s) hello hello I've got a slightly new setup if you can tell we've got the fan art W in the background we've got this nice Galaxy Light the gamer light and I put my yeti on a different mic stand so it hopefully won't have as many like bumpy sound effects and stuff let me know if the audio is okay I want to make sure it is Qui actually I'm going to fix something real quick okay hello everyone I'm glad you like
 

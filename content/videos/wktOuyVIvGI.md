@@ -19,14 +19,14 @@ likes = 9696
 comments = 1400
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/wktOuyVIvGI.vtt"
 description = "Fay the friendly alien girl has come back to show you something. She likes you a lot, and you have a lot of trust in her. The alien bonding ritual is when they use their probing tongues to go into your ears. The risk is that they could easily erase your memory if they wanted to. So you have to give them all your trust to allow this to happen. \nWant to see more of Fay? Click here for moar alien bideos: https://goo.gl/iyemgX\nTriggers in this bideo include whispering, personal attention, affection, mouth sounds, ear eating. Enjoy!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=wktOuyVIvGI&t=0s) Hi human, I'm back, I came to visit you again, I just can't stop visiting humans, I just love, I love your culture and your planet, and I love how your planet is overtaken with plant life, absolutely overrun, it's quite amazing. Wow, well, it's kind of interesting that a species that has such dominance over other creatures has let the plants and the plant life just take over the entire planet. On our planet, plants are not tolerated. We know what they're thinking, and we know their plans. But that's for another day. Maybe I'll teach you about the evils of plant life in the future But for now, I was hoping that you could do something with me Well, um, on our planet, we do something called a bonding ritual
 

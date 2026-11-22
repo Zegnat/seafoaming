@@ -16,6 +16,8 @@ likes = 238
 comments = 125
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/fVEPwgUeeV4.vtt"
 description = "READ MEHH!\nI'm so excited to show you guys the tshirt designs I've been working on :3 I feature them all in the video here but you can also see them on my Design By Humans shop. You can get my designs on tshirts, tanks, sweaters, baseball tees, mugs and phone cases!\n\nShop here: https://goo.gl/mmef4O\nGet 15% off and FREE shipping this weekend only by using this coupon code: BLOOM\nI hope you guys like these! :3"
 chapters = [
   { start = 0, time = "0:00", title = "Announcement of t-shirt shop" },
@@ -25,8 +27,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Announcement of t-shirt shop
 

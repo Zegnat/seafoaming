@@ -16,14 +16,14 @@ likes = 5633
 comments = 1500
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/MTlBDXbzD-c.vtt"
 description = "S U C C \nElven requested on my patreon for a vampire roleplay. Its not typically my style so I decided to make it awkward and stupid like always :D This video includes, soft spoken, personal attention, slurping & gulping sounds AND FAKE BLOOOD. I hope its not too horrible 😂\n\nBiting sound inspired by PPOMO's vampire roleplay, it made me die laughing when I first heard it :P \nhttps://www.youtube.com/watch?v=0KPSgJRG7y0\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon: https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:16](https://www.youtube.com/watch?v=MTlBDXbzD-c&t=16s) Hi. What was I doing? Um I was practicing on critters. I know I'm not supposed to. The queen said that I'm not cut out to hunt humans yet. And I need to prove it to her that I can do it. So I'm trying my best. You're a human, right? Would you Um No, it's nothing. If you don't mind, um would you let me practice on you? Please. I'll be forever in your favor. I need to prove to the queen that I can do this.
 

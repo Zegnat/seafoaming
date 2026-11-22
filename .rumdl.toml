@@ -2,3 +2,7 @@
 # Transcripts and chapter titles come from YouTube: keep long lines and heading punctuation.
 # Zola pages get their title from the front matter, and the template writes the first heading.
 disable = ["MD013", "MD026", "MD041"]
+
+# Links in generated video pages are relative to the page URL on the site, such as the transcript files.
+[per-file-ignores]
+"content/{videos,shorts,streams,collabs}/*.md" = ["MD057"]

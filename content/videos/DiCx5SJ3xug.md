@@ -16,6 +16,8 @@ likes = 2049
 comments = 494
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/DiCx5SJ3xug.vtt"
 description = "Custom bideo for Josh Silver! \nSmol Idiot Vampire has taken a part time job in the cranial nerve examination clinic :3 She doesn't know how to do it very well but one thing she is good at is taking blood samples! \n\nThis video includes whispering, soft speaking, personal attention light triggers (flashlight), ear cupping, and of course vampire feeding (mouth sounds) :D\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
   { start = 0, time = "0:00", title = "<Untitled Chapter 1>" },
@@ -27,8 +29,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### \<Untitled Chapter 1>
 

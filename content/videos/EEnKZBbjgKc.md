@@ -19,6 +19,8 @@ likes = 2629
 comments = 458
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/EEnKZBbjgKc.vtt"
 description = "I got a pair of in-ear microphones :D In this video I test them out with a variety of intense and tingly triggers!\n\nTIMESTAMPS:\n0:00 - Intro\n1:25 - Ear rubbing + tapping \n4:20 - Ear cupping\n5:42 - Ear brushing (fluffy brush and small brush)\n9:53 - Feather on ear\n11:13 - Squishy octopus\n12:19 - Cardboard tapping\n13:12 - Hair brushing \n14:39 - Floam on ears\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "Intro" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intro
 

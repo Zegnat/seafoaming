@@ -18,6 +18,8 @@ likes = 309
 comments = 14
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/N3VsaOs1SVU.vtt"
 description = "🔥DONATE here for a guaranteed response, or if you want to support my suffering → https://goo.gl/T8mxRy\nI'm doing this uno reverse version of the sad cat dance animation meme of mine and my friends OCs Bedbug and Constance (in the photo above my head) But I've never done animation before LOL pls give tips in the chat if you have any. To help me learn I'm directly referencing a vid by EllyDrawsCats frame by frame (with their permission) Check out the original here, its so cute HAHA: https://vm.tiktok.com/ZMFyDq1Xr/\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [
   { start = 0, time = "0:00", title = "Stream technical issues" },
@@ -38,8 +40,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Stream technical issues
 

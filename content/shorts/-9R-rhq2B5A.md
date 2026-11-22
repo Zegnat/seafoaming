@@ -18,13 +18,13 @@ views = 9892
 comments = 61
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/-9R-rhq2B5A.vtt"
 description = "https://www.bonfire.com/seafoamsweetdreams !! Get em before the batch ends in 2 weeks (Nov. 27th) and be sure to show me a selfie of you wearing the merch if you get one :DD"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=-9R-rhq2B5A&t=0s) oh you want seafoam merch you want seafoam merch so bad you want to go to bonfire.com seafoam sweet dreams and you want to order see phone merge

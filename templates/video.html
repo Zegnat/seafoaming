@@ -104,10 +104,23 @@
 </details>
 {% endif %}
 {# Every "##" section of the Markdown becomes a section that readers can collapse, like the sections above. #}
+{# Where the transcript comes from, and its WebVTT file, which the download attribute saves as <id>.vtt. #}
+{% set kind = page.extra.transcript %}
+{% if kind == "community" %}{% set notice = "The community wrote or corrected this transcript." %}
+{% elif kind == "whisper" %}{% set notice = "This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors." %}
+{% elif kind == "youtube-automatic" %}{% set notice = "This transcript comes from the automatic captions of YouTube." %}
+{% elif kind %}{% set notice = "" %}
+{# No transcript: the notice says why. #}
+{% elif page.extra.source == "asmrindex" %}{% set notice = "The wiki never downloaded this video from YouTube, so it has no transcript of it." %}
+{% elif page.extra.transcript_language %}{% set notice = "YouTube only has automatic captions in another language (" ~ page.extra.transcript_language ~ ") for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them." %}
+{% else %}{% set notice = "YouTube has no captions for this video, so the wiki has no transcript of it yet." %}{% endif %}
+{% set download = '<a download href="' ~ root ~ page.extra.transcript_file ~ '">Download this transcript as a WebVTT file</a>, with all its timings.' if page.extra.transcript_file else "" %}
+{% set intro = "<p>" ~ (notice | escape_html) ~ (" " if notice and download else "") ~ download ~ "</p>" if notice or download else "" %}
 {% set parts = page.content | split(pat="<h2") %}
 {{ parts[0] | safe }}
-{# Each part starts with the attributes of its heading: put the icon right after them. #}
-{% for part in parts[1:] %}{% set bits = part | replace(from="</h2>", to="</h2></summary>") | split(pat=">") %}
+{# Each part starts with the attributes of its heading: put the icon right after them, and the notice after the
+   Transcript heading. #}
+{% for part in parts[1:] %}{% set here = "\n" ~ intro if (part | split(pat=">") | first) == ' id="transcript"' else "" %}{% set bits = part | replace(from="</h2>", to="</h2></summary>" ~ here) | split(pat=">") %}
 <details open><summary><h2{{ bits[0] | safe }}>{{<icon name="chevron-down" size={20} />}}{{ bits[1:] | join(sep=">") | safe }}</details>
 {% endfor %}
 {% if release or episode %}
@@ -177,7 +190,7 @@
   "apple_music = \"\"",
   "+++",
   "",
-  "<!-- Write notes about the video below, in Markdown. To replace the captions from YouTube, add a section that starts with the heading: ## Transcript -->",
+  "<!-- Write notes about the video below, in Markdown. To replace the captions from YouTube, add a transcript as a WebVTT file next to this file. -->",
   "",
 ] | join(sep="\n") %}
 {% set edit = config.extra.repository ~ "/new/main?filename=" ~ (file | urlencode_strict) ~ "&value=" ~ (starter | urlencode_strict) %}

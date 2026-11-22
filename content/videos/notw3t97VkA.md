@@ -17,11 +17,10 @@ likes = 39
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "My grandma's dog Sophie likes to dig in the snow to try and catch mice :3"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

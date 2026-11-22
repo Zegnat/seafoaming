@@ -19,6 +19,8 @@ likes = 7103
 comments = 218
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/KMq6aX8EGFQ.vtt"
 description = "Thanks to Bespoke Post for sponsoring this video! New subscribers get 20% off their first box — go to https://bespokepost.com/seafoam20 and enter code SEAFOAM20 at checkout.\nHewwo friend. Today I, (your bestie), will give you a super deep and intense ear cleaning and massage, because your earholes are filled with cobwebs!! \nTIMESTAMPS:\n0:00 - Preview\n0:30 - Bespoke Post sponsor! \n3:47 - Explaining your required ear cleaning\n6:38 - Getting dirt off your ears with a bristly brush\n8:58 - Soft and fluffy floofing\n11:26 - Ear picking and scratching\n14:46 - Cotton swabbing \n20:47 - Oily squishy cotton balls\n24:24 - Oiled Ear massage & soft whispering\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #earcleaning #massage #softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Preview" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Preview
 

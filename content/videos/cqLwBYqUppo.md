@@ -26,14 +26,14 @@ likes = 871
 comments = 208
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/cqLwBYqUppo.vtt"
 description = "Thanks to my $5+ patrons of October :D Today the trigger is visual hand movements and face touching!\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=cqLwBYqUppo&t=0s) hello welcome to another patron appreciation video today I'm going to be doing the $5 plus patrons of October and then after that we'll be doing some hand movement triggers so let me start with the reading the names and then I'll put a time stamp in the description to when the triggers start okay so we have generic ghosts great basin jar jonbi McCarthy Leonardo Mike ox long batter NASM John Cutler Matt do you call across e shadi forth Roger Grillo Marquis reven Belmont Brown again Brett to beat Dean Winchester
 

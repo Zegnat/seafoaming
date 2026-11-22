@@ -19,14 +19,14 @@ likes = 114
 comments = 16
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/N9pzsTMn6Z8.vtt"
 description = "🔥Like wasting money? :3 DONATE & have your message read on stream! → https://goo.gl/T8mxRy\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=N9pzsTMn6Z8&t=0s) [Music] let me know when I live I lie back yes streams back ok perfect so I think I think I'm unbanned you back yeah ok it works yes I found the page where it's actually not like bandless it's like called hidden users or something like that so yeah you are hidden [Music] I love this song can you guys hear it I clown
 

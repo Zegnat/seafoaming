@@ -16,14 +16,14 @@ likes = 491
 comments = 188
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/q6XhBYCR-2E.vtt"
 description = "❤READ DESCRIPTION❤ \nTHANK YOOOOOOOOU ^_^ I'm so happy that I got so many questions. Thanks everyone who left questions and thank you to everyone who is subbed ❤❤ I will continue to do my best and make super awesome bideos for you guys :3 \n⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇\nASMRtists mentioned in this video:\nPleasantASMR : http://goo.gl/QTFAlu\nPeekASMR : http://goo.gl/u90dZI\nMrPuppeteer : http://goo.gl/EQlf31\nHeather Feather ASMR : http://goo.gl/QP17BT\nPuddingWhispers : http://goo.gl/iAaI7j\nGentleWhispering : http://goo.gl/sIDHvy\nPlease check them all out! I lub you guys ❤ \nFollow me if you haven't! Twitter: Follow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:14](https://www.youtube.com/watch?v=q6XhBYCR-2E&t=14s) because
 

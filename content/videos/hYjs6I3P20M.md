@@ -16,6 +16,8 @@ likes = 1156
 comments = 447
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/hYjs6I3P20M.vtt"
 description = "AW BUDDY you fell down. I have to fix this. :D This video has lots of small triggers: Latex gloves, crinkles, spray bottle, scissor sounds, whispering / soft spoken, fabric scratching, personal attention, kisses, and some visual ASMR! I hope you enjoy!\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
   { start = 0, time = "0:00", title = "Initial assessment" },
@@ -29,8 +31,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Initial assessment
 

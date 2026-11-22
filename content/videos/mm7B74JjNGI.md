@@ -17,11 +17,10 @@ likes = 213
 comments = 72
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "This video was custom for Justin but I really liked how it turned out so I put it here so others can see it too :D"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

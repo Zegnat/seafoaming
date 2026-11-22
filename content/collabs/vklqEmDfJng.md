@@ -22,14 +22,14 @@ likes = 204
 comments = 74
 comments_off = false
 fetched = 2026-11-22
+transcript = "whisper"
+transcript_file = "transcripts/vklqEmDfJng.vtt"
 description = "In a galaxy far far away... The tingles Awakens :)\nTriple collaboration with Seafoam Kitten's ASMR & ASMR Alysaa.\n-Seafoam: https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg\n-Alysaa: https://www.youtube.com/channel/UCyZ8-Fnx4T_S4TKWZH5o93A\n\nIf you enjoyed please leave your support!\nAlso Watch the Series:\n\nHarryPotter: https://www.youtube.com/playlist?list=PLMKpaijVPXO-kJpJ5IVxMAKjNAIDA_Qy9\n\nStarWars: https://www.youtube.com/playlist?list=PLMKpaijVPXO-gm5heqqktkGdMAZMuARSb\n\nVHS: https://www.youtube.com/playlist?list=PLMKpaijVPXO9Zk2lCUoSFSd9K1DJZOl4J\n\nForest of spirits: https://www.youtube.com/watch?v=E-XLrQM1V0w&list=PLMKpaijVPXO_kG68flKBcOFDbrV5Oo9mV\n\nHandMovements: https://www.youtube.com/playlist?list=PLMKpaijVPXO8AVYYXHGUZ-5xFY22Do4iW"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=vklqEmDfJng&t=0s) I'm sorry. I don't know if I'm going to go back. I don't know if I'm going back. I'm sorry to disturb you.
 

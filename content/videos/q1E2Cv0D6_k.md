@@ -16,6 +16,8 @@ likes = 652
 comments = 297
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/q1E2Cv0D6_k.vtt"
 description = "H0i! ENJOY MY SUFFERING. In this video I try the game Bean Boozled and get bean boozled in the process. These were sent to me by my friend Caleb ^_^ I hope it is relaxing for you. \n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [
   { start = 0, time = "0:00", title = "<Untitled Chapter 1>" },
@@ -26,8 +28,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### \<Untitled Chapter 1>
 

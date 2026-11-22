@@ -19,6 +19,8 @@ likes = 2990
 comments = 169
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/wrJli6zW1uI.vtt"
 description = "Thank you Scentbird for today's sponsor! Use SEAFOAMK55 to get 55% off your first month: https://sbird.co/3ASs55D  \nThis month I received...   \nCreamy Sunshine by Pink Sugar https://sbird.co/3Ojr2id \nMidnight Silhouette by Christian Siriano https://sbird.co/3O3BQ3Q \nBite Me by Confessions Of A Rebel https://sbird.co/3uKGtsD \n\nWandering deep within the magical forest, this elven merchant is hard to come by. So if you happen to stumble upon this shop, it means you were meant to find it. She will offer you an assortment of choices to help you find the perfect fragrance! This video includes soft speaking, calling you \"darling\", personal attention, tapping, spritz sounds, crinkles, smoke visuals, nature and water sounds, and more :D \nTIMESTAMPS:\n0:00 - Preview & Scentbird sponsor\n2:12 - Video begins!\n3:04 - Wildflowers\n4:55 - Coffee beans\n7:28 - Sage (smoke visuals)\n10:00 - Garlic\n13:13 - Introducing her SECRET stock:\n14:11 - \"Midnight Silhouette\"\n17:49 - \"Bite Me\"\n20:27 - \"Creamy Sunshine\" \n22:12 - The merchant tells a personal story\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #fantasy #softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Preview & Scentbird sponsor" },
@@ -36,8 +38,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Preview & Scentbird sponsor
 

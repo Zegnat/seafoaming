@@ -15,6 +15,8 @@ views = 9823
 likes = 289
 comments_off = true
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/NLPL3ByIFBQ.vtt"
 description = "Thank you so much for sticking with me for 10k subs! I made a special 2 hour long layered sounds video for you guys :3 I hope it can put you to sleep or give you tingles! It features the phrase \"thank you\" repeated along with more thank you's layered over top and some layered tapping as well.\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [
   { start = 0, time = "0:00", title = "Initial expressions" },
@@ -30,8 +32,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Initial expressions
 

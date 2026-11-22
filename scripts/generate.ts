@@ -6,6 +6,9 @@ const ROOT = new URL("..", import.meta.url).pathname;
 const CACHE = `${ROOT}.cache`;
 const CONTENT = `${ROOT}content`;
 const COMMUNITY = `${ROOT}community/videos`;
+const CAPTIONS = `${ROOT}static/captions`;
+// The caption files that this run wrote; the others in static/captions are outdated.
+const captionFiles = new Set<string>();
 const CHANNEL_ID = "UCBRuxya3juxDB1SOg-QOBpg";
 const PARAGRAPH_SECONDS = 60;
 const VIDEO_SECTIONS = ["videos", "shorts", "streams", "collabs"];
@@ -55,12 +58,8 @@ export function parseVtt(text: string) {
 export function parseCommunity(text: string) {
   const match = text.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n?([\s\S]*)$/);
   const data = match ? parseToml(match[1]) as Record<string, unknown> : {};
-  const body = (match ? match[2] : text).trim();
-  // A "## Transcript" section replaces the captions from YouTube.
-  const split = body.search(/^## Transcript\s*$/m);
-  const notes = (split === -1 ? body : body.slice(0, split)).trim();
-  const transcript = split === -1 ? "" : body.slice(split).replace(/^## Transcript\s*\n/, "").trim();
-  return { data, notes, transcript };
+  const notes = (match ? match[2] : text).trim();
+  return { data, notes };
 }
 
 function community(info: Info) {
@@ -92,47 +91,48 @@ export function subtitleFile(info: Info): [string | null, boolean] {
   return [null, false];
 }
 
+// A WebVTT file of the lines of parseVtt, one cue for each line until the next line starts. parseVtt reads it back
+// as the same lines.
+export function toVtt(lines: [number, string][]) {
+  const time = (t: number) => {
+    const ms = Math.round(t * 1000);
+    const pad = (n: number, size = 2) => String(n).padStart(size, "0");
+    return `${pad(Math.trunc(ms / 3600000))}:${pad(Math.trunc(ms / 60000) % 60)}:${pad(Math.trunc(ms / 1000) % 60)}.${
+      pad(ms % 1000, 3)
+    }`;
+  };
+  const cues = lines.map(([t, line], i) =>
+    `${time(t)} --> ${time(lines[i + 1]?.[0] ?? t + 5)}\n${line.replaceAll("&", "&amp;").replaceAll("<", "&lt;")}`
+  );
+  return ["WEBVTT", ...cues].join("\n\n") + "\n";
+}
+
 // A transcript with timings can be in the community folder as community/videos/<id>.vtt. source is the transcript
 // field of the community file: "whisper" for speech recognition (scripts/whisper.ts), "community" for people.
-function transcript(info: Info, written: string, source: unknown = null) {
-  if (written) {
-    return ["## Transcript", "", "The community wrote this transcript.", "", written, ""].join("\n");
-  }
+// kind is where the transcript comes from: youtube (captions that people wrote on YouTube), youtube-automatic, whisper
+// or community. Without a transcript there is no kind, and language names the captions that the wiki leaves out.
+// file is the WebVTT file to download, text the paragraphs.
+function transcript(info: Info, source: unknown = null) {
   const own = `${COMMUNITY}/${info.id}.vtt`;
   const hasOwn = exists(own);
-  if (info.asmrindex && !hasOwn) {
-    return [
-      "## Transcript",
-      "",
-      "The wiki never downloaded this video from YouTube, so it has no transcript of it.",
-      "",
-    ]
-      .join("\n");
-  }
+  if (info.asmrindex && !hasOwn) return { text: "" };
   // The transcript of the community folder comes first, then the captions of YouTube.
   const [path, manual] = hasOwn ? [own, false] : subtitleFile(info);
   if (!path) {
     const other = Object.keys(info.automatic_captions ?? {}).find((lang) => lang.endsWith("-orig"));
-    return [
-      "## Transcript",
-      "",
-      other
-        ? `YouTube only has automatic captions in another language (${other.slice(0, -5)}) for this video. ` +
-          "They are a machine translation of wrongly recognized speech, so the wiki does not show them."
-        : "YouTube has no captions for this video, so the wiki has no transcript of it yet.",
-      "",
-    ].join("\n");
+    return { language: other?.slice(0, -5), text: "" };
   }
   const chapters = info.chapters ?? [];
-  const out = ["## Transcript", ""];
-  if (hasOwn && source === "whisper") {
-    out.push(
-      "This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. " +
-        "It contains errors.",
-      "",
-    );
-  } else if (hasOwn) out.push("The community wrote or corrected this transcript.", "");
-  else if (!manual) out.push("This transcript comes from the automatic captions of YouTube.", "");
+  const lines = parseVtt(Deno.readTextFileSync(path));
+  // The captions of YouTube go to static/captions as a clean file, a start for a transcript of the community.
+  // static/transcripts links to the community folder, so the site serves the files of both folders.
+  if (!hasOwn) {
+    write(`${CAPTIONS}/${info.id}.vtt`, toVtt(lines));
+    captionFiles.add(`${info.id}.vtt`);
+  }
+  const kind = hasOwn ? (source === "whisper" ? "whisper" : "community") : manual ? "youtube" : "youtube-automatic";
+  const file = `${hasOwn ? "transcripts" : "captions"}/${info.id}.vtt`;
+  const out: string[] = [];
   const paragraph: string[] = [];
   let start = 0, chapter = 0;
 
@@ -143,7 +143,7 @@ function transcript(info: Info, written: string, source: unknown = null) {
     paragraph.length = 0;
   };
 
-  for (const [t, line] of parseVtt(Deno.readTextFileSync(path))) {
+  for (const [t, line] of lines) {
     if (chapter < chapters.length && t >= chapters[chapter].start_time) {
       flush();
       while (chapter < chapters.length && t >= chapters[chapter].start_time) chapter++;
@@ -154,7 +154,7 @@ function transcript(info: Info, written: string, source: unknown = null) {
     paragraph.push(line);
   }
   flush();
-  return out.join("\n");
+  return { kind, file, text: out.join("\n") };
 }
 
 // Turn the error message of YouTube into a status. Age checks are not errors: the video is still there.
@@ -200,6 +200,10 @@ function spotifyEpisode(url: string | null) {
 
 function videoPage(info: Info, placeholder: string | null, covers: Set<string> = new Set(), section = "videos") {
   const extra = community(info);
+  const said: { kind?: string; file?: string; language?: string; text: string } = transcript(
+    info,
+    extra.data.transcript,
+  );
   // A collab is on another channel: its page names that channel, and its thumbnails are with the other channels.
   const collab = Boolean(info.channel_id && info.channel_id !== CHANNEL_ID);
   const link = (key: string) => typeof extra.data[key] === "string" && extra.data[key] ? extra.data[key] : null;
@@ -318,6 +322,9 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
     `fetched = ${fetched}`,
     `source = ${toml(info.asmrindex ? "asmrindex" : null)}`,
     `source_url = ${toml(info.asmrindex?.url)}`,
+    `transcript = ${toml(said.kind)}`,
+    `transcript_file = ${toml(said.file)}`,
+    `transcript_language = ${toml(said.language)}`,
     `description = ${toml(info.description || "")}`,
     "chapters = [",
     ...chapters.map((c) => {
@@ -333,8 +340,7 @@ function videoPage(info: Info, placeholder: string | null, covers: Set<string> =
   const notes = extra.notes
     ? (extra.notes.startsWith("## ") ? extra.notes : `## Notes\n\n${extra.notes}`) + "\n\n"
     : "";
-  return front.filter((line) => !line.endsWith("= null")).join("\n") + notes +
-    transcript(info, extra.transcript, extra.data.transcript);
+  return front.filter((line) => !line.endsWith("= null")).join("\n") + notes + "## Transcript\n\n" + said.text;
 }
 
 // The thumbnails of videos by other channels live in static/thumbs/others.
@@ -505,6 +511,10 @@ if (import.meta.main) {
     // The index does not say if a video was a short or a live stream.
     const section = collab ? "collabs" : "videos";
     write(`${CONTENT}/${section}/${info.id}.md`, videoPage(info, placeholder, covers, section));
+  }
+  // A caption file goes when the community has a transcript of the video, or when YouTube has no captions now.
+  for (const file of exists(CAPTIONS) ? [...Deno.readDirSync(CAPTIONS)] : []) {
+    if (!captionFiles.has(file.name)) Deno.removeSync(`${CAPTIONS}/${file.name}`);
   }
   for (const data of jsonFiles(`${CACHE}/playlists`, ".json")) {
     for (const e of (data.entries ?? []).map(fromIndex)) {

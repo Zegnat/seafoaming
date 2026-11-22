@@ -19,6 +19,8 @@ likes = 4831
 comments = 418
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/L9y_FlJdFVo.vtt"
 description = "Maru is a weird girl that you met in a taco bell parking lot, but she seems to really care about you and wants to help you overcome your insomnia! Her methods include cuddly companions, iffermations, jingly harmony bells, hypnotic lullaby singing, and fluffy cotton balls. \n\nTIMESTAMPS:\n0:00 - Maru and her cat Rawr-Rittens approach you in a taco bell parking lot\n3:35 - Choosing a plushie guardian friend who will protect you\n3:53 - Jingly angel bear\n5:17 - [Redacted]\n5:45 - Bluey the blue heeler dog. Good choice!\n7:35 - Explaining a special type of positive affirmation\n8:59 - Maru's \"Iffermations\"\n13:21 - Special harmony bell! [Soft jingly sounds for dreamy sleep]\n15:51 - Checking your ears for upside-down creatures! [Fluffy ear picking & cleaning sounds]\n20:51 - Singing a lullaby to scare the badness away\n24:41 - Fluffy squishy cotton balls until you fall asleep~\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #Sleep #PersonalAttention"
 chapters = [
   { start = 0, time = "0:00", title = "Maru and her cat Rawr-Rittens approach you in a taco bell parking lot" },
@@ -36,8 +38,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Maru and her cat Rawr-Rittens approach you in a taco bell parking lot
 

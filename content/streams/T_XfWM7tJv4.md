@@ -19,14 +19,14 @@ likes = 127
 comments = 11
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/T_XfWM7tJv4.vtt"
 description = "Multistreaming on Youtube and Twitch with https://restream.io/\nIf you would like to donate, do it through my Twitch here:  https://www.twitch.tv/seafoamkitten\n\nFollow me on social media!\nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkitt...\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKitten...\nTwitch (I stream digital art and games): https://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:20](https://www.youtube.com/watch?v=T_XfWM7tJv4&t=20s) oh jeez okay hold on here I apologize if you can hear my laptop because it's extremely loud right now okay hi how where are you you can't see me I want to kiss your butthole not in a creepy way just in a friendly
 

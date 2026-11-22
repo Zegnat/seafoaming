@@ -22,6 +22,8 @@ likes = 478
 comments = 133
 comments_off = false
 fetched = 2026-11-22
+transcript = "youtube-automatic"
+transcript_file = "captions/tBqOE5rdHfA.vtt"
 description = "Calli and Kitten come across a mysterious tome, containing a terrible tentacle monster. They will have to summon it, before striking it down with their powerful magic. \n\nLots of magic, chanting, hand movements, tentacles and squishy wet sounds. I had so much fun working on this with Seafoam! She did amazing. Please go check her out here:\n\nhttps://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/\n\n★★★★★☆☆☆☆☆★★★★★\n\nWant to give me a Tad of your time? Help me out here: http://givetad.com/IndigoStars\n\nLiked my video? Consider tipping me with a coffee! \nhttps://ko-fi.com/1586MWUPTGG6E\n\nEnjoy my work? Consider becoming a patron to help support my videos. \nhttps://www.patreon.com/IndigoStars\n\nJoin me on Facebook where I share my process and interact. \nhttp://tinyurl.com/hkl9aam\n\nWant to see me post dank maymays?\nhttps://twitter.com/LisaIndigoStars\n\nI’m known to share the occasional selfie on here.. \nhttp://instagram.com/lisa_indigo/\n\nInterested in knowing more about my characters and the world I’ve created? Read more on my blog. \nhttp://indigo-stars.blogspot.nl/\n\nI use Tumblr to share whatever I’m passionate about at the moment. \nhttp://indigokindred.tumblr.com/\n\nWanna know where I got my fangs? More info here. \nhttp://hobbyfx.co.uk/\n\nAll donations I receive through PayPal will go directly through equipment and props. \nhttps://www.paypal.me/indigostars\n\n★★★★★☆☆☆☆☆★★★★★"
 chapters = [
   { start = 0, time = "0:00", title = "The client request" },
@@ -36,8 +38,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### The client request
 

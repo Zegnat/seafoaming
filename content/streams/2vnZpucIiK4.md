@@ -19,14 +19,14 @@ likes = 250
 comments = 53
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/2vnZpucIiK4.vtt"
 description = "Like wasting money? :3 DONATE & have your message read on stream!: https://twitch.streamlabs.com/seafoamkitten\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:16](https://www.youtube.com/watch?v=2vnZpucIiK4&t=16s) hi Billy today we're doing an ASMR stream attempt I'm using my new microphone so I have a problem that I'm going to have to get your help with um I have to get your feedback because um I got my new microphone which is the one that I had before except it's an upgraded version It's the pro version um a you missed my stream I'm sorry um anal Vore monster um what was I say oh yeah um the interface that I'm using toook hook up the microphone doesn't have the right plug for me to put in my headphones and like hear the sounds that I'm making so I have no idea if these are like too loud or too quiet or if you can hear it at all so I'm going to have to just ask for E like when I'm doing triggers tell me
 

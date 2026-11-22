@@ -17,11 +17,10 @@ likes = 143
 comments = 24
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "He thinks its acceptable but he would rather have a 30ft tube"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

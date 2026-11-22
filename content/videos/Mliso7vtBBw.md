@@ -25,14 +25,14 @@ likes = 3293
 comments = 1900
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/Mliso7vtBBw.vtt"
 description = "Get a job already, and clean something other than your anime figures for once!\nThanks to my pals on twitter for helping me brainstorm things to say for this video :D  You can see them here https://twitter.com/SeafoamKitten/status/993532459227795457\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=Mliso7vtBBw&t=0s) who are you again? oh yeah i forgot that you're my child because you're such a massive disappointment son i am disappoint you're an absolute disgrace to this family why are you like this? why do you choose to be the way that you are? It's disappointing, to say the least. When are you going to get your life together? Honestly, you have no job, no car, and you've never found love. Honestly, the best thing I could hope to get from you as a child is grandbabies. And we both know that's not going to happen, because look at you. I don't blame the people who won't date you because you have nothing to offer.
 

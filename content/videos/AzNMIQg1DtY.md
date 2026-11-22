@@ -16,13 +16,13 @@ views = 10872
 likes = 381
 comments_off = true
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/AzNMIQg1DtY.vtt"
 description = "fUR SNEK GOES FLOP FLOP"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:11](https://www.youtube.com/watch?v=AzNMIQg1DtY&t=11s) Benny he's so cute bny get it get it a get it oh he's got it P

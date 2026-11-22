@@ -19,6 +19,8 @@ likes = 8027
 comments = 336
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/KltB3OwMQoA.vtt"
 description = "Omg hi bestie wake up Ive been so excited to see you again your door was unlocked so I let myself in hehe\nTIMESTAMPS:\n0:00 - Nibbling your lips while you sleep just a lil bit \n1:30 - Applying and sharing chapstick w/ tongue clicking\n2:03 - Explaining our lore 💖\n2:23 - Petting and smelling your hair (normal things)\n3:32 - Touching your face cuz ur sooo soft (lots of compliments)\n5:40 - Painting your nails so we can be twinsies\n9:09 - Measuring you so I can be as tall as you (but im bad at math)\n11:11 - Stealing your hoodie and sniffing it \n12:50 - Chewing on an elastic band and gifting it to you as a token of our special bond\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n💤 ASMR Tiktok → https://rb.gy/kq1bym\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #whispering #relaxing"
 chapters = [
   { start = 0, time = "0:00", title = "Nibbling your lips while you sleep just a lil bit" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Nibbling your lips while you sleep just a lil bit
 

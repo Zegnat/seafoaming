@@ -26,14 +26,14 @@ likes = 3367
 comments = 930
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/GavTR9dRgAw.vtt"
 description = "Miss Spooky needs your help! She is being chased by demons and she is very weak. You must give her some of your soul to regain her energy to escape. This bideo has soft speaking, inhaling (soul eating), some positive affirmations, hand movements, some binaural beats and woobly visual effects near the end :3 Hope you enjoy.\n\nWant moar ghost girl? Miss Spooky haunts you in the previous video!:\nhttps://www.youtube.com/watch?v=ErULDHwFLLI\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=GavTR9dRgAw&t=0s) Human? Hey, are you awake? Hey, wake up. Wake up. Hey, do you remember me? Well, I came with kind of bad news. I'm really sorry if I disturbed you. I, oh, I'm very weak right now. So I'm being chased and I'm in trouble And I was wondering if maybe you could help me
 

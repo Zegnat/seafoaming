@@ -20,14 +20,14 @@ likes = 1942
 comments = 273
 comments_off = false
 fetched = 2026-11-22
+transcript = "whisper"
+transcript_file = "transcripts/0CPL-3n4QwY.vtt"
 description = "Oh my godness, I'm so happy to be finally showing you this!! Seafoam Kitten and me did a collaboration and I'm honestly so excited! :D We've put a lot of passion and work into this video and I think it turned out pretty cool!\nIn this video you find yourself wandering in an enchanted, sacred forest full of Yokai. Then two Yokai appear, a Tengu (bird spirit) who is a little Tsundere and a Kitsune (fox spirit), who is v e r y interested in you!\n\nSTAY TUNED - PART 2 THIS FRIDAY!\nIf you choose Yuna: Come to my channel on Friday! \nIf you choose Yuki: Go to Seafoam Kitten's channel on Friday! https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg\n\nThis is all acting as a fictional character. It's for ASMR / Entertainment purposes only. Enjoy! :)\n\n💖 Patreon →https://www.patreon.com/Tizu\n✨ Instagram → https://www.instagram.com/tizu.cos/\n🎭 Tik Tok → https://www.tiktok.com/@tizu.cos\n🎁 Throne Wishlist → https://throne.me/tizu/wishlist\n\nWhat is ASMR?\n\nAutonomous sensory meridian response (ASMR) is a term used for an experience characterised by a tingling sensation on the skin that typically begins on the scalp and moves down the back of the neck and upper spine. ASMR Videos can also be used for relaxation or entertainment purposes.\n\n#ASMR  #CosplayASMR\n\nI use the following websites for image and video material: pixabay.com / videvo.net"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=0CPL-3n4QwY&t=0s) I'm going to go to the next episode of the video. What are you doing here? I won't allow disgusting humans into this sacred forest.
 

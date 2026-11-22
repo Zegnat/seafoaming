@@ -16,14 +16,14 @@ likes = 2617
 comments = 974
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/KmttJ6fHArs.vtt"
 description = "THANK YOU to Ztla for making the beautiful music in this video :D It is a cover of the Piranha Plant Lullaby. See their other music here:  https://www.youtube.com/channel/UCluw8J87MCMgVjPBRV6-nng and their second channel here: https://www.youtube.com/channel/UC54FmUqerizaCPhBWJd-eeg\nThanks for 100k subs everyone!! I love u with all my heart, ur my seafam, bro ~\nSpecial thanks to the people in this video who unwillingly donated their weird/silly/creepy/mean comments to this song UwU\n100K LIVESTREAM EVENT: \nhttps://www.youtube.com/watch?v=HlhZ2W0drMo\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:04](https://www.youtube.com/watch?v=KmttJ6fHArs&t=4s) stupid what the [ \_\_ ] poison junkie [Music] as of a night-sky respectfully I'm uncomfortable in a good way two years that it keeps the hunger at bay Linda would bang exist but in the Holy of [ \_\_ ] is this this is why I don't have goddamn years planners over [Music] so this is one eating sounds like see
 

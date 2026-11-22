@@ -15,6 +15,8 @@ views = 6377
 likes = 215
 comments_off = true
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/YrQkJBJFHi8.vtt"
 description = "Merry Christmas everyone! SUPER DUPER THANK YOOOU TO CALEB!! This was the best present ever :D\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nGIVE ME FREE MONEY (Paypal): https://www.paypal.me/SeafoamKitten"
 chapters = [
   { start = 0, time = "0:00", title = "Unboxing the giant package" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Unboxing the giant package
 

@@ -14,14 +14,14 @@ likes = 2448
 comments = 1000
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/ErULDHwFLLI.vtt"
 description = "Happy Halloween! GET READY FOR SPOOPS\nIn this video Miss Spooky, an awkward ghost girl is performing her very first haunting :3 I hope she gets 10/10 spooks. This video includes whispering, chain jingling, page ripping, tapping w/ wooden spoon, and soul sucking (inhaling and mouth sounds). I hope you enjoy! :D\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=ErULDHwFLLI&t=0s) Hello, you're awake. My name is Ms. Spooky. It's nice to meet you. I'm sorry to disturb you. Um, this is a little bit awkward. Well, you see, today is my first haunting, and they've chosen you as my victim.
 

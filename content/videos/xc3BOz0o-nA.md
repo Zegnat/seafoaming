@@ -16,6 +16,8 @@ likes = 1863
 comments = 254
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/xc3BOz0o-nA.vtt"
 description = "There's a lot of people who seem interested in my art, so I decided to record my process! It was fun to make an asmr version of a speedpaint by doing a soft spoken voice-over with relaxing music. I know its extremely sped up but I didn't want the video to be TOO long. If you have any questions about this or art stuff feel free to ask :3 \n\nSoftware: Clip Studio Paint\nEquipment: Wacom Intuos Pen & Touch (Small)\nTime: 22 hours\nMusic: https://goo.gl/LYnggZ\nMy DeviantArt: https://goo.gl/ZsLkKC\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Speedpaint #Fluttercord #Digitalpainting"
 chapters = [
   { start = 0, time = "0:00", title = "Introduction to artwork" },
@@ -27,8 +29,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Introduction to artwork
 

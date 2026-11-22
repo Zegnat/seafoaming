@@ -19,14 +19,14 @@ likes = 99
 comments = 12
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/fZWOLom_0JM.vtt"
 description = "Multistreaming with https://restream.io/\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:03](https://www.youtube.com/watch?v=fZWOLom_0JM&t=3s) okay um close that game and then window capture can you guys see me is all good are we back no it's still doing it oh no H why are you like this H what do um
 

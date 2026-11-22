@@ -19,14 +19,14 @@ views = 7647
 likes = 174
 comments_off = true
 fetched = 2026-11-22
+transcript = "whisper"
+transcript_file = "transcripts/ARP7kvtn7lw.vtt"
 description = "I'm LIVE on Twitch! (Mon/Fri 7:30pm EST) \nwww.Twitch.tv/KatMudd\n\nEtsy: https://www.etsy.com/shop/katmudddesign\nPatreon: https://www.patreon.com/stolentoilet\nTip Jar: https://www.paypal.me/stolentoilet\n\nEver wanted to try therapy? BetterHelp is affordable online therapy.\nTry BetterHelp: http://influencelogic.go2cloud.org/SH3W (sponsored)\n\nMicrophone: Blue Yeti\nCamera: Nikon D5200\n\nTags:\nASMR satisfying personal attention self-care female feminine microphone sleep relaxing positive insomnia anxiety"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=ARP7kvtn7lw&t=0s) Today I have a special friend. His name is Bentley, and Bentley is going to be nibbling and licking your ears. Hi, this is Susie. she's very sleepy I have his favorite treat here it is ferritone which is just a type of oil mixture thing and he loves it so much I'm going to put this in the back of my life.
 

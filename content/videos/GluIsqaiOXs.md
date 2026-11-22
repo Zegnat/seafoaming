@@ -19,6 +19,8 @@ likes = 3463
 comments = 870
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/GluIsqaiOXs.vtt"
 description = "Welcome to the place she calls home! You have died and entered the mildly inconvenient spirit world. As a ghost, you must learn how to be spooky so you can reach your haunting quota. Miss Spooky is here to teach you!\n\nTIMESTAMPS\n0:00 - Your death :O\n0:34 - Miss Spooky appears and explains the spirit world\n4:47 - The real tragedy of this video (soft tapping)\n5:40 - Share a soda! (tapping & fizzing, sipping & swallowing) \n9:14 - Teaching you how to spook! Number 1: Soul Sucking (inhaling & mouth sounds)\n12:05 - Number 2: Reverse whispers! \n15:02 - Number 3: Triple Spooky! (hand movements & layered reverse whispers)\n18:23 - Saying goodbye\n19:41 - Coming back to life OwO\n\n#ASMR #Roleplay #Halloween #Softspoken #Whisper"
 chapters = [
   { start = 0, time = "0:00", title = "Your death :O" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Your death :O
 

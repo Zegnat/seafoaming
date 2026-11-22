@@ -19,14 +19,14 @@ likes = 2514
 comments = 315
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/PblVU5NXILQ.vtt"
 description = "Once upon a time there was a D&D group of chaotic dumbasses\n\nWriter of the story is Kelpie ASMR, check out her channel here! https://www.youtube.com/channel/UCS1ualmA-GKJfezNx-lTtKw\n\nThanks to Bekah for giving me tips and inspiration for my new setup ^_^ \nhttps://www.youtube.com/user/softlygaloshes\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Whisper #Softspoken #Reading"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=PblVU5NXILQ&t=0s) hello welcome to another video i apologize for the absence um if you are subscribed then you know from the community post that i haven't been as able to be consistent with my videos and stuff but i feel like now i'm a little bit more able because i have a new setup as you can see behind me is just like a blanket that's on a tiny corner of my bedroom wall and thanks to becca softly collages she gave me some good advice on like a studio set up in a really tiny space so i have this fancy new ring light that actually i really like i think it looks super pretty i know some people don't like the ring reflection in the eyes but i feel i feel like it looks pretty i'm sorry if
 

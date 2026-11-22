@@ -18,13 +18,13 @@ likes = 227
 comments = 11
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/aVASZmEY9HI.vtt"
 description = ""
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=aVASZmEY9HI&t=0s) I am Selenia, Faye's sister. The smarter, older, and more responsible and more successful sister. But, as much as she annoys me, I have to respect her drive. My sister, Faye, she was very, very rude and took you off my ship originally when I first captured you. She took you and she told me, "Humans, they have rights, too." So, so I suppose I'll let her play her little fantasy world where everyone is friends and the humans won't try to destroy us and we won't hurt the humans. She's become really attached to you and she keeps going down to visit you.

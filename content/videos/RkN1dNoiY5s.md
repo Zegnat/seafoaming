@@ -26,14 +26,14 @@ likes = 4844
 comments = 754
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/RkN1dNoiY5s.vtt"
 description = "Fay returns with unfortunate news. You have contracted alien transmitted infection! :( But don't worry, she will clean it out of your ears! This bideo includes soft speaking, personal attention,, fluffy ear pick with deep ear cleaning sounds :3 \nWant to see more of Fay? Click here for moar alien bideos: https://goo.gl/iyemgX\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=RkN1dNoiY5s&t=0s) I love you. I'm back. You might be wondering why I'm here today. Well, um, there was a bit of a mishap. I'm very, very, very sorry. I had a miscalculation, if you could call it that. Well, on our planet, microorganisms are kind of friends with us, so they don't enter our body and try to destroy us. Um, but I guess that's different on your planet, and there seems to be a lot of humans who can get quite hurt or even die from microorganisms entering their body and destroying them from the inside out. So, I have to remove something from you Uh, well, basically, you remember last time when I was touching your ears and comforting you?
 

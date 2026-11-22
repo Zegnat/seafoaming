@@ -26,14 +26,14 @@ likes = 2212
 comments = 212
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Ma1HHWQlEgo.vtt"
 description = "You told me you wanted to be held accountable so you better listen to me! Use this video for motivation and STOP PROCRASTINATING!! I know you can do it :)) \n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n🎁Merch → https://bit.ly/3ia6gH6\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #motivation #softspoken #bestfriend"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=Ma1HHWQlEgo&t=0s) hey hey you come here isn't there something you're supposed to do yeah I know about it of course I do you told me that you wanted to get it done and you told me not to let you procrastinate anymore and I see you're procrastinating right now and it's my job as your friend to prevent that from happening so I'm going to stop you from procrastinating right now I need you to go and work on the thing that you wanted to do yes you have to do it do it stop watching YouTube videos and go do the thing did you hear me get off of YouTube close your phone or your computer and go do the thing you need to do that's right you have to do it you have to do it do it do it do it do
 

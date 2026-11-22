@@ -20,14 +20,14 @@ likes = 8987
 comments = 914
 comments_off = false
 fetched = 2026-11-22
+transcript = "whisper"
+transcript_file = "transcripts/YEAkyq3WUTo.vtt"
 description = "SQUAD!! It was such a pleasure to be in Toronto with these wonderful people. It’s an experience that I’ll never forget. We worked 13-15 hour days filming a movie with Reese so I’m happy that we took the time (instead of sleeping) to film these. It is an honor to be a part of these and I really hope you enjoy all of them. I’m not going to link them because you already them BUT I’ll put links to their collab video below! Enjoy and Goodnight!\n\nGibi: https://youtu.be/D4YJGns7yEU\nDarling: https://youtu.be/I-uow6TyUBM\nALB: https://t.co/WMzmIdl66K\nSeafoam: https://t.co/mTMQIRtZj2\n\nVidcon 2019 (I’m a Featured Creator) Get Your Tickets Here: http://vidcon.com/\n\nWhere to find me!\nInstagram: https://www.instagram.com/mattytingles/\nTwitter: https://twitter.com/mattytingles\nTwitch: https://www.twitch.tv/watchmatty\nVlog Channel: https://www.youtube.com/everythingmatty\nMusic Channel: https://www.youtube.com/user/Matty3\nCreator Code: WatchMatty\n\nI’m on Spotify! You can now listen while your phone is off! New audio up all the time!\nhttps://open.spotify.com/artist/5hdqtZXTX29J4EK0Lp6lS6\n\nEquipment I Use:\nSony G7X Mark II\nSony a6000\n2019 Macbook Pro 15” (16GB RAM, 1TB SSD)\nFinal Cut Pro\nNeewer 14” Ring Light \nBlue Yeti Microphone\n\nBusiness Inquires: mattytingles@gmail.com\n\nI Have a PO Box! Send me things!\nMatty\nPO Box 953\nTurner, OR 97392"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=YEAkyq3WUTo&t=0s) how's it going guys Maddy Tingles here thank you so much for being here I'm happy to be here as well as you can tell have some special guests everybody say hello and so today's video we're just going to do some triggers, and I thought a cool way to do that would be to just, I'll start with something, and then we're going to pass it, and then it'll just be kind of a trigger fest. All the way down the line? All the way down the line. Let's do it. Nice. So, here, let's start with us. Should we introduce ourselves? Oh, so I am Maddie Tingles, of course. I'm GBA-SMI. I'm Seafoam Kittens-ASMR. ASMR. And ALB in Whisperland
 

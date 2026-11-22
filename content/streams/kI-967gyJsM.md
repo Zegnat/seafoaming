@@ -18,14 +18,14 @@ likes = 1170
 comments = 49
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/kI-967gyJsM.vtt"
 description = "Support the stream: https://streamlabs.com/seafoamkitten It was my bday on Monday but I'm having my official party today! I'm sipping beer from a teacup and answering your questions and chilling with chat :} Grab a drink for yourself and ask me personal questions bestie\n🔥CLICK HERE TO DONATE if you want a guaranteed answer to a question! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=kI-967gyJsM&t=0s) okay hello is anybody's dale did i do it right this time okay it's working yes good excellent hawaii it's okay so my birthday is technically on it was on monday but i wasn't able to stream because i had a tongue piercing that was recovering and i couldn't talk or eat anything or especially drink like alcohol so that's my time first thing and it's feeling pretty good right now but i still have a giant bar in it to um account for swelling because i had a bit of a mishap so um while it was healing like
 

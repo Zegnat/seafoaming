@@ -16,6 +16,8 @@ likes = 726
 comments = 70
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/x5XS1TIOZEI.vtt"
 description = "[ Go to https://buyraycon.com/seafoamCLIP to get up to 50% off! Thanks to Raycon for sponsoring! ]\n(Misophonia warning: Gum chewing throughout the video!!) Don't cry sweetheart... let's get you all fixed up! We'll snip away that bad energy, baggage and heartache and make you feel all better! 🩷 Auntie is an expert at dealing with heartbreak and knows just how to shower you in colorful love, comfort, sympathy and affection. Her methods are a little hit or miss, but she won't give up until you look like a rainbow with a big smile on your face!\nTIMESTAMPS\n0:00 - Auntie can tell there's something wrong! (gum chewing, pet names, measuring you)\n1:27 - [Raycon sponsor!]\n3:08 - Painting your nails PINK (spit painting sounds, lid sounds, tapping)\n4:15 - Don't cry sweetheart... (drying your tears, face touching)\n4:37 - Enter Jessica \n5:00 - Focus on the sparkles (pony hair brushing)\n6:14 - Orange hair extensions (crinkles, hair sounds)\n7:56 - Green bracelet (bead sounds)\n8:51 - Removing negativity (affirmations, tongue clicking, face & ear brushing)\n10:32 - Releasing burdens & baggage (energy pulling, scissor snipping, reassurance, pet names)\n13:51 - Hugs!!! (whispers, comfort)\n14:11 - Stickers on your face (crinkles, face touching, sticky sounds)\n16:00 - Blue crayon (drawing on your face, compliments, affirmations)\n19:07 - Crystal heart to channel your strength (unintelligible breathy whispers)\n19:53 - BIG LOLLIPOP :D :D !!\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n☕Ko-Fi → https://ko-fi.com/seafoamkitten\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships+seafoamkittens@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n#ASMR #roleplay #affirmations #personalattention"
 chapters = [
   { start = 0, time = "0:00", title = "Auntie can tell there's something wrong! (gum chewing, pet names, measuring you)" },
@@ -37,8 +39,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Auntie can tell there's something wrong! (gum chewing, pet names, measuring you)
 

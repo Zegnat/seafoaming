@@ -15,14 +15,14 @@ likes = 216
 comments = 42
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/nKHO1IJ3w0I.vtt"
 description = "a custom bideo for tim"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=nKHO1IJ3w0I&t=0s) Hey, it looks like you need some relaxation, how about I give you a head massage. Maybe some face licking, cause it looks like you got a little bit of something on your face there. Okay, scalp massage. And face licking. Why do you have so much grape jelly on your face?
 

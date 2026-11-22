@@ -18,14 +18,14 @@ likes = 263
 comments = 3
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/NdPANvIP1Kk.vtt"
 description = "🔥CLICK HERE TO DONATE if you want to request a doodle! → https://goo.gl/T8mxRy\nDonate $5 to request a doodle!!! [DISCLAIMER: Your request is not guaranteed to be drawn, I'll try my best but it depends on how many I'm able to get through by the end of the stream!]\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#live #art #doodles"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=NdPANvIP1Kk&t=0s) okay hello are we live that was a pain in the ass sorry for being so late the the technical difficulties were unimaginable the capture card stuff I hate it so much it's the worst thing ever but I now have my my iPad set up so I am ready to draw and I started off with um just a couple that we already have on our list here uh starting off with the maid cat but before we do I'll put I'll put that there while I'm talking um hello everybody is the uh music okay and stuff
 

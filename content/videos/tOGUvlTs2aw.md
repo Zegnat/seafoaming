@@ -16,6 +16,8 @@ likes = 1666
 comments = 500
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/tOGUvlTs2aw.vtt"
 description = "Sorry 4 bad singing but a bunch of you wanted this so I finally got the courage to post a full singing video ;w; pls no bulli \n\nthat first adventure time song makes me cry also immortal girlfriends HECK yeah\n\n#ASMR #singing #lullaby"
 chapters = [
   { start = 0, time = "0:00", title = "Adventure time tributes" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Adventure time tributes
 

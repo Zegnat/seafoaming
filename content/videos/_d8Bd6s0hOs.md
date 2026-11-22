@@ -16,6 +16,8 @@ likes = 149
 comments = 59
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/_d8Bd6s0hOs.vtt"
 description = "Watch the first failure part of this stream here: https://www.youtube.com/watch?v=q89VVIsUBiE\nI wanted to stream YouTube and Twitch but it made things too laggy so I stayed on twitch only :3\n\nRoyalty free music Royaltrax playlist used:\nhttps://www.youtube.com/playlist?list=PLm3UQuK9_HgljqnejQUxfY5mFouwF2noE\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR\nGIVE ME FREE MONEY (Paypal): https://www.paypal.me/SeafoamKitten\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten"
 chapters = [
   { start = 0, time = "0:00", title = "Stream setup and snack time" },
@@ -47,8 +49,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Stream setup and snack time
 

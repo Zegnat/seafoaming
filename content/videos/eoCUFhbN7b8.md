@@ -17,14 +17,14 @@ likes = 75
 comments = 25
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/eoCUFhbN7b8.vtt"
 description = "its gud :3"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:06](https://www.youtube.com/watch?v=eoCUFhbN7b8&t=6s) trying $10 vegan jerky so I take any smoked flavor vegan because Voyager keep Chris and Kay had sent it to me for my birthday it smells like dog treats let's see what it tastes like still cold so that's really good it's rather moist and I was like sauce so your initial
 

@@ -16,14 +16,14 @@ likes = 2015
 comments = 1300
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/sL9zO-WmqaQ.vtt"
 description = "hello spouse\n\nhttps://voices.clickhole.com/give-me-kiss-1825124165"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=sL9zO-WmqaQ&t=0s) hello spouse this is your spouse I have a special message for you on this our ninth anniversary the special message is this give me kiss what it must be his kiss for my face and kiss for my forgotten mouth my only mouth give a kiss do my forgotten mouth on this our ninth anniversary it is the romantic hour I have made the house look like love and set the ambience so that it will put us both in the mood forgive me kiss look at what I have done to make the atmosphere so romantic I put a photograph of Marvin Gaye in the freezer I buried a bottle of sensual massage oil in the backyard the ambience is too romantic to ignore please give me kiss do you hear the sound of creaking in our big house that's me baby that's me slithering through the pipes we share gasping for air bursting out of the vents and declaring that now is the time
 

@@ -28,6 +28,8 @@ likes = 12155
 comments = 1700
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Fp9iQSEvA3k.vtt"
 description = "You have been hired at Club ZZZ as a host, or as they like to be called: Pretty Critter LuvPets. Bunny is here to help you get settled in. She may not be very smart, but she's a top LuvPet! She will teach you how to be the perfect companion for clients so you can earn lots of money!\n\nTIMESTAMPS:\n0:00 - Bunny introduces you to the club!\n3:00 - Examining your face. Tongue clicking, face touching\n3:58 - Giving you your new name, ears and outfit\n10:01 - Reciting the pledge and collaring you as property of LuvPets Inc.\n14:30 - Explaining Club ZZZ\n17:16 - Feeding you cheese as a demonstration\n18:52 - Bond with clients to make more money! + talking about leisure time\n20:40 - Delivery for you, it's from The Boss :O\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #SoftSpoken #PersonalAttention"
 chapters = [
   { start = 0, time = "0:00", title = "Bunny introduces you to the club!" },
@@ -42,8 +44,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Bunny introduces you to the club!
 

@@ -27,14 +27,14 @@ likes = 6290
 comments = 1600
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/M0FC2UPXrkA.vtt"
 description = "Dr. Raspberry Fritter has a new job as a dentist! She's not allowed to kill patients but she still sneaks a snack of blood once in a while :3 She does some procedures that make unexpected trigger sounds and removes a few weird things from your teefs. Thanks Apiology for the commission :D\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=M0FC2UPXrkA&t=0s) Hello, welcome to Sweetberry Clinic. Looks like you made an appointment for dental cleaning and extraction. Okay. What? You didn't make an appointment? That's silly. Sit down, sit down. I know that sometimes it's scary to go to the dentist, but this dentist is not scary at all. All you have to do is weigh down, relax, and I will take care of everything. I am Dr. Raspberry Flitter, and I will be your dentist today. So, just relax. Everything is going to be okay. Relax your mind. Do not worry about a thing. Okay, so, first of all, I'm going to get my twisty pack of dentist stuff.
 

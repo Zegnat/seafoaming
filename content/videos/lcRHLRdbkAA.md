@@ -16,6 +16,8 @@ likes = 698
 comments = 245
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/lcRHLRdbkAA.vtt"
 description = "Just realized I said \"improve punctuation\" instead of \"improve pronunciation\" LOLOL\nThanks Ryan for the commission :D\nIn dis bideo I'm just reading a bunch of tongue twisters, I hope you find it funny and relaxing :3 \nI found the list of tongue twisters from this website: https://www.engvid.com/english-resource/50-tongue-twisters-improve-pronunciation/\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon (I offer custom videos): https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
   { start = 0, time = "0:00", title = "Introduction" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Introduction
 

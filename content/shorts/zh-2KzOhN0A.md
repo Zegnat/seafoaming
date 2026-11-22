@@ -19,11 +19,10 @@ likes = 457
 comments = 76
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "beautiful angelic vocals by me\nguitar and lyrics by Josh Silver https://www.youtube.com/channel/UCxZWBvjtS5sNj9CKlB3Th3w"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

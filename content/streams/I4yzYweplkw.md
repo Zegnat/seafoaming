@@ -18,14 +18,14 @@ likes = 748
 comments = 26
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/I4yzYweplkw.vtt"
 description = "Enjoy some cozy relaxation while I do an assortment of tingly sounds. Donate in chat to request a trigger. Higher donators get higher on the priority list for requests! \n\nCheck out my new Ko-Fi page! :DD https://ko-fi.com/seafoamkitten\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #asmrlive #whispering #asmrtriggers"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:05](https://www.youtube.com/watch?v=I4yzYweplkw&t=5s) Hello. Hopefully my microphone is sensitive enough that I can speak back here for a moment. Are we live? Let's see. Did I do it right? Hello. Welcome everybody. I haven't done a live stream in a while, so I feel kind of nervous. I look like on the thumbnail. Yeah. Look at this. Except I added some makeup and some ears.
 

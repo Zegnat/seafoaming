@@ -19,14 +19,14 @@ likes = 260
 comments = 14
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/jjpqqy7G8_A.vtt"
 description = "🔥Like wasting money? :3 DONATE & have your message read on stream! → https://goo.gl/T8mxRy\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=jjpqqy7G8_A&t=0s) it's kind of dark [Music] hello hi uh I'm kind of sad because my my light broke so now it looks like super dark really sad hi guys it's midnight for you so today I'm just going to chill out and I'm just waiting for some coffee to get more water to get boiled I'm going to make a coffee and play this game that I've never tried before but it seems fun because it involves drying hi Logan Hi Dapper your ASR is always make me sleep so I thank you for that ah I'm glad that they help you sleep moment you put this before
 

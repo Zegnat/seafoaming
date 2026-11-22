@@ -19,14 +19,14 @@ likes = 498
 comments = 5
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/qCtiVlQTsgM.vtt"
 description = "[CLICK SHOW MORE] CW: Death, blood, abuse, suicide\nToday we're playing Your Turn to Die and we're accompanied by my friend Sushi who recommended this game to me! YTTD is a horror RPG/visual novel about people who are kidnapped and forced to play a death game by a mysterious organization. The game is free so you can play it here if you want: https://vgperson.com/games/yourturntodie.htm\nCLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=qCtiVlQTsgM&t=2s) let's see are we live hopefully this works yeah i think it's working hopefully my internet's not going to poop out again hopefully mine actually shows the damn stream okay okay there we go okay it says they have like a connection which is not great but hopefully our stream will stay alive hello sorry for the delay everybody i had some technical difficulties and my internet kind of like turned off for a while and stuff but i think we're good now also um we have a guest in the stream today sushi who recommended this game to me so say hi say hi hi [Music] but yeah yes that is me so she
 

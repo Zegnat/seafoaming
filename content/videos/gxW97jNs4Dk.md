@@ -16,14 +16,14 @@ likes = 759
 comments = 189
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/gxW97jNs4Dk.vtt"
 description = "Finally decided to try making an ASMR video. I know I have a crappy setup and sound quality!! In this video I am showing off my mini animal sculptures. I have a ferret, sloth and fox. They are made from polymer clay and acrylic paint. It has soft speaking, crinkly craft bag sounds, and tapping / scratching on them.\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:06](https://www.youtube.com/watch?v=gxW97jNs4Dk&t=6s) today I'm going to be showing you
 

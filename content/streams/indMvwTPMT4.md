@@ -19,14 +19,14 @@ likes = 257
 comments = 6
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/indMvwTPMT4.vtt"
 description = "🔥CLICK HERE TO DONATE → https://goo.gl/T8mxRy\nFOLLOW MasterR3C0RD on Twitch → https://twitch.tv/masterr3c0rd\nFOLLOW Ember's DnD group on Twitch → https://www.twitch.tv/rollmagic\nFOLLOW Kiwi's art & cosplay Instagram → @caramelkeywi\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#live #cosplay #neko #truthordare"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [1:07](https://www.youtube.com/watch?v=indMvwTPMT4&t=67s) hey guys sorry about that does it work now can you hear us yes that should work that should work yes okay question can you hear the music in the background we it's very important that you can hear our anime music well wait until the song goes next yeah W Dr Pepper yes okay uh so true yes I can hear it 'll be terrible you have time to sit with my with my awkward tail can you sit with this now I think so there you go well okay let's first I want to read the chat a little bit sorry for being late everybody neon yeah true hello roof your pirate harmonic red rocket thank you for coming
 

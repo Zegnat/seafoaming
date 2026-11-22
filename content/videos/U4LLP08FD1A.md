@@ -16,14 +16,14 @@ likes = 265
 comments = 397
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/U4LLP08FD1A.vtt"
 description = "Thank you so much I lub you all :3\r\n\r\nContest Rules:\r\n1. Subscribe to da channel\r\n2. Leave a comment saying \"ENTER ME\" along with one thing about how ASMR has helped you.\r\n3. ???\r\n4. PROFIT\r\n\r\nContest ends on Jan 31st when I will randomly draw a commenter with this criteria. I will post a video when a winner is chosen. If you are chosen, you have ONE WEEK to get back to me (you can message me on youtube, twitter, instagram, facebook, email) and we will discuss what you want for your custom video!\r\n ^_^"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=U4LLP08FD1A&t=0s) hi guys thank you so much for 10,000 subscribers I can't believe we did it we made it to 10,000 I can't I can't I just can't it's amazing I can't believe it like it just feels like time is flying so fast and it feels like I've just it's been like two months or something it has been like six months that I started and 10,000 people liked me enough to click subscribe and that's that means a lot to me and it especially the fact that I I'm able to help people like help people fall asleep or help them when they're stressed out and it's just really really awesome and I'm so happy that I can help that many people and I'm so happy that I have you guys now for me
 

@@ -22,6 +22,8 @@ likes = 3241
 comments = 347
 comments_off = false
 fetched = 2026-11-22
+transcript = "youtube-automatic"
+transcript_file = "captions/W9bUYNBMEJE.vtt"
 description = "The portraits of Hogwarts will help you find your way through the Castle! A magical collaboration with 10 ASMRtists ! Merlin's Beard!\n\n(new collab The Ghosts of Hogwarts: https://youtu.be/6bknzz5dg5c )\n\nCheck out these awesome people below:\n\n⋄ASMR Alysaa: https://www.youtube.com/channel/UCyZ8-Fnx4T_S4TKWZH5o93A\n⋄MinxLaura123 ASMR: https://www.youtube.com/user/MinxLaura123\n⋄Seafoam kitten's ASMR: https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg\n⋄CalmingEscape ASMR: https://www.youtube.com/user/CalmingEscape\n⋄Slow eMotion ASMR: https://www.youtube.com/channel/UC0fCdNpCm6hL9BhQ-EM_HjQ\n⋄ASMR Attack: https://www.youtube.com/channel/UCfxzpCXkE3IkpuAJ7oXi3jg\n⋄Oopsydaisy ASMR: https://www.youtube.com/channel/UCHa9R1gKLQV4nqBf9QQ16pg\n⋄Whispers in chaos: https://www.youtube.com/channel/UCDZfZMYucoft08d4DM8T3cw\n⋄Spooky whispering: https://www.youtube.com/c/spookywhispering\n\n⋄ Thank you for Watching! Comment what you would like to see next!\n\n⋄ Tingles App, you can watch & support me there. Profile: https://tingles.app.link/ASMR-Weekly\n\n⋄ Galleons Tip Jar /  Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z79EUAQ4YZ2PQ\n\n⋄ Patreon, for those who prefer it (i can't make extra content as rewards at the moment): https://www.patreon.com/ASMRWeekly"
 chapters = [
   { start = 0, time = "0:00", title = "Lost in the halls" },
@@ -34,8 +36,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Lost in the halls
 

@@ -16,6 +16,8 @@ likes = 7236
 comments = 1100
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/qUXpMHoWZoo.vtt"
 description = "CLICK THE LINKS BELOW to see more videos with us together!\nALBinWhisperland: https://www.youtube.com/watch?v=wbASsv7ShT4\nMattyTingles: https://www.youtube.com/watch?v=YEAkyq3WUTo\nASMR Darling: https://www.youtube.com/watch?v=I-uow6TyUBM\nGibi ASMR: https://www.youtube.com/watch?v=D4YJGns7yEU\n\nWe filmed these collabs during our trip to Toronto to film the Reese movie. Each vid has a different subject. We had so much fun, and I hope you enjoy all of them :3\n\nSee Reese the Movie on Crave here:\nhttps://www.crave.ca/tv-shows/reese-the-movie-a-movie-about-reese\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🤡 2nd Channel → https://bit.ly/2vYMJxW\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Collab #Interview"
 chapters = [
   { start = 0, time = "0:00", title = "Introduction to interview" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Introduction to interview
 

@@ -19,6 +19,8 @@ likes = 3213
 comments = 194
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/nCmuT1N6eSk.vtt"
 description = "Your girlfriend gets a lil' weird on Valentine's day... get ready for a very special ritual! \nTIMESTAMPS: \n0:00 - THOROUGHLY checking you for infidelity\n2:00 - Love and kisses mwah, also poking your face\n4:00 - Popping the question!\n4:30 - Cleaning your ears to prep for the ritual, scratchy sounds and close up whispers, and finding strange treasures, quick floof at the end\n6:50 - Scooping  your face with wooden spoon and eating your identity \n9:23 - Drinking your soul from your ears 💖 Intense straw mouth sounds and water globes\n11:26 - Joined together forever 🥰\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Second Channel → https://bit.ly/2vYMJxW\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n✏️Art Insta → https://rb.gy/grtvi\n💤 ASMR Tiktok → https://rb.gy/kq1bym\n🎨Art/Animation Tiktok → https://rb.gy/apg7h\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #personalattention #girlfriend #valentinesday"
 chapters = [
   { start = 0, time = "0:00", title = "THOROUGHLY checking you for infidelity" },
@@ -32,8 +34,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### THOROUGHLY checking you for infidelity
 

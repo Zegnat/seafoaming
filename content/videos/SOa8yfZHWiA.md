@@ -19,11 +19,10 @@ likes = 929
 comments = 257
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Sorry for weird angle and bad quality, I’m just recording and uploading this straight from my phone with some crappy hospital wifi. Also sorry for my appearance. This video was recorded a few days ago and my grandpa has since passed away. I loved him so much ❤️ Sorry for the lack of uploads but I’m making my own tear soup now and will be spending time with my family for now. I wanted to share this book with you guys because I think it’s very sweet and maybe it can help anyone else’s going through something similar , I know it helped me feel comforted."
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

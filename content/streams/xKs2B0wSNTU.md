@@ -19,14 +19,14 @@ likes = 201
 comments = 27
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/xKs2B0wSNTU.vtt"
 description = "Multistreaming with https://restream.io/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=xKs2B0wSNTU&t=2s) Please, please. [Applause] [Music] Hey, Googie. Hi. Oh, sweet. It actually connected to YouTube this time. Last time it wouldn't. Okay, cool. Hi, Starite. Hi, Ollie. Hi, Billy. Hi, Takashi. Hi Mangi. Hi Cody. Hi Billy again. Love Fo. Hi Chance. [Music] So loud. Is the music loud or my volume low? Okay. How's that? When I was testing it earlier, it didn't seem to to uh be very loud. Hi, Richard. It's by Hentai senpai. [Music]
 

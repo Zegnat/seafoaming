@@ -1,4 +1,4 @@
-import { classify, parseCommunity, parseVtt, timestamp } from "./generate.ts";
+import { classify, parseCommunity, parseVtt, timestamp, toVtt } from "./generate.ts";
 
 function equal(actual: unknown, expected: unknown) {
   if (JSON.stringify(actual) !== JSON.stringify(expected)) {
@@ -48,27 +48,27 @@ Deno.test("classify turns YouTube errors into statuses", () => {
   );
 });
 
-Deno.test("parseCommunity splits data, notes and a written transcript", () => {
+Deno.test("parseCommunity splits data and notes", () => {
   const text = `+++
 spotify = "https://open.spotify.com/episode/1"
 apple_music = ""
 +++
 
 Recorded in the new studio.
-
-## Transcript
-
-Hello, welcome back.
 `;
   equal(parseCommunity(text), {
     data: { spotify: "https://open.spotify.com/episode/1", apple_music: "" },
     notes: "Recorded in the new studio.",
-    transcript: "Hello, welcome back.",
   });
-  equal(parseCommunity("Only notes."), { data: {}, notes: "Only notes.", transcript: "" });
+  equal(parseCommunity("Only notes."), { data: {}, notes: "Only notes." });
 });
 
 Deno.test("parseVtt reads times without hours", () => {
   const vtt = "WEBVTT\n\n00:30.000 --> 00:34.200\nOh yes\n\n01:02:03.500 --> 01:02:04.000\nLater\n";
   equal(parseVtt(vtt), [[30, "Oh yes"], [3723.5, "Later"]]);
+});
+
+Deno.test("toVtt writes lines that parseVtt reads back the same", () => {
+  const lines: [number, string][] = [[0.08, "I know"], [3.919, "you're <here> & there"], [3725.5, "an hour later"]];
+  equal(parseVtt(toVtt(lines)), lines);
 });

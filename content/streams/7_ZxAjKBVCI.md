@@ -18,14 +18,14 @@ likes = 502
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/7_ZxAjKBVCI.vtt"
 description = "[⚠️CW: This is a horror game and has disturbing elements not suitable for young children or the faint of heart! ] Today me and my friend Sushi are playing Mad Father, a game where an 11-year-old girl named Aya breaks into her father's secret lab to uncover the horrifying truth of his research. \n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #MadFather #Gaming"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:04](https://www.youtube.com/watch?v=7_ZxAjKBVCI&t=4s) hello are we live hello hello let me just double check make sure we're actually going live yes we're on okay cool we did it okay so hello everybody today we are streaming mad father and i have my guest star sushi if anyone is from around like last year sushi was um on my stream when we were playing your turn to die that was a lot of fun and we've been talking about doing like more streams and stuff never got around to it uh your mic is kind of being shitty right now god technical difficulties over there you good i can't hear you at all now
 

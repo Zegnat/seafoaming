@@ -16,6 +16,8 @@ likes = 131
 comments = 70
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/baWzmhJ4pTQ.vtt"
 description = "Check out PART 2 on the Dirty Nerdy Show here: https://goo.gl/RGrNB0 and don't forget to subscribe!\n\nThis is pretty silly :D It may not be super relaxing tho LOL let me know in the comments if you thought it was relaxing or funny or whatever :3 In this bideo we have a drunk chat and I interview Chris. He is the host of the Dirty Nerdy Show where they interview lots of different ASMRtists! Go check out their channel!\n\nCheck Out My Merch Store! (I designed them myself :3)\nhttps://goo.gl/mmef4O\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nGIVE ME FREE MONEY (Paypal): https://www.paypal.me/SeafoamKitten\nTwitch (I stream digital art and games):\nhttps://www.twitch.tv/seafoamkitten\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
   { start = 0, time = "0:00", title = "Introduction to ASMR" },
@@ -35,8 +37,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Introduction to ASMR
 

@@ -17,14 +17,14 @@ likes = 12
 comments = 2
 comments_off = false
 fetched = 2026-11-22
+transcript = "youtube-automatic"
+transcript_file = "captions/X0bC1ICVeoE.vtt"
 description = ""
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:11](https://www.youtube.com/watch?v=X0bC1ICVeoE&t=11s) all tied up defenseless you humans really are pathetic so this how it's going to work out you're going to think still I'm going to pierce your skin with my thanks and how going to drain you of all your blood does that sound good but now it's all good to me and I can smell your fear I can smell your little heart beating a mile a minute when are you
 

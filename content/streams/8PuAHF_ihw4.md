@@ -18,14 +18,14 @@ likes = 624
 comments = 240
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/8PuAHF_ihw4.vtt"
 description = "Reading a story about myself and IndigoStars, written by Brinny :3\n\nBrinny's Channel:\nhttps://www.youtube.com/channel/UC5TAS09MpTD3rng6N_WSQLw\nIndigoStars (Lisa's) Channel:\nhttps://www.youtube.com/user/IndigoASMR\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:09](https://www.youtube.com/watch?v=8PuAHF_ihw4&t=9s) I just decided that I'm gonna do a story reading and I was too lazy to make it into a video so I decided to do it in a livestream so I'm gonna be reading a story by written by pretty and it's about myself and indigo stars and its really awesome okay prepare yourselves for a lesbian action indigo kitten story it's getting dark out I should head back seafoam side sad that their day of fun and dooring all and had come to an end what I'm not letting you go back home this later please exclaimed don't worry and concern for a friend evident in her voice well what do you suppose I do see
 

@@ -18,14 +18,14 @@ likes = 335
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/j5r-UTZgQCk.vtt"
 description = "Thanks to those who mailed me some goodies! If you'd like to send something to be opened on stream, my po box address is down at the bottom of this description! Today we're playing Darkwood, a top-down perspective survival horror where you scavenge and explore a free-roam world by day, then hunker down in your hideout and pray for the morning light.\n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #Darkwood #Gaming"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=j5r-UTZgQCk&t=2s) hello good evening good evening today we are opening some p.o box stuff i got a bunch of crap mostly from i think nick and possibly other people like contributing or or maybe not i'm not sure yet but there's like seven packages here or something and then after after i open those we can start playing darkwood so if you hear the spooky ambience in the background that's because i am running dark darkwood right now and i thought it would be a nice relaxing music to liza do while we open my mail hello giraffes hello inkling i'm all right um i'm a little hungover because yesterday was canada day and we
 

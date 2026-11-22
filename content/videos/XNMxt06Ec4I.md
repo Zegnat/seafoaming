@@ -27,6 +27,8 @@ likes = 9866
 comments = 993
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/XNMxt06Ec4I.vtt"
 description = "For some reason you have chosen to meet up with the most dubious tattoo artist in the city for a back alley stick and poke. It's all totally safe and legal, probably...! Enjoy the relaxing dark alley club ambience and traffic sounds as Mouse uses their trusty(rusty) needle to poke pen ink into your skin.\n\nTIMESTAMPS:\n0:00 - Intro \n0:24 - Meeting Mouse in a back alley outside a club\n2:48 - Legal disclaimer teehee\n4:33 - Beautiful menu of tattoo designs and prices\n6:17 - Moving tattoo poggers :OO \n6:40 - Preparing the supplies \n8:33 - Wiping down the area\n10:15 - Extracting your chosen color of pen ink \n12:30 - Take some deep breaths if you're nervous!\n13:29 - Giving you the tattoo, poke poke poke...\n23:29 - Oops, you passed out! Splashing water to wake you up\n25:37 - Mouse has to \"go get the first aid kit\" and will \"be right back\" \n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #Tattoo #Softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Intro" },
@@ -45,8 +47,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Meeting Mouse in a back alley outside a club
 

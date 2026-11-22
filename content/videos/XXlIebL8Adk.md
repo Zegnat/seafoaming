@@ -14,14 +14,14 @@ likes = 5005
 comments = 1300
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/XXlIebL8Adk.vtt"
 description = "Thanks Craig for commissioning this bideo :3\nIn this video Fay comes back to visit you like she promised! You are having insomnia because of anxiety, and Fay wants to help you fall alseep with ear massage, cupping, tapping, and positive affirmations.\nPREVIOUS ALIEN VIDEOS:\nEvil Alien Abduction: \nhttps://www.youtube.com/watch?v=R5pKWYT3NiQ\nFay the Earthling's Rights Activist:\nhttps://www.youtube.com/watch?v=BakIoDrM-s8\nFay Rescues You: \nhttps://www.youtube.com/watch?v=LzyR2Xy84fs\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=XXlIebL8Adk&t=0s) Hello, human. I'm back to see you. Yes, of course I came back. I told you I would visit you, didn't I? Yeah. Sorry about the whole abduction thing. I'm really glad that you've made it home safely after I dropped you off. I'll make sure you never get hurt again And I'll make sure you're safe at all times I can't always come to Earth to help you, but I will make sure that you are safe from afar So there's something I've been noticing as I've been monitoring you. Yes I've been watching you. You seem to have trouble closing your eyes and going unconscious. You need your meatball to recharge.
 

@@ -19,14 +19,14 @@ likes = 180
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/AMb8r6Wq5lo.vtt"
 description = "🔥Like wasting money? :3 DONATE & have your message read on stream! → https://goo.gl/T8mxRy\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:06](https://www.youtube.com/watch?v=AMb8r6Wq5lo&t=6s) oops there we go oh my God hi try to get the chat app working there we go [Music] oh my God hi hi hi hi can you guys hear the music can you guess what I'm trying I'm going to play today this ought to be a great time yay yes welcome to First on Twitch Civ proy dream daddy yes dream daddy is the music too loud or what do you think I didn't know they had a theme song this is pretty awesome I'm
 

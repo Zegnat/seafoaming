@@ -19,6 +19,8 @@ likes = 10311
 comments = 2000
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/ueaWbWZhmSI.vtt"
 description = "Welcome new student! You live in a world where people have special abilities called \"quirks\". You are an aspiring hero with a powerful quirk, and you have just been transferred to the elite hero academy called UA. It's the evening before your first day, and you decide to go to the classroom to write some hero notes. You see a strange invisible girl who greets you kindly. \n\nTIMESTAMPS\n0:00 - Comfy intro (◕ᴗ◕✿) I worked hard on it pls praise me\n0:36 - Invisible Girl greets you and chats a little (soft spoken with vfx)\n9:50 - Applying your makeup (face touching, brushing, lid sounds, crinkles & more)\n26:17 - Protecc her invisible smile \n31:19 - Your look is finished! Let's walk home together (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄\n\nThis is a cosplay video :D It is based on the character Toru Hagakure from the anime My Hero Academia. I love the show sooo much and I finally got around to making a video for it!! \n\nI had this idea since back in August when I first got the school uniform, but since a couple other people already made videos with a similar concept, I'd like to share those with you too ^.^\n\n→Miss Cellaneous Invisible Girl RP\nhttps://www.youtube.com/watch?v=fwZDZq55j8g\n\n→VisualSounds Academy RP\nhttps://www.youtube.com/watch?v=szzr3qszbmE\n\n→VFX Credits:\nRailroad Crossing\nhttps://www.youtube.com/watch?v=3IlFNTguaoo\nBlush\nhttps://www.youtube.com/watch?v=sNepfkdawfY\nBurst Accents \nhttps://www.youtube.com/watch?v=98D05pkTPUM\nAnime sfx\nhttps://www.youtube.com/watch?v=yu6Y4YtBSQE\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #PersonalAttention\n#MyHeroAcademia #Cosplay #Makeup"
 chapters = [
   { start = 0, time = "0:00", title = "Comfy intro (◕ᴗ◕✿) I worked hard on it pls praise me" },
@@ -30,8 +32,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Comfy intro (◕ᴗ◕✿) I worked hard on it pls praise me
 

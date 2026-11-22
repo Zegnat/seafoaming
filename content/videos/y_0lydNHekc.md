@@ -17,14 +17,14 @@ likes = 215
 comments = 64
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/y_0lydNHekc.vtt"
 description = "fuuuuuuuuuuuuuuuuuuuuuuuuuuck"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=y_0lydNHekc&t=0s) hi okay so I found this thing called pings trombone and I played it last night and it made me laugh so hard that I was like sobbing like not tears like sobbing and my stomach like got all nauseous because I was laughing so hard but I don't know if I'll ever laugh again so I'm going to try it again and see if I still find it funny but I wanted to share because this is like something that needs to be shown to the world so it's a speech synthesis thing I'm just going to go ahead and turn eyes okay so you can play with its throat slit and that's the oral cavity and
 

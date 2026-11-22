@@ -16,14 +16,14 @@ likes = 514
 comments = 177
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/_hbhDcW5dJA.vtt"
 description = "Reading a lovely fanfiction written by OrcASMR :3 Thank you for the story!! \nCheck out his channel here: \nhttps://www.youtube.com/channel/UCqied5AdzGUMh9EUKi-fqWg\n\nMusic:\nhttps://www.youtube.com/watch?v=3jWRrafhO7M&t=5231s\n\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:01](https://www.youtube.com/watch?v=_hbhDcW5dJA&t=1s) foreign [Music] ER station and just like anyone else on his way in he had seen the ancient Egyptian carried she's spray painted on its outer shell one on one part of the hole someone had written he feels cuddle parade White Knight defending a cat it wasn't an easy place to find minding their own business listening to Earth keep me sick or watching ASMR were spammed with f adverts for it not all came here with caring Fred for the angry misunderstood and forgotten Souls he wasn't sure where his ticket was in fact he had no memory of how he even got on the transport but a friendly tentacle
 

@@ -16,14 +16,14 @@ likes = 2938
 comments = 859
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/BakIoDrM-s8.vtt"
 description = "*The list I am reading \"Humans Are Adorable\" was written by Tumblr user Teaboot, check out their blog here! https://teaboot.tumblr.com/\n\nJust a short silly bideo to introduce Fay, the kind sister of the \"bitchy\" alien in my previous Alien roleplay. Fay reads a list to her fellow Aliens to convince them that humans are adorable and worthy of humane treatment.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=BakIoDrM-s8&t=0s) Hello, everyone. I've brought you all here today because I am proposing a problem that we need to address. I believe that humans are important, and I think humans are valuable, and they do not deserve the treatment that our species has been giving them. For example, a human was taken on board recently and done many experiments that were considered to be quite uncomfortable and possibly even painful to the human. The human had exhibited signs of distress. There was squirming, there was squealing, there was face leaking, which is one of the most sure signs that a human is in great distress.
 

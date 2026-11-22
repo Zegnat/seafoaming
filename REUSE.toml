@@ -30,6 +30,12 @@ path = "community/videos/*.vtt"
 SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "The creators of the videos", "2026 The Seafoam Kitten ASMR Community"]
 SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND LicenseRef-YouTubeCreators AND CC-BY-4.0"
 
+# Clean copies of the captions of YouTube, as a start for a transcript of the community.
+[[annotations]]
+path = "static/captions/*.vtt"
+SPDX-FileCopyrightText = ["Seafoam Kitten ASMR", "The creators of the videos"]
+SPDX-License-Identifier = "LicenseRef-SeafoamKitten AND LicenseRef-YouTubeCreators"
+
 [[annotations]]
 path = "static/thumbs/**"
 SPDX-FileCopyrightText = "Seafoam Kitten ASMR"

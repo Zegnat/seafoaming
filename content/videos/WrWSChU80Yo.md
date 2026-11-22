@@ -16,11 +16,10 @@ likes = 3575
 comments = 892
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Puppy is so happy you're home and is going to sniff you to death! :3\nI thought this sound might be tingle inducing because I get mega tingles if my dog does this to me in real life 😂😂\nThis video includes whispering, sniffing, breathing and some licking.\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nTumblr(NSFW): https://seafoamkitten.tumblr.com/\nPatreon: https://www.patreon.com/SeafoamKittenASMR\nTwitch (I stream digital art and games):\n\nIf you would like a custom bideo, please contact me at: seafoam.kittens@gmail.com"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

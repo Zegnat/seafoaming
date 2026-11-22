@@ -26,14 +26,14 @@ likes = 11719
 comments = 3600
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/9d0noRb4ANM.vtt"
 description = "You called to have a meeting with Doctor Raspberry Fritter and you are very upset that she stole your organs and left you for dead. You try to give her a strict talking-to but it backfires on you a bit. \nWatch the previous Hewwo OwO video here: https://www.youtube.com/watch?v=7bSdXgXZQa4\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=9d0noRb4ANM&t=0s) Hello? Hello? Someone called for a meeting with Dr. Flitter? Yes, that's me. Oh. Hey, you look familiar. Did I, did I, take out your organs? Oh Wow, it's great to see you alive. I thought I took out all your organs. Oh Okay Why did you call me here? You're angry with me? Oh Oh, no I I didn't want this. I don't want anyone to be angry with me I don't like being in trouble No, no, no, no, um, I should probably be going I
 

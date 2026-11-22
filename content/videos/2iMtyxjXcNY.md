@@ -19,6 +19,8 @@ likes = 2245
 comments = 882
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/2iMtyxjXcNY.vtt"
 description = "Hemop fleir! (´･ω･`) I'n sut com pattle blot todappee an darop. Buloop enya pen kendie besteps, tapple dap sloony. Wen fleppit! :3\n\nTIMESTAMPS:\n0:00 - Soft spoken gibberish\n11:51 - Whisper gibberish \n17:26 - Ear touching & tapping w/ whispers\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Gibberish #Whisper #Softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Soft spoken gibberish" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Soft spoken gibberish
 

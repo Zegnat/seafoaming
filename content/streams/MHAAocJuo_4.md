@@ -19,14 +19,14 @@ likes = 95
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/MHAAocJuo_4.vtt"
 description = "Multistreaming with Twitch and Youtube https://restream.io/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:04](https://www.youtube.com/watch?v=MHAAocJuo_4&t=4s) so I'm just doing some testing right now okay hi I'm trying to figure out where um where to find my live page because I'm attempting to use restream which is streaming on Twitch and um uh twitch and YouTube at the same time so
 

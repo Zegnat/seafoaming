@@ -16,6 +16,8 @@ likes = 658
 comments = 168
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/B9JOhXYvj7o.vtt"
 description = "I'm getting ready for my first day of college :D Here is my routine from when I get out of the shower until I'm ready to go. My bathroom has an extremely loud fan so I decided to do a voiceover for this one :) Relax on your butt as I get ready for the day! I am really bad at makeup so please don't yell at me LOL. This video includes soft speaking and tongue clicking sounds. Hope you enjoy! \nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
   { start = 0, time = "0:00", title = "Morning hygiene" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Morning hygiene
 

@@ -28,6 +28,8 @@ likes = 3427
 comments = 512
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/FFTPtWCm5ko.vtt"
 description = "CHOOSE YUNA THE KITSUNE? Click Here: https://www.youtube.com/watch?v=ty2rbVsfftE\nYuki is a Crow Tengu, a type of Yokai (妖怪, ghost, phantom, strange apparition) are a class of supernatural monsters, spirits, and demons in Japanese folklore. She protects this magical and sacred forest, but has agreed to allow you to enter because you are kind and pure of heart. She still hates humans though, d-don't get any ideas, she totally doesn't like you at all!! In this video she will show you around her forest, and then take you to a cabin where you will be staying. She give you some advice, personal attention and of course some insults!\n\nTIMESTAMPS:\n0:00 - Intro chat and bein bitchy n stuff\n4:28 - Fairy (sparkly sounds)\n5:39 - Cursed mushrooms (tapping)\n9:00 - Fairy poop!! (floam)\n12:20 - Heading to the cabin\n15:32 - Ingredients for healing (bottle tapping)\n18:19 - Bottle shaking\n19:05 - Stone tapping\n19:30 - Crushing with mortar & pestle\n20:40 - Applying health paste (face touching)\n23:00 - Sleep spell (hand movements & visual effects) \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Tsundere #Fantasy #Softspoken"
 chapters = [
   { start = 0, time = "0:00", title = "Intro chat and bein bitchy n stuff" },
@@ -49,8 +51,6 @@ chapters = [
 Finn M-K made a [piano dub of this video](https://www.youtube.com/watch?v=CeVksnXQSAQ): the original audio, with piano music added.
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intro chat and bein bitchy n stuff
 

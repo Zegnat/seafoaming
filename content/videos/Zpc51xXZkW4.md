@@ -29,6 +29,8 @@ likes = 3585
 comments = 509
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Zpc51xXZkW4.vtt"
 description = "Why are you here 10 minutes before closing? Ugh... fine. Sit down and we will try on these lip products. This video includes soft speaking, chapstick/lipstick/gloss application on myself and you, tapping, crinkles, lid sounds, tongue clicking, lip smacking, and more!\nTIMESTAMPS:\n0:00 - Meet Katarina, your (rather rude) lip boutique representative \n1:09 - Showing all products\n3:57 - Applying coconut chapstick on herself AND you\n6:15 - Crinkles and removing chapstick. Sharing the same makeup wipe...\n7:14 - Champagne shimmer lip balm \n11:01 - Hibiscus tinted lip balm\n15:02 - Lip plumping gloss\n19:40 - Brown liquid lipstick\n29:08 - Dark purple lipstick\n33:41 - Choosing which one you want to buy. Kat is not impressed by your answer.\n35:07 - Us? ...Friends? (´,,•ω•,,)\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #Rude #Makeup"
 chapters = [
   { start = 0, time = "0:00", title = "Meet Katarina, your (rather rude) lip boutique representative" },
@@ -46,8 +48,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Meet Katarina, your (rather rude) lip boutique representative
 

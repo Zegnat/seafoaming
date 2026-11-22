@@ -20,14 +20,14 @@ likes = 35719
 comments = 2400
 comments_off = false
 fetched = 2026-11-22
+transcript = "whisper"
+transcript_file = "transcripts/I-uow6TyUBM.vtt"
 description = "Helloooo beautiful people! This is the moment you've been waiting for... THE COLLAB VIDEO IS FINALLY HERE. Watch me pamper and try to give tingles to (in order of appearance) Gibi ASMR, Seafoam Kitten ASMR, ALB in Whisperland, and Matty Tingles! It was so lovely meeting all these wonderful people :)  Check out their channels below! \n\nGibi ASMR : https://www.youtube.com/channel/UCE6acMV3m35znLcf0JGNn7Q\nSeafoam Kitten ASMR : https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg\nALB in Whisperland : https://www.youtube.com/user/albinwhisperland\nMatty Tingles : https://www.youtube.com/channel/UCrrCVjyxCToOC4C9k52b7MQ\n\nWe all went to Toronto to film a movie for Reese! Check out the trailer here : https://youtu.be/MxkzzII5QmU"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=I-uow6TyUBM&t=0s) Hey guys, it's me ASMR, and this is JV ASMR, I'm sure you know this, we're just doing a little collab video today with her and some other wonderful ASMRtists, I'm going to be pampering them, so, you ready? This is the best day of my life. So we're just going to get started, JV I want you to relax as much as possible. as possible. Just enjoy yourself. So I'm just going to start off with just like rubbing your shoulders, just getting a feel for her energy and her vibes. I sing some very good So, I do. Really good energy. Positive. We're going to do some expressions. It's going to be very visual.
 

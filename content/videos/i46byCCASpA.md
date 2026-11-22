@@ -19,6 +19,8 @@ likes = 1873
 comments = 195
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/i46byCCASpA.vtt"
 description = "Peruse high quality wares with our favorite back alley dealer. If you have ADHD or autism you may particularly enjoy what they have to offer you on this fine smoggy evening. You'll get to know Mouse a little more if you stay and chat.\nTIMESTAMPS:\n0:00 - Mouse immediately clocks u as neurodivergent \n2:55 - Plastic fidget spinner that is definitely not a kinder surprise toy\n5:00 - Sensory slug and psychoanalyzing you \n9:40 - Wooden rainbow shapeable balls and MOUSE LORE\n14:19 - Pop it ball that they found after blacking out (GREAT DEAL!)\n16:33 - Fractal fidget star with questionable origins\n19:19 - Pay up!! :3 BYE\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #asmdealer #fidget"
 chapters = [
   { start = 0, time = "0:00", title = "Mouse immediately clocks u as neurodivergent" },
@@ -32,8 +34,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Mouse immediately clocks u as neurodivergent
 

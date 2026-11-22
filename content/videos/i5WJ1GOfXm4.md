@@ -19,6 +19,8 @@ likes = 6038
 comments = 1100
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/i5WJ1GOfXm4.vtt"
 description = "Your vampire buddy Smolpire is working at the magic plant dispensary. Your shopping experience ends up going a little off the rails 🤣\nTIMESTAMPS:\n0:00 - Intake, asking you questions & writing down notes \n6:36 - Bramble Lily for pain relief\n7:49 - Slow breathing & fire sounds\n9:33 - Grape Succulent to unwind\n11:20 - Rain & water sounds\n13:27 - Blooming Danielford for focus \n15:09 - Sparkle visuals & squishy sounds\n17:48 - Giant mystery joint :O \n20:00 - ???bruh???what?s /?inthis?shit????\n22:20 - Taking the antidote, effects are removed\n24:50 - Succ your blud :3 \n28:44 - Buying that good stuff, saying goodbye\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Vampire"
 chapters = [
   { start = 0, time = "0:00", title = "Intake, asking you questions & writing down notes" },
@@ -37,8 +39,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intake, asking you questions & writing down notes
 

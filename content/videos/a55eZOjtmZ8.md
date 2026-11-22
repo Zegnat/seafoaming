@@ -19,6 +19,8 @@ likes = 7074
 comments = 1200
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/a55eZOjtmZ8.vtt"
 description = "Princess Mia is out picking high charms in the forest when she notices you among the bushes, a person with the magical power to grow charms in your hair! She is smitten, and invites you back to the castle for tea and sweets :3 This vid has lots of personal attention, soft speaking, affirmations, and some eating and sipping sounds.\n\nTIMESTAMPS:\n0:00 - Soft singing, picking high charms in the forest\n 2:20 - Asking about your ability\n5:37 - To the castle!\n5:58 - Showing the assortment of sweets\n7:23 - Tapping on a macaron\n7:26 - Eating sounds\n11:30 - Preparing tea for you. Water sounds, stirring\n13:30 - Adding high charms to tea. Bottle shaking sounds\n14:22 - Tea sipping, giving you a nickname, chatting\n18:44 - Teacup tapping\n19:42 - Eating your charms, crunchy sounds\n21:21 - Asking about your plant-like features\n22:31 - Saying goodbyes \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Softspoken #PersonalAttention #Princess"
 chapters = [
   { start = 0, time = "0:00", title = "Soft singing, picking high charms in the forest" },
@@ -38,8 +40,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Soft singing, picking high charms in the forest
 

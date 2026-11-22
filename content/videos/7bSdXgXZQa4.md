@@ -25,14 +25,14 @@ likes = 22948
 comments = 7600
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/7bSdXgXZQa4.vtt"
 description = "Welcome to Sweet Berry Clinic! Dr. Raspberry Fritter will be performing your operation today! You signed up to be an organ donor so she will be taking your organs~\nInspired by this tumblr post: https://absolutebeeb.tumblr.com/post/164621978661\nI loved it so much and wanted to expand upon it LOL I dont even know if this is tingly or relaxing at all but I had a lot of fun filming it.  It has squishy wet squelchy (organ) sounds, some cracking, latex glove sounds, and soft speaking. I hope you enjoy and maybe get a laugh :D\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=7bSdXgXZQa4&t=0s) Hello? Hello! Ah, good morning, sleepyhead. We had you on there for professional purposes. I welcome you warmly to the Sleepberry Clinic. I hope that you enjoy your stay. Do you remember why you were here? Oh yes, well, you decided to become an organ donor. Congratulations! You would be surprised, a lot of people don't want to be an organ donor. Well, I'm really appreciative because some people really need the organs, like me. So I'm going to be doing your operation. Yes, we are going to take care of your organs. Isn't that what you signed up for? Yes, you're an organ donor now. Um, sorry, sorry that you're slapped at the table. Stop squirming, silly. Um, we have to do the operation right now.
 

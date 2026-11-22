@@ -19,6 +19,8 @@ likes = 6711
 comments = 1300
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/epiu7zJ6EsM.vtt"
 description = "Smolpire is back~ Enjoy your salon fresh haircut & alleyway blud succ (･`ω´･) Want more Smolpire? See previous videos here: https://goo.gl/ygG8LG\nThis bideo's asmr triggers are soft speaking, personal attention, hair cutting, scissor sounds, hair stroking & mouth sounds~\nTIMESTAMPS:\n0:00 - Intro & chatting\n3:08 - Haircut begins\n15:37 - Feeding ~"
 chapters = [
   { start = 0, time = "0:00", title = "Intro & chatting" },
@@ -28,8 +30,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 ### Intro & chatting
 

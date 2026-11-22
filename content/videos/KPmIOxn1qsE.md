@@ -19,6 +19,7 @@ likes = 3520
 comments = 775
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "At this face paint station you can get your faces beautifully painted while also enjoying the beneficial emotion boosting properties of her paints :D Theres lots of face touching, personal attention, compliments. tongue clicking and brushy sounds.\nTimestamps:\n0:00 - Assessment\n2:06 - Black and white for countour (brushy sounds and visuals)\n4:30 - Sky blue for Strength\n6:16 - Science Yellow for Happiness/Energy\n8:08 - Deep Purple for Knowledge\n10:10 - Highlighter Pink for Confidence\n12:30 - Magnificent Orange for Relaxation/Peace\n14:56 - Review of all the colors w tapping/scratching\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "Assessment" },
@@ -33,5 +34,3 @@ chapters = [
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

@@ -17,13 +17,13 @@ likes = 342
 comments = 49
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/9yrAzxSt4-4.vtt"
 description = "I poke u"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:12](https://www.youtube.com/watch?v=9yrAzxSt4-4&t=12s) hate you hate you [Music]

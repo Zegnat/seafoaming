@@ -16,14 +16,14 @@ likes = 4902
 comments = 1600
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/LzyR2Xy84fs.vtt"
 description = "After being abducted and taken on to a spoopy Alien space ship, Fay the Earthling's rights activist comes to your rescue ! :D This bideo includes whispering, personal attention, positive affirmations, face stroking, ear tapping, and a bit of ear massage.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=LzyR2Xy84fs&t=0s) Hey, little guy. How are you doing? It's okay. Shhh. Shhh. Shhh. Shhh. Shhh. Shhh. It's okay. I'm not like the others. Don't worry. Don't scream. It's okay. It's okay. It's okay. It's okay. Everything is going to be ok Just stay calm, ok? Stay calm Good My name is Fei What's yours? Oh That's a lovely human name Do you know why you're taken on this ship?
 

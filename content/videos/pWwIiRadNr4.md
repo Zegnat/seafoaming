@@ -16,6 +16,8 @@ likes = 836
 comments = 251
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/pWwIiRadNr4.vtt"
 description = "2Girls1TentacleMonster :3\nCOLLAB TIME!! This video was fully edited and produced by IndigoStars. Enjoy her amazing editing skillz!\nIn this video Callidora and her new assistant, Kitten, summon a tentacle monster and banish it away with their magics! :3 This video includes chanting, hand movements, layered whispering / chanting, wet sounds & ACTUAL TENTACLES!\n\nSubscribe to IndigoStars:\nhttps://www.youtube.com/user/IndigoASMR\n\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nFacebook Page: https://www.facebook.com/SeafoamKitten/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
   { start = 0, time = "0:00", title = "The client meeting" },
@@ -29,8 +31,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### The client meeting
 

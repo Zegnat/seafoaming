@@ -17,14 +17,14 @@ likes = 2723
 comments = 805
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/hCg9Rjqeoik.vtt"
 description = "Smolpire forgets how to put on gloves and is baffled by ridiculous human invention :3 Want more Smolpire? See previous videos here: https://goo.gl/ygG8LG\nEnjoy some vampire suffering while she makes nice crinkly sounds with the latex gloves.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=hCg9Rjqeoik&t=0s) Hmm. I like gloves. Gloves are... ...ploppy. I really like the sound they make. But I forget how to put them on. No. That's not it
 

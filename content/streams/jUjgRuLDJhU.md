@@ -18,6 +18,8 @@ likes = 226
 comments = 4
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/jUjgRuLDJhU.vtt"
 description = "[Read more for links] PO box goodies and playing the new Coffee Talk game with CrispyToast! This game is a coffee brewing and heart-to-heart talking simulator about listening to fantasy-inspired modern peoples’ problems, and helping them by serving up a warm drink or two.\n***If you'd like to see more future gaming streams, follow me on Twitch: https://www.twitch.tv/seafoamkitten, I'll be only streaming ASMR on this channel from now on, keeping the gaming stuff separate!\nFollow CrispyToast on Twitter: https://twitter.com/ChrisP_Toast\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #gaming #live #coffeetalk"
 chapters = [
   { start = 0, time = "0:00", title = "Stream intro and P.O. Box" },
@@ -47,8 +49,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Stream intro and P.O. Box
 

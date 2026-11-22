@@ -16,6 +16,8 @@ likes = 13441
 comments = 5800
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/R5pKWYT3NiQ.vtt"
 description = "Thank you Lucy for the commission! I had a lot of fun with this one. I hope you enjoy! You've been abducted by aliens and a bitchy alien girl named Zelenia insults you while experimenting on you :3 This bideo includes whispering, personal attention, breathing, light triggers (LED gloves and flashlight), latex gloves, tapping, ear massage, and PROBING (intense ear eating / licking) at the end :D\nOTHER ALIEN VIDEOS:\nZelenia's Sister, the Earthling's Rights Activist: https://www.youtube.com/watch?v=BakIoDrM-s8&t=20s\nFay Rescues You: \nhttps://www.youtube.com/watch?v=R5pKWYT3NiQ&t=951s\nFay Visits You On Earth:\nhttps://www.youtube.com/watch?v=XXlIebL8Adk\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "Introduction" },
@@ -31,8 +33,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Introduction
 

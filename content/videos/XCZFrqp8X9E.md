@@ -19,6 +19,8 @@ likes = 5682
 comments = 748
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/XCZFrqp8X9E.vtt"
 description = "You're tired. You're just trying to get back to your hotel room when you're stopped in the hallway by a rather odd person. They are dressed up like a rabbit and call themselves Banana. Chuckling to themselves and speaking in breathy whispers, they seem to think they are in a magical forest. They want you to join their whimsical bunny world!\n\n0:00 - Hiff hiffing you! Introductions\n5:07 - Cotton ball ear massage while giggling in your ears\n10:22 - Tracing cotton balls over your face and rambling about nonsense\n14:57 - Insistently offering you banana marshmallows and om nom nomming them\n18:46 - Inviting you to become a rabbit like them\n19:43 - Persuasive whispers and hypnotic hand movements\n22:56 - Repeated rabbitly affirmations\n24:50 - You're a rabbit now! Singing the Bunny Every Time song\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Roleplay #Softspoken #PersonalAttention"
 chapters = [
   { start = 0, time = "0:00", title = "Hiff hiffing you! Introductions" },
@@ -33,8 +35,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Hiff hiffing you! Introductions
 

@@ -17,6 +17,8 @@ likes = 3198
 comments = 169
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/WaVop4Fne5w.vtt"
 description = "omg hi bestie sorry about the leash i just needed to make sure you don't get away by accident haha anyway let's spend a lot of time together ok? 🥰\nTIMESTAMPS:\n0:00 - Omg good morning! Explaining your situation\n1:21 - 😳\n2:26 - Face touching bc you're so cute\n4:00 - Counting your eyelashes\n5:40 - Hair play & sniffing like a dog\n8:28 - Eating your hair YUMMY\n10:21 - Cutting a piece of your hair to keep forever, scissor snipping\n12:05 - Brushing hair off your ears\n13:50 - Confession?!   \n15:50 - Close up whispers and face petting\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #obsessed #personalattention #roleplay"
 chapters = [
   { start = 0, time = "0:00", title = "Omg good morning! Explaining your situation" },
@@ -32,8 +34,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 ### Omg good morning! Explaining your situation
 

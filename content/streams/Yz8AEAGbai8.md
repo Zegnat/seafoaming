@@ -18,6 +18,8 @@ likes = 459
 comments = 17
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Yz8AEAGbai8.vtt"
 description = "🔥DONATE $1+ to request a truth/dare idea → https://goo.gl/T8mxRy\nOpening PO box items and writing a list of truths and dares. They're gonna be used for a truth or dare jenga game I'll be playing TOMORROW during the maid dress stream, along with my friends MasterR3C0RD and Ember :3 \n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#live #art #doodles"
 chapters = [
   { start = 0, time = "0:00", title = "Stream intro and updates" },
@@ -54,8 +56,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Stream intro and updates
 

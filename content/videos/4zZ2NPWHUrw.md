@@ -19,6 +19,8 @@ likes = 2712
 comments = 409
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/4zZ2NPWHUrw.vtt"
 description = "Fall in love with a shy but hopelessly romantic scout pigeon~ If you feed her, love her, and help her family, she will return the affection with happy cooing and gentle pecks on your cheeks forever! Totally not inspired by hatoful boyfriend ;D \n\n0:00 - \"WAAAH, why are you throwing bread at me?!\"\n0:40 - \"Wait, are you courting me?\"\n2:08 - Cooing and pecking you flirtatiously\n4:21 - Petting your featherless human skin\n5:28 - Explaining why she can't accept bread\n6:44 - Giving her cashews instead. She likes them!! Peckpeckpeck!\n8:02 - Asking you to help her flock\n11:53 - She agrees to be your special somebirdy!\n12:40 - More birdie affection... and k-kiss?!\n15:21 - Flying away to tell the flock\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #cosplay #girlfriend"
 chapters = [
   { start = 0, time = "0:00", title = "WAAAH, why are you throwing bread at me?!" },
@@ -35,8 +37,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### WAAAH, why are you throwing bread at me?!
 

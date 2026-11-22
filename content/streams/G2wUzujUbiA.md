@@ -19,14 +19,14 @@ likes = 55
 comments = 12
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/G2wUzujUbiA.vtt"
 description = "Multistreaming with https://restream.io/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:01](https://www.youtube.com/watch?v=G2wUzujUbiA&t=1s) is it good now is it back it says the connection's good now but for how long you guys are we back can anyone confirm nah it's not good stop it's up it's good good for how long though should I just end the stream like say goodbye and stuff I don't know how like for some reason my internet is total crap and is unreliable even though I'm plugged in directly like I'm not even using Wireless and my internet is still total crap I don't know why
 

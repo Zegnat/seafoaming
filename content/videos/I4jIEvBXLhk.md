@@ -26,6 +26,8 @@ likes = 2954
 comments = 449
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/I4jIEvBXLhk.vtt"
 description = "NEW MERCH, check it out: https://www.bonfire.com/seafoamsweetdreams/\nMouse says \"Gender? I hardly know her!\" This character uses they/them and it/its pronouns :} Inspired by a tumblr post I saw a while ago LOLLL. This vid has city ambience and muffled club music, personal attention, deadpan soft spoken, paper crinkles, sharpie scribbles, reading, face touching, tongue clicking, etc. (also contains a bit of swearing)\nTIMESTAMPS:\n0:00 - Fancy intro\n0:11 - You're approaching Mouse yet again\n2:54 - Pronoun prices \n5:32 - Writing an example (sharpie scribbles)\n7:01 - Test running some pronouns\n8:41 - Special deal. Ever think of your DOG'S PROUNOUNS?!\n10:54 - Trying to pay Mouse in non cash items (fish food shaking)\n11:44 - Installing your new pronouns (face touching, flicking, tongue clicking)\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#asmr #character #softspoken #asmrsounds"
 chapters = [
   { start = 0, time = "0:00", title = "Fancy intro" },
@@ -40,8 +42,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Fancy intro
 

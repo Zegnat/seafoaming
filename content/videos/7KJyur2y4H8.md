@@ -19,6 +19,8 @@ likes = 5787
 comments = 697
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/7KJyur2y4H8.vtt"
 description = "Thanks to Khodos for this commission :D Fay visits you once again to follow up on the abduction you had with her bitchy sister (see previous video: https://www.youtube.com/watch?v=5Lu_jTLcvLI ) She does some up-close and caring personal attention with water sounds, positive words, flashlight triggers, face touching, lotion ear massage, and ear eating!\n\nTIMESTAMPS\n0:00 - Exposition n junk\n2:00 - Water shaking and spraying\n4:19 - Tweezer sounds and \"pick pick peck\"\n6:22 - Flashlight visual triggers and wow ur eyes are pretty\n8:45 - Lotion sounds and intense ear massage\n14:43 - Mouth sounds / ear eating\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
   { start = 0, time = "0:00", title = "Exposition n junk" },
@@ -31,8 +33,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 ### Exposition n junk
 

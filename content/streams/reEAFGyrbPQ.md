@@ -18,14 +18,14 @@ likes = 188
 comments = 3
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/reEAFGyrbPQ.vtt"
 description = "Today we're playing Stray, a third-person cat adventure game set amidst the detailed neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. See the world through the eyes of a stray and interact with the environment in playful ways. Follow Record here: https://www.twitch.tv/masterr3c0rd\n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #stray #gaming"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:55](https://www.youtube.com/watch?v=reEAFGyrbPQ&t=55s) oh here we go how's that you're myself hello everyone okay there we go i don't know why the properties were mixed up on my microphone hello giraffes hello you broke something james villa ryko samurai junior serenity ash hello everyone um i was just saying before i when i was muted um that the i'm going to be opening i only have three po box packages today because apparently you're too lazy to pick up the others i was not lazy i i forgot because i was i was busy yesterday and apparently like more packages arrived oh you forgot yeah and then i remembered today like right after the post office closed so those ones that were sent like just like
 

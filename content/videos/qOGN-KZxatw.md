@@ -28,6 +28,8 @@ likes = 2402
 comments = 312
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/qOGN-KZxatw.vtt"
 description = "I had fun at Hal-Con :3 I also got a LOOOTT of stuff. LOOK AT EM and enjoy the tingly items I have \n\nTIMESTAMPS:\n0:45 - Pusheen pillow\n2:24 - Puppy plush\n3:57 - Tail\n5:45 - Cat paw purse\n7:06 - Collar w/ bell\n8:44 - Pikachu bowl cozy\n11:02 - Sticker and pin from ALBinWhisperland :D\n12:05 - Pusheen mug\n13:16 - Sylveon figure\n14:10 - Kirby keychain\n15:03 - Sylveon acrylic keychain\n15:21 - Catra acrylic keychain\n16:18 - Strawberry milk keychain\n18:09 - Sparkle Collective pin\n18:32 - Totoro pin\n18:56 - Canuck the Crow pin\n19:58 - Stickers!\n21:00 - Lies Within comic\n22:07 - Paint the Town Red comic\n23:22 - Krampus is my Boyfriend comic\n24:56 - Art prints!\n\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR"
 chapters = [
   { start = 0, time = "0:00", title = "<Untitled Chapter 1>" },
@@ -56,8 +58,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### \<Untitled Chapter 1>
 

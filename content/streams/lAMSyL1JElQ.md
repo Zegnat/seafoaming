@@ -19,14 +19,14 @@ likes = 113
 comments = 8
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/lAMSyL1JElQ.vtt"
 description = "Multistreaming with https://restream.io/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:19](https://www.youtube.com/watch?v=lAMSyL1JElQ&t=19s) hello I got to find some royaltyfree music to play he yes um so I have to just set up the music and then log on and then I'll make a custom game so that people can join if they want but first I have to find does anyone know like of a a royaltyfree music that you could play the whole playlist and credit it like credit the playlist because all the royaltyfree music I find on YouTube is like you have
 

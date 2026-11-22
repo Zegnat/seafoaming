@@ -28,14 +28,14 @@ likes = 2551
 comments = 140
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/pTDew3sI8KE.vtt"
 description = "You lost your sparkle, all you can do is walk and walk, wandering aimlessly until you found yourself in MeowMeow town! A catgirl named Mewow is here to help! To bring back your sparkle, she offers a cute and fluffy ear and scalp massage, as is customary in her culture!\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships+seafoamkittens@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #earmassage"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=pTDew3sI8KE&t=0s) Hi. You look a little lost. Are you lost? It's like your sparkle's gone. You don't have the little sparkle in your eye. Or is that just how all humans are? I'd like to help you with that. I think I know how. Well, I don't know how you humans do it when you have a a lack of sparkle, but here in Meow Meow Town, we always help each other by giving paw ear massages. So, we use our paws to just go P on your ears until they feel better. It feels really good and it makes it so that you feel happier and it brings your sparkle back. Do you think that you would like that? I could show you what it's like if you
 

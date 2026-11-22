@@ -19,6 +19,8 @@ likes = 2506
 comments = 468
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/27lmYjIy0Uw.vtt"
 description = "It's been around a year since you first met Fay :D Let's pamper you and do some fun relaxing triggers to help you sleep~\nTIMESTAMPS:\n0:00 - Friend-a-versary song! (guess the reference)\n1:06 - Water sounds, dropper, glass clinking\n4:55 - CRINKLY hat :D\n8:09 - Ear and face brushing w/ visual triggers\n15:30 - Ear cupping w/ close up whispers"
 chapters = [
   { start = 0, time = "0:00", title = "Friend-a-versary song! (guess the reference)" },
@@ -30,8 +32,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 ### Friend-a-versary song! (guess the reference)
 

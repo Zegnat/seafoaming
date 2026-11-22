@@ -26,14 +26,14 @@ likes = 1991
 comments = 525
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/zIxG3X5Cf-k.vtt"
 description = "Miss Spooky returns to help you recover from your weakened state after all the soul succ. ASMR triggers include ear to ear blowing, windy sounds, soft speaking & whispering, personal attention, feeding you, tapping, and bad humming. Watch the previous Ghost Girl video: https://www.youtube.com/watch?v=GavTR9dRgAw\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=zIxG3X5Cf-k&t=0s) ooooooh Did I scare you? Yeah, I'm pretty scary. Sorry about that. I didn't mean to give you a heart attack. But I came back for you because I left you in not so good of a state last time and I wanted to say sorry for that. But thank you because of you. I was able to take enough of your soul to get away from the demons You really really saved me So I wanted to thank you by taking care of you. I
 

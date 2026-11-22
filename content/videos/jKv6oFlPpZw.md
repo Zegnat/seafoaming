@@ -16,6 +16,8 @@ likes = 195
 comments = 125
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/jKv6oFlPpZw.vtt"
 description = "WARNING EATING SOUNDS!\nHERE HAVE AN UNPLANNED BIDEO.\nHave lunch with me while I eat leftover Tofurky dinner from Canadian thanksgiving and ramble about stuff. :3\nFollow me on social media! \nTwitter: https://twitter.com/SeafoamKitten\nInstagram: https://www.instagram.com/seafoamkittenasmr/\nPatreon (I do custom ASMR videos): https://www.patreon.com/SeafoamKittenASMR"
 chapters = [
   { start = 0, time = "0:00", title = "Tofurky thanksgiving meal" },
@@ -26,8 +28,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Tofurky thanksgiving meal
 

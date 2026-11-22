@@ -19,6 +19,8 @@ likes = 1542
 comments = 239
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/DoVD63OmpLQ.vtt"
 description = "This is my part from The Portraits of Hogwarts collaboration!! A rather incompetent witch shows you her \"expertise\" in magic. Thanks to Hendril of ASMR Weekly for arranging this collab and his AMAZING magical editing effects :D CLICK HERE TO WATCH THE FULL COLLAB: https://www.youtube.com/watch?v=W9bUYNBMEJE\n\nTIMESTAMPS\n0:00 - Intro!\n2:47 - Soft inaudible whispers, page turning\n3:47 - Reading spells from the book. Close up, layered unintelligible whispers & plosive consonants\n5:03 - Wand tapping\n6:10 - \"Fire\" spell. Crackle sounds, more plosives!\n7:32 - \"Water\" spell \n10:21 - Breakfast spell!\n\nOther ASMRtists who appear in the full collab:\nASMR Alysaa: https://www.youtube.com/channel/UCyZ8-Fnx4T_S4TKWZH5o93A\nMinxLaura123 ASMR: https://www.youtube.com/user/MinxLaura123\nCalmingEscape ASMR: https://www.youtube.com/user/CalmingEscape\nSlow eMotion ASMR: https://www.youtube.com/channel/UC0fCdNpCm6hL9BhQ-EM_HjQ\nASMR Attack: https://www.youtube.com/channel/UCfxzpCXkE3IkpuAJ7oXi3jg\nOopsydaisy ASMR: https://www.youtube.com/channel/UCHa9R1gKLQV4nqBf9QQ16pg\nWhispers in Chaos: https://www.youtube.com/channel/UCDZfZMYucoft08d4DM8T3cw\nSpooky Whispering: https://www.youtube.com/channel/UCfOBQIDuUXFWvsUvx5qLglA\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Roleplay #Whisper #Softspoken #Magic #ASMRWeekly"
 chapters = [
   { start = 0, time = "0:00", title = "Intro!" },
@@ -32,8 +34,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Intro!
 

@@ -19,14 +19,14 @@ likes = 154
 comments = 11
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/1iv8oTOj9LE.vtt"
 description = "🔥Like wasting money? :3 DONATE & have your message read on stream! → https://goo.gl/T8mxRy\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:21](https://www.youtube.com/watch?v=1iv8oTOj9LE&t=21s) hi yay sorry I'm 34 minutes late oh my god hi hi Raisa hi Bailey hey Derek male other generic ma'am I said hi useless I depressed potato hi Chris I feel a hi Lucas hi killer I see Bowman hi Google my diesel my phone actually notified me on time and she ain't here why you later I'm here and they get a little delayed hello my lovely met cooker oh hi any meats in here no meat writing an essay that's due in four hours wish me luck oh my god good luck I see phone senpai how are you
 

@@ -17,11 +17,10 @@ likes = 63
 comments = 7
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Serenity (betta fish): It's aight\nReuben (dog): DELICIOUS GIVE ME MORE\nBentley (ferret): ew get it away from me"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.

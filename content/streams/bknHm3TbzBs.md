@@ -18,6 +18,8 @@ likes = 246
 comments = 5
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/bknHm3TbzBs.vtt"
 description = "Today we're playing Secret Little Haven. A game about old computers, community, creativity, fandom, gender, and the internet. Alex Cole is a teenage trans girl in 1999 who has yet to figure herself out. She spends much of her free time on the internet, browsing a fan forum for her favorite magical girl show and chatting with her friends. Follow MasterR3C0RD on Twitch! https://www.twitch.tv/masterr3c0rd\n🔥CLICK HERE TO DONATE if you want a guaranteed response! Your message will be read on stream! → https://goo.gl/T8mxRy\n***Directly tag me in the chat @Seafoam Kitten's ASMR to be more likely seen.\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #SecretLittleHaven #Gaming"
 chapters = [
   { start = 0, time = "0:00", title = "Stream setup and intro" },
@@ -64,8 +66,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Stream setup and intro
 

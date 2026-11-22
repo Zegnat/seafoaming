@@ -16,14 +16,14 @@ likes = 84
 comments = 48
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/Vk0NrrhBmyQ.vtt"
 description = "FANKYOOO BRINNEH. Check out her (soon to be) ASMR channel here: https://www.youtube.com/channel/UC5TAS09MpTD3rng6N_WSQLw"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=Vk0NrrhBmyQ&t=0s) I got a packet this one's from my friend brinie it makes good sounds but that's not the point of this video the point is for me to open it thank you so much Bry for sending me something Jasmine with flowers tea is this loose tea it is oh my God it smells so good yes this makes really good
 

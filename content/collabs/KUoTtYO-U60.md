@@ -22,6 +22,8 @@ likes = 333
 comments = 101
 comments_off = false
 fetched = 2026-11-22
+transcript = "youtube-automatic"
+transcript_file = "captions/KUoTtYO-U60.vtt"
 description = "If you wish to donate to me, you can do so here: https://youtube.streamlabs.com/indigostars\nYour message will show up on screen once we're live! :3"
 chapters = [
   { start = 0, time = "0:00", title = "Setting up the stream" },
@@ -51,8 +53,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Setting up the stream
 

@@ -32,6 +32,8 @@ likes = 8916
 comments = 414
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/sbxqdOcOlXI.vtt"
 description = "Dr. Raspberry Fritter welcomes you back to Sweet Berry Clinic for emergency brainrot surgery!!!\nTIMESTAMPS:\n0:00 - Hewwo! You wake up in a strange place :3\n1:20 - Examining your brain from the inside, to assess the severity of your brainrot\n2:45 - What motivates her to do this \n4:34 - Giving you the anti-squirming pills so you behave yourself!!!\n5:11 - Opening up your brain thru your ears with Medical Tools\n6:25 - Extracting the icky rotten brain (ear digging spoolie sounds)\n8:29 - Layered ear rubbing/cupping and spoolie sounds\n9:42 - Soft fluffy in your ears\n11:18 - Getting out the really stuck stuff (with a knife)\n13:36 - Yanking and snipping the remainders\n15:50 - Yay dessert time 😊 Eating your rotted brain scraps (close up mouth sound)\n17:37 - Thank you bye!!!\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #spooky #horror #roleplay"
 chapters = [
   { start = 0, time = "0:00", title = "Hewwo! You wake up in a strange place :3" },
@@ -50,8 +52,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Hewwo! You wake up in a strange place :3
 

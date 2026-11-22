@@ -19,14 +19,14 @@ likes = 134
 comments = 18
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/IZrIJG4Gny8.vtt"
 description = "🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\n\nMusic by Daydream Anatomy!\nTheir channel: https://www.youtube.com/channel/UCujJwknig-p65ZP_voZYzzw\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:22](https://www.youtube.com/watch?v=IZrIJG4Gny8&t=22s) hello hi Lucas hi Adam s hi saber hi Cassie hi fella Goran hi Daisy hey Taylor I thought that was early you are early we just started night work how are you doing I'm doing good I got some pizza for today so I hope you guys I'll try not to eat too loud but I got some you can Pizza it some delivery isn't available for me anymore cuz the place that I used to buy the vegan pizza from shut down sadly but this is like frozen like the kind of comes in the box but it's really good it's like white sauce and mushrooms and spinach pizza is life it's really good dough doesn't look
 

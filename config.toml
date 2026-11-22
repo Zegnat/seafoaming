@@ -4,6 +4,8 @@ description = "A fan wiki about the videos and characters of Seafoam Kitten ASMR
 compile_sass = true
 minify_html = true
 build_search_index = false
+# static/transcripts links to community/videos, so the site serves the transcript files. The notes there stay out.
+ignored_static = ["transcripts/*.md"]
 # Generated pages hold captions and descriptions that can contain template syntax.
 skip_content_templating = ["videos/**", "streams/**", "playlists/**", "collabs/**"]
 

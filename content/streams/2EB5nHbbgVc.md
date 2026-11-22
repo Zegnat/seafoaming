@@ -19,14 +19,14 @@ likes = 1445
 comments = 120
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/2EB5nHbbgVc.vtt"
 description = "Support the stream: https://streamlabs.com/seafoamkitten its muh birthday im 24 now. i love u\n\n🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\n\nMusic in today's stream:\nCity Girl - Full Albums Playlist: https://goo.gl/TpdVVa\n► YouTube: https://goo.gl/6Wwxy8\n► Twitter: https://twitter.com/citygirltime \n► Spotify: https://spoti.fi/2z9NHL6 \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://goo.gl/WKbNuf\n💬Seafoam Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=2EB5nHbbgVc&t=2s) hello hello hello unfortunately I don't have a birthday [ \_\_ ] hat today I just have stupid old me no special birthday decorations because I kind of forgot it was my birthday until this morning so yeah you do have friends I am one hello thank you Robert thank you for coming so I have this um can of cider I'm going to be drinking I have two other cans as well so I'm just gonna like get drunk and chat with you guys I guess maybe we'll play a game or do something I don't know I'll figure it out as we go oh [ \_\_ ] I just realized they had this unlisted so only the Twitter people had
 

@@ -19,14 +19,14 @@ likes = 832
 comments = 29
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/UQPj8gBrBfQ.vtt"
 description = "[SHOW MORE for description before asking a question] \nI haven't streamed in like 5 MONTHS cuz of external stuff but IM BACK and I'll be streaming every Wednesday again :D It might be asmr, games or normal chill and chat, depending on how I'm feeling. If you want your chat to be more likely seen leave a donation through the link below, superchat, or directly tag me in the chat @Seafoam Kitten's ASMR\n\n🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\n\nMusic in this stream:\nYoshi's Island Soundtrack\nhttps://www.youtube.com/watch?v=sAtQOIawBlQ\nBiosphere - Snapshot [Full Album]\nhttps://www.youtube.com/watch?v=7maV9tY_2ks\nsoundcloud: https://soundcloud.com/officialbiosphere\nbandcamp: https://biospheremusic.bandcamp.com/\nspotify: https://soundcloud.com/officialbiosphere\ntwitter: https://twitter.com/_biosphere_\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:01](https://www.youtube.com/watch?v=UQPj8gBrBfQ&t=1s) hello [Music] wait let me pull up jack where's ah here we go I asked uh hi bricks hi drifter hi Isaac hi James hi Brandon hi Therese hi Isaac again hi chef hi Surya hi urethra i 6:10 hi spirit hi glitchy hi Christian hi mark eyes Amboy hi Bryan like Aniki hi Lea oh it's good to fast [Music] thank you for noticing me oh my god Wow oh wow that's really fast okay I see
 

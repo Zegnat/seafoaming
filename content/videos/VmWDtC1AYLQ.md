@@ -16,14 +16,14 @@ likes = 4109
 comments = 1200
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/VmWDtC1AYLQ.vtt"
 description = "Random bonus bideo, I thought it would be interesting to do a \"Baby It's Cold Outside\" song inspired roleplay where you are held against your will.\n:3\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/r8bdp6"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:00](https://www.youtube.com/watch?v=VmWDtC1AYLQ&t=0s) hey I okay it's bad out there you're lucky I found you here take this blanket help you warm up he'd go you're lucky I found you it's up to your knees out there you could have gotten into some serious trouble hey what's the hurry you don't need a call cab yet besides the services are probably all out anyway yeah you can stay here it's fine oh I made you some hot tea here that's it just
 

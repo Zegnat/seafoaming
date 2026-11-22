@@ -17,14 +17,14 @@ likes = 2718
 comments = 143
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/FBPEiUoklAE.vtt"
 description = "She's a bit tsundere but has to do whatever you say and give you as many asmr tingles as you want :3 This one is lofi with my yeti and webcam but I actually like how the audio turned out even tho it has imperfections. Another banger video idea ordered by Bookthief!!\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #tsundere"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=FBPEiUoklAE&t=0s) okay so what do you want? I really didn't want to be doing this I mean just remember how it used to be me bullying you all the time it was really funny because there's a lot of things to make fun of about you but now I have to be nice just because you're paying my rent I guess I should be grateful Capitalism is a bitch. Fine, okay. I'll be your little personal assistant but you have to promise not to tell anyone about this. I swear this is so embarrassing. Okay, if my friends found out about this. Oh my gosh. So what do you want me to do? like clean your house or something? You want ASMR again? Oh my gosh. I'm not even
 

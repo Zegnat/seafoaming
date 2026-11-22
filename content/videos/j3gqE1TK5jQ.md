@@ -21,6 +21,8 @@ likes = 2551
 comments = 138
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/j3gqE1TK5jQ.vtt"
 description = "Zarya Kennedy is an edgy brooding resistance fighter who finds you injured in the wasteland. Unwilling to leave you out here, she takes time out of her mission to patch you up and call for rescue. Inspired by the terminator universe as well as cyberpunk and blade runner :D \nSUPER BIG THANKS to @ASMRWeekly for making the animated background and soundscape!!! \n& thanks to Rocket for coming up with this video idea!\nTIMESTAMPS:\n0:00 - Examining you to make sure you're not a dang rust bucket (flashlight scanning, do as I say)\n2:13 - Helmet removal (face touching, follow my fingers)\n3:22 - Calling in a rescue chopper\n3:53 - Giving you water from her canteen (lid sounds, drinking sounds)\n5:25 - First aid kit (scratching, zipper sounds)\n6:11 - Cleaning your wounds\n7:13 - Stitching you up\n8:51 - Wrapping your arm with gauze (fabric sounds, scissor snipping)\n10:41 - Sticking bandages all over you (face touching, sticky + crinkly sounds), asking about Z's life, telling her YOUR lore\n14:35 - Z asks why you're carrying 'random junk' (fidget toys, bonding + positive affirmations)\n18:35 - Rescue arrives, saying your goodbyes\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #cyberpunk #personalattention"
 chapters = [
   { start = 0, time = "0:00", title = "Examining you to make sure you're not a dang rust bucket (flashlight scanning, do as I say)" },
@@ -38,8 +40,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Examining you to make sure you're not a dang rust bucket (flashlight scanning, do as I say)
 

@@ -19,6 +19,8 @@ likes = 809
 comments = 242
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/FQoqcctChvg.vtt"
 description = "Yay tapping! This one is mostly long nail tapping (I finally grew out my nails yay) and a little bit of fingertip /finger pad tapping as well! \n\nTIMESTAMPS:\n0:00 - Intro to triggers\n2:41 - Seashell\n6:31 - Plastic earbud case\n9:07 - Metal button pin\n11:57 - Mistew Cawdboawd (cardboard circle) \n15:17 - Tape roll (the paper on the side) \n18:50 - Toilet paper roll \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Tingles → https://tingles.app.link/Seafoam-Kitten's-ASMR\n🛒Wishlist → http://a.co/a8y7Ahi\n🌝Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s\n\n#ASMR #Whisper #Tapping"
 chapters = [
   { start = 0, time = "0:00", title = "Intro to triggers" },
@@ -32,8 +34,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Tape roll (the paper on the side)
 

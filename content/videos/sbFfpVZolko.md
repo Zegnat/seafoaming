@@ -21,6 +21,8 @@ likes = 3274
 comments = 194
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/sbFfpVZolko.vtt"
 description = "Your sleepy eyes open to see a strange figure looming over your bed! At first you're scared, but it speaks extremely slowly, gently, almost nervously- and seems to mean you no harm.\n\nTIMESTAMPS:\n0:00 - Curious clicky noises and face touching :3 \n1:29 - Introducing itself; a Dream Eater turned Nightmare Eater\n5:55 - Many questions- \"What is it like...?\"\n9:43 - You ask for it's name: You may call it The Visitor\n10:27 - \"May I touch you...?\" Face +ear  tapping/scratching/rubbing, throat clicking\n15:51 - You teach The Visitor how to sleep. Starting with deep breaths.\n17:24 - Then closing your eyes...\n18:14 - 💤\n18:39 - The Visitor has never felt this way before. It is extremely grateful.\n20:45 - Confession: It has lied to you about something...\n22:23 - Now you know it's true name, you can summon it any time. It trusts you will not abuse this new power 💙\n\n💖 Support Me! 💖\n✔️Become a Member → https://www.youtube.com/channel/UCBRuxya3juxDB1SOg-QOBpg/join\n👑Patreon → https://www.patreon.com/SeafoamKittenASMR\n💵Paypal → https://goo.gl/YqWfzH\n🤍Listen on Apple Music → https://apple.co/3K6guD9\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n🎁Merch → https://bit.ly/3ia6gH6\n\n🌐 Social Media! 🌐\n💙Twitter → https://twitter.com/SeafoamKitten\n📷Instagram → https://www.instagram.com/seafoamkittenasmr/\n💬Join My Discord Server → https://discord.com/invite/Khy3rHj\n🤡Second Channel → https://www.youtube.com/channel/UCBxWXmdDhEDaaa2BxG4xz8g\n✏️Art Insta → https://www.instagram.com/skooshyart/\n💤 ASMR Tiktok → https://www.tiktok.com/@seafoamkittenasmr\n🎨Art/Animation Tiktok → https://www.tiktok.com/@seafoamkitten\n🍀My GL Webcomic \"Honey Lavender\" → https://rb.gy/tnh2p\n\n💌Email (Contact) → seafoam.kittens@gmail.com\n📧Email (Business Inquiries) → partnerships@manatalentgroup.com\n\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #spooky"
 chapters = [
   { start = 0, time = "0:00", title = "Curious clicky noises and face touching :3" },
@@ -37,8 +39,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Curious clicky noises and face touching :3
 

@@ -19,14 +19,14 @@ likes = 290
 comments = 7
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/kZUN7FNnq6c.vtt"
 description = "🔥CLICK HERE TO DONATE if you love wasting money. Your message will be read on stream! → https://goo.gl/T8mxRy\nCW: This game contains mature content!\nMy guest today is CrispyToast, the friend who recommended this game to me! Check out his art insta here: https://www.instagram.com/chris.p_toast/"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=kZUN7FNnq6c&t=2s) all right are we live let me go to my dashboard oh there we go mine still doesn't show oh i see it now okay hi guys welcome to the stream um today i have special guest crispy toast um if you guys were here for our last stream oh my last stream where i played um coffee talk then you might know him from the chat he's the one who recommended that game and he also recommended this game so i have a guest star today if you you guys want to meet him you can talk now don't say yes okay i'm like just some obscure [ \_\_ ] on the internet yeah so we're playing valhalla um i don't know should i is this like skippable because it just played on its own um
 

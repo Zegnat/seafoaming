@@ -19,6 +19,8 @@ likes = 4219
 comments = 419
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/l-jBhhSrJbg.vtt"
 description = "You don't always have to be grown up, little bit. Sometimes it feels nice to be taken care of once in a while when you need a break. Come get gently comforted and nurtured in this caregiver roleplay! We have personal attention, reassurance and affirmations, cozy blanket sounds, soft lullaby humming, and snacks and stuffies too! I included brown noise in the background to help quiet your thoughts, focus on being cared for and relieve anxiety.\nTIMESTAMPS:\n0:00 - Using the emotions octopus when you're nonverbal\n2:41 - Fleece blanket sounds and tucking you in\n4:12 - Sippy cup so you don't spill juice on your blanket!!\n5:47 - Snack time, explaining how goldfish crackers are actually magical\n8:15 - Feeding you goldfishies\n9:39 - Kisses and affirmations\n10:00 - Giving you stuffed animal friends\n11:26 - Soft humming 'It's You I Like' by Mr. Rogers\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #personalattention #friend"
 chapters = [
   { start = 0, time = "0:00", title = "Using the emotions octopus when you're nonverbal" },
@@ -33,8 +35,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Using the emotions octopus when you're nonverbal
 

@@ -29,6 +29,8 @@ likes = 4002
 comments = 472
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/WZMo--8Ih0w.vtt"
 description = "Your friend is here to comfort you during sadboi hours!! They give you some tea, silly gifts that make nice tapping sounds, and affirmations while reading a list of reasons to stay alive. \n\nI did not write this list!! I initially found this list from a youtube comment, but I don't know who the original author is since its been posted anonymously on a few different websites. If anyone knows the og writer let me know so I can credit them!! \n\nTIMESTAMPS:\n0:00 - Your friend is here late in the wee hours!\n0:57 - Mug tapping, teabag crinkles, water pouring \n3:18 - Flowers for you :D\n4:54 - Pinecone and rubber duck tapping. Do they spark delight?!\n8:20 - A plushie for you.  c u b e  pikachu\n10:23 - 101 reasons to stay alive, soft spoken reading the list\n24:39 - Having tea, comfort affirmations and close whispering\n\n🌐 Social Media! 🌐\r\n💙Twitter → https://goo.gl/MUYHo9\r\n📷Instagram → https://goo.gl/jVbZX6\r\n🎨DeviantArt → https://goo.gl/WErgcU\r\n🍀My LGBT Webcomic \"Honey Lavender\" → https://bit.ly/32S009Q\r\n🎧Spotify → https://spoti.fi/2Ufo8Pf\r\n💌Email → seafoam.kittens@gmail.com\r\n\r\n💖 Support Me! 💖\r\n👑Patreon → https://goo.gl/EbLyiA\r\n💵Paypal → https://goo.gl/YqWfzH\r\n✨Merch → https://goo.gl/mmef4O\r\n\r\n🥒 BONUS 🥒\r\n🤡 2nd Channel → https://bit.ly/2vYMJxW\r\n❓Ask Me Anything → https://goo.gl/LnLJiF\r\n🍣My Anime List → https://goo.gl/5nkNcC\r\n✏️My doodles → https://bit.ly/2uXbGcU\r\n💬Seafoam Discord → https://goo.gl/9mdB2s\r\n\r\n#ASMR #Comfort #Affirmations #BestFriend #PersonalAttention"
 chapters = [
   { start = 0, time = "0:00", title = "Your friend is here late in the wee hours!" },
@@ -42,8 +44,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Your friend is here late in the wee hours!
 

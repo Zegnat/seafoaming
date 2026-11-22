@@ -18,14 +18,14 @@ likes = 510
 comments = 193
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/eF5IFFLi99I.vtt"
 description = "Join me for booze and snacks and hanging out for my birfday :3\n\nLike wasting money? DONATE and have your message read on stream!: https://youtube.streamlabs.com/seafoamkittensasmr\n\n\nAdventures by A Himitsu https://soundcloud.com/a-himitsu\nCreative Commons — Attribution 3.0 Unported— CC BY 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic release by Argofox https://youtu.be/8BXNwnxaVQE\nMusic provided by Audio Library https://youtu.be/MkNeIUgNPQ8"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:17](https://www.youtube.com/watch?v=eF5IFFLi99I&t=17s) can you hear me now or see me now yay it works okay awesome so I didn't fully set up everything because I was expecting to be streaming on a different computer so yeah I still have to I want to put on music what do you guys think should I do like song requests or should I do like just royaltyfree music cuz song requests might end up making this video not viewable after the stream but royy free music is kind of lame so I just I didn't even get my like snacks and and drinks ready yet thank you everyone thank you for the birthday wishes hit that royalty free [ \_\_ ] okay
 

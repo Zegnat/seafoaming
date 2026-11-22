@@ -17,14 +17,14 @@ likes = 1050
 comments = 124
 comments_off = false
 fetched = 2026-11-21
+transcript = "whisper"
+transcript_file = "transcripts/C6VElukF3Uc.vtt"
 description = "This was a custom video for Mooriarty! This one didn't go on my main channel because it doesn't fit in with her current development (she is more of the early tsun stage here) I hope you like it :3"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from speech recognition with Whisper, which the wiki ran on the audio of the video. It contains errors.
 
 [0:00](https://www.youtube.com/watch?v=C6VElukF3Uc&t=0s) Hey, look who finally decided to show up. Why are you always late like this? I don't know what to do with you. Honestly, I don't even know why I asked you to come here because it's not like I like you or anything. I just... I was really bored and I needed a human to pass the time and play with a little bit. Yeah, so, what I wanted to do today is just a little bit more of my love flame to practice on people so that I can learn how to do it more properly. So, don't get the wrong idea, alright? This is not for you. I'm just going to blow my love flame. into your ears like that.
 

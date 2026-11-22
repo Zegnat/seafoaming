@@ -19,14 +19,14 @@ likes = 189
 comments = 4
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/pzrUxvW4Q0s.vtt"
 description = "🔥Like wasting money? :3 DONATE HERE to have your message read on stream! → https://goo.gl/T8mxRy\nMy music playlist: https://www.youtube.com/watch?v=OLpeX4RRo28&index=39&list=PL1Q2egvxEPqH67JW0xYaElDyTOTuAyZTd\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n💦Tumblr → https://goo.gl/DKJGYi\n🎮Twitch → https://goo.gl/QuT1Qh\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n💬Discord → https://goo.gl/9mdB2s"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:19](https://www.youtube.com/watch?v=pzrUxvW4Q0s&t=19s) hello just sitting up here hello hi sky trap hi AB delay hi chef hi Luigi hi Justin I chromosome I am na hi Andi hi noble high cold high magnetic hi Jose hi SCP hey Adso today we're playing night in the woods I played it last week but I'm just gonna continue from where we left off it's expecting you swearing falling over logs in the woods trying to do a severe for some reason now the game unfortunately not the chroma is cutting your headset I know there's not much I can do it's like really it's like finicky but it actually
 

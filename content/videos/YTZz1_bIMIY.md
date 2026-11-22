@@ -26,6 +26,8 @@ likes = 3046
 comments = 257
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/YTZz1_bIMIY.vtt"
 description = "Get the exclusive NordVPN deal here: https://nordvpn.com/seafoamkitten. It’s risk free with Nord’s 30 day money-back guarantee! Thanks to NordVPN for sponsoring this video. \nToday you seem to have 1000 bee stings, oh dear! Just relax while your friend tries to save you by plucking out all the stringers with tweezers!\nTIMESTAMPS:\n0:00 - NordVPN Sponsor!\n2:36 - Video starts here! Checking your bee stings\n4:08 - Tweezer plucking and tapping/clicking sounds, repeated \"pluck\" whispers\n6:30 - ???\n8:32 - Even SMALLER tweezers (you were also stung by BABY bees) Close up picking sounds right in your earhole (the bees stung your earholes)\n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n📷Instagram → https://goo.gl/jVbZX6\n💬Join My Discord Server → https://goo.gl/9mdB2s\n🤡Shitpost Channel → https://bit.ly/2vYMJxW\n\n💖 Support Me! 💖\n✔️Become a Member → https://bit.ly/3m1GKCw\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Amazon Wishlist → https://amzn.to/3ND8dX8\n💚Listen on Spotify → https://spoti.fi/2Ufo8Pf\n🤍Listen on Apple Music → https://apple.co/3wPywUp\n💤Watch on Tingles → https://bit.ly/3a15BDM\n\n💌Email (Business Inquiries) → seafoam.kittens@gmail.com\n📬Send Fanmail & Gifts → \nSeafoam Kitten\nPO Box 40010\nRPO Robie Street\nHalifax, NS, B3K 0E4\nCanada\n\n#ASMR #roleplay #friend #personalattention"
 chapters = [
   { start = 0, time = "0:00", title = "NordVPN Sponsor!" },
@@ -36,8 +38,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### NordVPN Sponsor!
 

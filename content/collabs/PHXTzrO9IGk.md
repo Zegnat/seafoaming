@@ -22,14 +22,14 @@ likes = 834
 comments = 154
 comments_off = false
 fetched = 2026-11-22
+transcript = "youtube-automatic"
+transcript_file = "captions/PHXTzrO9IGk.vtt"
 description = "An idea that went BIG when it could have gone small. Love the boldness of this."
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:02](https://www.youtube.com/watch?v=PHXTzrO9IGk&t=2s) [Music] a movie about race experience [Music] [Applause] on a very very very very very quiet day
 

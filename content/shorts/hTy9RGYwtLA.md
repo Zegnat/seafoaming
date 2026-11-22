@@ -17,13 +17,13 @@ views = 3859
 comments = 9
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/hTy9RGYwtLA.vtt"
 description = "A VERYYY old one but I still love it :3"
 chapters = [
 ]
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 [0:01](https://www.youtube.com/watch?v=hTy9RGYwtLA&t=1s) hush now quiet now it's time to lay your sleepy head Ash now quiet now it's time to go to bed after sleep exciting days behind you drift drive to sleep with joy Joy of Dreamland

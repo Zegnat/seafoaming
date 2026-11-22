@@ -28,6 +28,8 @@ likes = 4023
 comments = 565
 comments_off = false
 fetched = 2026-11-21
+transcript = "youtube-automatic"
+transcript_file = "captions/7C_LPNTxTUs.vtt"
 description = "Take a look inside my kawaii cinnamoroll backpack :3 Pretty much all this stuff I got from aliexpress. Shipping takes forever but its very cheap and affordable. Hope u enjoy this adorable school supplies show and tell bideo \n\n🌐 Social Media! 🌐\n💙Twitter → https://goo.gl/MUYHo9\n🌎Facebook → https://goo.gl/5em34X\n📷Instagram → https://goo.gl/jVbZX6\n🎨DeviantArt → https://goo.gl/WErgcU\n🎧Spotify → https://spoti.fi/2Ufo8Pf\n💌Email → seafoam.kittens@gmail.com\n\n💖 Support Me! 💖\n👑Patreon → https://goo.gl/EbLyiA\n💵Paypal → https://goo.gl/YqWfzH\n✨Merch → https://goo.gl/mmef4O\n\n🥒 BONUS 🥒\n❓Ask Me Anything → https://goo.gl/LnLJiF\n🍣My Anime List → https://goo.gl/5nkNcC\n✏️My doodles → https://bit.ly/2uXbGcU\n💬Seafoam Discord → https://goo.gl/9mdB2s\n\n#ASMR #Softspoken #Whatsinmybag #Kawaii"
 chapters = [
   { start = 0, time = "0:00", title = "Backpack introduction" },
@@ -43,8 +45,6 @@ chapters = [
 +++
 
 ## Transcript
-
-This transcript comes from the automatic captions of YouTube.
 
 ### Backpack introduction
 

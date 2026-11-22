@@ -27,6 +27,7 @@ likes = 922
 comments = 231
 comments_off = false
 fetched = 2026-11-21
+transcript_language = "es"
 description = "Let's talk about mental health. Here are some resources that might help you. Please stay safe and take care of yourself no matter your issues ❤️\nTIMESTAMPS:\n0:00  - Intro chat\n3:11 - Suicide Prevention Lifeline:\n1-800-273-8255\nSuicide lifeline FREE live chat with a counselor: https://suicidepreventionlifeline.org/chat/\n\n4:20 - National Sexual Assault Hotline: \n800-656-4673\nSexual Assault Support Online Chat:\nhttps://hotline.rainn.org/online/terms-of-service.jsp\n\n4:53 - Substance Abuse Hotline:\n1-833-301-4357\nDomestic Violence Hotline:\n800-799-7233\n\n5:17 - Find a therapist/support group, get resources, recovery stories and a helpful self care list: https://suicidepreventionlifeline.org/help-yourself/\n\n5:43 - Reading the self-care list\n\n10:21 Support groups! If you need some support from people going through the same thing as you, this site has specific groups for stuff like depression, anxiety, relationships, lonlieness and tons more!\nhttps://www.supportgroups.com/\n\n11:31 - Need a stranger to just vent and talk about issues with? It's like omegle but for feels! (make sure to read the disclaimer)\nhttps://blahtherapy.com/chat-hub/\n\n13:25 - Mediation is shown by science to reduce stress and anxiety, help with sleep and improve attention and focus! I use this app every morning for little free guided meditation audios.\nhttps://insighttimer.com\n\n16:19 - Take some time to forget about everything and just breathe:\nhttps://www.calm.com/breathe\n\n17:06 - Sliding-scale option. This means the less money you make, the less money you pay. You can find out if your local therapists offer this by reaching out to them by email or phone!\n\n17:55 - Talking about sketchy online therapy sites.\n\n19:23 - Find individual counselors that offer online services OR find therapists, workshops, support groups, and more in YOUR area: https://www.theravive.com/\n\nCheck out Lisa's video on this as well! (She made a list too, it's better than mine 😤) https://www.youtube.com/watch?v=Z2A1bla6MjY \n\n***None of this is sponsored or promoted, it's just stuff I found online that might be helpful to you!"
 chapters = [
   { start = 0, time = "0:00", title = "Intro chat" },
@@ -46,5 +47,3 @@ chapters = [
 +++
 
 ## Transcript
-
-YouTube only has automatic captions in another language (es) for this video. They are a machine translation of wrongly recognized speech, so the wiki does not show them.
